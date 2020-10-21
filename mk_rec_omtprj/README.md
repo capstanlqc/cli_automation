@@ -41,7 +41,7 @@ The properties file must have the following structure and keys (only the parts a
     t1_tmx_tmpl=CONTAINER_lll-CCC_Translator1.tmx
     t2_tmx_tmpl=CONTAINER_lll-CCC_Translator2.tmx
 
-A template for the `proj_props.txt` can be downloaded from [here](_tmpl/proj_props.txt).
+A template for the `proj_props.txt` can be downloaded from [here](https://raw.githubusercontent.com/msoutopico/cli_automation/master/mk_rec_omtprj/_tmpl/proj_props.txt).
 
 ## Business logic
 
