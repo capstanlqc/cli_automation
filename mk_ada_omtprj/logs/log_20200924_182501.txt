@@ -1,0 +1,261 @@
+========================================================================
+>> qsl-SVN: The OmegaT package for adaptation will be created
+>> qsl-SVN: The base version and the initial package exist
+>> qsl-SVN: Unpack base package in 03_adaptation folder
+Archive:  qsl-SVN/01_base_version/PISA2021FT_slv-SVN_OMT_Questionnaires_GCM.omt
+  inflating: qsl-SVN/03_adaptation/PISA2021FT_slv-SVN_OMT_Questionnaires_GCM/dictionary/.empty  
+  inflating: qsl-SVN/03_adaptation/PISA2021FT_slv-SVN_OMT_Questionnaires_GCM/glossary/.empty  
+  inflating: qsl-SVN/03_adaptation/PISA2021FT_slv-SVN_OMT_Questionnaires_GCM/omegat/filters.xml  
+  inflating: qsl-SVN/03_adaptation/PISA2021FT_slv-SVN_OMT_Questionnaires_GCM/omegat/ignored_words.txt  
+  inflating: qsl-SVN/03_adaptation/PISA2021FT_slv-SVN_OMT_Questionnaires_GCM/omegat/last_entry.properties  
+  inflating: qsl-SVN/03_adaptation/PISA2021FT_slv-SVN_OMT_Questionnaires_GCM/omegat/learned_words.txt  
+  inflating: qsl-SVN/03_adaptation/PISA2021FT_slv-SVN_OMT_Questionnaires_GCM/omegat/project_save.tmx.202009221859.bak  
+  inflating: qsl-SVN/03_adaptation/PISA2021FT_slv-SVN_OMT_Questionnaires_GCM/omegat/project_save.tmx.202009231351.bak  
+  inflating: qsl-SVN/03_adaptation/PISA2021FT_slv-SVN_OMT_Questionnaires_GCM/omegat/project_stats.txt  
+  inflating: qsl-SVN/03_adaptation/PISA2021FT_slv-SVN_OMT_Questionnaires_GCM/omegat/omt-packer.log  
+  inflating: qsl-SVN/03_adaptation/PISA2021FT_slv-SVN_OMT_Questionnaires_GCM/omegat/project_save.tmx.202009241147.bak  
+  inflating: qsl-SVN/03_adaptation/PISA2021FT_slv-SVN_OMT_Questionnaires_GCM/omegat/project_save.tmx.bak  
+  inflating: qsl-SVN/03_adaptation/PISA2021FT_slv-SVN_OMT_Questionnaires_GCM/omegat/project_save.tmx  
+  inflating: qsl-SVN/03_adaptation/PISA2021FT_slv-SVN_OMT_Questionnaires_GCM/omegat.project  
+  inflating: qsl-SVN/03_adaptation/PISA2021FT_slv-SVN_OMT_Questionnaires_GCM/source/Slovenia-School_Global_Crises_Module_slv-SVN.xlf  
+  inflating: qsl-SVN/03_adaptation/PISA2021FT_slv-SVN_OMT_Questionnaires_GCM/source/Slovenia-Student_Global_Crises_Module_slv-SVN.xlf  
+  inflating: qsl-SVN/03_adaptation/PISA2021FT_slv-SVN_OMT_Questionnaires_GCM/source/ZZ_TVRadio.txt  
+  inflating: qsl-SVN/03_adaptation/PISA2021FT_slv-SVN_OMT_Questionnaires_GCM/target/Slovenia-School_Global_Crises_Module_slv-SVN.xlf  
+  inflating: qsl-SVN/03_adaptation/PISA2021FT_slv-SVN_OMT_Questionnaires_GCM/target/Slovenia-Student_Global_Crises_Module_slv-SVN.xlf  
+  inflating: qsl-SVN/03_adaptation/PISA2021FT_slv-SVN_OMT_Questionnaires_GCM/target/ZZ_TVRadio.txt  
+  inflating: qsl-SVN/03_adaptation/PISA2021FT_slv-SVN_OMT_Questionnaires_GCM/tm/03_rec/PISA_slv-SVN_GCM_Translator1.tmx  
+  inflating: qsl-SVN/03_adaptation/PISA2021FT_slv-SVN_OMT_Questionnaires_GCM/tm/03_rec/PISA_slv-SVN_GCM_Translator2.tmx  
+  inflating: qsl-SVN/03_adaptation/PISA2021FT_slv-SVN_OMT_Questionnaires_GCM/tm/auto/PISA2021FT_slv-SVN_OMT_Questionnaires_2020.tmx  
+  inflating: qsl-SVN/03_adaptation/PISA2021FT_slv-SVN_OMT_Questionnaires_GCM/tm/enforce/.empty  
+  inflating: qsl-SVN/03_adaptation/PISA2021FT_slv-SVN_OMT_Questionnaires_GCM/tm/slv-SVN_Educational_Career_Questionnaire_MS.tmx  
+  inflating: qsl-SVN/03_adaptation/PISA2021FT_slv-SVN_OMT_Questionnaires_GCM/tm/slv-SVN_ICT_Familiarity_Questionnaire_MS.tmx  
+  inflating: qsl-SVN/03_adaptation/PISA2021FT_slv-SVN_OMT_Questionnaires_GCM/tm/slv-SVN_School_Questionnaire_MS.tmx  
+  inflating: qsl-SVN/03_adaptation/PISA2021FT_slv-SVN_OMT_Questionnaires_GCM/tm/slv-SVN_Student_Questionnaire_Booklet_MS.tmx  
+  inflating: qsl-SVN/03_adaptation/PISA2021FT_slv-SVN_OMT_Questionnaires_GCM/tm/slv-SVN_Student_Questionnaire_UH_MS.tmx  
+>> qsl-SVN: run omegat on base proj
+68212: Info: =================================================================== 
+68212: Info: OmegaT-4.2.0_0_unknown (Thu Sep 24 18:25:01 CEST 2020)  Locale en_GB 
+68212: Info: Java: Ubuntu ver. 11.0.8, executed from '/usr/lib/jvm/java-11-openjdk-amd64' (LOG_STARTUP_INFO)
+68212: Error: java.lang.NullPointerException 
+68212: Error: 	at org.omegat.util.Preferences.setPreference(Preferences.java:619) 
+68212: Error: 	at org.omegat.convert.ConvertTo213.convertUIConfig(ConvertTo213.java:66) 
+68212: Error: 	at org.omegat.convert.ConvertConfigs.convert(ConvertConfigs.java:59) 
+68212: Error: 	at org.omegat.Main.main(Main.java:172) 
+68212: Info: Plugin successfully loaded from class 'org.omegat.filters3.xml.xliff.XLIFFFilter' (PLUGIN_LOAD_OK)
+68212: Info: Plugin successfully loaded from class 'org.omegat.filters2.text.TextFilter' (PLUGIN_LOAD_OK)
+68212: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LuceneEnglishTokenizer' (PLUGIN_LOAD_OK)
+68212: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.HunspellTokenizer' (PLUGIN_LOAD_OK)
+68212: Info: Plugin successfully loaded from class 'org.omegat.core.machinetranslators.BelazarTranslate' (PLUGIN_LOAD_OK)
+68212: Info: Plugin successfully loaded from class 'org.omegat.gui.scripting.ScriptingWindow' (PLUGIN_LOAD_OK)
+68212: Info: Plugin successfully loaded from class 'org.omegat.gui.glossary.taas.TaaSPlugin' (PLUGIN_LOAD_OK)
+68212: Info: Plugin successfully loaded from class 'org.omegat.externalfinder.ExternalFinder' (PLUGIN_LOAD_OK)
+68212: Info: Plugin successfully loaded from class 'org.omegat.filters2.subtitles.WebVttFilter' (PLUGIN_LOAD_OK)
+68212: Info: Plugin successfully loaded from class 'org.omegat.filters3.xml.infix.InfixFilter' (PLUGIN_LOAD_OK)
+68212: Info: Plugin successfully loaded from class 'org.omegat.core.machinetranslators.DeepLTranslate' (PLUGIN_LOAD_OK)
+68212: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LuceneRussianTokenizer' (PLUGIN_LOAD_OK)
+68212: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LuceneSmartChineseTokenizer' (PLUGIN_LOAD_OK)
+68212: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LuceneThaiTokenizer' (PLUGIN_LOAD_OK)
+68212: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LuceneLatvianTokenizer' (PLUGIN_LOAD_OK)
+68212: Info: Plugin successfully loaded from class 'org.omegat.filters2.text.ini.INIFilter' (PLUGIN_LOAD_OK)
+68212: Info: Plugin successfully loaded from class 'org.omegat.filters3.xml.openxml.OpenXMLFilter' (PLUGIN_LOAD_OK)
+68212: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LuceneCatalanTokenizer' (PLUGIN_LOAD_OK)
+68212: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LuceneBrazilianTokenizer' (PLUGIN_LOAD_OK)
+68212: Info: Plugin successfully loaded from class 'org.omegat.filters3.xml.resx.ResXFilter' (PLUGIN_LOAD_OK)
+68212: Info: Plugin successfully loaded from class 'org.omegat.core.machinetranslators.MicrosoftTranslatorAzure' (PLUGIN_LOAD_OK)
+68212: Info: Plugin successfully loaded from class 'org.omegat.filters3.xml.xhtml.XHTMLFilter' (PLUGIN_LOAD_OK)
+68212: Info: Plugin successfully loaded from class 'org.omegat.filters3.xml.visio.VisioFilter' (PLUGIN_LOAD_OK)
+68212: Info: Plugin successfully loaded from class 'org.omegat.filters3.xml.android.AndroidFilter' (PLUGIN_LOAD_OK)
+68212: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LuceneGermanTokenizer' (PLUGIN_LOAD_OK)
+68212: Info: Plugin successfully loaded from class 'org.omegat.filters2.xtagqxp.XtagFilter' (PLUGIN_LOAD_OK)
+68212: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LuceneNorwegianTokenizer' (PLUGIN_LOAD_OK)
+68212: Info: Plugin successfully loaded from class 'org.omegat.filters2.hhc.HHCFilter2' (PLUGIN_LOAD_OK)
+68212: Info: Plugin successfully loaded from class 'org.omegat.core.machinetranslators.MyMemoryMachineTranslate' (PLUGIN_LOAD_OK)
+68212: Info: Plugin successfully loaded from class 'org.omegat.filters3.xml.properties.PropertiesFilter' (PLUGIN_LOAD_OK)
+68212: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LuceneCJKTokenizer' (PLUGIN_LOAD_OK)
+68212: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LuceneCzechTokenizer' (PLUGIN_LOAD_OK)
+68212: Info: Plugin successfully loaded from class 'org.omegat.filters3.xml.scribus.ScribusFilter' (PLUGIN_LOAD_OK)
+68212: Info: Plugin successfully loaded from class 'org.omegat.gui.editor.mark.ComesFromMTMarker' (PLUGIN_LOAD_OK)
+68212: Info: Plugin successfully loaded from class 'org.omegat.filters3.xml.flash.FlashFilter' (PLUGIN_LOAD_OK)
+68212: Info: Plugin successfully loaded from class 'org.omegat.filters3.xml.schematron.SchematronFilter' (PLUGIN_LOAD_OK)
+68212: Info: Plugin successfully loaded from class 'org.omegat.filters2.html2.HTMLFilter2' (PLUGIN_LOAD_OK)
+68212: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LuceneBasqueTokenizer' (PLUGIN_LOAD_OK)
+68212: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LuceneSwedishTokenizer' (PLUGIN_LOAD_OK)
+68212: Info: Plugin successfully loaded from class 'org.omegat.filters2.latex.LatexFilter' (PLUGIN_LOAD_OK)
+68212: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LuceneGalicianTokenizer' (PLUGIN_LOAD_OK)
+68212: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LucenePolishTokenizer' (PLUGIN_LOAD_OK)
+68212: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LuceneTurkishTokenizer' (PLUGIN_LOAD_OK)
+68212: Info: Plugin successfully loaded from class 'org.omegat.filters3.xml.relaxng.RelaxNGFilter' (PLUGIN_LOAD_OK)
+68212: Info: Plugin successfully loaded from class 'org.omegat.filters3.xml.wordpress.WordpressFilter' (PLUGIN_LOAD_OK)
+68212: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LuceneDanishTokenizer' (PLUGIN_LOAD_OK)
+68212: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LucenePersianTokenizer' (PLUGIN_LOAD_OK)
+68212: Info: Plugin successfully loaded from class 'org.omegat.filters3.xml.camtasiawindows.CamtasiaWindowsFilter' (PLUGIN_LOAD_OK)
+68212: Info: Plugin successfully loaded from class 'org.omegat.filters2.subtitles.SbvFilter' (PLUGIN_LOAD_OK)
+68212: Info: Plugin successfully loaded from class 'org.omegat.core.spellchecker.SpellCheckerMarker' (PLUGIN_LOAD_OK)
+68212: Info: Plugin successfully loaded from class 'org.omegat.core.machinetranslators.MosesTranslate' (PLUGIN_LOAD_OK)
+68212: Info: Plugin successfully loaded from class 'org.omegat.filters3.xml.docbook.DocBookFilter' (PLUGIN_LOAD_OK)
+68212: Info: Plugin successfully loaded from class 'org.omegat.filters2.pdf.PdfFilter' (PLUGIN_LOAD_OK)
+68212: Info: Plugin successfully loaded from class 'org.omegat.filters2.subtitles.SrtFilter' (PLUGIN_LOAD_OK)
+68212: Info: Plugin successfully loaded from class 'org.omegat.core.machinetranslators.ApertiumTranslate' (PLUGIN_LOAD_OK)
+68212: Info: Plugin successfully loaded from class 'org.omegat.filters3.xml.svg.SvgFilter' (PLUGIN_LOAD_OK)
+68212: Info: Plugin successfully loaded from class 'org.omegat.core.machinetranslators.MyMemoryHumanTranslate' (PLUGIN_LOAD_OK)
+68212: Info: Plugin successfully loaded from class 'org.omegat.filters2.mozlang.MozillaLangFilter' (PLUGIN_LOAD_OK)
+68212: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LuceneSpanishTokenizer' (PLUGIN_LOAD_OK)
+68212: Info: Plugin successfully loaded from class 'org.omegat.filters3.xml.txml.TXMLFilter' (PLUGIN_LOAD_OK)
+68212: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LucenePortugueseTokenizer' (PLUGIN_LOAD_OK)
+68212: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LuceneHindiTokenizer' (PLUGIN_LOAD_OK)
+68212: Info: Plugin successfully loaded from class 'org.omegat.filters2.mozdtd.MozillaDTDFilter' (PLUGIN_LOAD_OK)
+68212: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LuceneBulgarianTokenizer' (PLUGIN_LOAD_OK)
+68212: Info: Plugin successfully loaded from class 'org.omegat.filters3.xml.wix.WiXFilter' (PLUGIN_LOAD_OK)
+68212: Info: Plugin successfully loaded from class 'org.omegat.core.machinetranslators.IBMWatsonTranslate' (PLUGIN_LOAD_OK)
+68212: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.DefaultTokenizer' (PLUGIN_LOAD_OK)
+68212: Info: Plugin successfully loaded from class 'org.omegat.filters3.xml.l10nmgr.L10nmgrFilter' (PLUGIN_LOAD_OK)
+68212: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LuceneJapaneseTokenizer' (PLUGIN_LOAD_OK)
+68212: Info: Plugin successfully loaded from class 'org.omegat.filters3.xml.helpandmanual.HelpAndManualFilter' (PLUGIN_LOAD_OK)
+68212: Info: Plugin successfully loaded from class 'org.omegat.filters2.po.PoFilter' (PLUGIN_LOAD_OK)
+68212: Info: Plugin successfully loaded from class 'org.omegat.core.machinetranslators.Google2Translate' (PLUGIN_LOAD_OK)
+68212: Info: Plugin successfully loaded from class 'org.omegat.core.machinetranslators.YandexTranslate' (PLUGIN_LOAD_OK)
+68212: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LuceneItalianTokenizer' (PLUGIN_LOAD_OK)
+68212: Info: Plugin successfully loaded from class 'org.omegat.filters2.text.magento.MagentoFilter' (PLUGIN_LOAD_OK)
+68212: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LuceneFinnishTokenizer' (PLUGIN_LOAD_OK)
+68212: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LuceneHungarianTokenizer' (PLUGIN_LOAD_OK)
+68212: Info: Plugin successfully loaded from class 'org.omegat.filters2.moodlephp.MoodlePHPFilter' (PLUGIN_LOAD_OK)
+68212: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LuceneFrenchTokenizer' (PLUGIN_LOAD_OK)
+68212: Info: Plugin successfully loaded from class 'org.omegat.filters3.xml.xmlspreadsheet.XMLSpreadsheetFilter' (PLUGIN_LOAD_OK)
+68212: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LuceneRomanianTokenizer' (PLUGIN_LOAD_OK)
+68212: Info: Plugin successfully loaded from class 'org.omegat.filters2.rc.RcFilter' (PLUGIN_LOAD_OK)
+68212: Info: Plugin successfully loaded from class 'org.omegat.filters2.text.bundles.ResourceBundleFilter' (PLUGIN_LOAD_OK)
+68212: Info: Plugin successfully loaded from class 'org.omegat.filters2.text.dokuwiki.DokuWikiFilter' (PLUGIN_LOAD_OK)
+68212: Info: Plugin successfully loaded from class 'org.omegat.gui.glossary.TransTipsMarker' (PLUGIN_LOAD_OK)
+68212: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LuceneIrishTokenizer' (PLUGIN_LOAD_OK)
+68212: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LuceneIndonesianTokenizer' (PLUGIN_LOAD_OK)
+68212: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LuceneGreekTokenizer' (PLUGIN_LOAD_OK)
+68212: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LuceneArabicTokenizer' (PLUGIN_LOAD_OK)
+68212: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LuceneArmenianTokenizer' (PLUGIN_LOAD_OK)
+68212: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LuceneDutchTokenizer' (PLUGIN_LOAD_OK)
+68212: Info: Plugin successfully loaded from class 'org.omegat.filters2.text.ilias.ILIASFilter' (PLUGIN_LOAD_OK)
+68212: Info: Plugin successfully loaded from class 'org.omegat.filters3.xml.opendoc.OpenDocFilter' (PLUGIN_LOAD_OK)
+68212: Info: Plugin successfully loaded from class 'org.omegat.filters3.xml.typo3.Typo3Filter' (PLUGIN_LOAD_OK)
+68212: Info: Console translation mode 
+Initializing
+Loading Project
+68212: Info: Source tokenizer: org.omegat.tokenizer.LuceneEnglishTokenizer 
+68212: Info: Target tokenizer: org.omegat.tokenizer.DefaultTokenizer 
+68212: Info: Project loading start (LOG_DATAENGINE_LOAD_START)
+Loading project...
+Loading TMX files...
+68212: Info: Reading TMX file /media/data/data/company/PISA_2021/FIELD_TRIAL/_Global_Crises_Module/0_Central_translation/01_Translate_workflows/qsl-SVN/03_adaptation/PISA2021FT_slv-SVN_OMT_Questionnaires_GCM/omegat/project_save.tmx (TMXR_INFO_READING_FILE)
+68212: Info: Created by: OmegaT (TMXR_INFO_CREATION_TOOL)
+68212: Info: Version: 4.2.0_0_10666 (TMXR_INFO_CREATION_TOOL_VERSION)
+68212: Info: Segmentation method: paragraph (TMXR_INFO_SEG_TYPE)
+68212: Info: Source language: en-ZZ (TMXR_INFO_SOURCE_LANG)
+68212: Info: Reading of TMX file complete (TMXR_INFO_READING_COMPLETE)
+Loading: Slovenia-School_Global_Crises_Module_slv-SVN.xlf
+Loading: Slovenia-Student_Global_Crises_Module_slv-SVN.xlf
+Loading: ZZ_TVRadio.txt
+Source file loading complete
+68212: Info: Load project source files: 210ms 
+68212: FINER: File '/media/data/data/company/PISA_2021/FIELD_TRIAL/_Global_Crises_Module/0_Central_translation/01_Translate_workflows/qsl-SVN/03_adaptation/PISA2021FT_slv-SVN_OMT_Questionnaires_GCM/tm/slv-SVN_ICT_Familiarity_Questionnaire_MS.tmx' added 
+68212: Info: Reading TMX file /media/data/data/company/PISA_2021/FIELD_TRIAL/_Global_Crises_Module/0_Central_translation/01_Translate_workflows/qsl-SVN/03_adaptation/PISA2021FT_slv-SVN_OMT_Questionnaires_GCM/tm/slv-SVN_ICT_Familiarity_Questionnaire_MS.tmx (TMXR_INFO_READING_FILE)
+68212: Info: Created by: MemoryLn (TMXR_INFO_CREATION_TOOL)
+68212: Info: Version: 0.9 (TMXR_INFO_CREATION_TOOL_VERSION)
+68212: Info: Segmentation method: sentence (TMXR_INFO_SEG_TYPE)
+68212: Info: Source language: en-ZZ (TMXR_INFO_SOURCE_LANG)
+68212: Info: Reading of TMX file complete (TMXR_INFO_READING_COMPLETE)
+68212: FINER: File '/media/data/data/company/PISA_2021/FIELD_TRIAL/_Global_Crises_Module/0_Central_translation/01_Translate_workflows/qsl-SVN/03_adaptation/PISA2021FT_slv-SVN_OMT_Questionnaires_GCM/tm/slv-SVN_Student_Questionnaire_UH_MS.tmx' added 
+68212: Info: Reading TMX file /media/data/data/company/PISA_2021/FIELD_TRIAL/_Global_Crises_Module/0_Central_translation/01_Translate_workflows/qsl-SVN/03_adaptation/PISA2021FT_slv-SVN_OMT_Questionnaires_GCM/tm/slv-SVN_Student_Questionnaire_UH_MS.tmx (TMXR_INFO_READING_FILE)
+68212: Info: Created by: MemoryLn (TMXR_INFO_CREATION_TOOL)
+68212: Info: Version: 0.9 (TMXR_INFO_CREATION_TOOL_VERSION)
+68212: Info: Segmentation method: sentence (TMXR_INFO_SEG_TYPE)
+68212: Info: Source language: en-ZZ (TMXR_INFO_SOURCE_LANG)
+68212: Info: Reading of TMX file complete (TMXR_INFO_READING_COMPLETE)
+68212: FINER: File '/media/data/data/company/PISA_2021/FIELD_TRIAL/_Global_Crises_Module/0_Central_translation/01_Translate_workflows/qsl-SVN/03_adaptation/PISA2021FT_slv-SVN_OMT_Questionnaires_GCM/tm/slv-SVN_Student_Questionnaire_Booklet_MS.tmx' added 
+68212: Info: Reading TMX file /media/data/data/company/PISA_2021/FIELD_TRIAL/_Global_Crises_Module/0_Central_translation/01_Translate_workflows/qsl-SVN/03_adaptation/PISA2021FT_slv-SVN_OMT_Questionnaires_GCM/tm/slv-SVN_Student_Questionnaire_Booklet_MS.tmx (TMXR_INFO_READING_FILE)
+68212: Info: Created by: MemoryLn (TMXR_INFO_CREATION_TOOL)
+68212: Info: Version: 0.9 (TMXR_INFO_CREATION_TOOL_VERSION)
+68212: Info: Segmentation method: sentence (TMXR_INFO_SEG_TYPE)
+68212: Info: Source language: en-ZZ (TMXR_INFO_SOURCE_LANG)
+68212: Info: Reading of TMX file complete (TMXR_INFO_READING_COMPLETE)
+68212: FINER: File '/media/data/data/company/PISA_2021/FIELD_TRIAL/_Global_Crises_Module/0_Central_translation/01_Translate_workflows/qsl-SVN/03_adaptation/PISA2021FT_slv-SVN_OMT_Questionnaires_GCM/tm/slv-SVN_School_Questionnaire_MS.tmx' added 
+68212: Info: Reading TMX file /media/data/data/company/PISA_2021/FIELD_TRIAL/_Global_Crises_Module/0_Central_translation/01_Translate_workflows/qsl-SVN/03_adaptation/PISA2021FT_slv-SVN_OMT_Questionnaires_GCM/tm/slv-SVN_School_Questionnaire_MS.tmx (TMXR_INFO_READING_FILE)
+68212: Info: Created by: MemoryLn (TMXR_INFO_CREATION_TOOL)
+68212: Info: Version: 0.9 (TMXR_INFO_CREATION_TOOL_VERSION)
+68212: Info: Segmentation method: sentence (TMXR_INFO_SEG_TYPE)
+68212: Info: Source language: en-ZZ (TMXR_INFO_SOURCE_LANG)
+68212: Info: Reading of TMX file complete (TMXR_INFO_READING_COMPLETE)
+68212: FINER: File '/media/data/data/company/PISA_2021/FIELD_TRIAL/_Global_Crises_Module/0_Central_translation/01_Translate_workflows/qsl-SVN/03_adaptation/PISA2021FT_slv-SVN_OMT_Questionnaires_GCM/tm/auto/PISA2021FT_slv-SVN_OMT_Questionnaires_2020.tmx' added 
+68212: Info: Reading TMX file /media/data/data/company/PISA_2021/FIELD_TRIAL/_Global_Crises_Module/0_Central_translation/01_Translate_workflows/qsl-SVN/03_adaptation/PISA2021FT_slv-SVN_OMT_Questionnaires_GCM/tm/auto/PISA2021FT_slv-SVN_OMT_Questionnaires_2020.tmx (TMXR_INFO_READING_FILE)
+68212: Info: Created by: OmegaT (TMXR_INFO_CREATION_TOOL)
+68212: Info: Version: 4.2.0_0_10666 (TMXR_INFO_CREATION_TOOL_VERSION)
+68212: Info: Segmentation method: paragraph (TMXR_INFO_SEG_TYPE)
+68212: Info: Source language: en-ZZ (TMXR_INFO_SOURCE_LANG)
+68212: Info: Reading of TMX file complete (TMXR_INFO_READING_COMPLETE)
+68212: FINER: File '/media/data/data/company/PISA_2021/FIELD_TRIAL/_Global_Crises_Module/0_Central_translation/01_Translate_workflows/qsl-SVN/03_adaptation/PISA2021FT_slv-SVN_OMT_Questionnaires_GCM/tm/enforce/.empty' added 
+68212: FINER: File '/media/data/data/company/PISA_2021/FIELD_TRIAL/_Global_Crises_Module/0_Central_translation/01_Translate_workflows/qsl-SVN/03_adaptation/PISA2021FT_slv-SVN_OMT_Questionnaires_GCM/tm/03_rec/PISA_slv-SVN_GCM_Translator2.tmx' added 
+68212: Info: Reading TMX file /media/data/data/company/PISA_2021/FIELD_TRIAL/_Global_Crises_Module/0_Central_translation/01_Translate_workflows/qsl-SVN/03_adaptation/PISA2021FT_slv-SVN_OMT_Questionnaires_GCM/tm/03_rec/PISA_slv-SVN_GCM_Translator2.tmx (TMXR_INFO_READING_FILE)
+68212: Info: Created by: OmegaT (TMXR_INFO_CREATION_TOOL)
+68212: Info: Version: 4.2.0_0_unknown (TMXR_INFO_CREATION_TOOL_VERSION)
+68212: Info: Segmentation method: paragraph (TMXR_INFO_SEG_TYPE)
+68212: Info: Source language: en-ZZ (TMXR_INFO_SOURCE_LANG)
+68212: Info: Reading of TMX file complete (TMXR_INFO_READING_COMPLETE)
+68212: FINER: File '/media/data/data/company/PISA_2021/FIELD_TRIAL/_Global_Crises_Module/0_Central_translation/01_Translate_workflows/qsl-SVN/03_adaptation/PISA2021FT_slv-SVN_OMT_Questionnaires_GCM/tm/03_rec/PISA_slv-SVN_GCM_Translator1.tmx' added 
+68212: Info: Reading TMX file /media/data/data/company/PISA_2021/FIELD_TRIAL/_Global_Crises_Module/0_Central_translation/01_Translate_workflows/qsl-SVN/03_adaptation/PISA2021FT_slv-SVN_OMT_Questionnaires_GCM/tm/03_rec/PISA_slv-SVN_GCM_Translator1.tmx (TMXR_INFO_READING_FILE)
+68212: Info: Created by: OmegaT (TMXR_INFO_CREATION_TOOL)
+68212: Info: Version: 4.2.0_0_unknown (TMXR_INFO_CREATION_TOOL_VERSION)
+68212: Info: Segmentation method: paragraph (TMXR_INFO_SEG_TYPE)
+68212: Info: Source language: en-ZZ (TMXR_INFO_SOURCE_LANG)
+68212: Info: Reading of TMX file complete (TMXR_INFO_READING_COMPLETE)
+68212: FINER: File '/media/data/data/company/PISA_2021/FIELD_TRIAL/_Global_Crises_Module/0_Central_translation/01_Translate_workflows/qsl-SVN/03_adaptation/PISA2021FT_slv-SVN_OMT_Questionnaires_GCM/tm/slv-SVN_Educational_Career_Questionnaire_MS.tmx' added 
+68212: Info: Reading TMX file /media/data/data/company/PISA_2021/FIELD_TRIAL/_Global_Crises_Module/0_Central_translation/01_Translate_workflows/qsl-SVN/03_adaptation/PISA2021FT_slv-SVN_OMT_Questionnaires_GCM/tm/slv-SVN_Educational_Career_Questionnaire_MS.tmx (TMXR_INFO_READING_FILE)
+68212: Info: Created by: MemoryLn (TMXR_INFO_CREATION_TOOL)
+68212: Info: Version: 0.9 (TMXR_INFO_CREATION_TOOL_VERSION)
+68212: Info: Segmentation method: sentence (TMXR_INFO_SEG_TYPE)
+68212: Info: Source language: en-ZZ (TMXR_INFO_SOURCE_LANG)
+68212: Info: Reading of TMX file complete (TMXR_INFO_READING_COMPLETE)
+ 
+68212: Info: Project loading end (LOG_DATAENGINE_LOAD_END)
+Translating Project
+68212: Info: Project compiling start (LOG_DATAENGINE_COMPILE_START)
+Creating translated documents: Slovenia-School_Global_Crises_Module_slv-SVN.xlf
+Creating translated documents: Slovenia-Student_Global_Crises_Module_slv-SVN.xlf
+Creating translated documents: ZZ_TVRadio.txt
+Translated documents created
+68212: Info: Project compiling end (LOG_DATAENGINE_COMPILE_END)
+68212: Info: Project closed (LOG_DATAENGINE_CLOSE)
+Finished
+68212: Info: Event: project change - "COMPILE" (LOG_INFO_EVENT_PROJECT_CHANGE)
+>> qsl-SVN: Unpack initial package in 03_adaptation folder
+Archive:  qsl-SVN/02_initial_pkg/PISA2021FT_qsl-SVN_OMT_Questionnaires_GCM.omt
+   creating: qsl-SVN/03_adaptation/PISA2021FT_qsl-SVN_OMT_Questionnaires_GCM/target/
+ extracting: qsl-SVN/03_adaptation/PISA2021FT_qsl-SVN_OMT_Questionnaires_GCM/target/.empty  
+   creating: qsl-SVN/03_adaptation/PISA2021FT_qsl-SVN_OMT_Questionnaires_GCM/source/
+  inflating: qsl-SVN/03_adaptation/PISA2021FT_qsl-SVN_OMT_Questionnaires_GCM/source/Slovenia-Student_Global_Crises_Module_qsl-SVN.xlf  
+  inflating: qsl-SVN/03_adaptation/PISA2021FT_qsl-SVN_OMT_Questionnaires_GCM/source/Slovenia-School_Global_Crises_Module_qsl-SVN.xlf  
+ extracting: qsl-SVN/03_adaptation/PISA2021FT_qsl-SVN_OMT_Questionnaires_GCM/source/.empty  
+   creating: qsl-SVN/03_adaptation/PISA2021FT_qsl-SVN_OMT_Questionnaires_GCM/tm/
+   creating: qsl-SVN/03_adaptation/PISA2021FT_qsl-SVN_OMT_Questionnaires_GCM/tm/auto/
+  inflating: qsl-SVN/03_adaptation/PISA2021FT_qsl-SVN_OMT_Questionnaires_GCM/tm/auto/PISA2021FT_qsl-SVN_OMT_Questionnaires_2020.tmx  
+ extracting: qsl-SVN/03_adaptation/PISA2021FT_qsl-SVN_OMT_Questionnaires_GCM/tm/auto/.empty  
+   creating: qsl-SVN/03_adaptation/PISA2021FT_qsl-SVN_OMT_Questionnaires_GCM/tm/enforce/
+ extracting: qsl-SVN/03_adaptation/PISA2021FT_qsl-SVN_OMT_Questionnaires_GCM/tm/enforce/.empty  
+  inflating: qsl-SVN/03_adaptation/PISA2021FT_qsl-SVN_OMT_Questionnaires_GCM/tm/qsl-SVN_Educational_Career_Questionnaire_MS.tmx  
+  inflating: qsl-SVN/03_adaptation/PISA2021FT_qsl-SVN_OMT_Questionnaires_GCM/tm/qsl-SVN_School_Questionnaire_MS.tmx  
+  inflating: qsl-SVN/03_adaptation/PISA2021FT_qsl-SVN_OMT_Questionnaires_GCM/tm/qsl-SVN_Student_Questionnaire_UH_MS.tmx  
+  inflating: qsl-SVN/03_adaptation/PISA2021FT_qsl-SVN_OMT_Questionnaires_GCM/tm/qsl-SVN_ICT_Familiarity_Questionnaire_MS.tmx  
+  inflating: qsl-SVN/03_adaptation/PISA2021FT_qsl-SVN_OMT_Questionnaires_GCM/tm/qsl-SVN_Student_Questionnaire_Booklet_MS.tmx  
+   creating: qsl-SVN/03_adaptation/PISA2021FT_qsl-SVN_OMT_Questionnaires_GCM/omegat/
+  inflating: qsl-SVN/03_adaptation/PISA2021FT_qsl-SVN_OMT_Questionnaires_GCM/omegat/filters.xml  
+ extracting: qsl-SVN/03_adaptation/PISA2021FT_qsl-SVN_OMT_Questionnaires_GCM/omegat/ignored_words.txt  
+  inflating: qsl-SVN/03_adaptation/PISA2021FT_qsl-SVN_OMT_Questionnaires_GCM/omegat/project_stats.txt  
+  inflating: qsl-SVN/03_adaptation/PISA2021FT_qsl-SVN_OMT_Questionnaires_GCM/omegat/project_save.tmx  
+ extracting: qsl-SVN/03_adaptation/PISA2021FT_qsl-SVN_OMT_Questionnaires_GCM/omegat/learned_words.txt  
+   creating: qsl-SVN/03_adaptation/PISA2021FT_qsl-SVN_OMT_Questionnaires_GCM/dictionary/
+ extracting: qsl-SVN/03_adaptation/PISA2021FT_qsl-SVN_OMT_Questionnaires_GCM/dictionary/.empty  
+   creating: qsl-SVN/03_adaptation/PISA2021FT_qsl-SVN_OMT_Questionnaires_GCM/glossary/
+ extracting: qsl-SVN/03_adaptation/PISA2021FT_qsl-SVN_OMT_Questionnaires_GCM/glossary/.empty  
+  inflating: qsl-SVN/03_adaptation/PISA2021FT_qsl-SVN_OMT_Questionnaires_GCM/omegat.project  
+>> qsl-SVN: move PISA2021FT_slv-SVN_OMT_Questionnaires_GCM-omegat.tmx from qsl-SVN/03_adaptation/PISA2021FT_slv-SVN_OMT_Questionnaires_GCM/ to qsl-SVN/03_adaptation/PISA2021FT_qsl-SVN_OMT_Questionnaires_GCM/tm/auto
+>> qsl-SVN: add new text file
+>> qsl-SVN: pack adap project
+17651: Info: Pack project as OMT file... 
+17651: Info: OMT Package successfully created. 
+>> qsl-SVN: dump base and ini project folders

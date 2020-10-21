@@ -1,0 +1,578 @@
+/media/data/data/company/PISA_2021/FIELD_TRIAL/99_Automation/01_util/omt_bash/mk_ada_omtprj/mk_ada_omtprj.sh: line 31: [: bos-BIH/01_base_version/PISA2021FT_bos-BIH_OMT_Questionnaires_GCM.omt: binary operator expected
+========================================================================
+>> esp-SLV: The OmegaT package for adaptation will be created
+>> esp-SLV: The base version and the initial package exist
+>> esp-SLV: Unpack base package in 03_adaptation folder
+Archive:  esp-SLV/01_base_version/PISA2021FT_esp-ESP_OMT_Questionnaires_GCM.omt
+  inflating: esp-SLV/03_adaptation/PISA2021FT_esp-ESP_OMT_Questionnaires_GCM/dictionary/.empty  
+  inflating: esp-SLV/03_adaptation/PISA2021FT_esp-ESP_OMT_Questionnaires_GCM/glossary/glossary.txt  
+  inflating: esp-SLV/03_adaptation/PISA2021FT_esp-ESP_OMT_Questionnaires_GCM/omegat/filters.xml  
+  inflating: esp-SLV/03_adaptation/PISA2021FT_esp-ESP_OMT_Questionnaires_GCM/omegat/ignored_words.txt  
+  inflating: esp-SLV/03_adaptation/PISA2021FT_esp-ESP_OMT_Questionnaires_GCM/omegat/last_entry.properties  
+  inflating: esp-SLV/03_adaptation/PISA2021FT_esp-ESP_OMT_Questionnaires_GCM/omegat/learned_words.txt  
+  inflating: esp-SLV/03_adaptation/PISA2021FT_esp-ESP_OMT_Questionnaires_GCM/omegat/project_save.tmx  
+  inflating: esp-SLV/03_adaptation/PISA2021FT_esp-ESP_OMT_Questionnaires_GCM/omegat/project_save.tmx.202009021203.bak  
+  inflating: esp-SLV/03_adaptation/PISA2021FT_esp-ESP_OMT_Questionnaires_GCM/omegat/project_save.tmx.202009021224.bak  
+  inflating: esp-SLV/03_adaptation/PISA2021FT_esp-ESP_OMT_Questionnaires_GCM/omegat/project_save.tmx.202009021925.bak  
+  inflating: esp-SLV/03_adaptation/PISA2021FT_esp-ESP_OMT_Questionnaires_GCM/omegat/project_save.tmx.202009031222.bak  
+  inflating: esp-SLV/03_adaptation/PISA2021FT_esp-ESP_OMT_Questionnaires_GCM/omegat/project_save.tmx.bak  
+  inflating: esp-SLV/03_adaptation/PISA2021FT_esp-ESP_OMT_Questionnaires_GCM/omegat/project_stats.txt  
+  inflating: esp-SLV/03_adaptation/PISA2021FT_esp-ESP_OMT_Questionnaires_GCM/omegat.project  
+  inflating: esp-SLV/03_adaptation/PISA2021FT_esp-ESP_OMT_Questionnaires_GCM/source/Spain-School_Global_Crises_Module_esp-ESP.xlf  
+  inflating: esp-SLV/03_adaptation/PISA2021FT_esp-ESP_OMT_Questionnaires_GCM/source/Spain-Student_Global_Crises_Module_esp-ESP.xlf  
+  inflating: esp-SLV/03_adaptation/PISA2021FT_esp-ESP_OMT_Questionnaires_GCM/source/ZZ_TVRadio.txt  
+  inflating: esp-SLV/03_adaptation/PISA2021FT_esp-ESP_OMT_Questionnaires_GCM/target/.empty  
+  inflating: esp-SLV/03_adaptation/PISA2021FT_esp-ESP_OMT_Questionnaires_GCM/tm/03_rec/PISA_esp-ESP_GCM_Translator1.tmx  
+  inflating: esp-SLV/03_adaptation/PISA2021FT_esp-ESP_OMT_Questionnaires_GCM/tm/03_rec/PISA_esp-ESP_GCM_Translator2.tmx  
+  inflating: esp-SLV/03_adaptation/PISA2021FT_esp-ESP_OMT_Questionnaires_GCM/tm/auto/PISA2021FT_esp-ESP_OMT_Questionnaires_2020.tmx  
+  inflating: esp-SLV/03_adaptation/PISA2021FT_esp-ESP_OMT_Questionnaires_GCM/tm/enforce/.empty  
+  inflating: esp-SLV/03_adaptation/PISA2021FT_esp-ESP_OMT_Questionnaires_GCM/tm/esp-ESP_Educational_Career_Questionnaire_MS.tmx  
+  inflating: esp-SLV/03_adaptation/PISA2021FT_esp-ESP_OMT_Questionnaires_GCM/tm/esp-ESP_Financial_Literacy_Questionnaire_MS.tmx  
+  inflating: esp-SLV/03_adaptation/PISA2021FT_esp-ESP_OMT_Questionnaires_GCM/tm/esp-ESP_General_Teacher_Questionnaire_MS.tmx  
+  inflating: esp-SLV/03_adaptation/PISA2021FT_esp-ESP_OMT_Questionnaires_GCM/tm/esp-ESP_ICT_Familiarity_Questionnaire_MS.tmx  
+  inflating: esp-SLV/03_adaptation/PISA2021FT_esp-ESP_OMT_Questionnaires_GCM/tm/esp-ESP_Reading_Teacher_Questionnaire_MS.tmx  
+  inflating: esp-SLV/03_adaptation/PISA2021FT_esp-ESP_OMT_Questionnaires_GCM/tm/esp-ESP_School_Questionnaire_MS.tmx  
+  inflating: esp-SLV/03_adaptation/PISA2021FT_esp-ESP_OMT_Questionnaires_GCM/tm/esp-ESP_Student_Questionnaire_Booklet_MS.tmx  
+  inflating: esp-SLV/03_adaptation/PISA2021FT_esp-ESP_OMT_Questionnaires_GCM/tm/esp-ESP_Well_Being_Questionnaire_MS.tmx  
+  inflating: esp-SLV/03_adaptation/PISA2021FT_esp-ESP_OMT_Questionnaires_GCM/omegat/omt-packer.log  
+>> esp-SLV: run omegat on base proj
+80941: Info: =================================================================== 
+80941: Info: OmegaT-4.2.0_0_unknown (Tue Sep 15 17:48:00 CEST 2020)  Locale en_GB 
+80941: Info: Java: Ubuntu ver. 11.0.8, executed from '/usr/lib/jvm/java-11-openjdk-amd64' (LOG_STARTUP_INFO)
+80941: Error: java.lang.NullPointerException 
+80941: Error: 	at org.omegat.util.Preferences.setPreference(Preferences.java:619) 
+80941: Error: 	at org.omegat.convert.ConvertTo213.convertUIConfig(ConvertTo213.java:66) 
+80941: Error: 	at org.omegat.convert.ConvertConfigs.convert(ConvertConfigs.java:59) 
+80941: Error: 	at org.omegat.Main.main(Main.java:172) 
+80941: Info: Plugin successfully loaded from class 'org.omegat.filters3.xml.xliff.XLIFFFilter' (PLUGIN_LOAD_OK)
+80941: Info: Plugin successfully loaded from class 'org.omegat.filters2.text.TextFilter' (PLUGIN_LOAD_OK)
+80941: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LuceneEnglishTokenizer' (PLUGIN_LOAD_OK)
+80941: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.HunspellTokenizer' (PLUGIN_LOAD_OK)
+80941: Info: Plugin successfully loaded from class 'org.omegat.core.machinetranslators.BelazarTranslate' (PLUGIN_LOAD_OK)
+80941: Info: Plugin successfully loaded from class 'org.omegat.gui.scripting.ScriptingWindow' (PLUGIN_LOAD_OK)
+80941: Info: Plugin successfully loaded from class 'org.omegat.gui.glossary.taas.TaaSPlugin' (PLUGIN_LOAD_OK)
+80941: Info: Plugin successfully loaded from class 'org.omegat.externalfinder.ExternalFinder' (PLUGIN_LOAD_OK)
+80941: Info: Plugin successfully loaded from class 'org.omegat.filters2.subtitles.WebVttFilter' (PLUGIN_LOAD_OK)
+80941: Info: Plugin successfully loaded from class 'org.omegat.filters3.xml.infix.InfixFilter' (PLUGIN_LOAD_OK)
+80941: Info: Plugin successfully loaded from class 'org.omegat.core.machinetranslators.DeepLTranslate' (PLUGIN_LOAD_OK)
+80941: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LuceneRussianTokenizer' (PLUGIN_LOAD_OK)
+80941: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LuceneSmartChineseTokenizer' (PLUGIN_LOAD_OK)
+80941: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LuceneThaiTokenizer' (PLUGIN_LOAD_OK)
+80941: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LuceneLatvianTokenizer' (PLUGIN_LOAD_OK)
+80941: Info: Plugin successfully loaded from class 'org.omegat.filters2.text.ini.INIFilter' (PLUGIN_LOAD_OK)
+80941: Info: Plugin successfully loaded from class 'org.omegat.filters3.xml.openxml.OpenXMLFilter' (PLUGIN_LOAD_OK)
+80941: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LuceneCatalanTokenizer' (PLUGIN_LOAD_OK)
+80941: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LuceneBrazilianTokenizer' (PLUGIN_LOAD_OK)
+80941: Info: Plugin successfully loaded from class 'org.omegat.filters3.xml.resx.ResXFilter' (PLUGIN_LOAD_OK)
+80941: Info: Plugin successfully loaded from class 'org.omegat.core.machinetranslators.MicrosoftTranslatorAzure' (PLUGIN_LOAD_OK)
+80941: Info: Plugin successfully loaded from class 'org.omegat.filters3.xml.xhtml.XHTMLFilter' (PLUGIN_LOAD_OK)
+80941: Info: Plugin successfully loaded from class 'org.omegat.filters3.xml.visio.VisioFilter' (PLUGIN_LOAD_OK)
+80941: Info: Plugin successfully loaded from class 'org.omegat.filters3.xml.android.AndroidFilter' (PLUGIN_LOAD_OK)
+80941: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LuceneGermanTokenizer' (PLUGIN_LOAD_OK)
+80941: Info: Plugin successfully loaded from class 'org.omegat.filters2.xtagqxp.XtagFilter' (PLUGIN_LOAD_OK)
+80941: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LuceneNorwegianTokenizer' (PLUGIN_LOAD_OK)
+80941: Info: Plugin successfully loaded from class 'org.omegat.filters2.hhc.HHCFilter2' (PLUGIN_LOAD_OK)
+80941: Info: Plugin successfully loaded from class 'org.omegat.core.machinetranslators.MyMemoryMachineTranslate' (PLUGIN_LOAD_OK)
+80941: Info: Plugin successfully loaded from class 'org.omegat.filters3.xml.properties.PropertiesFilter' (PLUGIN_LOAD_OK)
+80941: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LuceneCJKTokenizer' (PLUGIN_LOAD_OK)
+80941: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LuceneCzechTokenizer' (PLUGIN_LOAD_OK)
+80941: Info: Plugin successfully loaded from class 'org.omegat.filters3.xml.scribus.ScribusFilter' (PLUGIN_LOAD_OK)
+80941: Info: Plugin successfully loaded from class 'org.omegat.gui.editor.mark.ComesFromMTMarker' (PLUGIN_LOAD_OK)
+80941: Info: Plugin successfully loaded from class 'org.omegat.filters3.xml.flash.FlashFilter' (PLUGIN_LOAD_OK)
+80941: Info: Plugin successfully loaded from class 'org.omegat.filters3.xml.schematron.SchematronFilter' (PLUGIN_LOAD_OK)
+80941: Info: Plugin successfully loaded from class 'org.omegat.filters2.html2.HTMLFilter2' (PLUGIN_LOAD_OK)
+80941: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LuceneBasqueTokenizer' (PLUGIN_LOAD_OK)
+80941: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LuceneSwedishTokenizer' (PLUGIN_LOAD_OK)
+80941: Info: Plugin successfully loaded from class 'org.omegat.filters2.latex.LatexFilter' (PLUGIN_LOAD_OK)
+80941: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LuceneGalicianTokenizer' (PLUGIN_LOAD_OK)
+80941: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LucenePolishTokenizer' (PLUGIN_LOAD_OK)
+80941: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LuceneTurkishTokenizer' (PLUGIN_LOAD_OK)
+80941: Info: Plugin successfully loaded from class 'org.omegat.filters3.xml.relaxng.RelaxNGFilter' (PLUGIN_LOAD_OK)
+80941: Info: Plugin successfully loaded from class 'org.omegat.filters3.xml.wordpress.WordpressFilter' (PLUGIN_LOAD_OK)
+80941: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LuceneDanishTokenizer' (PLUGIN_LOAD_OK)
+80941: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LucenePersianTokenizer' (PLUGIN_LOAD_OK)
+80941: Info: Plugin successfully loaded from class 'org.omegat.filters3.xml.camtasiawindows.CamtasiaWindowsFilter' (PLUGIN_LOAD_OK)
+80941: Info: Plugin successfully loaded from class 'org.omegat.filters2.subtitles.SbvFilter' (PLUGIN_LOAD_OK)
+80941: Info: Plugin successfully loaded from class 'org.omegat.core.spellchecker.SpellCheckerMarker' (PLUGIN_LOAD_OK)
+80941: Info: Plugin successfully loaded from class 'org.omegat.core.machinetranslators.MosesTranslate' (PLUGIN_LOAD_OK)
+80941: Info: Plugin successfully loaded from class 'org.omegat.filters3.xml.docbook.DocBookFilter' (PLUGIN_LOAD_OK)
+80941: Info: Plugin successfully loaded from class 'org.omegat.filters2.pdf.PdfFilter' (PLUGIN_LOAD_OK)
+80941: Info: Plugin successfully loaded from class 'org.omegat.filters2.subtitles.SrtFilter' (PLUGIN_LOAD_OK)
+80941: Info: Plugin successfully loaded from class 'org.omegat.core.machinetranslators.ApertiumTranslate' (PLUGIN_LOAD_OK)
+80941: Info: Plugin successfully loaded from class 'org.omegat.filters3.xml.svg.SvgFilter' (PLUGIN_LOAD_OK)
+80941: Info: Plugin successfully loaded from class 'org.omegat.core.machinetranslators.MyMemoryHumanTranslate' (PLUGIN_LOAD_OK)
+80941: Info: Plugin successfully loaded from class 'org.omegat.filters2.mozlang.MozillaLangFilter' (PLUGIN_LOAD_OK)
+80941: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LuceneSpanishTokenizer' (PLUGIN_LOAD_OK)
+80941: Info: Plugin successfully loaded from class 'org.omegat.filters3.xml.txml.TXMLFilter' (PLUGIN_LOAD_OK)
+80941: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LucenePortugueseTokenizer' (PLUGIN_LOAD_OK)
+80941: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LuceneHindiTokenizer' (PLUGIN_LOAD_OK)
+80941: Info: Plugin successfully loaded from class 'org.omegat.filters2.mozdtd.MozillaDTDFilter' (PLUGIN_LOAD_OK)
+80941: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LuceneBulgarianTokenizer' (PLUGIN_LOAD_OK)
+80941: Info: Plugin successfully loaded from class 'org.omegat.filters3.xml.wix.WiXFilter' (PLUGIN_LOAD_OK)
+80941: Info: Plugin successfully loaded from class 'org.omegat.core.machinetranslators.IBMWatsonTranslate' (PLUGIN_LOAD_OK)
+80941: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.DefaultTokenizer' (PLUGIN_LOAD_OK)
+80941: Info: Plugin successfully loaded from class 'org.omegat.filters3.xml.l10nmgr.L10nmgrFilter' (PLUGIN_LOAD_OK)
+80941: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LuceneJapaneseTokenizer' (PLUGIN_LOAD_OK)
+80941: Info: Plugin successfully loaded from class 'org.omegat.filters3.xml.helpandmanual.HelpAndManualFilter' (PLUGIN_LOAD_OK)
+80941: Info: Plugin successfully loaded from class 'org.omegat.filters2.po.PoFilter' (PLUGIN_LOAD_OK)
+80941: Info: Plugin successfully loaded from class 'org.omegat.core.machinetranslators.Google2Translate' (PLUGIN_LOAD_OK)
+80941: Info: Plugin successfully loaded from class 'org.omegat.core.machinetranslators.YandexTranslate' (PLUGIN_LOAD_OK)
+80941: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LuceneItalianTokenizer' (PLUGIN_LOAD_OK)
+80941: Info: Plugin successfully loaded from class 'org.omegat.filters2.text.magento.MagentoFilter' (PLUGIN_LOAD_OK)
+80941: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LuceneFinnishTokenizer' (PLUGIN_LOAD_OK)
+80941: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LuceneHungarianTokenizer' (PLUGIN_LOAD_OK)
+80941: Info: Plugin successfully loaded from class 'org.omegat.filters2.moodlephp.MoodlePHPFilter' (PLUGIN_LOAD_OK)
+80941: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LuceneFrenchTokenizer' (PLUGIN_LOAD_OK)
+80941: Info: Plugin successfully loaded from class 'org.omegat.filters3.xml.xmlspreadsheet.XMLSpreadsheetFilter' (PLUGIN_LOAD_OK)
+80941: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LuceneRomanianTokenizer' (PLUGIN_LOAD_OK)
+80941: Info: Plugin successfully loaded from class 'org.omegat.filters2.rc.RcFilter' (PLUGIN_LOAD_OK)
+80941: Info: Plugin successfully loaded from class 'org.omegat.filters2.text.bundles.ResourceBundleFilter' (PLUGIN_LOAD_OK)
+80941: Info: Plugin successfully loaded from class 'org.omegat.filters2.text.dokuwiki.DokuWikiFilter' (PLUGIN_LOAD_OK)
+80941: Info: Plugin successfully loaded from class 'org.omegat.gui.glossary.TransTipsMarker' (PLUGIN_LOAD_OK)
+80941: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LuceneIrishTokenizer' (PLUGIN_LOAD_OK)
+80941: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LuceneIndonesianTokenizer' (PLUGIN_LOAD_OK)
+80941: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LuceneGreekTokenizer' (PLUGIN_LOAD_OK)
+80941: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LuceneArabicTokenizer' (PLUGIN_LOAD_OK)
+80941: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LuceneArmenianTokenizer' (PLUGIN_LOAD_OK)
+80941: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LuceneDutchTokenizer' (PLUGIN_LOAD_OK)
+80941: Info: Plugin successfully loaded from class 'org.omegat.filters2.text.ilias.ILIASFilter' (PLUGIN_LOAD_OK)
+80941: Info: Plugin successfully loaded from class 'org.omegat.filters3.xml.opendoc.OpenDocFilter' (PLUGIN_LOAD_OK)
+80941: Info: Plugin successfully loaded from class 'org.omegat.filters3.xml.typo3.Typo3Filter' (PLUGIN_LOAD_OK)
+80941: Info: Console translation mode 
+Initializing
+Loading Project
+80941: Info: Source tokenizer: org.omegat.tokenizer.LuceneEnglishTokenizer 
+80941: Info: Target tokenizer: org.omegat.tokenizer.DefaultTokenizer 
+80941: Info: Project loading start (LOG_DATAENGINE_LOAD_START)
+Loading project...
+Loading TMX files...
+80941: Info: Reading TMX file /media/data/data/company/PISA_2021/FIELD_TRIAL/_Global_Crises_Module/0_Central_translation/01_Translate_workflows/esp-SLV/03_adaptation/PISA2021FT_esp-ESP_OMT_Questionnaires_GCM/omegat/project_save.tmx (TMXR_INFO_READING_FILE)
+80941: Info: Created by: OmegaT (TMXR_INFO_CREATION_TOOL)
+80941: Info: Version: 4.2.0_0_10666 (TMXR_INFO_CREATION_TOOL_VERSION)
+80941: Info: Segmentation method: paragraph (TMXR_INFO_SEG_TYPE)
+80941: Info: Source language: en-ZZ (TMXR_INFO_SOURCE_LANG)
+80941: Info: Reading of TMX file complete (TMXR_INFO_READING_COMPLETE)
+Loading: Spain-School_Global_Crises_Module_esp-ESP.xlf
+Loading: Spain-Student_Global_Crises_Module_esp-ESP.xlf
+Loading: ZZ_TVRadio.txt
+Source file loading complete
+80941: Info: Load project source files: 204ms 
+80941: FINER: File '/media/data/data/company/PISA_2021/FIELD_TRIAL/_Global_Crises_Module/0_Central_translation/01_Translate_workflows/esp-SLV/03_adaptation/PISA2021FT_esp-ESP_OMT_Questionnaires_GCM/tm/esp-ESP_School_Questionnaire_MS.tmx' added 
+80941: Info: Reading TMX file /media/data/data/company/PISA_2021/FIELD_TRIAL/_Global_Crises_Module/0_Central_translation/01_Translate_workflows/esp-SLV/03_adaptation/PISA2021FT_esp-ESP_OMT_Questionnaires_GCM/tm/esp-ESP_School_Questionnaire_MS.tmx (TMXR_INFO_READING_FILE)
+80941: Info: Created by: MemoryLn (TMXR_INFO_CREATION_TOOL)
+80941: Info: Version: 0.9 (TMXR_INFO_CREATION_TOOL_VERSION)
+80941: Info: Segmentation method: sentence (TMXR_INFO_SEG_TYPE)
+80941: Info: Source language:  (TMXR_INFO_SOURCE_LANG)
+80941: Warning: The TMX source language () is different from the project source language (en-ZZ). The TMX file will continue to be loaded. (TMXR_WARNING_INCORRECT_SOURCE_LANG)
+80941: Info: Reading of TMX file complete (TMXR_INFO_READING_COMPLETE)
+80941: FINER: File '/media/data/data/company/PISA_2021/FIELD_TRIAL/_Global_Crises_Module/0_Central_translation/01_Translate_workflows/esp-SLV/03_adaptation/PISA2021FT_esp-ESP_OMT_Questionnaires_GCM/tm/esp-ESP_Educational_Career_Questionnaire_MS.tmx' added 
+80941: Info: Reading TMX file /media/data/data/company/PISA_2021/FIELD_TRIAL/_Global_Crises_Module/0_Central_translation/01_Translate_workflows/esp-SLV/03_adaptation/PISA2021FT_esp-ESP_OMT_Questionnaires_GCM/tm/esp-ESP_Educational_Career_Questionnaire_MS.tmx (TMXR_INFO_READING_FILE)
+80941: Info: Created by: MemoryLn (TMXR_INFO_CREATION_TOOL)
+80941: Info: Version: 0.9 (TMXR_INFO_CREATION_TOOL_VERSION)
+80941: Info: Segmentation method: sentence (TMXR_INFO_SEG_TYPE)
+80941: Info: Source language:  (TMXR_INFO_SOURCE_LANG)
+80941: Warning: The TMX source language () is different from the project source language (en-ZZ). The TMX file will continue to be loaded. (TMXR_WARNING_INCORRECT_SOURCE_LANG)
+80941: Info: Reading of TMX file complete (TMXR_INFO_READING_COMPLETE)
+80941: FINER: File '/media/data/data/company/PISA_2021/FIELD_TRIAL/_Global_Crises_Module/0_Central_translation/01_Translate_workflows/esp-SLV/03_adaptation/PISA2021FT_esp-ESP_OMT_Questionnaires_GCM/tm/esp-ESP_Student_Questionnaire_Booklet_MS.tmx' added 
+80941: Info: Reading TMX file /media/data/data/company/PISA_2021/FIELD_TRIAL/_Global_Crises_Module/0_Central_translation/01_Translate_workflows/esp-SLV/03_adaptation/PISA2021FT_esp-ESP_OMT_Questionnaires_GCM/tm/esp-ESP_Student_Questionnaire_Booklet_MS.tmx (TMXR_INFO_READING_FILE)
+80941: Info: Created by: MemoryLn (TMXR_INFO_CREATION_TOOL)
+80941: Info: Version: 0.9 (TMXR_INFO_CREATION_TOOL_VERSION)
+80941: Info: Segmentation method: sentence (TMXR_INFO_SEG_TYPE)
+80941: Info: Source language:  (TMXR_INFO_SOURCE_LANG)
+80941: Warning: The TMX source language () is different from the project source language (en-ZZ). The TMX file will continue to be loaded. (TMXR_WARNING_INCORRECT_SOURCE_LANG)
+80941: Info: Reading of TMX file complete (TMXR_INFO_READING_COMPLETE)
+80941: FINER: File '/media/data/data/company/PISA_2021/FIELD_TRIAL/_Global_Crises_Module/0_Central_translation/01_Translate_workflows/esp-SLV/03_adaptation/PISA2021FT_esp-ESP_OMT_Questionnaires_GCM/tm/esp-ESP_Reading_Teacher_Questionnaire_MS.tmx' added 
+80941: Info: Reading TMX file /media/data/data/company/PISA_2021/FIELD_TRIAL/_Global_Crises_Module/0_Central_translation/01_Translate_workflows/esp-SLV/03_adaptation/PISA2021FT_esp-ESP_OMT_Questionnaires_GCM/tm/esp-ESP_Reading_Teacher_Questionnaire_MS.tmx (TMXR_INFO_READING_FILE)
+80941: Info: Created by: MemoryLn (TMXR_INFO_CREATION_TOOL)
+80941: Info: Version: 0.9 (TMXR_INFO_CREATION_TOOL_VERSION)
+80941: Info: Segmentation method: sentence (TMXR_INFO_SEG_TYPE)
+80941: Info: Source language:  (TMXR_INFO_SOURCE_LANG)
+80941: Warning: The TMX source language () is different from the project source language (en-ZZ). The TMX file will continue to be loaded. (TMXR_WARNING_INCORRECT_SOURCE_LANG)
+80941: Info: Reading of TMX file complete (TMXR_INFO_READING_COMPLETE)
+80941: FINER: File '/media/data/data/company/PISA_2021/FIELD_TRIAL/_Global_Crises_Module/0_Central_translation/01_Translate_workflows/esp-SLV/03_adaptation/PISA2021FT_esp-ESP_OMT_Questionnaires_GCM/tm/auto/PISA2021FT_esp-ESP_OMT_Questionnaires_2020.tmx' added 
+80941: Info: Reading TMX file /media/data/data/company/PISA_2021/FIELD_TRIAL/_Global_Crises_Module/0_Central_translation/01_Translate_workflows/esp-SLV/03_adaptation/PISA2021FT_esp-ESP_OMT_Questionnaires_GCM/tm/auto/PISA2021FT_esp-ESP_OMT_Questionnaires_2020.tmx (TMXR_INFO_READING_FILE)
+80941: Info: Created by: OmegaT (TMXR_INFO_CREATION_TOOL)
+80941: Info: Version: 4.2.0_0_10666 (TMXR_INFO_CREATION_TOOL_VERSION)
+80941: Info: Segmentation method: paragraph (TMXR_INFO_SEG_TYPE)
+80941: Info: Source language: en-ZZ (TMXR_INFO_SOURCE_LANG)
+80941: Info: Reading of TMX file complete (TMXR_INFO_READING_COMPLETE)
+80941: FINER: File '/media/data/data/company/PISA_2021/FIELD_TRIAL/_Global_Crises_Module/0_Central_translation/01_Translate_workflows/esp-SLV/03_adaptation/PISA2021FT_esp-ESP_OMT_Questionnaires_GCM/tm/esp-ESP_Well_Being_Questionnaire_MS.tmx' added 
+80941: Info: Reading TMX file /media/data/data/company/PISA_2021/FIELD_TRIAL/_Global_Crises_Module/0_Central_translation/01_Translate_workflows/esp-SLV/03_adaptation/PISA2021FT_esp-ESP_OMT_Questionnaires_GCM/tm/esp-ESP_Well_Being_Questionnaire_MS.tmx (TMXR_INFO_READING_FILE)
+80941: Info: Created by: MemoryLn (TMXR_INFO_CREATION_TOOL)
+80941: Info: Version: 0.9 (TMXR_INFO_CREATION_TOOL_VERSION)
+80941: Info: Segmentation method: sentence (TMXR_INFO_SEG_TYPE)
+80941: Info: Source language:  (TMXR_INFO_SOURCE_LANG)
+80941: Warning: The TMX source language () is different from the project source language (en-ZZ). The TMX file will continue to be loaded. (TMXR_WARNING_INCORRECT_SOURCE_LANG)
+80941: Info: Reading of TMX file complete (TMXR_INFO_READING_COMPLETE)
+80941: FINER: File '/media/data/data/company/PISA_2021/FIELD_TRIAL/_Global_Crises_Module/0_Central_translation/01_Translate_workflows/esp-SLV/03_adaptation/PISA2021FT_esp-ESP_OMT_Questionnaires_GCM/tm/esp-ESP_General_Teacher_Questionnaire_MS.tmx' added 
+80941: Info: Reading TMX file /media/data/data/company/PISA_2021/FIELD_TRIAL/_Global_Crises_Module/0_Central_translation/01_Translate_workflows/esp-SLV/03_adaptation/PISA2021FT_esp-ESP_OMT_Questionnaires_GCM/tm/esp-ESP_General_Teacher_Questionnaire_MS.tmx (TMXR_INFO_READING_FILE)
+80941: Info: Created by: MemoryLn (TMXR_INFO_CREATION_TOOL)
+80941: Info: Version: 0.9 (TMXR_INFO_CREATION_TOOL_VERSION)
+80941: Info: Segmentation method: sentence (TMXR_INFO_SEG_TYPE)
+80941: Info: Source language:  (TMXR_INFO_SOURCE_LANG)
+80941: Warning: The TMX source language () is different from the project source language (en-ZZ). The TMX file will continue to be loaded. (TMXR_WARNING_INCORRECT_SOURCE_LANG)
+80941: Info: Reading of TMX file complete (TMXR_INFO_READING_COMPLETE)
+80941: FINER: File '/media/data/data/company/PISA_2021/FIELD_TRIAL/_Global_Crises_Module/0_Central_translation/01_Translate_workflows/esp-SLV/03_adaptation/PISA2021FT_esp-ESP_OMT_Questionnaires_GCM/tm/esp-ESP_Financial_Literacy_Questionnaire_MS.tmx' added 
+80941: Info: Reading TMX file /media/data/data/company/PISA_2021/FIELD_TRIAL/_Global_Crises_Module/0_Central_translation/01_Translate_workflows/esp-SLV/03_adaptation/PISA2021FT_esp-ESP_OMT_Questionnaires_GCM/tm/esp-ESP_Financial_Literacy_Questionnaire_MS.tmx (TMXR_INFO_READING_FILE)
+80941: Info: Created by: MemoryLn (TMXR_INFO_CREATION_TOOL)
+80941: Info: Version: 0.9 (TMXR_INFO_CREATION_TOOL_VERSION)
+80941: Info: Segmentation method: sentence (TMXR_INFO_SEG_TYPE)
+80941: Info: Source language:  (TMXR_INFO_SOURCE_LANG)
+80941: Warning: The TMX source language () is different from the project source language (en-ZZ). The TMX file will continue to be loaded. (TMXR_WARNING_INCORRECT_SOURCE_LANG)
+80941: Info: Reading of TMX file complete (TMXR_INFO_READING_COMPLETE)
+80941: FINER: File '/media/data/data/company/PISA_2021/FIELD_TRIAL/_Global_Crises_Module/0_Central_translation/01_Translate_workflows/esp-SLV/03_adaptation/PISA2021FT_esp-ESP_OMT_Questionnaires_GCM/tm/enforce/.empty' added 
+80941: FINER: File '/media/data/data/company/PISA_2021/FIELD_TRIAL/_Global_Crises_Module/0_Central_translation/01_Translate_workflows/esp-SLV/03_adaptation/PISA2021FT_esp-ESP_OMT_Questionnaires_GCM/tm/esp-ESP_ICT_Familiarity_Questionnaire_MS.tmx' added 
+80941: Info: Reading TMX file /media/data/data/company/PISA_2021/FIELD_TRIAL/_Global_Crises_Module/0_Central_translation/01_Translate_workflows/esp-SLV/03_adaptation/PISA2021FT_esp-ESP_OMT_Questionnaires_GCM/tm/esp-ESP_ICT_Familiarity_Questionnaire_MS.tmx (TMXR_INFO_READING_FILE)
+80941: Info: Created by: MemoryLn (TMXR_INFO_CREATION_TOOL)
+80941: Info: Version: 0.9 (TMXR_INFO_CREATION_TOOL_VERSION)
+80941: Info: Segmentation method: sentence (TMXR_INFO_SEG_TYPE)
+80941: Info: Source language:  (TMXR_INFO_SOURCE_LANG)
+80941: Warning: The TMX source language () is different from the project source language (en-ZZ). The TMX file will continue to be loaded. (TMXR_WARNING_INCORRECT_SOURCE_LANG)
+80941: Info: Reading of TMX file complete (TMXR_INFO_READING_COMPLETE)
+80941: FINER: File '/media/data/data/company/PISA_2021/FIELD_TRIAL/_Global_Crises_Module/0_Central_translation/01_Translate_workflows/esp-SLV/03_adaptation/PISA2021FT_esp-ESP_OMT_Questionnaires_GCM/tm/03_rec/PISA_esp-ESP_GCM_Translator2.tmx' added 
+80941: Info: Reading TMX file /media/data/data/company/PISA_2021/FIELD_TRIAL/_Global_Crises_Module/0_Central_translation/01_Translate_workflows/esp-SLV/03_adaptation/PISA2021FT_esp-ESP_OMT_Questionnaires_GCM/tm/03_rec/PISA_esp-ESP_GCM_Translator2.tmx (TMXR_INFO_READING_FILE)
+80941: Info: Created by: OmegaT (TMXR_INFO_CREATION_TOOL)
+80941: Info: Version: 4.2.0_0_10666 (TMXR_INFO_CREATION_TOOL_VERSION)
+80941: Info: Segmentation method: paragraph (TMXR_INFO_SEG_TYPE)
+80941: Info: Source language: en-ZZ (TMXR_INFO_SOURCE_LANG)
+80941: Info: Reading of TMX file complete (TMXR_INFO_READING_COMPLETE)
+80941: FINER: File '/media/data/data/company/PISA_2021/FIELD_TRIAL/_Global_Crises_Module/0_Central_translation/01_Translate_workflows/esp-SLV/03_adaptation/PISA2021FT_esp-ESP_OMT_Questionnaires_GCM/tm/03_rec/PISA_esp-ESP_GCM_Translator1.tmx' added 
+80941: Info: Reading TMX file /media/data/data/company/PISA_2021/FIELD_TRIAL/_Global_Crises_Module/0_Central_translation/01_Translate_workflows/esp-SLV/03_adaptation/PISA2021FT_esp-ESP_OMT_Questionnaires_GCM/tm/03_rec/PISA_esp-ESP_GCM_Translator1.tmx (TMXR_INFO_READING_FILE)
+80941: Info: Created by: OmegaT (TMXR_INFO_CREATION_TOOL)
+80941: Info: Version: 4.2.0_0_unknown (TMXR_INFO_CREATION_TOOL_VERSION)
+80941: Info: Segmentation method: paragraph (TMXR_INFO_SEG_TYPE)
+80941: Info: Source language: en-ZZ (TMXR_INFO_SOURCE_LANG)
+80941: Info: Reading of TMX file complete (TMXR_INFO_READING_COMPLETE)
+ 
+80941: Info: Project loading end (LOG_DATAENGINE_LOAD_END)
+Translating Project
+80941: Info: Project compiling start (LOG_DATAENGINE_COMPILE_START)
+Creating translated documents: Spain-School_Global_Crises_Module_esp-ESP.xlf
+Creating translated documents: Spain-Student_Global_Crises_Module_esp-ESP.xlf
+Creating translated documents: ZZ_TVRadio.txt
+Translated documents created
+80941: Info: Project compiling end (LOG_DATAENGINE_COMPILE_END)
+80941: Info: Project closed (LOG_DATAENGINE_CLOSE)
+Finished
+80941: Info: Event: project change - "COMPILE" (LOG_INFO_EVENT_PROJECT_CHANGE)
+>> esp-SLV: Unpack initial package in 03_adaptation folder
+Archive:  esp-SLV/02_initial_pkg/PISA2021FT_esp-SLV_OMT_Questionnaires_GCM.omt
+   creating: esp-SLV/03_adaptation/PISA2021FT_esp-SLV_OMT_Questionnaires_GCM/target/
+ extracting: esp-SLV/03_adaptation/PISA2021FT_esp-SLV_OMT_Questionnaires_GCM/target/.empty  
+   creating: esp-SLV/03_adaptation/PISA2021FT_esp-SLV_OMT_Questionnaires_GCM/source/
+  inflating: esp-SLV/03_adaptation/PISA2021FT_esp-SLV_OMT_Questionnaires_GCM/source/El Salvador-Student_Global_Crises_Module_esp-SLV.xlf  
+  inflating: esp-SLV/03_adaptation/PISA2021FT_esp-SLV_OMT_Questionnaires_GCM/source/El Salvador-School_Global_Crises_Module_esp-SLV.xlf  
+ extracting: esp-SLV/03_adaptation/PISA2021FT_esp-SLV_OMT_Questionnaires_GCM/source/.empty  
+   creating: esp-SLV/03_adaptation/PISA2021FT_esp-SLV_OMT_Questionnaires_GCM/tm/
+   creating: esp-SLV/03_adaptation/PISA2021FT_esp-SLV_OMT_Questionnaires_GCM/tm/auto/
+  inflating: esp-SLV/03_adaptation/PISA2021FT_esp-SLV_OMT_Questionnaires_GCM/tm/auto/PISA2021FT_esp-SLV_OMT_Questionnaires_2020.tmx  
+ extracting: esp-SLV/03_adaptation/PISA2021FT_esp-SLV_OMT_Questionnaires_GCM/tm/auto/.empty  
+   creating: esp-SLV/03_adaptation/PISA2021FT_esp-SLV_OMT_Questionnaires_GCM/tm/enforce/
+ extracting: esp-SLV/03_adaptation/PISA2021FT_esp-SLV_OMT_Questionnaires_GCM/tm/enforce/.empty  
+   creating: esp-SLV/03_adaptation/PISA2021FT_esp-SLV_OMT_Questionnaires_GCM/omegat/
+  inflating: esp-SLV/03_adaptation/PISA2021FT_esp-SLV_OMT_Questionnaires_GCM/omegat/filters.xml  
+ extracting: esp-SLV/03_adaptation/PISA2021FT_esp-SLV_OMT_Questionnaires_GCM/omegat/ignored_words.txt  
+  inflating: esp-SLV/03_adaptation/PISA2021FT_esp-SLV_OMT_Questionnaires_GCM/omegat/project_stats.txt  
+  inflating: esp-SLV/03_adaptation/PISA2021FT_esp-SLV_OMT_Questionnaires_GCM/omegat/project_save.tmx  
+ extracting: esp-SLV/03_adaptation/PISA2021FT_esp-SLV_OMT_Questionnaires_GCM/omegat/learned_words.txt  
+   creating: esp-SLV/03_adaptation/PISA2021FT_esp-SLV_OMT_Questionnaires_GCM/dictionary/
+ extracting: esp-SLV/03_adaptation/PISA2021FT_esp-SLV_OMT_Questionnaires_GCM/dictionary/.empty  
+   creating: esp-SLV/03_adaptation/PISA2021FT_esp-SLV_OMT_Questionnaires_GCM/glossary/
+ extracting: esp-SLV/03_adaptation/PISA2021FT_esp-SLV_OMT_Questionnaires_GCM/glossary/.empty  
+  inflating: esp-SLV/03_adaptation/PISA2021FT_esp-SLV_OMT_Questionnaires_GCM/omegat.project  
+>> esp-SLV: move PISA2021FT_esp-ESP_OMT_Questionnaires_GCM-omegat.tmx from esp-SLV/03_adaptation/PISA2021FT_esp-ESP_OMT_Questionnaires_GCM/ to esp-SLV/03_adaptation/PISA2021FT_esp-SLV_OMT_Questionnaires_GCM/tm/auto
+>> esp-SLV: add new text file
+>> esp-SLV: pack adap project
+10589: Info: Pack project as OMT file... 
+10589: Info: OMT Package successfully created. 
+>> esp-SLV: dump base and ini project folders
+========================================================================
+>> esp-URY: The OmegaT package for adaptation will be created
+>> esp-URY: The base version and the initial package exist
+>> esp-URY: Unpack base package in 03_adaptation folder
+Archive:  esp-URY/01_base_version/PISA2021FT_esp-ESP_OMT_Questionnaires_GCM.omt
+  inflating: esp-URY/03_adaptation/PISA2021FT_esp-ESP_OMT_Questionnaires_GCM/dictionary/.empty  
+  inflating: esp-URY/03_adaptation/PISA2021FT_esp-ESP_OMT_Questionnaires_GCM/glossary/glossary.txt  
+  inflating: esp-URY/03_adaptation/PISA2021FT_esp-ESP_OMT_Questionnaires_GCM/omegat/filters.xml  
+  inflating: esp-URY/03_adaptation/PISA2021FT_esp-ESP_OMT_Questionnaires_GCM/omegat/ignored_words.txt  
+  inflating: esp-URY/03_adaptation/PISA2021FT_esp-ESP_OMT_Questionnaires_GCM/omegat/last_entry.properties  
+  inflating: esp-URY/03_adaptation/PISA2021FT_esp-ESP_OMT_Questionnaires_GCM/omegat/learned_words.txt  
+  inflating: esp-URY/03_adaptation/PISA2021FT_esp-ESP_OMT_Questionnaires_GCM/omegat/project_save.tmx  
+  inflating: esp-URY/03_adaptation/PISA2021FT_esp-ESP_OMT_Questionnaires_GCM/omegat/project_save.tmx.202009021203.bak  
+  inflating: esp-URY/03_adaptation/PISA2021FT_esp-ESP_OMT_Questionnaires_GCM/omegat/project_save.tmx.202009021224.bak  
+  inflating: esp-URY/03_adaptation/PISA2021FT_esp-ESP_OMT_Questionnaires_GCM/omegat/project_save.tmx.202009021925.bak  
+  inflating: esp-URY/03_adaptation/PISA2021FT_esp-ESP_OMT_Questionnaires_GCM/omegat/project_save.tmx.202009031222.bak  
+  inflating: esp-URY/03_adaptation/PISA2021FT_esp-ESP_OMT_Questionnaires_GCM/omegat/project_save.tmx.bak  
+  inflating: esp-URY/03_adaptation/PISA2021FT_esp-ESP_OMT_Questionnaires_GCM/omegat/project_stats.txt  
+  inflating: esp-URY/03_adaptation/PISA2021FT_esp-ESP_OMT_Questionnaires_GCM/omegat.project  
+  inflating: esp-URY/03_adaptation/PISA2021FT_esp-ESP_OMT_Questionnaires_GCM/source/Spain-School_Global_Crises_Module_esp-ESP.xlf  
+  inflating: esp-URY/03_adaptation/PISA2021FT_esp-ESP_OMT_Questionnaires_GCM/source/Spain-Student_Global_Crises_Module_esp-ESP.xlf  
+  inflating: esp-URY/03_adaptation/PISA2021FT_esp-ESP_OMT_Questionnaires_GCM/source/ZZ_TVRadio.txt  
+  inflating: esp-URY/03_adaptation/PISA2021FT_esp-ESP_OMT_Questionnaires_GCM/target/.empty  
+  inflating: esp-URY/03_adaptation/PISA2021FT_esp-ESP_OMT_Questionnaires_GCM/tm/03_rec/PISA_esp-ESP_GCM_Translator1.tmx  
+  inflating: esp-URY/03_adaptation/PISA2021FT_esp-ESP_OMT_Questionnaires_GCM/tm/03_rec/PISA_esp-ESP_GCM_Translator2.tmx  
+  inflating: esp-URY/03_adaptation/PISA2021FT_esp-ESP_OMT_Questionnaires_GCM/tm/auto/PISA2021FT_esp-ESP_OMT_Questionnaires_2020.tmx  
+  inflating: esp-URY/03_adaptation/PISA2021FT_esp-ESP_OMT_Questionnaires_GCM/tm/enforce/.empty  
+  inflating: esp-URY/03_adaptation/PISA2021FT_esp-ESP_OMT_Questionnaires_GCM/tm/esp-ESP_Educational_Career_Questionnaire_MS.tmx  
+  inflating: esp-URY/03_adaptation/PISA2021FT_esp-ESP_OMT_Questionnaires_GCM/tm/esp-ESP_Financial_Literacy_Questionnaire_MS.tmx  
+  inflating: esp-URY/03_adaptation/PISA2021FT_esp-ESP_OMT_Questionnaires_GCM/tm/esp-ESP_General_Teacher_Questionnaire_MS.tmx  
+  inflating: esp-URY/03_adaptation/PISA2021FT_esp-ESP_OMT_Questionnaires_GCM/tm/esp-ESP_ICT_Familiarity_Questionnaire_MS.tmx  
+  inflating: esp-URY/03_adaptation/PISA2021FT_esp-ESP_OMT_Questionnaires_GCM/tm/esp-ESP_Reading_Teacher_Questionnaire_MS.tmx  
+  inflating: esp-URY/03_adaptation/PISA2021FT_esp-ESP_OMT_Questionnaires_GCM/tm/esp-ESP_School_Questionnaire_MS.tmx  
+  inflating: esp-URY/03_adaptation/PISA2021FT_esp-ESP_OMT_Questionnaires_GCM/tm/esp-ESP_Student_Questionnaire_Booklet_MS.tmx  
+  inflating: esp-URY/03_adaptation/PISA2021FT_esp-ESP_OMT_Questionnaires_GCM/tm/esp-ESP_Well_Being_Questionnaire_MS.tmx  
+  inflating: esp-URY/03_adaptation/PISA2021FT_esp-ESP_OMT_Questionnaires_GCM/omegat/omt-packer.log  
+>> esp-URY: run omegat on base proj
+17861: Info: =================================================================== 
+17861: Info: OmegaT-4.2.0_0_unknown (Tue Sep 15 17:48:03 CEST 2020)  Locale en_GB 
+17861: Info: Java: Ubuntu ver. 11.0.8, executed from '/usr/lib/jvm/java-11-openjdk-amd64' (LOG_STARTUP_INFO)
+17861: Error: java.lang.NullPointerException 
+17861: Error: 	at org.omegat.util.Preferences.setPreference(Preferences.java:619) 
+17861: Error: 	at org.omegat.convert.ConvertTo213.convertUIConfig(ConvertTo213.java:66) 
+17861: Error: 	at org.omegat.convert.ConvertConfigs.convert(ConvertConfigs.java:59) 
+17861: Error: 	at org.omegat.Main.main(Main.java:172) 
+17861: Info: Plugin successfully loaded from class 'org.omegat.filters3.xml.xliff.XLIFFFilter' (PLUGIN_LOAD_OK)
+17861: Info: Plugin successfully loaded from class 'org.omegat.filters2.text.TextFilter' (PLUGIN_LOAD_OK)
+17861: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LuceneEnglishTokenizer' (PLUGIN_LOAD_OK)
+17861: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.HunspellTokenizer' (PLUGIN_LOAD_OK)
+17861: Info: Plugin successfully loaded from class 'org.omegat.core.machinetranslators.BelazarTranslate' (PLUGIN_LOAD_OK)
+17861: Info: Plugin successfully loaded from class 'org.omegat.gui.scripting.ScriptingWindow' (PLUGIN_LOAD_OK)
+17861: Info: Plugin successfully loaded from class 'org.omegat.gui.glossary.taas.TaaSPlugin' (PLUGIN_LOAD_OK)
+17861: Info: Plugin successfully loaded from class 'org.omegat.externalfinder.ExternalFinder' (PLUGIN_LOAD_OK)
+17861: Info: Plugin successfully loaded from class 'org.omegat.filters2.subtitles.WebVttFilter' (PLUGIN_LOAD_OK)
+17861: Info: Plugin successfully loaded from class 'org.omegat.filters3.xml.infix.InfixFilter' (PLUGIN_LOAD_OK)
+17861: Info: Plugin successfully loaded from class 'org.omegat.core.machinetranslators.DeepLTranslate' (PLUGIN_LOAD_OK)
+17861: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LuceneRussianTokenizer' (PLUGIN_LOAD_OK)
+17861: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LuceneSmartChineseTokenizer' (PLUGIN_LOAD_OK)
+17861: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LuceneThaiTokenizer' (PLUGIN_LOAD_OK)
+17861: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LuceneLatvianTokenizer' (PLUGIN_LOAD_OK)
+17861: Info: Plugin successfully loaded from class 'org.omegat.filters2.text.ini.INIFilter' (PLUGIN_LOAD_OK)
+17861: Info: Plugin successfully loaded from class 'org.omegat.filters3.xml.openxml.OpenXMLFilter' (PLUGIN_LOAD_OK)
+17861: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LuceneCatalanTokenizer' (PLUGIN_LOAD_OK)
+17861: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LuceneBrazilianTokenizer' (PLUGIN_LOAD_OK)
+17861: Info: Plugin successfully loaded from class 'org.omegat.filters3.xml.resx.ResXFilter' (PLUGIN_LOAD_OK)
+17861: Info: Plugin successfully loaded from class 'org.omegat.core.machinetranslators.MicrosoftTranslatorAzure' (PLUGIN_LOAD_OK)
+17861: Info: Plugin successfully loaded from class 'org.omegat.filters3.xml.xhtml.XHTMLFilter' (PLUGIN_LOAD_OK)
+17861: Info: Plugin successfully loaded from class 'org.omegat.filters3.xml.visio.VisioFilter' (PLUGIN_LOAD_OK)
+17861: Info: Plugin successfully loaded from class 'org.omegat.filters3.xml.android.AndroidFilter' (PLUGIN_LOAD_OK)
+17861: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LuceneGermanTokenizer' (PLUGIN_LOAD_OK)
+17861: Info: Plugin successfully loaded from class 'org.omegat.filters2.xtagqxp.XtagFilter' (PLUGIN_LOAD_OK)
+17861: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LuceneNorwegianTokenizer' (PLUGIN_LOAD_OK)
+17861: Info: Plugin successfully loaded from class 'org.omegat.filters2.hhc.HHCFilter2' (PLUGIN_LOAD_OK)
+17861: Info: Plugin successfully loaded from class 'org.omegat.core.machinetranslators.MyMemoryMachineTranslate' (PLUGIN_LOAD_OK)
+17861: Info: Plugin successfully loaded from class 'org.omegat.filters3.xml.properties.PropertiesFilter' (PLUGIN_LOAD_OK)
+17861: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LuceneCJKTokenizer' (PLUGIN_LOAD_OK)
+17861: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LuceneCzechTokenizer' (PLUGIN_LOAD_OK)
+17861: Info: Plugin successfully loaded from class 'org.omegat.filters3.xml.scribus.ScribusFilter' (PLUGIN_LOAD_OK)
+17861: Info: Plugin successfully loaded from class 'org.omegat.gui.editor.mark.ComesFromMTMarker' (PLUGIN_LOAD_OK)
+17861: Info: Plugin successfully loaded from class 'org.omegat.filters3.xml.flash.FlashFilter' (PLUGIN_LOAD_OK)
+17861: Info: Plugin successfully loaded from class 'org.omegat.filters3.xml.schematron.SchematronFilter' (PLUGIN_LOAD_OK)
+17861: Info: Plugin successfully loaded from class 'org.omegat.filters2.html2.HTMLFilter2' (PLUGIN_LOAD_OK)
+17861: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LuceneBasqueTokenizer' (PLUGIN_LOAD_OK)
+17861: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LuceneSwedishTokenizer' (PLUGIN_LOAD_OK)
+17861: Info: Plugin successfully loaded from class 'org.omegat.filters2.latex.LatexFilter' (PLUGIN_LOAD_OK)
+17861: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LuceneGalicianTokenizer' (PLUGIN_LOAD_OK)
+17861: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LucenePolishTokenizer' (PLUGIN_LOAD_OK)
+17861: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LuceneTurkishTokenizer' (PLUGIN_LOAD_OK)
+17861: Info: Plugin successfully loaded from class 'org.omegat.filters3.xml.relaxng.RelaxNGFilter' (PLUGIN_LOAD_OK)
+17861: Info: Plugin successfully loaded from class 'org.omegat.filters3.xml.wordpress.WordpressFilter' (PLUGIN_LOAD_OK)
+17861: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LuceneDanishTokenizer' (PLUGIN_LOAD_OK)
+17861: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LucenePersianTokenizer' (PLUGIN_LOAD_OK)
+17861: Info: Plugin successfully loaded from class 'org.omegat.filters3.xml.camtasiawindows.CamtasiaWindowsFilter' (PLUGIN_LOAD_OK)
+17861: Info: Plugin successfully loaded from class 'org.omegat.filters2.subtitles.SbvFilter' (PLUGIN_LOAD_OK)
+17861: Info: Plugin successfully loaded from class 'org.omegat.core.spellchecker.SpellCheckerMarker' (PLUGIN_LOAD_OK)
+17861: Info: Plugin successfully loaded from class 'org.omegat.core.machinetranslators.MosesTranslate' (PLUGIN_LOAD_OK)
+17861: Info: Plugin successfully loaded from class 'org.omegat.filters3.xml.docbook.DocBookFilter' (PLUGIN_LOAD_OK)
+17861: Info: Plugin successfully loaded from class 'org.omegat.filters2.pdf.PdfFilter' (PLUGIN_LOAD_OK)
+17861: Info: Plugin successfully loaded from class 'org.omegat.filters2.subtitles.SrtFilter' (PLUGIN_LOAD_OK)
+17861: Info: Plugin successfully loaded from class 'org.omegat.core.machinetranslators.ApertiumTranslate' (PLUGIN_LOAD_OK)
+17861: Info: Plugin successfully loaded from class 'org.omegat.filters3.xml.svg.SvgFilter' (PLUGIN_LOAD_OK)
+17861: Info: Plugin successfully loaded from class 'org.omegat.core.machinetranslators.MyMemoryHumanTranslate' (PLUGIN_LOAD_OK)
+17861: Info: Plugin successfully loaded from class 'org.omegat.filters2.mozlang.MozillaLangFilter' (PLUGIN_LOAD_OK)
+17861: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LuceneSpanishTokenizer' (PLUGIN_LOAD_OK)
+17861: Info: Plugin successfully loaded from class 'org.omegat.filters3.xml.txml.TXMLFilter' (PLUGIN_LOAD_OK)
+17861: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LucenePortugueseTokenizer' (PLUGIN_LOAD_OK)
+17861: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LuceneHindiTokenizer' (PLUGIN_LOAD_OK)
+17861: Info: Plugin successfully loaded from class 'org.omegat.filters2.mozdtd.MozillaDTDFilter' (PLUGIN_LOAD_OK)
+17861: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LuceneBulgarianTokenizer' (PLUGIN_LOAD_OK)
+17861: Info: Plugin successfully loaded from class 'org.omegat.filters3.xml.wix.WiXFilter' (PLUGIN_LOAD_OK)
+17861: Info: Plugin successfully loaded from class 'org.omegat.core.machinetranslators.IBMWatsonTranslate' (PLUGIN_LOAD_OK)
+17861: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.DefaultTokenizer' (PLUGIN_LOAD_OK)
+17861: Info: Plugin successfully loaded from class 'org.omegat.filters3.xml.l10nmgr.L10nmgrFilter' (PLUGIN_LOAD_OK)
+17861: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LuceneJapaneseTokenizer' (PLUGIN_LOAD_OK)
+17861: Info: Plugin successfully loaded from class 'org.omegat.filters3.xml.helpandmanual.HelpAndManualFilter' (PLUGIN_LOAD_OK)
+17861: Info: Plugin successfully loaded from class 'org.omegat.filters2.po.PoFilter' (PLUGIN_LOAD_OK)
+17861: Info: Plugin successfully loaded from class 'org.omegat.core.machinetranslators.Google2Translate' (PLUGIN_LOAD_OK)
+17861: Info: Plugin successfully loaded from class 'org.omegat.core.machinetranslators.YandexTranslate' (PLUGIN_LOAD_OK)
+17861: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LuceneItalianTokenizer' (PLUGIN_LOAD_OK)
+17861: Info: Plugin successfully loaded from class 'org.omegat.filters2.text.magento.MagentoFilter' (PLUGIN_LOAD_OK)
+17861: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LuceneFinnishTokenizer' (PLUGIN_LOAD_OK)
+17861: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LuceneHungarianTokenizer' (PLUGIN_LOAD_OK)
+17861: Info: Plugin successfully loaded from class 'org.omegat.filters2.moodlephp.MoodlePHPFilter' (PLUGIN_LOAD_OK)
+17861: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LuceneFrenchTokenizer' (PLUGIN_LOAD_OK)
+17861: Info: Plugin successfully loaded from class 'org.omegat.filters3.xml.xmlspreadsheet.XMLSpreadsheetFilter' (PLUGIN_LOAD_OK)
+17861: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LuceneRomanianTokenizer' (PLUGIN_LOAD_OK)
+17861: Info: Plugin successfully loaded from class 'org.omegat.filters2.rc.RcFilter' (PLUGIN_LOAD_OK)
+17861: Info: Plugin successfully loaded from class 'org.omegat.filters2.text.bundles.ResourceBundleFilter' (PLUGIN_LOAD_OK)
+17861: Info: Plugin successfully loaded from class 'org.omegat.filters2.text.dokuwiki.DokuWikiFilter' (PLUGIN_LOAD_OK)
+17861: Info: Plugin successfully loaded from class 'org.omegat.gui.glossary.TransTipsMarker' (PLUGIN_LOAD_OK)
+17861: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LuceneIrishTokenizer' (PLUGIN_LOAD_OK)
+17861: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LuceneIndonesianTokenizer' (PLUGIN_LOAD_OK)
+17861: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LuceneGreekTokenizer' (PLUGIN_LOAD_OK)
+17861: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LuceneArabicTokenizer' (PLUGIN_LOAD_OK)
+17861: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LuceneArmenianTokenizer' (PLUGIN_LOAD_OK)
+17861: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LuceneDutchTokenizer' (PLUGIN_LOAD_OK)
+17861: Info: Plugin successfully loaded from class 'org.omegat.filters2.text.ilias.ILIASFilter' (PLUGIN_LOAD_OK)
+17861: Info: Plugin successfully loaded from class 'org.omegat.filters3.xml.opendoc.OpenDocFilter' (PLUGIN_LOAD_OK)
+17861: Info: Plugin successfully loaded from class 'org.omegat.filters3.xml.typo3.Typo3Filter' (PLUGIN_LOAD_OK)
+17861: Info: Console translation mode 
+Initializing
+Loading Project
+17861: Info: Source tokenizer: org.omegat.tokenizer.LuceneEnglishTokenizer 
+17861: Info: Target tokenizer: org.omegat.tokenizer.DefaultTokenizer 
+17861: Info: Project loading start (LOG_DATAENGINE_LOAD_START)
+Loading project...
+Loading TMX files...
+17861: Info: Reading TMX file /media/data/data/company/PISA_2021/FIELD_TRIAL/_Global_Crises_Module/0_Central_translation/01_Translate_workflows/esp-URY/03_adaptation/PISA2021FT_esp-ESP_OMT_Questionnaires_GCM/omegat/project_save.tmx (TMXR_INFO_READING_FILE)
+17861: Info: Created by: OmegaT (TMXR_INFO_CREATION_TOOL)
+17861: Info: Version: 4.2.0_0_10666 (TMXR_INFO_CREATION_TOOL_VERSION)
+17861: Info: Segmentation method: paragraph (TMXR_INFO_SEG_TYPE)
+17861: Info: Source language: en-ZZ (TMXR_INFO_SOURCE_LANG)
+17861: Info: Reading of TMX file complete (TMXR_INFO_READING_COMPLETE)
+Loading: Spain-School_Global_Crises_Module_esp-ESP.xlf
+Loading: Spain-Student_Global_Crises_Module_esp-ESP.xlf
+Loading: ZZ_TVRadio.txt
+Source file loading complete
+17861: Info: Load project source files: 220ms 
+17861: FINER: File '/media/data/data/company/PISA_2021/FIELD_TRIAL/_Global_Crises_Module/0_Central_translation/01_Translate_workflows/esp-URY/03_adaptation/PISA2021FT_esp-ESP_OMT_Questionnaires_GCM/tm/esp-ESP_School_Questionnaire_MS.tmx' added 
+17861: Info: Reading TMX file /media/data/data/company/PISA_2021/FIELD_TRIAL/_Global_Crises_Module/0_Central_translation/01_Translate_workflows/esp-URY/03_adaptation/PISA2021FT_esp-ESP_OMT_Questionnaires_GCM/tm/esp-ESP_School_Questionnaire_MS.tmx (TMXR_INFO_READING_FILE)
+17861: Info: Created by: MemoryLn (TMXR_INFO_CREATION_TOOL)
+17861: Info: Version: 0.9 (TMXR_INFO_CREATION_TOOL_VERSION)
+17861: Info: Segmentation method: sentence (TMXR_INFO_SEG_TYPE)
+17861: Info: Source language:  (TMXR_INFO_SOURCE_LANG)
+17861: Warning: The TMX source language () is different from the project source language (en-ZZ). The TMX file will continue to be loaded. (TMXR_WARNING_INCORRECT_SOURCE_LANG)
+17861: Info: Reading of TMX file complete (TMXR_INFO_READING_COMPLETE)
+17861: FINER: File '/media/data/data/company/PISA_2021/FIELD_TRIAL/_Global_Crises_Module/0_Central_translation/01_Translate_workflows/esp-URY/03_adaptation/PISA2021FT_esp-ESP_OMT_Questionnaires_GCM/tm/esp-ESP_Educational_Career_Questionnaire_MS.tmx' added 
+17861: Info: Reading TMX file /media/data/data/company/PISA_2021/FIELD_TRIAL/_Global_Crises_Module/0_Central_translation/01_Translate_workflows/esp-URY/03_adaptation/PISA2021FT_esp-ESP_OMT_Questionnaires_GCM/tm/esp-ESP_Educational_Career_Questionnaire_MS.tmx (TMXR_INFO_READING_FILE)
+17861: Info: Created by: MemoryLn (TMXR_INFO_CREATION_TOOL)
+17861: Info: Version: 0.9 (TMXR_INFO_CREATION_TOOL_VERSION)
+17861: Info: Segmentation method: sentence (TMXR_INFO_SEG_TYPE)
+17861: Info: Source language:  (TMXR_INFO_SOURCE_LANG)
+17861: Warning: The TMX source language () is different from the project source language (en-ZZ). The TMX file will continue to be loaded. (TMXR_WARNING_INCORRECT_SOURCE_LANG)
+17861: Info: Reading of TMX file complete (TMXR_INFO_READING_COMPLETE)
+17861: FINER: File '/media/data/data/company/PISA_2021/FIELD_TRIAL/_Global_Crises_Module/0_Central_translation/01_Translate_workflows/esp-URY/03_adaptation/PISA2021FT_esp-ESP_OMT_Questionnaires_GCM/tm/esp-ESP_Student_Questionnaire_Booklet_MS.tmx' added 
+17861: Info: Reading TMX file /media/data/data/company/PISA_2021/FIELD_TRIAL/_Global_Crises_Module/0_Central_translation/01_Translate_workflows/esp-URY/03_adaptation/PISA2021FT_esp-ESP_OMT_Questionnaires_GCM/tm/esp-ESP_Student_Questionnaire_Booklet_MS.tmx (TMXR_INFO_READING_FILE)
+17861: Info: Created by: MemoryLn (TMXR_INFO_CREATION_TOOL)
+17861: Info: Version: 0.9 (TMXR_INFO_CREATION_TOOL_VERSION)
+17861: Info: Segmentation method: sentence (TMXR_INFO_SEG_TYPE)
+17861: Info: Source language:  (TMXR_INFO_SOURCE_LANG)
+17861: Warning: The TMX source language () is different from the project source language (en-ZZ). The TMX file will continue to be loaded. (TMXR_WARNING_INCORRECT_SOURCE_LANG)
+17861: Info: Reading of TMX file complete (TMXR_INFO_READING_COMPLETE)
+17861: FINER: File '/media/data/data/company/PISA_2021/FIELD_TRIAL/_Global_Crises_Module/0_Central_translation/01_Translate_workflows/esp-URY/03_adaptation/PISA2021FT_esp-ESP_OMT_Questionnaires_GCM/tm/esp-ESP_Reading_Teacher_Questionnaire_MS.tmx' added 
+17861: Info: Reading TMX file /media/data/data/company/PISA_2021/FIELD_TRIAL/_Global_Crises_Module/0_Central_translation/01_Translate_workflows/esp-URY/03_adaptation/PISA2021FT_esp-ESP_OMT_Questionnaires_GCM/tm/esp-ESP_Reading_Teacher_Questionnaire_MS.tmx (TMXR_INFO_READING_FILE)
+17861: Info: Created by: MemoryLn (TMXR_INFO_CREATION_TOOL)
+17861: Info: Version: 0.9 (TMXR_INFO_CREATION_TOOL_VERSION)
+17861: Info: Segmentation method: sentence (TMXR_INFO_SEG_TYPE)
+17861: Info: Source language:  (TMXR_INFO_SOURCE_LANG)
+17861: Warning: The TMX source language () is different from the project source language (en-ZZ). The TMX file will continue to be loaded. (TMXR_WARNING_INCORRECT_SOURCE_LANG)
+17861: Info: Reading of TMX file complete (TMXR_INFO_READING_COMPLETE)
+17861: FINER: File '/media/data/data/company/PISA_2021/FIELD_TRIAL/_Global_Crises_Module/0_Central_translation/01_Translate_workflows/esp-URY/03_adaptation/PISA2021FT_esp-ESP_OMT_Questionnaires_GCM/tm/auto/PISA2021FT_esp-ESP_OMT_Questionnaires_2020.tmx' added 
+17861: Info: Reading TMX file /media/data/data/company/PISA_2021/FIELD_TRIAL/_Global_Crises_Module/0_Central_translation/01_Translate_workflows/esp-URY/03_adaptation/PISA2021FT_esp-ESP_OMT_Questionnaires_GCM/tm/auto/PISA2021FT_esp-ESP_OMT_Questionnaires_2020.tmx (TMXR_INFO_READING_FILE)
+17861: Info: Created by: OmegaT (TMXR_INFO_CREATION_TOOL)
+17861: Info: Version: 4.2.0_0_10666 (TMXR_INFO_CREATION_TOOL_VERSION)
+17861: Info: Segmentation method: paragraph (TMXR_INFO_SEG_TYPE)
+17861: Info: Source language: en-ZZ (TMXR_INFO_SOURCE_LANG)
+17861: Info: Reading of TMX file complete (TMXR_INFO_READING_COMPLETE)
+17861: FINER: File '/media/data/data/company/PISA_2021/FIELD_TRIAL/_Global_Crises_Module/0_Central_translation/01_Translate_workflows/esp-URY/03_adaptation/PISA2021FT_esp-ESP_OMT_Questionnaires_GCM/tm/esp-ESP_Well_Being_Questionnaire_MS.tmx' added 
+17861: Info: Reading TMX file /media/data/data/company/PISA_2021/FIELD_TRIAL/_Global_Crises_Module/0_Central_translation/01_Translate_workflows/esp-URY/03_adaptation/PISA2021FT_esp-ESP_OMT_Questionnaires_GCM/tm/esp-ESP_Well_Being_Questionnaire_MS.tmx (TMXR_INFO_READING_FILE)
+17861: Info: Created by: MemoryLn (TMXR_INFO_CREATION_TOOL)
+17861: Info: Version: 0.9 (TMXR_INFO_CREATION_TOOL_VERSION)
+17861: Info: Segmentation method: sentence (TMXR_INFO_SEG_TYPE)
+17861: Info: Source language:  (TMXR_INFO_SOURCE_LANG)
+17861: Warning: The TMX source language () is different from the project source language (en-ZZ). The TMX file will continue to be loaded. (TMXR_WARNING_INCORRECT_SOURCE_LANG)
+17861: Info: Reading of TMX file complete (TMXR_INFO_READING_COMPLETE)
+17861: FINER: File '/media/data/data/company/PISA_2021/FIELD_TRIAL/_Global_Crises_Module/0_Central_translation/01_Translate_workflows/esp-URY/03_adaptation/PISA2021FT_esp-ESP_OMT_Questionnaires_GCM/tm/esp-ESP_General_Teacher_Questionnaire_MS.tmx' added 
+17861: Info: Reading TMX file /media/data/data/company/PISA_2021/FIELD_TRIAL/_Global_Crises_Module/0_Central_translation/01_Translate_workflows/esp-URY/03_adaptation/PISA2021FT_esp-ESP_OMT_Questionnaires_GCM/tm/esp-ESP_General_Teacher_Questionnaire_MS.tmx (TMXR_INFO_READING_FILE)
+17861: Info: Created by: MemoryLn (TMXR_INFO_CREATION_TOOL)
+17861: Info: Version: 0.9 (TMXR_INFO_CREATION_TOOL_VERSION)
+17861: Info: Segmentation method: sentence (TMXR_INFO_SEG_TYPE)
+17861: Info: Source language:  (TMXR_INFO_SOURCE_LANG)
+17861: Warning: The TMX source language () is different from the project source language (en-ZZ). The TMX file will continue to be loaded. (TMXR_WARNING_INCORRECT_SOURCE_LANG)
+17861: Info: Reading of TMX file complete (TMXR_INFO_READING_COMPLETE)
+17861: FINER: File '/media/data/data/company/PISA_2021/FIELD_TRIAL/_Global_Crises_Module/0_Central_translation/01_Translate_workflows/esp-URY/03_adaptation/PISA2021FT_esp-ESP_OMT_Questionnaires_GCM/tm/esp-ESP_Financial_Literacy_Questionnaire_MS.tmx' added 
+17861: Info: Reading TMX file /media/data/data/company/PISA_2021/FIELD_TRIAL/_Global_Crises_Module/0_Central_translation/01_Translate_workflows/esp-URY/03_adaptation/PISA2021FT_esp-ESP_OMT_Questionnaires_GCM/tm/esp-ESP_Financial_Literacy_Questionnaire_MS.tmx (TMXR_INFO_READING_FILE)
+17861: Info: Created by: MemoryLn (TMXR_INFO_CREATION_TOOL)
+17861: Info: Version: 0.9 (TMXR_INFO_CREATION_TOOL_VERSION)
+17861: Info: Segmentation method: sentence (TMXR_INFO_SEG_TYPE)
+17861: Info: Source language:  (TMXR_INFO_SOURCE_LANG)
+17861: Warning: The TMX source language () is different from the project source language (en-ZZ). The TMX file will continue to be loaded. (TMXR_WARNING_INCORRECT_SOURCE_LANG)
+17861: Info: Reading of TMX file complete (TMXR_INFO_READING_COMPLETE)
+17861: FINER: File '/media/data/data/company/PISA_2021/FIELD_TRIAL/_Global_Crises_Module/0_Central_translation/01_Translate_workflows/esp-URY/03_adaptation/PISA2021FT_esp-ESP_OMT_Questionnaires_GCM/tm/enforce/.empty' added 
+17861: FINER: File '/media/data/data/company/PISA_2021/FIELD_TRIAL/_Global_Crises_Module/0_Central_translation/01_Translate_workflows/esp-URY/03_adaptation/PISA2021FT_esp-ESP_OMT_Questionnaires_GCM/tm/esp-ESP_ICT_Familiarity_Questionnaire_MS.tmx' added 
+17861: Info: Reading TMX file /media/data/data/company/PISA_2021/FIELD_TRIAL/_Global_Crises_Module/0_Central_translation/01_Translate_workflows/esp-URY/03_adaptation/PISA2021FT_esp-ESP_OMT_Questionnaires_GCM/tm/esp-ESP_ICT_Familiarity_Questionnaire_MS.tmx (TMXR_INFO_READING_FILE)
+17861: Info: Created by: MemoryLn (TMXR_INFO_CREATION_TOOL)
+17861: Info: Version: 0.9 (TMXR_INFO_CREATION_TOOL_VERSION)
+17861: Info: Segmentation method: sentence (TMXR_INFO_SEG_TYPE)
+17861: Info: Source language:  (TMXR_INFO_SOURCE_LANG)
+17861: Warning: The TMX source language () is different from the project source language (en-ZZ). The TMX file will continue to be loaded. (TMXR_WARNING_INCORRECT_SOURCE_LANG)
+17861: Info: Reading of TMX file complete (TMXR_INFO_READING_COMPLETE)
+17861: FINER: File '/media/data/data/company/PISA_2021/FIELD_TRIAL/_Global_Crises_Module/0_Central_translation/01_Translate_workflows/esp-URY/03_adaptation/PISA2021FT_esp-ESP_OMT_Questionnaires_GCM/tm/03_rec/PISA_esp-ESP_GCM_Translator2.tmx' added 
+17861: Info: Reading TMX file /media/data/data/company/PISA_2021/FIELD_TRIAL/_Global_Crises_Module/0_Central_translation/01_Translate_workflows/esp-URY/03_adaptation/PISA2021FT_esp-ESP_OMT_Questionnaires_GCM/tm/03_rec/PISA_esp-ESP_GCM_Translator2.tmx (TMXR_INFO_READING_FILE)
+17861: Info: Created by: OmegaT (TMXR_INFO_CREATION_TOOL)
+17861: Info: Version: 4.2.0_0_10666 (TMXR_INFO_CREATION_TOOL_VERSION)
+17861: Info: Segmentation method: paragraph (TMXR_INFO_SEG_TYPE)
+17861: Info: Source language: en-ZZ (TMXR_INFO_SOURCE_LANG)
+17861: Info: Reading of TMX file complete (TMXR_INFO_READING_COMPLETE)
+17861: FINER: File '/media/data/data/company/PISA_2021/FIELD_TRIAL/_Global_Crises_Module/0_Central_translation/01_Translate_workflows/esp-URY/03_adaptation/PISA2021FT_esp-ESP_OMT_Questionnaires_GCM/tm/03_rec/PISA_esp-ESP_GCM_Translator1.tmx' added 
+17861: Info: Reading TMX file /media/data/data/company/PISA_2021/FIELD_TRIAL/_Global_Crises_Module/0_Central_translation/01_Translate_workflows/esp-URY/03_adaptation/PISA2021FT_esp-ESP_OMT_Questionnaires_GCM/tm/03_rec/PISA_esp-ESP_GCM_Translator1.tmx (TMXR_INFO_READING_FILE)
+17861: Info: Created by: OmegaT (TMXR_INFO_CREATION_TOOL)
+17861: Info: Version: 4.2.0_0_unknown (TMXR_INFO_CREATION_TOOL_VERSION)
+17861: Info: Segmentation method: paragraph (TMXR_INFO_SEG_TYPE)
+17861: Info: Source language: en-ZZ (TMXR_INFO_SOURCE_LANG)
+17861: Info: Reading of TMX file complete (TMXR_INFO_READING_COMPLETE)
+ 
+17861: Info: Project loading end (LOG_DATAENGINE_LOAD_END)
+Translating Project
+17861: Info: Project compiling start (LOG_DATAENGINE_COMPILE_START)
+Creating translated documents: Spain-School_Global_Crises_Module_esp-ESP.xlf
+Creating translated documents: Spain-Student_Global_Crises_Module_esp-ESP.xlf
+Creating translated documents: ZZ_TVRadio.txt
+Translated documents created
+17861: Info: Project compiling end (LOG_DATAENGINE_COMPILE_END)
+17861: Info: Project closed (LOG_DATAENGINE_CLOSE)
+Finished
+17861: Info: Event: project change - "COMPILE" (LOG_INFO_EVENT_PROJECT_CHANGE)
+>> esp-URY: Unpack initial package in 03_adaptation folder
+Archive:  esp-URY/02_initial_pkg/PISA2021FT_esp-URY_OMT_Questionnaires_GCM.omt
+   creating: esp-URY/03_adaptation/PISA2021FT_esp-URY_OMT_Questionnaires_GCM/target/
+ extracting: esp-URY/03_adaptation/PISA2021FT_esp-URY_OMT_Questionnaires_GCM/target/.empty  
+   creating: esp-URY/03_adaptation/PISA2021FT_esp-URY_OMT_Questionnaires_GCM/source/
+  inflating: esp-URY/03_adaptation/PISA2021FT_esp-URY_OMT_Questionnaires_GCM/source/Uruguay-School_Global_Crises_Module_esp-URY.xlf  
+  inflating: esp-URY/03_adaptation/PISA2021FT_esp-URY_OMT_Questionnaires_GCM/source/Uruguay-Student_Global_Crises_Module_esp-URY.xlf  
+ extracting: esp-URY/03_adaptation/PISA2021FT_esp-URY_OMT_Questionnaires_GCM/source/.empty  
+   creating: esp-URY/03_adaptation/PISA2021FT_esp-URY_OMT_Questionnaires_GCM/tm/
+  inflating: esp-URY/03_adaptation/PISA2021FT_esp-URY_OMT_Questionnaires_GCM/tm/esp-URY_School_Questionnaire_MS.tmx  
+   creating: esp-URY/03_adaptation/PISA2021FT_esp-URY_OMT_Questionnaires_GCM/tm/auto/
+  inflating: esp-URY/03_adaptation/PISA2021FT_esp-URY_OMT_Questionnaires_GCM/tm/auto/PISA2021FT_esp-URY_OMT_Questionnaires_2020.tmx  
+ extracting: esp-URY/03_adaptation/PISA2021FT_esp-URY_OMT_Questionnaires_GCM/tm/auto/.empty  
+   creating: esp-URY/03_adaptation/PISA2021FT_esp-URY_OMT_Questionnaires_GCM/tm/enforce/
+ extracting: esp-URY/03_adaptation/PISA2021FT_esp-URY_OMT_Questionnaires_GCM/tm/enforce/.empty  
+  inflating: esp-URY/03_adaptation/PISA2021FT_esp-URY_OMT_Questionnaires_GCM/tm/esp-URY_ICT_Familiarity_Questionnaire_MS.tmx  
+  inflating: esp-URY/03_adaptation/PISA2021FT_esp-URY_OMT_Questionnaires_GCM/tm/esp-URY_Student_Questionnaire_Booklet_MS.tmx  
+   creating: esp-URY/03_adaptation/PISA2021FT_esp-URY_OMT_Questionnaires_GCM/omegat/
+  inflating: esp-URY/03_adaptation/PISA2021FT_esp-URY_OMT_Questionnaires_GCM/omegat/filters.xml  
+ extracting: esp-URY/03_adaptation/PISA2021FT_esp-URY_OMT_Questionnaires_GCM/omegat/ignored_words.txt  
+  inflating: esp-URY/03_adaptation/PISA2021FT_esp-URY_OMT_Questionnaires_GCM/omegat/project_stats.txt  
+  inflating: esp-URY/03_adaptation/PISA2021FT_esp-URY_OMT_Questionnaires_GCM/omegat/project_save.tmx  
+ extracting: esp-URY/03_adaptation/PISA2021FT_esp-URY_OMT_Questionnaires_GCM/omegat/learned_words.txt  
+   creating: esp-URY/03_adaptation/PISA2021FT_esp-URY_OMT_Questionnaires_GCM/dictionary/
+ extracting: esp-URY/03_adaptation/PISA2021FT_esp-URY_OMT_Questionnaires_GCM/dictionary/.empty  
+   creating: esp-URY/03_adaptation/PISA2021FT_esp-URY_OMT_Questionnaires_GCM/glossary/
+ extracting: esp-URY/03_adaptation/PISA2021FT_esp-URY_OMT_Questionnaires_GCM/glossary/.empty  
+  inflating: esp-URY/03_adaptation/PISA2021FT_esp-URY_OMT_Questionnaires_GCM/omegat.project  
+>> esp-URY: move PISA2021FT_esp-ESP_OMT_Questionnaires_GCM-omegat.tmx from esp-URY/03_adaptation/PISA2021FT_esp-ESP_OMT_Questionnaires_GCM/ to esp-URY/03_adaptation/PISA2021FT_esp-URY_OMT_Questionnaires_GCM/tm/auto
+>> esp-URY: add new text file
+>> esp-URY: pack adap project
+10708: Info: Pack project as OMT file... 
+10708: Info: OMT Package successfully created. 
+>> esp-URY: dump base and ini project folders

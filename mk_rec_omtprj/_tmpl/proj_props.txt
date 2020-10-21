@@ -1,0 +1,7 @@
+t1_dir=01_translator_1
+t2_dir=02_translator_2
+rec_dir=03a_to_reconciler
+t1_pkg_tmpl=CONTAINER_lll-CCC_OMT_Translator1.omt
+t2_pkg_tmpl=CONTAINER_lll-CCC_OMT_Translator2.omt
+t1_tmx_tmpl=CONTAINER_lll-CCC_Translator1.tmx
+t2_tmx_tmpl=CONTAINER_lll-CCC_Translator2.tmx
