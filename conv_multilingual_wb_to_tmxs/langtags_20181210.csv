@@ -1,0 +1,359 @@
+﻿Id,Language,Country,BCP47,OmegaT,cApStAn,PISA,Tokenizer
+1,Afrikaans,South Africa,af-ZA,af-ZA,afr-ZAF,afr-ZAF,DefaultTokenizer
+2,Akan / Twi,Ghana,ak-GH,ak-GH,aka-GHA,aka-GHA,DefaultTokenizer
+3,Albanian,Albania,sq-AL,sq-AL,sqi-ALB,sqi-ALB,DefaultTokenizer
+4,Albanian,Kosovo,sq-XK,sq-XK,sqi-KSV,sqi-KSV,DefaultTokenizer
+5,Albanian,Macedonia,sq-MK,sq-MK,sqi-MKD,sqi-MKD,DefaultTokenizer
+6,Albanian,Montenegro,sq-ME,sq-ME,sqi-MNE,sqi-MNE,DefaultTokenizer
+7,Amharic,Ethiopia,am-ET,am-ET,amh-ETH,amh-ETH,DefaultTokenizer
+8,Arabic,Algeria,ar-DZ,ar-DZ,ara-DZA,ara-DZA,LuceneArabicTokenizer
+9,Arabic,Bahrain,ar-BH,ar-BH,ara-BHR,ara-BHR,LuceneArabicTokenizer
+10,Arabic,Djibouti,ar-DJ,ar-DJ,ara-DJI,ara-DJI,LuceneArabicTokenizer
+11,Arabic,Dubai (UAE),ar-AE-dubai,ar-DU,ara-UAE,ara-UAE,LuceneArabicTokenizer
+12,Arabic,Egypt,ar-EG,ar-EG,ara-EGY,ara-EGY,LuceneArabicTokenizer
+13,Arabic,Iraq,ar-IQ,ar-IQ,ara-IRQ,ara-IRQ,LuceneArabicTokenizer
+14,Arabic,Israel,ar-IL,ar-IL,ara-ISR,ara-ISR,LuceneArabicTokenizer
+15,Arabic,Jordan,ar-JO,ar-JO,ara-JOR,ara-JOR,LuceneArabicTokenizer
+16,Arabic,Kuwait,ar-KW,ar-KW,ara-KWT,ara-KWT,LuceneArabicTokenizer
+17,Arabic,Lybia,ar-LY,ar-LY,ara-LBY,ara-LBY,LuceneArabicTokenizer
+18,Arabic,Morocco,ar-MA,ar-MA,ara-MAR,ara-MAR,LuceneArabicTokenizer
+19,Arabic,Oman,ar-OM,ar-OM,ara-OMN,ara-OMN,LuceneArabicTokenizer
+20,Arabic,Palestinian Territories,ar-PS,ar-PS,ara-PSE,ara-PSE,LuceneArabicTokenizer
+21,Arabic,Qatar,ar-QA,ar-QA,ara-QAT,ara-QAT,LuceneArabicTokenizer
+22,Arabic,Saudi Arabia,ar-SA,ar-SA,ara-SAU,ara-SAU,LuceneArabicTokenizer
+23,Arabic,Syria,ar-SY,ar-SY,ara-SYR,ara-SYR,LuceneArabicTokenizer
+24,Arabic,Tunisia,ar-TN,ar-TN,ara-TUN,ara-TUN,LuceneArabicTokenizer
+25,Arabic,United Arab Emirates (UAE),ar-AE,ar-AE,ara-ARE,ara-ARE,LuceneArabicTokenizer
+26,Arabic,Yemen,ar-YE,ar-YE,ara-YEM,ara-YEM,LuceneArabicTokenizer
+27,Armenian,Armenia,hy-AM,hy-AM,hye-ARM,hye-ARM,LuceneArmenianTokenizer
+28,Ateso / Teso,Uganda,teo-UG,teo-UG,teo-UGA,teo-UGA,DefaultTokenizer
+29,Azerbaijani,Azerbaijan,az-AZ,az-AZ,aze-AZE,,DefaultTokenizer
+30,Azerbaijani,Georgia,az-GE,az-GE,aze-GEO,aze-GEO,DefaultTokenizer
+31,Basque,Spain,eu-ES,eu-ES,eus-ESP,eus-ESP,LuceneBasqueTokenizer
+32,Bengali / Bangla,India,bn-IN,bn-IN,ben-IND,ben-IND,DefaultTokenizer
+33,Bengali / Bangla,Bangladesh,bn-BD,bn-BD,ben-BGD,ben-BGD,DefaultTokenizer
+34,Bikol / Bicolano,Philippines,bik-PH,bik-PH,bik-PHL,bik-PHL,DefaultTokenizer
+35,Norwegian Bokmål,Norway,nb-NO,nb-NO,nob-NOR,nob-NOR,LuceneNorwegianTokenizer
+36,Bosnian,Bosnia and Herzegovina,bs-BA,bs-BA,bos-BIH,bos-BIH,DefaultTokenizer
+37,Bulgarian,Bulgaria,bg-BG,bg-BG,bul-BGR,bul-BGR,LuceneBulgarianTokenizer
+38,Catalan,Spain,ca-ES,ca-ES,cat-ESP,cat-ESP,LuceneCatalanTokenizer
+39,Cebuano,Philippines,ceb-PH,ceb-PH,ceb-PHL,ceb-PHL,DefaultTokenizer
+40,Chinese (simplified),Shanghai (China),zh-CN-shanghai,zh-SH,zho-CNS,zho-CNS,LuceneSmartChineseTokenizer
+41,Chinese (simplified),China (People’s Republic),zh-CN,zh-CN,zho-CHN,zho-CHN,LuceneSmartChineseTokenizer
+42,Chinese (simplified),Hong Kong (China),zh-Hans-HK,zh-HS,zhs-HKG,zhs-HKG,LuceneSmartChineseTokenizer
+43,Chinese (simplified),Malaysia,zh-MY,zh-MY,zho-MYS,zho-MYS,LuceneSmartChineseTokenizer
+44,Chinese (simplified),Singapore,zh-SG,zh-SG,zho-SGP,zho-SGP,LuceneSmartChineseTokenizer
+45,Chinese (traditional),Chinese Taipei / Taiwan,zh-TW,zh-TW,zho-TAP,zho-TAP,LuceneSmartChineseTokenizer
+46,Chinese (traditional),Hong Kong (China),zh-HK,zh-HK,zho-HKG,zho-HKG,LuceneSmartChineseTokenizer
+47,Chinese (traditional),Macao (China),zh-MO,zh-MO,zho-MAC,zho-MAC,LuceneSmartChineseTokenizer
+48,Croatian,Bosnia and Herzegovina,hr-BA,hr-BA,hrv-BIH,hrv-BIH,DefaultTokenizer
+49,Croatian,Croatia,hr-HR,hr-HR,hrv-HRV,hrv-HRV,DefaultTokenizer
+50,Czech,Czech Republic / Czechia,cs-CZ,cs-CZ,ces-CZE,ces-CZE,LuceneCzechTokenizer
+51,Dagbani,Ghana,dag-GH,dag-GH,dag-GHA,dag-GHA,LuceneDanishTokenizer
+52,Danish,Denmark,da-DK,da-DK,dan-DNK,dan-DNK,LuceneDanishTokenizer
+53,Farsi / Dari / Persiani,Afghanistan,fa-AF,fa-AF,fas-AFG,fas-AFG,LucenePersianTokenizer
+54,Dioula / Dyula,Burkina Faso,dyu-BF,dyu-BF,dyu-BFA,dyu-BFA,DefaultTokenizer
+55,Dutch / Flemish,Belgium,nl-BE,nl-BE,nld-BEL,nld-BEL,LuceneDutchTokenizer
+56,Dutch,Netherlands,nl-NL,nl-NL,nld-NLD,nld-NLD,LuceneDutchTokenizer
+57,English,Australia,en-AU,en-AU,eng-AUS,eng-AUS,LuceneEnglishTokenizer
+58,English,Austria,en-AT,en-AT,eng-AUT,eng-AUT,LuceneEnglishTokenizer
+59,English,Bahrain,en-BH,en-BH,eng-BHR,eng-BHR,LuceneEnglishTokenizer
+60,English,Botswana,en-BW,en-BW,eng-BWA,eng-BWA,LuceneEnglishTokenizer
+61,English,Canada,en-CA,en-CA,eng-CAN,eng-CAN,LuceneEnglishTokenizer
+62,English,Cyprus,en-CY,en-CY,eng-CYP,eng-QCY,LuceneEnglishTokenizer
+63,English,England,en-GB-england,en-EN,eng-ENG,eng-ENG,LuceneEnglishTokenizer
+64,English,Ghana,en-GH,en-GH,eng-GHA,eng-GHA,LuceneEnglishTokenizer
+65,English,Hong Kong (China),en-HK,en-HK,eng-HKG,eng-HKG,LuceneEnglishTokenizer
+66,English,India,en-IN,en-IN,eng-IND,eng-IND,LuceneEnglishTokenizer
+67,English,Ireland,en-IE,en-IE,eng-IRL,eng-IRL,LuceneEnglishTokenizer
+68,English,Kenya,en-KE,en-KE,eng-KEN,eng-KEN,LuceneEnglishTokenizer
+69,English,Kuwait,en-KW,en-KW,eng-KWT,eng-KWT,LuceneEnglishTokenizer
+70,English,Lebanon,en-LB,en-LB,eng-LBN,eng-LBN,LuceneEnglishTokenizer
+71,English,Macao (China),en-MO,en-MO,eng-MAC,eng-MAC,LuceneEnglishTokenizer
+72,English,Malaysia,en-MY,en-MY,eng-MYS,eng-MYS,LuceneEnglishTokenizer
+73,English,Malta,en-MT,en-MT,eng-MLT,eng-MLT,LuceneEnglishTokenizer
+74,English,Mauritius,en-MU,en-MU,eng-MUS,eng-MUS,LuceneEnglishTokenizer
+75,English,New Zealand,en-NZ,en-NZ,eng-NZL,eng-NZL,LuceneEnglishTokenizer
+76,English,Nigeria,en-NG,en-NG,eng-NGA,eng-NGA,LuceneEnglishTokenizer
+77,English,Northern Ireland,en-GB-ulster,en-BU,eng-NIR,eng-NIR,LuceneEnglishTokenizer
+78,English,Oman,en-OM,en-OM,eng-OMN,eng-OMN,LuceneEnglishTokenizer
+79,English,Philippines,en-PH,en-PH,eng-PHL,eng-PHL,LuceneEnglishTokenizer
+80,English,Qatar,en-QA,en-QA,eng-QAT,eng-QAT,LuceneEnglishTokenizer
+81,English,Saudi Arabia,en-SA,en-SA,eng-SAU,eng-SAU,LuceneEnglishTokenizer
+82,English,Scotland,en-GB-scotland,en-AB,eng-SCO,eng-QSC,LuceneEnglishTokenizer
+83,English,Singapore,en-SG,en-SG,eng-SGP,eng-SGP,LuceneEnglishTokenizer
+84,English,South Africa,en-ZA,en-ZA,eng-ZAF,eng-ZAF,LuceneEnglishTokenizer
+85,English,Sweden,en-SE,en-SE,eng-SWE,eng-SWE,LuceneEnglishTokenizer
+86,English,Trinidad and Tobago,en-TT,en-TT,eng-TTO,eng-TTO,LuceneEnglishTokenizer
+87,English,United Arab Emirates (UAE),en-AE,en-AE,eng-ARE,eng-ARE,LuceneEnglishTokenizer
+88,English,United Kingdom (excluding Scotland),en-GB-x-excscotl,en-SU,eng-QUK,eng-QUK,LuceneEnglishTokenizer
+89,English,United States,en-US,en-US,eng-USA,eng-USA,LuceneEnglishTokenizer
+90,Estonian,Estonia,et-EE,et-EE,est-EST,est-EST,DefaultTokenizer
+91,Ewe,Ghana,ee-GH,ee-GH,ewe-GHA,ewe-GHA,DefaultTokenizer
+92,Farsi / Persian,Iran,fa-IR,fa-IR,fas-IRN,fas-IRN,LucenePersianTokenizer
+93,Finnish,Finland,fi-FI,fi-FI,fin-FIN,fin-FIN,LuceneFinnishTokenizer
+94,French,Belgium,fr-BE,fr-BE,fra-BEL,fra-BEL,LuceneFrenchTokenizer
+95,French,Burkina Faso,fr-BF,fr-BF,fra-BFA,fra-BFA,LuceneFrenchTokenizer
+96,French,Canada,fr-CA,fr-CA,fra-CAN,fra-CAN,LuceneFrenchTokenizer
+97,French,Congo (Democratic Republic of),fr-CD,fr-CD,fra-COD,fra-COD,LuceneFrenchTokenizer
+98,French,France,fr-FR,fr-FR,fra-FRA,fra-FRA,LuceneFrenchTokenizer
+99,French,Lebanon,fr-LB,fr-LB,fra-LBN,fra-LBN,LuceneFrenchTokenizer
+100,French,Luxembourg,fr-LU,fr-LU,fra-LUX,fra-LUX,LuceneFrenchTokenizer
+101,French,Niger,fr-NE,fr-NE,fra-NER,fra-NER,LuceneFrenchTokenizer
+102,French,Senegal,fr-SN,fr-SN,fra-SEN,fra-SEN,LuceneFrenchTokenizer
+103,French,Switzerland,fr-CH,fr-CH,fra-CHE,fra-CHE,LuceneFrenchTokenizer
+104,Western Niger Fulfulde,Burkina Faso,fuh-BF,fuh-BF,ful-BFA,ful-BFA,DefaultTokenizer
+105,Central-Eastern Niger Fulfulde,Niger,fuq-NE,fuq-NE,ful-NER,ful-NER,DefaultTokenizer
+106,Ga,Ghana,gaa-GH,gaa-GH,gaa-GHA,gaa-GHA,LuceneIrishTokenizer
+107,Galician,Spain,gl-ES,gl-ES,glg-ESP,glg-ESP,LuceneGalicianTokenizer
+108,Garifuna,Honduras,cab-HN,cab-HN,cab-HDN,cab-HDN,LuceneCatalanTokenizer
+109,Georgian,Georgia,ka-GE,ka-GE,kat-GEO,geo-GEO,DefaultTokenizer
+110,German,Austria,de-AT,de-AT,deu-AUT,deu-AUT,LuceneGermanTokenizer
+111,German,Belgium,de-BE,de-BE,deu-BEL,deu-BEL,LuceneGermanTokenizer
+112,German,Germany,de-DE,de-DE,deu-DEU,deu-DEU,LuceneGermanTokenizer
+113,German,Liechtenstein,de-LI,de-LI,deu-LIE,deu-LIE,LuceneGermanTokenizer
+114,German,Luxembourg,de-LU,de-LU,deu-LUX,deu-LUX,LuceneGermanTokenizer
+115,German,Switzerland,de-CH,de-CH,deu-CHE,deu-CHE,LuceneGermanTokenizer
+116,German,Italy,de-IT,de-IT,deu-ITA,deu-ITA,LuceneGermanTokenizer
+117,Greek,Albania,el-AL,el-AL,ell-ALB,ell-ALB,LuceneGreekTokenizer
+118,Greek,Cyprus,el-CY,el-CY,ell-CYP,ell-QCY,LuceneGreekTokenizer
+119,Greek,Greece,el-GR,el-GR,ell-GRC,ell-GRC,LuceneGreekTokenizer
+120,Guarani,Paraguay,gn-PY,gn-PY,grn-PRY,grn-PRY,DefaultTokenizer
+121,Gujarati,India,gu-IN,gu-IN,guj-IND,guj-IND,DefaultTokenizer
+122,Hausa,Ghana,ha-GH,ha-GH,hau-GHA,hau-GHA,DefaultTokenizer
+123,Hausa,Niger,ha-NE,ha-NE,hau-NER,hau-NER,DefaultTokenizer
+124,Hausa,Nigeria,ha-NG,ha-NG,hau-NGA,hau-NGA,DefaultTokenizer
+125,Hebrew,Israel,he-IL,he-IL,heb-ISR,heb-ISR,DefaultTokenizer
+126,Hiligaynon / Ilonggo,Philippines,hil-PH,hil-PH,hil-PHL,hil-PHL,LuceneHindiTokenizer
+127,Hindi,India,hi-IN,hi-IN,hin-IND,hin-IND,LuceneHindiTokenizer
+128,Hungarian,Hungary,hu-HU,hu-HU,hun-HUN,hun-HUN,LuceneHungarianTokenizer
+129,Hungarian,Romania,hu-RO,hu-RO,hun-ROU,hun-ROU,LuceneHungarianTokenizer
+130,Hungarian,Slovak Republic / Slovakia,hu-SK,hu-SK,hun-SVK,hun-SVK,LuceneHungarianTokenizer
+131,Hungarian,Slovenia,hu-SI,hu-SI,hun-SVN,hun-SVN,LuceneHungarianTokenizer
+132,Igbo / Ibo,Nigeria,ig-NG,ig-NG,ibo-NGA,ibo-NGA,DefaultTokenizer
+133,Icelandic,Iceland,is-IS,is-IS,isl-ISL,isl-ISL,DefaultTokenizer
+134,Indonesian,Indonesia,id-ID,id-ID,ind-IDN,ind-IDN,LuceneIndonesianTokenizer
+135,Gaelic / Irish,Ireland,ga-IE,ga-IE,gle-IRL,gle-IRL,LuceneIrishTokenizer
+136,isiXhosa / Xhosa,South Africa,xh-ZA,xh-ZA,xho-ZAF,xho-ZAF,DefaultTokenizer
+137,isiZulu / Zulu,South Africa,zu-ZA,zu-ZA,zul-ZAF,zul-ZAF,DefaultTokenizer
+138,Italian,Italy,it-IT,it-IT,ita-ITA,ita-ITA,LuceneItalianTokenizer
+139,Italian,Slovenia,it-SI,it-SI,ita-SVN,ita-SVN,LuceneItalianTokenizer
+140,Italian,Switzerland,it-CH,it-CH,ita-CHE,ita-CHE,LuceneItalianTokenizer
+141,Japanese,Japan,ja-JP,ja-JP,jpn-JPN,jpn-JPN,LuceneJapaneseTokenizer
+142,Juba Arabic / Sudanese Creole Arabic,South Sudan,pga-SS,pga-SS,pga-SSD,pga-SSD,DefaultTokenizer
+143,Kannada,India,kn-IN,kn-IN,kan-IND,kan-IND,DefaultTokenizer
+144,Kanuri,Niger,kr-NE,kr-NE,kau-NER,kau-NER,DefaultTokenizer
+145,Kazakh,Kazakhstan,kk-KZ,kk-KZ,kaz-KAZ,kaz-KAZ,DefaultTokenizer
+146,Khmer,Cambodia,km-KH,km-KH,khm-KHM,khm-KHM,DefaultTokenizer
+147,Kikongo / Kongo,Congo (Democratic Republic of),kg-CD,kg-CD,kon-COD,kon-COD,DefaultTokenizer
+148,Kinyarwanda,Rwanda,rw-RW,rw-RW,kin-RWA,kin-RWA,DefaultTokenizer
+149,Korean,Korea,ko-KR,ko-KR,kor-KOR,kor-KOR,LuceneKoreanTokenizer
+150,Kurdish,Iran,ku-IR,ku-IR,kur-IRN,kur-IRN,DefaultTokenizer
+151,Kurdish,Iraq,ku-IQ,ku-IQ,kur-IRQ,kur-IRQ,DefaultTokenizer
+152,Kurdish,Turkey,ku-TR,ku-TR,kur-TUR,kur-TUR,DefaultTokenizer
+153,Kyrgyz / Kirghiz,Kyrgyzstan,ky-KG,ky-KG,kir-KGZ,kir-KGZ,DefaultTokenizer
+154,Ladino,Italy,lad-IT,lad-IT,ldd-ITA,ldd-ITA,DefaultTokenizer
+155,Lao,Laos,lo-LA,lo-LA,lao-LAO,lao-LAO,DefaultTokenizer
+156,Latvian,Latvia,lv-LV,lv-LV,lav-LVA,lav-LVA,LuceneLatvianTokenizer
+157,Luxembourgish / Letzeburgesch,Luxembourg,lb-LU,lb-LU,ltz-LUX,ltz-LUX,DefaultTokenizer
+158,Lingala,Congo (Democratic Republic of),ln-CD,ln-CD,lin-COD,lin-COD,DefaultTokenizer
+159,Lithuanian,Lithuania,lt-LT,lt-LT,lit-LTU,lit-LTU,DefaultTokenizer
+160,Luganda / Ganda,Uganda,lg-UG,lg-UG,lgg-UGA,lgg-UGA,DefaultTokenizer
+161,Lugbara,Uganda,lgg-UG,lgg-UG,lug-UGA,lug-UGA,DefaultTokenizer
+162,Luo / Dholuo,Uganda,luo-UG,luo-UG,luo-UGA,luo-UGA,DefaultTokenizer
+163,Macedonian,Macedonia,mk-MK,mk-MK,mkd-MKD,mkd-MKD,DefaultTokenizer
+164,Macua / eMakhuwa,Mozambique,vmw-MZ,vmw-MZ,vmw-MOZ,vmw-MOZ,DefaultTokenizer
+165,Malay,Brunei Darussalam,ms-BN,ms-BN,msa-BRN,msa-BRN,DefaultTokenizer
+166,Malay,Malaysia,ms-MY,ms-MY,msa-MYS,msa-MYS,DefaultTokenizer
+167,Malay,Singapore,ms-SG,ms-SG,msa-SGP,msa-SGP,DefaultTokenizer
+168,Maltese,Malta,mt-MT,mt-MT,mlt-MLT,mlt-MLT,DefaultTokenizer
+169,Maori,New Zealand,mi-NZ,mi-NZ,mao-NZL,mao-NZL,DefaultTokenizer
+170,Marathi,India,mr-IN,mr-IN,mar-IND,mar-IND,DefaultTokenizer
+171,Mískito,Honduras,miq-HN,miq-HN,miq-HDN,miq-HDN,DefaultTokenizer
+172,Mongolian,Mongolia,mn-MN,mn-MN,mon-MNG,mon-MNG,DefaultTokenizer
+173,Mòoré / Mossi,Burkina Faso,mos-BF,mos-BF,mos-BFA,mos-BFA,DefaultTokenizer
+174,Ngulu,Mozambique,ngp-MZ,ngp-MZ,ngp-MOZ,ngp-MOZ,DefaultTokenizer
+175,Lomwe,Mozambique,ngl-MZ,ngl-MZ,ngl-MOZ,ngl-MOZ,DefaultTokenizer
+176,Norwegian Nynorsk,Norway,nn-NO,nn-NO,nno-NOR,nno-NOR,DefaultTokenizer
+177,Oriya / Odia,India,or-IN,or-IN,ori-IND,ori-IND,DefaultTokenizer
+178,Oromo / Oromiya,Ethiopia,om-ET,om-ET,orm-ETH,orm-ETH,DefaultTokenizer
+179,Pashto / Pushto,Afghanistan,ps-AF,ps-AF,pus-AFG,pus-AFG,DefaultTokenizer
+180,Pashto / Pushto,Pakistan,ps-PK,ps-PK,pus-PAK,pus-PAK,DefaultTokenizer
+181,Polish,Lithuania,pl-LT,pl-LT,pol-LTU,pol-LTU,DefaultTokenizer
+182,Polish,Poland,pl-PL,pl-PL,pol-POL,pol-POL,DefaultTokenizer
+183,Portuguese,Angola,pt-AO,pt-AO,por-AGO,por-AGO,LucenePortugueseTokenizer
+184,Portuguese,Brazil,pt-BR,pt-BR,por-BRA,por-BRA,LucenePortugueseTokenizer
+185,Portuguese,Macao (China),pt-MO,pt-MO,por-MAC,por-MAC,LucenePortugueseTokenizer
+186,Portuguese,Portugal,pt-PT,pt-PT,por-PRT,por-PRT,LucenePortugueseTokenizer
+187,Quechua,Peru,qu-PE,qu-PE,que-PER,que-PER,DefaultTokenizer
+188,Roma / Romany,Hungary,rom-HU,rom-HU,rom-HUN,rom-HUN,LuceneRomanianTokenizer
+189,Romanian / Moldavian / Moldovan,Moldova,ro-MD,ro-MD,ron-MDA,ron-MDA,LuceneRomanianTokenizer
+190,Romanian,Romania,ro-RO,ro-RO,ron-ROU,ron-ROU,LuceneRomanianTokenizer
+191,Runyankole Rukiga / Nyankole,Uganda,nyn-UG,nyn-UG,nyn-UGA,nyn-UGA,DefaultTokenizer
+192,Runyoro / Routooro / Nyoro,Uganda,nyo-UG,nyo-UG,nyo-UGA,nyo-UGA,DefaultTokenizer
+193,Russian,Azerbaijan,ru-AZ,ru-AZ,rus-AZE,rus-AZE,LuceneRussianTokenizer
+194,Russian,Estonia,ru-EE,ru-EE,rus-EST,rus-EST,LuceneRussianTokenizer
+195,Russian,Georgia,ru-GE,ru-GE,rus-GEO,rus-GEO,LuceneRussianTokenizer
+196,Russian,Israel,ru-IL,ru-IL,rus-ISR,rus-ISR,LuceneRussianTokenizer
+197,Russian,Kazakhstan,ru-KZ,ru-KZ,rus-KAZ,rus-KAZ,LuceneRussianTokenizer
+198,Russian,Kyrgyzstan,ru-KG,ru-KG,rus-KGZ,rus-KGZ,LuceneRussianTokenizer
+199,Russian,Latvia,ru-LV,ru-LV,rus-LVA,rus-LVA,LuceneRussianTokenizer
+200,Russian,Lithuania,ru-LT,ru-LT,rus-LTU,rus-LTU,LuceneRussianTokenizer
+201,Russian,Moldova,ru-MD,ru-MD,rus-MDA,rus-MDA,LuceneRussianTokenizer
+202,Russian,Russian Federation,ru-RU,ru-RU,rus-RUS,rus-RUS,LuceneRussianTokenizer
+203,Russian,Ukraine,ru-UA,ru-UA,rus-UKR,rus-UKR,LuceneRussianTokenizer
+204,Sangho / Sango,Central African Republic,sg-CF,sg-CF,sag-CAF,sag-CAF,DefaultTokenizer
+205,Sena / chiSena,Mozambique,seh-MZ,seh-MZ,seh-MOZ,seh-MOZ,DefaultTokenizer
+206,Serbian,Bosnia and Herzegovina,sr-BA,sr-BA,srp-BIH,srp-BIH,DefaultTokenizer
+207,Serbian,Croatia,sr-HR,sr-HR,srp-HRV,srp-HRV,DefaultTokenizer
+208,Serbian (Ekavian),Serbia,sr-RS,sr-RS,srp-SRB,srp-SRB,DefaultTokenizer
+209,Serbian (Yekavian),Montenegro,sr-ME,sr-ME,mne-MNE,mne-MNE,DefaultTokenizer
+210,Serbian,Kosovo,sr-XK,sr-XK,srp-KSV,srp-KSV,DefaultTokenizer
+211,Sesotho / Southern Sotho,South Africa,st-ZA,st-ZA,sot-ZAF,sot-ZAF,DefaultTokenizer
+212,Sesotho sa Leboa / Pedi / Northern Sotho / Sepedi,South Africa,nso-ZA,nso-ZA,nso-ZAF,nso-ZAF,DefaultTokenizer
+213,Setswana / Tswana,South Africa,tn-ZA,tn-ZA,tsn-ZAF,tsn-ZAF,DefaultTokenizer
+214,Shangaan / xiChangana / Tsonga,Mozambique,ts-MZ,ts-MZ,tso-MOZ,tso-MOZ,DefaultTokenizer
+215,Shona / chiShona,Mozambique,sn-MZ,sn-MZ,sna-MOZ,sna-MOZ,DefaultTokenizer
+216,Ndau,Mozambique,ndc-MZ,ndc-MZ,ndc-MOZ,ndc-MOZ,DefaultTokenizer
+217,Sindhi,Pakistan,sd-PK,sd-PK,snd-PAK,snd-PAK,DefaultTokenizer
+218,Sinhalese / Sinhala,Sri Lanka,si-LK,si-LK,sin-LKA,sin-LKA,DefaultTokenizer
+219,Slovak,Slovak Republic / Slovakia,sk-SK,sk-SK,slo-SVK,slo-SVK,DefaultTokenizer
+220,Slovenian,Austria,sl-AT,sl-AT,slv-AUT,slv-AUT,DefaultTokenizer
+221,Slovenian,Italy,sl-IT,sl-IT,slv-ITA,slv-ITA,DefaultTokenizer
+222,Slovenian,Slovenia,sl-SI,sl-SI,slv-SVN,slv-SVN,DefaultTokenizer
+223,Somali,Somalia,so-SO,so-SO,som-SOM,som-SOM,DefaultTokenizer
+224,Songhai-Zarma,Niger,dje-NE,dje-NE,dje-NER,dje-NER,DefaultTokenizer
+225,Spanish,Argentina,es-AR,es-AR,esp-ARG,esp-ARG,LuceneSpanishTokenizer
+226,Spanish,Bolivia,es-BO,es-BO,esp-BOL,esp-BOL,LuceneSpanishTokenizer
+227,Spanish,Chile,es-CL,es-CL,esp-CHL,esp-CHL,LuceneSpanishTokenizer
+228,Spanish,Colombia,es-CO,es-CO,esp-COL,esp-COL,LuceneSpanishTokenizer
+229,Spanish,Costa Rica,es-CR,es-CR,esp-CRI,esp-CRI,LuceneSpanishTokenizer
+230,Spanish,Dominican Republic,es-DO,es-DO,esp-DOM,esp-DOM,LuceneSpanishTokenizer
+231,Spanish,Ecuador,es-EC,es-EC,esp-ECU,esp-ECU,LuceneSpanishTokenizer
+232,Spanish,El Salvador,es-SV,es-SV,esp-SLV,esp-SLV,LuceneSpanishTokenizer
+233,Spanish,Guatemala,es-GT,es-GT,esp-GTM,esp-GTM,LuceneSpanishTokenizer
+234,Spanish,Honduras,es-HN,es-HN,esp-HND,esp-HND,LuceneSpanishTokenizer
+235,Spanish,Mexico,es-MX,es-MX,esp-MEX,esp-MEX,LuceneSpanishTokenizer
+236,Spanish,Nicaragua,es-NI,es-NI,esp-NIC,esp-NIC,LuceneSpanishTokenizer
+237,Spanish,Panama,es-PA,es-PA,esp-PAN,esp-PAN,LuceneSpanishTokenizer
+238,Spanish,Paraguay,es-PY,es-PY,esp-PRY,esp-PRY,LuceneSpanishTokenizer
+239,Spanish,Peru,es-PE,es-PE,esp-PER,esp-PER,LuceneSpanishTokenizer
+240,Spanish,Puerto Rico,es-PR,es-PR,esp-PRI,esp-PRI,LuceneSpanishTokenizer
+241,Spanish,Spain,es-ES,es-ES,esp-ESP,esp-ESP,LuceneSpanishTokenizer
+242,Spanish,Uruguay,es-UY,es-UY,esp-URY,esp-URY,LuceneSpanishTokenizer
+243,Spanish,Venezuela,es-VE,es-VE,esp-VEN,esp-VEN,LuceneSpanishTokenizer
+244,Swahili,Congo (Democratic Republic of),sw-CD,sw-CD,swa-COD,swa-COD,DefaultTokenizer
+245,Swahili,Kenya,sw-KE,sw-KE,swa-KEN,swa-KEN,DefaultTokenizer
+246,Swedish,Finland,sv-FI,sv-FI,swe-FIN,swe-FIN,LuceneSwedishTokenizer
+247,Swedish,Sweden,sv-SE,sv-SE,swe-SWE,swe-SWE,LuceneSwedishTokenizer
+248,Tagalog,Philippines,tl-PH,tl-PH,tgl-PHL,tgl-PHL,DefaultTokenizer
+249,Tawallammat Tamajaq,Niger,ttq-NE,ttq-NE,ttq-NER,ttq-NER,DefaultTokenizer
+250,Tamil,India,ta-IN,ta-IN,tam-IND,tam-IND,DefaultTokenizer
+251,Tamil,Malaysia,ta-MY,ta-MY,tam-MYS,tam-MYS,DefaultTokenizer
+252,Tamil,Singapore,ta-SG,ta-SG,tam-SGP,tam-SGP,DefaultTokenizer
+253,Tamil,Sri Lanka,ta-LK,ta-LK,tam-LKA,tam-LKA,DefaultTokenizer
+254,Telugu,India,te-IN,te-IN,tel-IND,tel-IND,DefaultTokenizer
+255,Thai,Thailand,th-TH,th-TH,tha-THA,tha-THA,LuceneThaiTokenizer
+256,Tigrinya,Eritrea,ti-ER,ti-ER,tir-ERI,tir-ERI,DefaultTokenizer
+257,Tigrinya,Ethiopia,ti-ET,ti-ET,tir-ETH,tir-ETH,DefaultTokenizer
+258,Tshiluba / Luba-Lulua,Congo (Democratic Republic of),lua-CD,lua-CD,lua-COD,lua-COD,DefaultTokenizer
+259,Turkish,Turkey,tr-TR,tr-TR,tur-TUR,tur-TUR,LuceneTurkishTokenizer
+260,Ukrainian,Ukraine,uk-UA,uk-UA,ukr-UKR,ukr-UKR,DefaultTokenizer
+261,Umbundu,Angola,umb-AO,umb-AO,umb-AGO,,DefaultTokenizer
+262,Urdu,Pakistan,ur-PK,ur-PK,urd-PAK,urd-PAK,DefaultTokenizer
+263,Uzbek,Kyrgyzstan,uz-KG,uz-KG,uzb-KGZ,uzb-KGZ,DefaultTokenizer
+264,Uzbek,Uzbekistan,uz-UZ,uz-UZ,uzb-UZB,uzb-UZB,DefaultTokenizer
+265,Valencian,Spain,ca-ES-valencia,ca-VL,val-ESP,val-ESP,LuceneCatalanTokenizer
+266,Vietnamese,Vietnam,vi-VN,vi-VN,vie-VNM,vie-VNM,DefaultTokenizer
+267,Welsh,United Kingdom (Wales),cy-GB,cy-GB,cym-GBR,cym-QUK,DefaultTokenizer
+268,Wolof,Senegal,wo-SN,wo-SN,wol-SEN,wol-SEN,DefaultTokenizer
+269,Yoruba,Nigeria,yo-NG,yo-NG,yor-NGA,yor-NGA,DefaultTokenizer
+270,Zedish,Zedland,zd-ZD,zd-ZD,zed-ZDL,zed-ZDL,DefaultTokenizer
+271,Faroese,Denmark,fo-DK,fo-DK,fao-DNK,fao-DNK,DefaultTokenizer
+272,English,Luxembourg,en-LU,en-LU,eng-LUX,eng-LUX,LuceneEnglishTokenizer
+273,English,SOURCE,en-ZZ,en-ZZ,eng-ZZZ,eng-ZZZ,LuceneEnglishTokenizer
+274,French,SOURCE,fr-ZZ,fr-ZZ,fra-ZZZ,fra-ZZZ,LuceneFrenchTokenizer
+275,Arabic,INTERNATIONAL,ar-ZZ,ar-ZZ,ara-ZZZ,ara-ZZZ,LuceneArabicTokenizer
+276,Spanish,INTERNATIONAL,es-ZZ,es-ZZ,esp-ZZZ,esp-ZZZ,LuceneSpanishTokenizer
+277,Chinese (traditional),INTERNATIONAL,zh-Hant-ZZ,zh-ZZ,zho-ZZZ,zho-ZZZ,LuceneSmartChineseTokenizer
+280,Azerbaijani,Baku,az-QZ,az-QZ,aze-QAZ,aze-QAZ,DefaultTokenizer
+281,Bambara,Mali,bm-ML,bm-ML,bam-MLI,bam-MLI,DefaultTokenizer
+282,Nepali,Nepal,ne-NP,ne-NP,nep-NPL,nep-NPL,DefaultTokenizer
+283,Kurdish,Kurdistan,ku,ku-KU,kur-KUR,,DefaultTokenizer
+284,Swahili,Tanzania,sw-TZ,sw-TZ,swa-TZA,,DefaultTokenizer
+285,Sudanese Arabic,Sudan,apd-SD,apd-SD,ara-SDN,,DefaultTokenizer
+286,Spanish,Trinidad and Tobago,es-TT,es-TT,esp-TTO,,LuceneSpanishTokenizer
+287,Russian,Belarus,ru-BY,ru-BY,rus-BLR,rus-BLR,LuceneRussianTokenizer
+288,Belarusian,Belarus,be-BY,be-BY,bel-BLR,bel-BLR,DefaultTokenizer
+290,English,Rwanda,en-RW,en-RW,eng-RWA,,LuceneEnglishTokenizer
+291,English,Canada (Ontario),en-CA-ontario,en-ON,eng-ONT,,LuceneEnglishTokenizer
+292,English,Chinese Taipei / Taiwan,en-TW,en-TW,eng-TAP,eng-TAP,LuceneEnglishTokenizer
+293,Ilocano / Iloko,Philippines,ilo-PH,ilo-PH,ilo-PHL,,DefaultTokenizer
+294,English,Abu Dhabi (UAE),en-AE-abudhabi,en-AD,eng-UAE,,LuceneEnglishTokenizer
+295,French,Rwanda,fr-RW,fr-RW,fra-RWA,,LuceneFrenchTokenizer
+296,French,Tunisia,fr-TN,fr-TN,fra-TUN,,LuceneFrenchTokenizer
+297,French,Dubai (UAE),fr-AE-dubai,fr-DU,fra-ARE,,LuceneFrenchTokenizer
+298,English,Brunei Darussalam,en-BN,en-BN,eng-BRN,eng-BRN,LuceneEnglishTokenizer
+299,Javanese,Indonesia,jv-ID,jv-ID,jav-IDN,,DefaultTokenizer
+300,English,Egypt,en-EG,en-EG,eng-EGY,eng-EGY,LuceneEnglishTokenizer
+301,Malayalam,India,ml-IN,ml-IN,mal-IND,,DefaultTokenizer
+302,English,Spain (Madrid),en-ES-madrid,en-ES,eng-ESP,eng-ESP,LuceneEnglishTokenizer
+303,Punjabi / Panjabi,India,pa-IN,pa-IN,pan-IND,,DefaultTokenizer
+304,Arabic,Lebanon,ar-LB,ar-LB,ara-LBN,,LuceneArabicTokenizer
+305,Burmese,Myanmar,my-MM,my-MM,bur-MMR,,DefaultTokenizer
+306,Dutch,INTERNATIONAL,nl-ZZ,nl-ZZ,nld-ZZZ,,LuceneDutchTokenizer
+307,Chinese (simplified),INTERNATIONAL,zh-Hans-ZZ,zh-ZS,zhs-ZZZ,,LuceneSmartChineseTokenizer
+308,English,Sri Lanka,en-LK,en-LK,eng-LKA,,LuceneEnglishTokenizer
+309,English,Norway,en-NO,en-NO,eng-NOR,,LuceneEnglishTokenizer
+310,English,Zambia,en-ZM,en-ZM,eng-ZMB,,LuceneEnglishTokenizer
+311,English (UK),Kuwait,en-KW-ukeng,enk-KW,enk-KWT,,LuceneEnglishTokenizer
+312,English (US),Kuwait,en-KW-useng,eng-KW,ens-KWT,,LuceneEnglishTokenizer
+313,Gaelic / Irish,Northern Ireland,ga-GB,ga-GB,gle-NIR,,LuceneIrishTokenizer
+314,German,INTERNATIONAL,de-ZZ,de-ZZ,deu-ZZZ,,LuceneGermanTokenizer
+315,Greek,INTERNATIONAL,el-ZZ,el-ZZ,ell-ZZZ,,LuceneGreekTokenizer
+316,Kazakh,Mongolia,kk-MN,kk-MN,kaz-MNG,,DefaultTokenizer
+317,Russian,INTERNATIONAL,ru-ZZ,ru-ZZ,rus-ZZZ,,LuceneRussianTokenizer
+320,Creole,Haiti,ht-HT,ht-HT,hat-HAT,hat-HAT,DefaultTokenizer
+321,Spanish,United States,es-US,es-US,esp-USA,esp-USA,LuceneSpanishTokenizer
+322,Malagasy,Madagascar,mg-MG,mg-MG,mlg-MLG,,DefaultTokenizer
+323,Assamese,India,as-IN,as-IN,asm-IND,,DefaultTokenizer
+326,Spanish,Latin America,es-419,es-LX,esp-LAT,,LuceneSpanishTokenizer
+327,Kashmiri,India,ks-IN,ks-IN,kas-IND,,DefaultTokenizer
+328,Manipuri / Meitei,India,mni-IN,mni-IN,mni-IND,,DefaultTokenizer
+329,Manipuri (Bishnupriya),India,bpy-IN,bpy-IN,bpy-IND,,DefaultTokenizer
+330,Waray,Philippines,war-PH,war-PH,war-PHL,,DefaultTokenizer
+331,Serer,Senegal,srr-SN,srr-SN,srr-SEN,,DefaultTokenizer
+332,Pulaar / Peul,Senegal,fuc-SN,fuc-SN,fuc-SEN,,DefaultTokenizer
+333,Dyola / Jola-Fonyi,Senegal,dyo-SN,dyo-SN,dyo-SEN,,DefaultTokenizer
+334,Mandinka / Mandingue,Senegal,mnk-SN,mnk-SN,mnk-SEN,,DefaultTokenizer
+336,Pidgin English,Nigeria,pcm-NG,pcm-NG,pcm-NGA,,DefaultTokenizer
+337,Chichewa / Nyanja,Malawi,ny-MW,ny-MW,nya-MWI,,DefaultTokenizer
+338,Tumbuka,Malawi,tum-MW,tum-MW,tum-MWI,,DefaultTokenizer
+339,French,Cameroon,fr-CM,fr-CM,fra-CMR,,LuceneFrenchTokenizer
+340,Fulfulde / Adamawa,Cameroon,fub-CM,fub-CM,fub-CMR,,DefaultTokenizer
+341,Masbatenyo,Philippines,msb-PH,msb-PH,msb-PHL,,DefaultTokenizer
+342,Tausug,Philippines,tsg-PH,tsg-PH,tsg-PHL,,DefaultTokenizer
+343,Catalan,Andorra,ca-AD,ca-AD,cat-AND,,LuceneCatalanTokenizer
+346,Dzongkha,Bhutan,dz-BT,dz-BT,dzo-BTN,dzo-BTN,DefaultTokenizer
+347,Nepali,India,ne-IN,ne-IN,nep-IND,,DefaultTokenizer
+348,English,Bhutan,en-BT,en-BT,eng-BTN,eng-BTN,LuceneEnglishTokenizer
+349,Estonian for Russian Schools,Estonia,et-EE-x-russchoo,et-EQ,qes-EST,qes-EST,DefaultTokenizer
+350,Slovenian ISCED-2,Slovenia,sl-SI-x-isced2,sl-SQ,qsl-SVN,qsl-SVN,DefaultTokenizer
+351,Russian,Baku,ru-QZ,ru-QZ,rus-QAZ,rus-QAZ,LuceneRussianTokenizer
+352,English,Panama,en-PA,en-PA,eng-PAN,eng-PAN,LuceneEnglishTokenizer
+353,French,Marocco,fr-MA,fr-MA,fra-MAR,fra-MAR,LuceneFrenchTokenizer
+354,Hungarian,Serbia,hu-RS,hu-RS,hun-SRB,hun-SRB,LuceneHungarianTokenizer
+356,English,United Kingdom,en-GB,en-GB,eng-GBR,eng-GBR,LuceneEnglishTokenizer
+357,Fon,Benin,fon-BJ,fon-BJ,fon-BEN,,DefaultTokenizer
+358,Anago (Ifè),Benin,ife-BJ,ife-BJ,ife-BEN,,DefaultTokenizer
+359,Bariba (Baatonum),Benin,bba-BJ,bba-BJ,bba-BEN,,DefaultTokenizer
+360,Frisian,Netherlands,fy-NL,fy-NL,fry-NLD,,DefaultTokenizer
+361,Portuguese,Mozambique,pt-MZ,pt-MZ,por-MOZ,por-MOZ,LucenePortugueseTokenizer
+362,English,Jamaica,en-JM,en-JM,eng-JAM,eng-JAM,LuceneEnglishTokenizer
+363,Portuguese,Timor-Leste,pt-TL,pt-TL,por-TLS,por-TLS,LucenePortugueseTokenizer
+364,Tetum,Timor-Leste,tet-TL,tet-TL,tet-TLS,tet-TLS,DefaultTokenizer
+365,Indonesian,Timor-Leste,id-TL,id-TL,ind-TLS,ind-TLS,LuceneIndonesianTokenizer
+366,Konkani,India,kok-IN,kok-IN,kok-IND,,LuceneKoreanTokenizer
+367,Urdu,India,ur-IN,ur-IN,urd-IND,,DefaultTokenizer
+368,Mizo (or Lushai  Lusei),India,lus-IN,lus-IN,lus-IND,,DefaultTokenizer
+369,Russian,Uzbekistan,ru-UZ,ru-UZ,rus-UZB,rus-UZB,DefaultTokenizer
