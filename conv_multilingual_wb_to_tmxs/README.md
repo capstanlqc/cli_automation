@@ -1,17 +1,19 @@
 # Convert multilingual workbook to multiple TMX files [task 20.3000]
 
-Input: multilingual spreadsheet
-Ouput: one TMX file per language pair
-
 This script converts the multilingual workbook into as many TMX files as target languages (or language pairs) it contains.
 
-TODO:
-* remove markup (TBC by you!)
-* segment the cells whenever possible
+* Input: multilingual spreadsheet
+* Ouput: one TMX file per language pair
 
-The utility is not a webapp (but will be part of cApps if necessary — if requests like this abound). For the time being the PM needs to send the request by email and I run the thing on demand. If I happen not to be available, Adrien could run it too in the server.
+To know how this utility must be run:
 
-The first worksheet in the workbok must be called `config` and include the following options, to be updated by the PM.
+```
+python3 conv_xlsx2tmx.py --help
+```
+
+The utility is not a webapp (but will be part of cApps if necessary — if requests like this abound). For the time being the PM needs to send the request by email and I run the thing on demand. If Manuel happens not to be available, Adrien could run it too in the server.
+
+The first worksheet in the workbook must be called `config` and include the following options, to be updated by the PM.
 
 
 | KEY                    | VALUE                            | DESCRIPTION |
@@ -31,4 +33,7 @@ The first worksheet in the workbok must be called `config` and include the follo
 
 Workbook template: [multilingual_tmwb_template.xlsx](multilingual_tmwb_template.xlsx)
 
-    I will document the process and make available a template of spreadsheet for this automation. For the time being, simply review these options, and if you want to change any, please update the file in the server. No need to make a new copy of the file.
+TODO:
+* remove markup (TBC by you!)
+* segment the cells whenever possible
+* clean up tags
