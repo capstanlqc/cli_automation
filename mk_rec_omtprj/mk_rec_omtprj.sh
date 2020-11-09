@@ -11,11 +11,11 @@ do
     esac
 done
 
-cd $dir
+cd $dir/_tech
 # cd /media/data/data/company/PISA_2021/FIELD_TRIAL/_Global_Crises_Module/0_Central_translation/01_Translate_workflows
 
 #path_to_prop_tmpls="/media/data/data/company/PISA_2021/PISA_2021/FIELD_TRIAL/99_Automation/01_util/omt_bash/mk_rec_omtprj/_tmpl/proj_props.txt"
-if [ ! -f "proj_props.txt" ]
+if [ -f "proj_props.txt" ]
 then
     # that defines variables t1_dir, t2_dir, rec_dir, t1_pkg_tmpl, t2_pkg_tmpl, t1_tmx_tmpl, t2_tmx_tmpl
     while read -r line; do declare "$line"; done < proj_props.txt
@@ -24,8 +24,13 @@ else
     exit 1
 fi
 
+# to come back to $dir
+cd ..
+
+# check properties fetched
 if [ ! -v t1_dir ] || [ ! -v t2_dir ] || [ ! -v rec_dir ] || [ ! -v t1_pkg_tmpl ] || [ ! -v t2_pkg_tmpl ] || [ ! -v t1_tmx_tmpl ] || [ ! -v t2_tmx_tmpl ]
 then
+	echo "Some property is missing"
     exit 1
 fi
 
@@ -47,8 +52,8 @@ do
 
     t1_prj_pkg="${t1_pkg_tmpl/lll-CCC/$ver}"
     t2_prj_pkg="${t2_pkg_tmpl/lll-CCC/$ver}"
-    t1_tmx="${t1_tmx/lll-CCC/$ver}"
-    t2_tmx="${t2_tmx/lll-CCC/$ver}"
+    t1_tmx="${t1_tmx_tmpl/lll-CCC/$ver}"
+    t2_tmx="${t2_tmx_tmpl/lll-CCC/$ver}"
     rec_prj_pkg="${t2_prj_pkg/_Translator2.omt/.omt}"
 
     # reconclation for this version = if the reconciliation folder exists
