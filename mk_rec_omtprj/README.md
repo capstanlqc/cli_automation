@@ -45,12 +45,13 @@ A template for the `proj_props.txt` can be downloaded from [here](https://raw.gi
 
 ## Business logic
 
-As a pre-condition, the script will check for the existence and contents of the properties file. If the file is not found or some key is not found in it, the process will stop. Otherwise it will continue.
+As a pre-condition, the script will check for the existence and contents of the properties file. If the file is not found or some key is not found in it, the process will stop.
 
-For each version folder under the working directory, the script will check whether there is a subfolder for reconciliation (i.e. with key `rec_dir` in the properties).
-* If there is no such folder, it is assumed that no reconciliation happens for that version and nothing will be done for that version.
-* If reconciliation applies for that version, the script will check inside the reconciliation folder whether there is a OMT package there.
-    * If there is a OMT package inside the reconcilation subfolder, it is assumed that the package for reconciliation has already been created, and nothing else will be done for that version.
-    * If there is no OMT package inside the reconciliation subfolder, the script will check whether there is one OMT package inside the translation 1 subfolder (i.e. with key `t1_dir` in the properties) and one OMT package inside the translation 2 subfolder (i.e. with key `t2_dir` in the properties).
-        * If one or both of the translation packages are not found there, nothing else will be done for that version.
-        * If the two translation packages are found there, (here comes the real action) the script will create the package for reconciliation under the reconciliation subfolder including the master TMs from each translation.
+Then, for each version folder under the working directory:
+1. The script will check whether there is a subfolder for reconciliation (i.e. with key `rec_dir` in the properties).
+	* If there is no such folder, it is assumed that no reconciliation happens for that version and nothing will be done for that version.
+2. If reconciliation applies for that version, the script will check inside the reconciliation folder whether there is a OMT package there.
+	* If there is a OMT package inside the reconcilation subfolder, it is assumed that the package for reconciliation has already been created, and nothing else will be done for that version.
+3. If there is no OMT package inside the reconciliation subfolder, the script will check whether there is one OMT package inside the translation 1 subfolder (i.e. with key `t1_dir` in the properties) and one OMT package inside the translation 2 subfolder (i.e. with key `t2_dir` in the properties).
+	* If one or both of the translation packages are not found there, nothing else can/will be done for that version.
+4. If the two translation packages are found in the translation 1 and 2 subfolders, (here comes the real action) the package for reconciliation will be created under the reconciliation subfolder including the master TMs from each translation.
