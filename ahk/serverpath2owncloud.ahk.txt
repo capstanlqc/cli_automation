@@ -1,0 +1,26 @@
+; legend: 
+; # = Win
+; ! = Alt
+; ^ = Ctrl
+; + = Shift
+
+; this script turns WIndows paths to Linux/Unix paths (\ -> /)
+; it is triggered with Ctrl+Shift+7
+
+^+o:: 
+	; This erases the clipboard, so that we can be sure something new is added in the next step.
+	Clipboard =
+	; Add the highlighted text to the clipboard
+	Send, ^c 
+	; Gets the title of the active window
+ 	WinGetTitle, CurrentWinTitle
+ 	; Give Windows time to actually populate the clipboard - you may need to experiment with the time here.
+	ClipWait, 2
+ 	; Edits the clipboard contents
+	Clipboard := StrReplace(Clipboard, "\", "/")
+	Clipboard := StrReplace(Clipboard, "//192.168.67.50/data/company/", "https://owncloud.capstan.be:4430/index.php/apps/files?dir=/Babylon/")
+	; Makes sure you are still in the original window.
+ 	WinActivate, %CurrentWinTitle%    
+	; Pastes the (now modified) contents of the clipboard
+ 	Send, ^v    
+return

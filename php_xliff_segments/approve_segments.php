@@ -1,10 +1,12 @@
 #!/usr/bin/php
-<?php 
+<?php
+
+## use add_approved.php (lastest version, check email or server) instead of this
 
 // navigate to the directory contianing the XLIFF files
 ## cd path/to/folder
-// run the script like this: 
-## php -f path/to/approved_segments.php file.xlf 
+// run the script like this:
+## php -f path/to/approved_segments.php file.xlf
 // to do it in all files in the directory (in the linux terminal):
 ## for f in $( ls ); do php -f /mnt/c/Users/manuel/Dropbox/Scripts/PHP/approve_segments.php $f; done
 
@@ -18,7 +20,7 @@ $text = file_get_contents($file, true);
 
 // add approved="yes" to a trans-unit node if not found
 $text = preg_replace('/(<trans-unit (?!.*?approved).*)\K(?=>)/', ' approved="yes"', $text);
-// turn approved="no" to "yes" in a trans-unit if 
+// turn approved="no" to "yes" in a trans-unit if
 $text = preg_replace('/<trans-unit [^>]+\Kapproved="no"/', 'approved="yes"', $text);
 
 // write the contents back to the file
