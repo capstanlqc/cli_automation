@@ -1,4 +1,4 @@
-# CGI2: add COG TMs to CG OMT
+# CGI2 -- Adding COG TMs to CG OMT
 
 This script will fetch master TMs from an COG OmegaT project and add them to an CG OmegaT project,  under `/tm/auto/COG`.
 
