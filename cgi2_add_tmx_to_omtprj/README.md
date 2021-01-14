@@ -12,6 +12,10 @@ This script will fetch master TMs from an COG OmegaT project and add them to an 
 | CG            | Coding Guide                        |
 | COG           | Cognitive Units              |
 
+## Files 
+
+The script can be found at `U:\PISA_2021\FIELD_TRIAL`.
+
 ## Steps
 
 1. Put the CG OMT package from the PISA portal in the `CCC_lll/4_CODING_GUIDES/00_FROM_ETS/` folder (for example `ESP_esp/4_CODING_GUIDES/00_FROM_ETS/`)
