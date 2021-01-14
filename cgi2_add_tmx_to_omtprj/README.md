@@ -6,7 +6,7 @@ Change directory to ...
 
 Run the script: 
 
-`> bash /path/to/CGI2.sh`
+`bash /path/to/CGI2.sh`
 
 The script will ask you: 
 
