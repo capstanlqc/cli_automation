@@ -28,4 +28,4 @@ The script can be found at `U:\PISA_2021\FIELD_TRIAL`.
 
 ## Support
 
-For any issues, please contact  [Adrien Mathot](adrien.mathot@capstan.be)   
+For any issues or questions, please contact  [Adrien Mathot](adrien.mathot@capstan.be).
