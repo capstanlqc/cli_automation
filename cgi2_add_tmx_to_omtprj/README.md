@@ -2,6 +2,9 @@
 
 This script will fetch master TMs from an COG OmegaT project and add them to an CG OmegaT project,  under `/tm/auto/COG`.
 
+* Author:      Adrien Mathot      |
+* Creation:    Cognitive Units              
+
 ## Legend 
 
 | Abbreviation              | Meaning                       |
@@ -18,3 +21,7 @@ This script will fetch master TMs from an COG OmegaT project and add them to an 
 5. The script will check that the CG package exists, and will check if there are no duplicate packages in the COG projects. If there is a problem the script will exit
 6. The script updates the CG package for the selected domain
 7. You can find the updated package in `CCC_lll/4_CODING_GUIDES/00_TO_COUNTRY`/ (example `ESP_esp/4_CODING_GUIDES/00_TO_COUNTRY/`)
+
+## Support
+
+For any issues, please contact  [Adrien Mathot](adrien.mathot@capstan.be)   
