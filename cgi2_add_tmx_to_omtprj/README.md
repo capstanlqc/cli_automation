@@ -1,21 +1,20 @@
 # CGI2
 
-This script will 
+This script will fetch master TMs from an COG OmegaT project and add them to an CG OmegaT project,  under `/tm/auto/COG`.
 
-Change directory to ... 
+## Legend 
 
-Run the script: 
+| Abbreviation              | Meaning                       |
+|:-----------------------|:---------------------------------|
+| CG            | Coding Guide                        |
+| COG           | Cognitive Units              |
 
-`bash /path/to/CGI2.sh`
+## Steps
 
-The script will ask you: 
-
-`Please type the language code for the project you want to create the coding guide package:`
-
-
-cApStAn code or OmegaT code?
-
-
-What are the other two files? 
-
-CGI2.sh, CGI2.sh.x, CGI2T.sh..
+1. Put the CG OMT package from the PISA portal in the `CCC_lll/4_CODING_GUIDES/00_FROM_ETS/` folder (for example `ESP_esp/4_CODING_GUIDES/00_FROM_ETS/`)
+2. Run the script
+3. Once the script has started it will ask you for the language code **in CCC_lll format** (example `ESP_esp`)
+4. The script will show you a list of domains, select the domain for which you want to update the CG package (e.g. 3 for New Math)
+5. The script will check that the CG package exists, and will check if there are no duplicate packages in the COG projects. If there is a problem the script will exit
+6. The script updates the CG package for the selected domain
+7. You can find the updated package in `CCC_lll/4_CODING_GUIDES/00_TO_COUNTRY`/ (example `ESP_esp/4_CODING_GUIDES/00_TO_COUNTRY/`)
