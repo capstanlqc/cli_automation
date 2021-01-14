@@ -14,7 +14,7 @@ This script will fetch master TMs from an COG OmegaT project and add them to an 
 
 ## Files 
 
-The script can be found at `U:\PISA_2021\FIELD_TRIAL`.
+The script can be found at `U:\PISA_2021\FIELD_TRIAL`. The file is called `CGI2.sh`.
 
 ## Steps
 
