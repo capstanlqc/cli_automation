@@ -3,7 +3,7 @@
 This script will fetch master TMs from an COG OmegaT project and add them to an CG OmegaT project,  under `/tm/auto/COG`.
 
 * Author:      Adrien Mathot      |
-* Creation:    Cognitive Units              
+* Creation:    2020/05/15    
 
 ## Legend 
 
