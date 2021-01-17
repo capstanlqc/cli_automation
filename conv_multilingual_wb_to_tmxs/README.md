@@ -1,4 +1,5 @@
-# Convert multilingual workbook to multiple TMX files [task 20.3000]
+# Convert multilingual workbook to multiple TMX files 
+<!--- [task 20.3000] -->
 
 This script converts the multilingual workbook into as many TMX files as target languages (or language pairs) it contains.
 
