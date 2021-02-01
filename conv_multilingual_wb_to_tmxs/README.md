@@ -34,7 +34,7 @@ The first worksheet in the workbook must be called `config` and include the foll
 
 <!-- Workbook template: [multilingual_tmwb_template.xlsx](multilingual_tmwb_template.xlsx) -->
 
-Workbook template: [https://github.com/msoutopico/cli_automation/raw/master/conv_multilingual_wb_to_tmxs/multilingual_tmwb_template.xlsx](multilingual_tmwb_template.xlsx) 
+Workbook template: [multilingual_tmwb_template.xlsx](https://github.com/msoutopico/cli_automation/raw/master/conv_multilingual_wb_to_tmxs/multilingual_tmwb_template.xlsx)
 
 
 
