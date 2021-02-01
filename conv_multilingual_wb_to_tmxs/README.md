@@ -32,7 +32,11 @@ The first worksheet in the workbook must be called `config` and include the foll
 | header_row             | 0                                | Integer: Indicate the row containing the language codes. Starts with index 0 (row 1).                             |
 | comment_column         |                                  | Letter or string: Indicate whether any column contains a comment or description that   should be included in every translation unit. Add letter name of the column   or exact text content of the cell at the `header_row`.                                                                                                                   |
 
-Workbook template: [multilingual_tmwb_template.xlsx](multilingual_tmwb_template.xlsx)
+<!-- Workbook template: [multilingual_tmwb_template.xlsx](multilingual_tmwb_template.xlsx) -->
+
+Workbook template: [https://github.com/msoutopico/cli_automation/raw/master/conv_multilingual_wb_to_tmxs/multilingual_tmwb_template.xlsx](multilingual_tmwb_template.xlsx) 
+
+
 
 TODO:
 * remove markup (TBC by you!)
