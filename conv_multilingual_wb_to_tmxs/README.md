@@ -9,7 +9,7 @@ This script converts the multilingual workbook into as many TMX files as target 
 To know how this utility must be run:
 
 ```
-python3 conv_xlsx2tmx.py --help
+python3 conv_xls2tmx.py --help
 ```
 
 The utility is not a webapp (but will be part of cApps if necessary — if requests like this abound). For the time being the PM needs to send the request by email and I run the thing on demand. If Manuel happens not to be available, Adrien could run it too in the server.
