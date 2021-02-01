@@ -38,7 +38,7 @@ Workbook template: [multilingual_tmwb_template.xlsx](https://github.com/msoutopi
 
 
 
-TODO:
+## TODO list:
 * remove markup (TBC by you!)
 * segment the cells whenever possible
 * clean up tags
