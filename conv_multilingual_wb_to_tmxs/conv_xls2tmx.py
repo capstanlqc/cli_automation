@@ -25,7 +25,7 @@ import pandas
 
 # ############# PROGRAM DESCRIPTION ###########################################
 
-text = "This TM Workbook Converter: it takes a spreadsheet/workbook where each \
+text = "This is TM Workbook Converter: it takes a spreadsheet/workbook where each \
 column contains a language version and produces as many TMX files as target \
 languages the workbook has."
 
