@@ -15,6 +15,19 @@
 #  You should have received a copy of the GNU General Public License
 #  along with cApps.  If not, see <https://www.gnu.org/licenses/>.
 
+# ############# AUTHORSHIP INFO ###########################################
+
+__author__ = "Manuel Souto Pico"
+__copyright__ = "Copyright 2021, cApps/cApStAn"
+__credits__ = ["Manuel Souto Pico"]
+__license__ = "GPL"
+__version__ = "0.0.2"
+__maintainer__ = "Manuel Souto Pico"
+__email__ = "manuel.souto@capstan.be"
+__status__ = "Testing / pre-production" # "Production"
+
+# ############# IMPORTS ###########################################
+
 import re
 import argparse
 import xlrd
