@@ -1,0 +1,1190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx version="1.4">
+  <header creationtool="cApps" creationtoolversion="2021.02" segtype="paragraph" adminlang="en" datatype="HTML" srclang="en-GB" o-tmf="omt"></header>
+  <body>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Motorbike</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>Mootorratas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Urban public transport (bus, metro, tram, ferry, etc.)</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>Linna ühistransport (buss, tramm, troll)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Walking</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>Käite jala</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Would you say you are…?</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>Kas Te ütleksite, et Te olete …?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Not at all satisfied</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>Üldse ei ole rahul</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Road infrastructure</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>Teede infrastruktuur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Manual worker</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>Tööline (füüsiline töö)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>DK/NA (DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>EI OSKA ÖELDA/VASTUS PUUDUB</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Education and training</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>Haridus ja koolitus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Married or cohabiting couple, with one or more children living at home</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>Abielus või kooselav paar, kellel on üks või enam kodus elavat last</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Generally speaking, most people in my neighborhood can be trusted</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>Üldiselt rääkides, võib enamikku minu naabruskonna inimestest usaldada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>In which city/borough/commune do you live?</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>Mis linnas/alevis/vallas Te elate?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>How old are you?</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>Kui vana Te olete?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>ASK D5b IF SELF-EMPLOYED, CODE 1 IN D5a</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>KÜSIGE D5b, KUI ON ISEENDALE TÖÖANDJA, KOOD 1 KÜSIMUSES D5a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Safety</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>Turvalisus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Noise</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>Müra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>I will read you a few statements. Please tell me whether you strongly agree, somewhat agree, somewhat disagree or strongly disagree with each of these statements?</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>Nüüd loen Teile ette mõned väited. Öelge palun iga väite kohta, kas olete sellega täiesti nõus, pigem nõus, pigem ei ole nõus või üldse ei ole nõus?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>For how long have you been living in [CITY NAME]?</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>Kui kaua olete Tallinnas elanud?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Gender.</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>Sugu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Could you tell me how many people aged 15 years or more live in your household, yourself included?</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>Palun öelge, mitu 15 aastast ja vanemat inimest elab teie leibkonnas, kui Te arvestate nende hulka ka iseennast?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Housing</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>Elamumajandus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Without a professional activity</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>Professionaalne tegevus puudub</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Cleanliness</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>Puhtus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Farmer, forester, fisherman</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>Talunik, metsatööline, kalur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>ASK D5e IF WITHOUT A PROFESSIONAL ACTIVITY, CODE 4 IN D5a</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>KÜSIGE D5e, KUI PROFESSIONAALNE TEGEVUS PUUDUB, KOOD 4 KÜSIMUSES D5a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>No</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>ei</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Yes</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>jah</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>The administrative services of [CITY NAME] help people efficiently</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>Tallinna haldusteenistused aitavad inimesi efektiivselt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>ASK D5d IF MANUAL WORKER, CODE 3 IN D5a</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>KÜSIGE D5d, KUI ON TÖÖLINE, KOOD 3 KÜSIMUSES D5a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Train</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>Rong</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>(READ OUT IF NECESSARY - ONE ANSWER ONLY)</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>(VAJADUSEL LUGEGE ETTE - AINULT ÜKS VASTUS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Have you got a landline phone?</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>Kas Teil on lauatelefon?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>It is easy to find a job in [CITY NAME]</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>Tallinnas on kerge leida töökohta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Number of people aged 15 or more in the household</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>15-aastaste või vanemate inimeste arv leibkonnas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>IF OTHER or DON'T KNOW IN D12, CODES 198 or 199 in D12, STOP THE INTERVIEW</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>KUI ON MUU või EOÖ KÜSIMUSES D12, KOODID 198 või 199 küsimuses D12, LÕPETAGE INTERVJUU</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Very satisfied</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>Väga rahul</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Unskilled manual worker</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>Lihttööline</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>(ONE ANSWER ONLY)</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>(AINULT ÜKS VASTUS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>(READ OUT – ONE ANSWER ONLY)</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>(LUGEGE ETTE - AINULT ÜKS VASTUS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Single person household</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>Ühe-inimese majapidamine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>PROG: ROTATE ITEMS 1 to 12</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>PROG: ROTEERIGE VARIANTE 1 kuni 12</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Civil servant</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>Riigiteenistuja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>FL419 - Quality of life in European Cities UK</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>FL419 - Quality of life in European CitiesEEE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>ASK D5c IF EMPLOYEE, CODE 2 IN D5a</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>KÜSIGE D5c, KUI ON PALGATÖÖTAJA, KOOD 2 KÜSIMUSES D5a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>On the whole, are you very satisfied, fairly satisfied, not very satisfied or not at all satisfied with ...?</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>Kas Te olete üldiselt väga rahul, küllaltki rahul, mitte eriti rahul või ei ole üldse rahul … ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Other\ Refusal (DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>MUU/ KEELDUMINE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Manager of a company</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>Firmajuht</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Employee</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>Palgatöötaja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Professional (employed doctor, lawyer, accountant, architect, …)</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>Spetsialist (arst, jurist, raamatupidaja, arhitekt …)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Male</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>Mees</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Would you say you live in a…?</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>Kas Te elate ... ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Generally speaking, most people in [CITY NAME] can be trusted</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>Üldiselt rääkides, võib enamikku Tallinna inimestest usaldada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Air pollution</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>Õhu saastatus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Rather unsatisfied</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>Pigem ei ole rahul</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>PROG: ROTATE ITEMS 1 TO 4</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>PROG: ROTEERIGE VARIANTE 1 KUNI 4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>General management, director or top management</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>Juhtivtöötaja, direktor või tippjuht</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Strongly disagree</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>Üldse ei ole nõus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Foreigners who live in [CITY NAME] are well integrated</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>Tallinnas elavad välismaalased on hästi integreeritud</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>During the last twelve months, would you say you had difficulties to pay your bills at the end of the month…?</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>Kas ütleksite, et Teil on viimase kaheteistkümne kuu jooksul olnud raskusi arvete maksmisega kuu lõpus ...?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>(INT.: IF "STILL STUDYING", CODE ‘00’ - IF "NO EDUCATION" CODE '01' - IF "REFUSAL" CODE '98' - IF "DK" CODE '99')</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>(INT.: KUI "ÕPIB VEEL", SIIS KOOD 00 - KUI "EI OLE HARIDUST", KOOD '01' - KUI "KEELDUMINE", KOOD '98' - KUI "EI OSKA ÖELDA", KOOD '99' )</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>The noise level</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>Müratase</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>From time to time</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>vahetevahel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Q4: CODE 11 - SINGLE CODE</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>Q4: KOOD 11 ON AINUVASTUS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Was born here/ I’ve been living here for all my life</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>Olen sündinud siin / olen elanud siin terve elu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Seeking a job</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>Otsite tööd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Almost never\ never</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>peaaegu mitte kunagi\ mitte kunagi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>(READ OUT - MAX. 2 ANSWERS)</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>(LUGEGE ETTE - KUNI 2 VASTUST)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Other city</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>Muu linn/ alev/ vald</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>(READ OUT - ONE ANSWER ONLY)</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>(LUGEGE ETTE - AINULT ÜKS VASTUS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Generally speaking, please tell me if you are very satisfied, rather satisfied, rather unsatisfied or not at all satisfied with each of the following issues in [CITY NAME]?</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>Palun öelge, kas olete üldiselt järgmiste teenustega Tallinnas väga rahul, pigem rahul, pigem ei ole rahul või üldse ei ole rahul?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Single parent, one or more children living at home</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>Üksik lapsevanem koos ühe või enama kodus elava lapsega</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>How old were you when you stopped full-time education?</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>Kui vana Te olite, kui te lõpetasite oma õpingud päevases õppevormis?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Fairly satisfied</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>Küllaltki rahul</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>PROG: ROTATE ITEMS 1 TO 7</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>PROG: ROTEERIGE VASTUSEID 1 KUNI 7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Married or cohabiting couple, no children or no children living at home</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>Abielus või kooselav paar, lapsi ei ole või lapsed ei ela kodus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Schools and other educational facilities</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>Koolid ja muud haridusasutused</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Rural area or village</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>maa-asulas või külas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Health care services, doctors and hospitals</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>Arstide ja haiglate poolt pakutavad tervishoiuteenused</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>D21: CODE 9 AND 10 - SINGLE CODES</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>D21: KOODID 9 JA 10 ON AINUVASTUSED</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>I feel safe in my neighbourhood</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>Tunnen ennast oma naabruskonnas turvaliselt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Public spaces such as markets, squares, pedestrian areas</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>Avalikud kohad nagu turud, väljakud, jalakäijate alad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Other</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>Muu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>DK/NA  (DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>EI OSKA ÖELDA/ VASTUS PUUDUB</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Refusal (DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>KEELDUMINE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Have you got a mobile phone?</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>Kas Teil on mobiiltelefon?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>The financial situation of your household</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>oma leibkonna majandusliku olukorraga</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>I live here since more than 10 years</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>Olen elanud siin üle 10 aasta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Somewhat agree</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>Pigem nõus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Health services</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>Tervishoiuteenused</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>The quality of the air</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>Õhu kvaliteet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>I feel safe in [CITY NAME]</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>Tunnen ennast Tallinnas turvaliselt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Cultural facilities such as concert halls, theatres, museums and libraries</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>Kultuuriasutused nagu kontserdisaalid, teatrid, muuseumid ja raamatukogud</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Small or medium-sized town</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>väikses või keskmise suurusega linnas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>The life you lead</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>oma eluga tervikuna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>ASK ALL</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>VASTAVAD KÕIK</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Your personal job situation</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>oma tööalase olukorraga</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Supervisor\ foreman (team manager, …)</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>Järelevaataja / töödejuhataja (meeskonnajuht, …)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>I am satisfied to live in [CITY NAME]</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>Ma olen rahul, et elan  Tallinnas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Owner of shop, craftsman</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>Poeomanik, oskustööline</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Availability of retail shops</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>Jaemüügikaupluste olemasolu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>(DO NOT READ OUT</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>(ÄRGE LUGEGE ETTE)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>PROG: ROTATE ITEMS 1 TO 10</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>PROG: ROTEERIGE VARIANTE 1 KUNI 10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>I live here since 1 to 5 years</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>Olen elanud siin 1 kuni 5 aastat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>DK (DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>EOÖ (ÄRGE LUGEGE ETTE)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Ship or boat</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>Laev või praam</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Rather satisfied</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>Pigem rahul</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>The place where you live</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>oma elukohaga</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>I live here since less than 1 year</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>Olen elanud siin alla aasta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Large town/city</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>suures linnas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>(WRITE DOWN - IF "REFUSAL" CODE '99')</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>(KIRJUTAGE ÜLES - KUI "KEELDUMINE" KOOD 99)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>The state of the streets and buildings in your neighbourhood</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>Tänavate ja ehitiste seisukord teie naabruskonnas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Which of the following best describes your household composition?</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>Milline alljärgnevatest kirjeldab kõige paremini Teie pere koosseisu?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Social services</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>Sotsiaalteenused</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Looking after the home</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>Hoolitsete kodu eest</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Retired</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>Pensionär</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Somewhat disagree</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>Pigem ei ole nõus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Car</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>Auto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Most of the time</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>enamus ajast</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>(READ OUT - SINGLE CODE)</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>(LUGEGE ETTE - AINULT ÜKS VASTUS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>On a typical day, which mode or modes of transport do you use most often?</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>Millist(-eid) transpordivahendit(-eid) Te kasutate tüüpilisel päeval kõige sagedamini?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>[CITY NAME] is committed to fight against climate change (e.g.: energy efficiency, green transport)</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>Tallinn on võtnud endale kohustuseks kliimamuutuste vastu võitlemise (näit. energiatõhusus, keskkonnasõbralik transport)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Other (DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>MUU</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Bicycle</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>Jalgratas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Office clerk</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>Kontoriametnik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>As far as your current occupation is concerned, would you say you are self-employed, an employee, a manual worker or would you say that you are without a professional activity?</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>Kas Te ütleksite oma praeguse tegevuse kohta, et Te olete iseendale tööandja, palgatöötaja, tööline või ütleksite, et Teil puudub professionaalne tegevus?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Student (full time)</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>Õpilane/üliõpilane (täisajaga)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>I live here since between 5 to 10 years</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>Olen elanud siin 5 kuni 10 aastat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>(READ OUT – MAX. 3 ANSWERS)</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>(LUGEGE ETTE - KUNI 3 VASTUST)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>What county do you live in?</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>Millises maakonnas Te elate?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Public transport</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>Ühistransport</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Generally speaking, the public administration of [CITY NAME] can be trusted</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>Üldiselt rääkides, võib Tallinna ametivõime usaldada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>None (DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>MITTE ÜHTEGI NEIST</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Not very satisfied</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>mitte eriti rahul</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Middle management</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>Kesktaseme juhtkond või muu juhtkond (osakonnajuhataja, juhataja asetäitja, õpetaja, meister, jne)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Public transport, for example the bus, tram or metro</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>Ühistransport, näiteks buss, tramm või troll</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>It is easy to find good housing at a reasonable price in [CITY NAME]</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>Tallinnas on kerge leida mõistliku hinnaga head eluaset</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>In your opinion, among the following issues, which are the three most important for [CITY NAME]?</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>Millised järgnevatest on Teie arvates Tallinna jaoks kolm kõige tähtsamat probleemi?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Self-employed</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>Iseendale tööandja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>(WRITE DOWN - IF "DK" CODE '98' - IF "REFUSAL" CODE '99')</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>(PANGE KIRJA - KUI "EOÖ" KOOD '98'- KUI "KEELDUMINE" kood '99')</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Sports facilities such as sport fields and indoor sport halls</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>Spordirajatised nagu spordiväljakud ja sisespordihallid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Professional (lawyer, medical practitioner, accountant, architect,…)</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>Spetsialist (jurist, praktiseeriv arst, raamatupidaja, arhitekt …)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 1</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>Tallinn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Female</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>Naine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>The presence of foreigners is good for [CITY NAME]</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>Välismaalaste kohalolek on Tallinnale hea</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Strongly agree</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>Väga nõus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Unemployment</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>Töötus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Other employee (salesman, nurse, …)</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>Muu palgatöötaja (müüja, meditsiiniõde, …)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Green spaces such as parks and gardens</seg>
+      </tuv>
+      <tuv xml:lang="et-EE">
+        <seg>Rohelised alad nagu pargid ja aiad</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
