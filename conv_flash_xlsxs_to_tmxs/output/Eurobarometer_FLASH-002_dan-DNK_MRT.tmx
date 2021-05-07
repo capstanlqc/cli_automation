@@ -1,0 +1,2846 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx version="1.4">
+  <header creationtool="cApps" creationtoolversion="2020.10" segtype="paragraph" adminlang="en" datatype="HTML" srclang="en-US" o-tmf="omt"></header>
+  <body>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Latvia</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Letland</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>What is the main activity of your company?
+    (READ OUT MAIN CATEGORIES FIRST, THEN SUBCATEGORIES, ONE ANSWER ONLY)</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Hvad er din virksomheds primære aktivitet?
+    (LÆS HOVEDKATEGORIERNE OP FØRST, DERNÆST UNDERKATEGORIERNE, KUN ÉT SVAR)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Don't know {#D5a_ins}</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Ved ikke {#D5a_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>(SINGLE ANSWER, DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>(ENKELT SVAR, LÆS IKKE OP)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Very negative</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Meget negativt image</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Supervisor/foreman (team manager, …)</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Værkfører, leder (sjakformand, etc.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>More than 50,000 to 100,000 euro</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Mere end 350.000 op til 700.000 kroner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>(WRITE DOWN AGE IN YEARS IF RESPONDENT IS 15 YEARS OR OVER)</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>(SKRIV ALDER I ANTAL ÅR, HVIS RESPONDENTEN ER 15 ÅR ELLER ÆLDRE)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Belgian</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Belgisk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;b&gt;Thank you for your participation. Please click next and then close the browser.&lt;/b&gt;</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>&lt;b&gt;Tak, fordi du ville deltage. Klik på næste, og luk browseren.&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In another way</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>På en anden måde</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Over the last year, would you say that this image you have of the EU improved, got worse or stayed about the same? 
+	{#SD15_ins}</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Vil du sige, at din opfattelse af EU i løbet af det seneste år er blevet bedre, værre eller forblevet uændret?
+   	{#SD15_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Public administration and defence; compulsory social security</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>OFFENTLIG FORVALTNING OG FORSVAR; SOCIALSIKRING</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Answer '{ANSWER}' cannot be combined with other answers.</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Svar '{ANSWER}' ({CATEGORY}) kan ikke kombineres med andre svar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Only one answer is allowed.</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Kun ét svar tilladt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>(DO NOT READ OUT; MULTIPLE ANSWERS POSSIBLE)</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>(LÆS IKKE OP: FLERE SVAR MULIGT)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>European Agency for Safety and Health at Work</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Det Europæiske Arbejdsmiljøagentur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In general, does the EU conjure up for you a very positive, fairly positive, neutral, fairly negative or very negative image?
+   	{#SD15_ins}</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Generelt set, hvilket image har EU for dig: Meget positivt, ret positivt, neutralt, ret negativt eller meget negativt?
+   	{#SD15_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The European General Data Protection Regulation (GDPR) requires us to first speak to a parent or legal guardian of a teenager. Can I speak to this teenager’s parent or legal guardian?
+	(SINGLE ANSWER, DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Den europæiske databeskyttelsesforordning (GDPR) kræver, at vi indledningsvist taler med en forælder eller juridisk værge for barnet. Kan jeg tale med barnets forælder eller juridiske værge?
+	(ENKELT SVAR, LÆS IKKE OP)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Real estate activities</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>FAST EJENDOM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Finland</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Finland</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>15 years old, but not available/not at home</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>15 år gammel, men ikke hjemme lige nu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>More than 2 to 10 million euro</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Mere end 15 op til 75 millioner kroner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Answer {ANSWER} is not numeric.</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Svar '{ANSWER}' er ikke et tal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Yes, I am the parent/legal guardian</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Ja, jeg er forælder/juridisk værge</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Retired</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Pensioneret</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Prefer not to say</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Foretrækker ikke at svare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Answer '{ANSWER}' is not a valid Date/Time.</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Spørgsmål '{QUESTION}' ({QUESTION_NUMBER}): Svaret '{ANSWER}' er ikke en gyldig dato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Financial and insurance activities</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>PENGEINSTITUT- OG FINANSVIRKSOMHED, FORSIKRING</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;b&gt;Construction, transport, ICT&lt;/b&gt;</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>&lt;b&gt;Byggeri, transport, informations- og kommunikationsteknologi&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Don't know</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Ved ikke</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Civil servant</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Embedsmand</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Which of the following statements regarding the European Union is closest to your opinion? 
+    {#D2_ins}</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Hvilket af følgende udsagn om EU svarer bedst til din holdning?
+    {#D2_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Only one answer is allowed.</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Spørgsmål '{QUESTION}' ({QUESTION_NUMBER}): Kun ét svar er tilladt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Austrian</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Østrigsk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Answer '{ANSWER}' is not an integer value.</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Spørgsmål '{QUESTION}' ({QUESTION_NUMBER}): Svaret '{ANSWER}' er ikke et helt tal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Cyprian</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Cypriot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Farmer, forester, fisherman</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Landmand, forstmand, fisker</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>16 years or older (will pass phone to start the interview)</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>16 år eller ældre (telefonen gives videre, så interviewet kan gennemføres)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Please enter a value between 1 and 30.</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Indtast en værdi mellem 1 og 30.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Remained unchanged</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Forblevet uændret</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Other nationality</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Anden nationalitet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Don't know (DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Ved ikke (LÆS IKKE OP)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>250 to 499 employees</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>250-499 medarbejdere</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Below 10% owned by persons from other countries outside (THIS COUNTRY)</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>En andel på under 10 % ejes af personer fra andre lande end Danmark</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Less than 1 year</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>I mindre end 1 år</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>10 to 49 employees</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>10-49 medarbejdere</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>More than 25,000 to 50,000 euro</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Mere end 175.000 op til 350.000 kroner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Less than 16 years (SPONTANEOUS)</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Under 16 år gammel (SPONTANT)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Lithuania</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Litauen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;b&gt;Industry&lt;/b&gt;</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>&lt;b&gt;Branche&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Yes (will pass phone to start the interview)</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Ja (telefonen gives videre, så interviewet kan gennemføres)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>I would like to reassure you that your child's cooperation is completely voluntary. All answers are confidential and combined with other participants’ answers. This means your child will not be identifiable in any of the published results.
+	{#PARENT3_ins}
+	
+	If you would like to read the Data Protection Notice, you can access it at {#intro_link}. This explains the purpose for processing your personal data as well as your data protection rights.
+	
+	INTERVIEWER ADD IF ASKED:
+	HOW DID YOU GET MY NUMBER: Your telephone number has been randomly generated by a computer, like all numbers we dial for this research. Our aim is to interview a representative sample of this country’s population.
+	
+	CLIENT? Ipsos is conducting this survey for the {#Client}. Flash Eurobarometer surveys have as purpose to monitor public opinion in the European Union on a broad range of thematic issues.
+	
+	WHAT PERSONAL DATA WILL BE COLLECTED: We use your phone number to invite you to take part in this interview and for quality control purposes only. Gender and age information will be collected, as well as personal data from the replies to the interview questions (such as marital status). All of the information you provide will remain confidential, your answers will be combined with all other participants’ answers, and no identifiable data will be shared with Ipsos’ client.
+	
+	Do we have your permission to conduct this interview with your child?
+	{#Birthday_ins}</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Jeg vil gerne understrege, at både din og barnets deltagelse er helt frivillig. Alle svar er fortrolige og kombineres med svar fra andre deltagere. Det betyder, at dit barn ikke kan identificeres i de offentliggjorte resultater.
+	{#PARENT3_ins}
+	
+	Hvis du ønsker at læse meddelelsen om beskyttelse af personlige oplysninger, kan du finde den på {#intro_link}. Den forklarer formålet med behandlingen af dine personoplysninger samt dine rettigheder i forhold til databeskyttelse.
+	
+	TILFØJES AF INTERVIEWER VED FORESPØRGSEL:
+	HVORDAN FIK DU MIT NUMMER: Dit telefonnummer er tilfældigt udtrukket af en computer, ligesom alle andre numre, som vi ringer op, i forbindelse med denne undersøgelse. Vores mål er at interviewe et repræsentativt udsnit af landets befolkning.
+	
+	KUNDE? Ipsos gennemfører denne undersøgelse på vegne af [{#Client}]. Undersøgelser fra Flash Eurobarometer har til formål at følge den offentlige opinion i EU inden for et bredt område af tematiske problemstillinger.
+	
+	HVILKE PERSONOPLYSNINGER INDSAMLES: Vi bruger udelukkende dit telefonnummer til at invitere dig til at deltage i dette interview samt til kvalitetskontrol. Der indsamles oplysninger om køn og alder samt personlige oplysninger fra besvarelserne i interviewet (som for eksempel civilstand). Alle de oplysninger, som du afgiver, behandles fortroligt. Dine svar kombineres med svarene fra alle andre deltagere, og der deles ingen identificerbare oplysninger med Ipsos' kunde.
+	
+	Har vi din tilladelse til at gennemføre dette interview med dit barn?
+	{#Birthday_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>More than 50 million euro</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Mere end 370 millioner kroner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Don’t know (DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Ved ikke (LÆS IKKE OP)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Female</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Kvinde</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Refusal {#D5a_ins}</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Afvist {#D5a_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Activities of extraterritorial organisations and bodies</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>EKSTRATERRITORIALE ORGANISATIONER OG ORGANER</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Approximately, what percentage of the value of your company's products and or services were sold to other EU Member States in {#CurrentYear_insert_1}?
+	ADD, IF NEEDED: If you are not sure, please provide your best estimate.	
+	(READ OUT IF NECESSARY, ONE ANSWER ONLY)</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Omtrent hvor stor en procentandel af værdien af virksomhedens produkter og/eller serviceydelser blev solgt til andre EU-lande i {#CurrentYear_insert_1}? 		
+	TILFØJ, HVIS NØDVENDIGT: Hvis du ikke er sikker, så giv dit bedste bud.	
+	(LÆS OP HVIS NØDVENDIGT: KUN ÉT SVAR)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>There are too few answers, at least {MINANSWERS} are required.</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Spørgsmål '{QUESTION}' ({QUESTION_NUMBER}): Der er afgivet for få svar, mindst {MINANSWERS} skal afgives.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Finnish</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Finsk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Remained about the same</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Forblevet på samme niveau</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Lithuanian</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Litauisk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Accommodation and food service activities</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>OVERNATNINGSFACILITETER OG RESTAURATIONSVIRKSOMHED</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Austria</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Østrig</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Activities of households as employers; undifferentiate goods and services producing activities of households for own use</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>PRIVATE HUSHOLDNINGER MED ANSAT MEDHJÆLP; HUSHOLDNINGERS PRODUKTION AF VARER OG TJENESTEYDELSER TIL EGET BRUG, I.A.N.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Agriculture, Forestry and Fishing</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>LANDBRUG, JAGT, SKOVBRUG OG FISKERI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Got worse</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Værre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>More than 10 to 50 million euro</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Mere end 75 op til 370 millioner kroner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Yes</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Ja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Are you happy to proceed with the interview?</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Er du villig til at fortsætte med interviewet?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Still in full-time education</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Stadig under uddannelse på fuld tid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Yes, one mobile phone</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Ja, en mobiltelefon</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The survey includes some questions that could be considered sensitive as they relate to political opinions. You may refuse to answer these questions at any time, and you can withdraw your consent for participation at any time.</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Undersøgelsen omfatter spørgsmål, der kan anses som følsomme, fordi de omhandler politiske holdninger. Du kan til hver en tid afvise at besvare disse spørgsmål, og du kan til hver en tid trække dit samtykke til deltagelse tilbage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{#D1X_insert}
+	(DO NOT READ OUT, ONE ANSWER ONLY)</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>{#D1X_insert}
+	(LÆS IKKE OP - KUN ÉT SVAR)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Frequently</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Ofte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Never been in full-time education</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Har aldrig taget en fuldtidsuddannelse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Latvian</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Lettisk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The answer does not have enough text, current length is {LENGTH}, minimum is {MINLENGTH}.</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Spørgsmål '{QUESTION}' ({QUESTION_NUMBER}): Svaret er ikke langt nok. Nuværende længde er {LENGTH}, tekstens længde skal mindst være {MINLENGTH}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Not applicable (DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Ikke relevant (LÆS IKKE OP)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>No, I am not the parent/legal guardian</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Nej, jeg er ikke forælder/juridisk værge</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>15 years old, and available/at home</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>15 år gammel og hjemme lige nu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Answer '{ANSWER}' is not a valid Date/Time.</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Svaret '{ANSWER}' er ikke en gyldig dato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Very positive</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Meget positivt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>European Ombudsman</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Den Europæiske Ombudsmand</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Belgium</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Belgien</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Fairly positive</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Ret positivt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>What was your company's total turnover in {#CurrentYear_insert_1}?
+	ADD, IF NEEDED: If you are not sure, please provide your best estimate.	
+	(READ OUT IF NECESSARY, ONE ANSWER ONLY)</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Hvad var virksomhedens samlede omsætning i {#CurrentYear_insert_1}? 	
+	TILFØJ, HVIS NØDVENDIGT: Hvis du ikke er sikker, så giv dit bedste bud.	
+	(LÆS OP HVIS NØDVENDIGT: KUN ÉT SVAR)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The answer has too much text, current length is {LENGTH}, maximum is {MAXLENGTH}.</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Spørgsmål '{QUESTION}' ({QUESTION_NUMBER}): Svaret indeholder for meget tekst ({LENGTH} tegn), højst {MAXLENGTH} tegn er tilladt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Unskilled manual worker</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Ufaglært arbejder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When you get together with friends or relatives, would you say you discuss frequently, occasionally or never about...?
+    {#SD14a_ins}</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Når du er sammen med venner eller slægtninge, vil du sige, at du ofte, en gang imellem eller aldrig diskuterer…?
+    {#SD14a_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>French</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Fransk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The thousands separator character is not allowed.</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Tusindtalsseparator-tegnet er ikke tilladt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Other service activities</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>ANDRE SERVICEYDELSER</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Refusal</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Ønsker ikke at svare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Student (full-time)</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Studerende (fuld tid)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Answer '{ANSWER}' is not in range '{RANGE}'.</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Svar '{ANSWER}' er uden for det tilladte område '{RANGE}'.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>(READ IF TARGET RESPONDENT IS NOT THE PERSON WHO FIRST ANSWERED THE PHONE)
+	Hello, My name is …, from (NAME OF NATIONAL INSTITUTE), and I'm conducting an interview for Ipsos Public Affairs, on behalf of one of their clients. We are looking for people aged 15 or over who are willing to share their opinions about the issues of today’s society. We are conducting this survey across Europe. The survey is not part of any market research, we are interested in measuring public opinion.
+	
+	(READ FOR ALL RESPONDENTS)
+	I would be grateful if you could spare {#minutes_ins} minutes to participate in this survey. Participation in the survey is voluntary and you can change your mind at any time. All of your answers will remain confidential and will be combined with all other participants’ answers. This means you will not be identifiable in any of the published results. 
+	{#CONSENT_ins}
+	
+	If you would like to read the Data Protection Notice, you can access it at {#intro_link}. This explains the purpose for processing your personal data as well as your data protection rights.
+	
+	For quality assurance, this phone call may be monitored and recorded.
+	
+	INTERVIEWER ADD IF ASKED:
+	HOW DID YOU GET MY NUMBER: Your telephone number has been randomly generated by a computer, like all numbers we dial for this research. Our aim is to interview a representative sample of this country’s population.
+	
+	CLIENT? Ipsos is conducting this survey for the {#Client}. Flash Eurobarometer surveys have as purpose to monitor public opinion in the European Union on a broad range of thematic issues.
+	
+	WHAT PERSONAL DATA WILL BE COLLECTED: We use your phone number to invite you to take part in this interview and for quality control purposes only. Gender and age information will be collected, as well as personal data from the replies to the interview questions (such as marital status). All of the information you provide will remain confidential, your answers will be combined with all other participants’ answers, and no identifiable data will be shared with Ipsos’ client.
+	
+	Are you happy to proceed with the interview?
+	{#Birthday_ins}</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>(LÆS OP, HVIS RESPONDENTEN IKKE ER DEN PERSON, DER TOG TELEFONEN)
+	Hej, mit navn er ..., og jeg ringer fra (NAVN PÅ INSTITUT). Vi gennemfører et interview for Ipsos Public Affairs på vegne af en af deres kunder. Vi søger personer på 15 år eller mere, som gerne vil dele deres holdninger til forskellige problemstillinger i dagens samfund. Vi gennemfører denne undersøgelse i hele Europa. Undersøgelsen er ikke en del af en markedsundersøgelse. Vi ønsker at afdække den offentlige opinion.
+	
+	(LÆS FOR ALLE RESPONDENTER)
+	Jeg ville sætte pris på, hvis du kunne afsætte {#minutes_ins} minutter til at deltage i denne undersøgelse. Det er frivilligt at deltage i undersøgelsen, og du kan ændre mening når som helst. Alle dine svar behandles fortroligt og bliver kombineret med svarene fra alle andre deltagere. Det betyder, at du ikke vil kunne identificeres i de offentliggjorte resultater. 
+	{#CONSENT_ins}
+	
+	Hvis du ønsker at læse meddelelsen om beskyttelse af personlige oplysninger, kan du finde den på {#intro_link}. Den forklarer formålet med behandlingen af dine personoplysninger samt dine rettigheder i forhold til databeskyttelse.
+
+	Dette telefonopkald optages af hensyn til kvalitetskontrol.
+	
+	TILFØJES AF INTERVIEWER VED FORESPØRGSEL:
+	HVORDAN FIK DU MIT NUMMER: Dit telefonnummer er tilfældigt udtrukket af en computer, ligesom alle andre numre, som vi ringer op, i forbindelse med denne undersøgelse. Vores mål er at interviewe et repræsentativt udsnit af landets befolkning.
+	
+	KUNDE? Ipsos gennemfører denne undersøgelse på vegne af {#Client}. Undersøgelser fra Flash Eurobarometer har til formål at følge den offentlige opinion i EU inden for et bredt område af tematiske problemstillinger.
+	
+	HVILKE PERSONOPLYSNINGER INDSAMLES: Vi bruger udelukkende dit telefonnummer til at invitere dig til at deltage i dette interview samt til kvalitetskontrol. Der indsamles oplysninger om køn og alder samt personlige oplysninger fra besvarelserne i interviewet (som for eksempel civilstand). Alle de oplysninger, som du afgiver, behandles fortroligt. Dine svar kombineres med svarene fra alle andre deltagere, og der deles ingen identificerbare oplysninger med Ipsos' kunde.
+	
+	Er du villig til at fortsætte med interviewet?	{#Birthday_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You have used the browser buttons, please use the Next/Previous buttons below.</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Du har anvendt browserens knapper til navigering; anvend venligst spørgeskemaets knapper istedet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Croatia</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Kroatien</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;b&gt;Agriculture, Forestry and Fishing&lt;/b&gt;</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>&lt;b&gt;Landbrug, skovbrug og fiskeri&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Please enter a value between 15 and 105. If you are less than 15 years old, you are not eligible to participate in this study.</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Indtast en værdi mellem 15 og 105. Hvis du er under 15 år gammel, kan du ikke deltage i denne undersøgelse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Stayed about the same</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Uændret</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Refusal</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Afvist</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Seeking a job</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Jobsøgende</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Employee</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Lønmodtager</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Do you use more than one mobile phone?
+	{#D2_ins}</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Bruger du mere end en mobiltelefon?
+	{#D2_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>There are too many answers, only {MAXANSWERS} are allowed.</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Spørgsmål '{QUESTION}' ({QUESTION_NUMBER}): Der er for mange svar, kun {MAXANSWERS} svar er tilladt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Next</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Næste</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>More than 500,000 to 2 million euro</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Mere end 3,5 op til 15 millioner kroner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Greek</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Græsk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Committee of the Regions</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Det Europæiske Regionsudvalg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Over the past two years, has your company's annual turnover increased, decreased or remained unchanged?
+	(DO NOT READ OUT, ONE ANSWER ONLY)</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Er virksomhedens årlige omsætning steget, faldet eller forblevet uændret i de seneste to år?	
+	(LÆS IKKE OP; KUN ÉT SVAR)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Over the past two years, has your company's total number of employees increase, decreased or remained about the same?	
+	(DO NOT READ OUT, ONE ANSWER ONLY)</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Er det samlede antal af ansatte i din virksomhed steget, faldet eller forblevet på samme niveau gennem de seneste to år?	
+	(LÆS IKKE OP; KUN ÉT SVAR)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Self-employed</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Selvstændig</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Other (DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Andet (LÆS IKKE OP)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Do you also use one or more mobile phones?
+	{#D2_ins}</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Bruger du også en eller flere mobiltelefoner?
+	{#D2_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Construction</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>BYGGE- OG ANLÆGSVIRKSOMHED</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Hello, My name is …, from (NAME OF NATIONAL INSTITUTE). May I speak with someone with decision making responsibilities (managing director, general manager, CEO, financial director) or someone leading the commercial activities (commercial manger, sales manager, marketing manager) or a legal officer in your company?
+
+		(IF THE GATEKEEPER ASKS FOR ADDITIONAL INFORMATION) I'm conducting an interview for Ipsos Public Affairs, on behalf of one of their clients. We are contacting (decision makers in) companies across Europe regarding their views on current business topics. The feedback will be used to support policymaking in Europe. I would greatly appreciate being able to speak with him or her to include his/her opinion in the study.
+		
+		&lt;b&gt;INTERVIEWER ADD IF ASKED:&lt;/b&gt;
+		CLIENT? Ipsos is conducting this survey for a European public institution. I can only reveal the name of this institution during the interview.
+		
+		&lt;b&gt;WHO TO CONTACT ABOUT THE SURVEY:&lt;/b&gt;
+		If you have comments or questions, or any concerns, please send an email to: &lt;a href='FlashEB-dataprotection-coordinator@ipsos-online.com'&gt;FlashEB-dataprotection-coordinator@ipsos-online.com&lt;/a&gt;  
+		
+		(SINGLE ANSWER, DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Hej, mit navn er ..., og jeg ringer fra (NAVN PÅ NATIONALT INSTITUT). Må jeg tale med en person med beslutningsansvar (administrerende direktør, driftschef, koncernchef, økonomidirektør) eller en person med ansvar for kommercielle aktiviteter (handelschef, salgschef, markedsføringschef) eller en chefjurist i din virksomhed?
+
+		(HVIS DEN ADGANGSGIVENDE PERSON BEDER OM FLERE OPLYSNINGER) Jeg gennemfører et interview for Ipsos Public Affairs på vegne af en af deres kunder. Vi kontakter (beslutningstagere i) virksomheder i hele Europa for at spørge til deres syn på aktuelle erhvervsrelaterede emner. Den modtagne feedback vil blive brugt til at understøtte den politiske beslutningsproces i Europa. Jeg ville sætte stor pris på, hvis jeg kunne få lov til at tale med vedkommende, så vi kan inddrage hans/hendes syn på emnerne i undersøgelsen.
+		
+		&lt;b&gt;TILFØJES AF INTERVIEWER VED FORESPØRGSEL:&lt;/b&gt;
+		KUNDE? Ipsos gennemfører denne undersøgelse for en offentlig, europæisk institution. Jeg kan først afsløre navnet på institutionen under interviewet.
+		
+		&lt;b&gt;HVEM KAN DU KONTAKTE VEDRØRENDE SPØRGEUNDERSØGELSEN:&lt;/b&gt;
+		Hvis du har kommentarer, spørgsmål eller andre bekymringer, kan du sende en e-mail til: &lt;a href='FlashEB-dataprotection-coordinator@ipsos-online.com'&gt;FlashEB-dataprotection-coordinator@ipsos-online.com&lt;/a&gt;  
+		
+		(ENKELT SVAR, LÆS IKKE OP)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Are you a permanent resident of {#MRK_Country}?</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Er du permanent bosiddende i {#MRK_Country}?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When was your company established?	
+	(READ OUT, ONE ANSWER ONLY)</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Hvornår blev virksomheden grundlagt?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Research Executive Agency</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Forvaltningsorganet for Forskning</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Owner of shop, craftsman</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Butiksejer, håndværker</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;{#D1_age_ins} years</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>&lt;{#D1_age_ins} år</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;p&gt;These are all the questions we have for you today.  It appears that a sufficient number of respondents with a similar profile have already completed this study, or that your profile does not exactly match our needs for this study. We apologize for the inconvenience.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>&lt;p&gt;Det var alt, hvad vi havde af spørgsmål til dig i dag.  Det ser ud til, at et tilstrækkeligt antal respondenter med en lignende profil allerede har gennemført undersøgelsen, eller at din profil ikke helt tilsvarer vores behov i forhold til netop denne undersøgelse. Vi beklager ulejligheden.&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>British</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Britisk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Yes, not available</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Nej, er ikke hjemme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>How old are you?
+	{#D1_ins}</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Hvad er din alder?
+	{#D1_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Yes, more than one mobile phone</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Ja, mere end en mobiltelefon</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Does someone pick-up the phone?</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Er der nogen, der tager telefonen?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Other {#D5a_ins}</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Andet {#D5a_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>No</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Nej</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Manual worker</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Udfører manuelt arbejde</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Estonia</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Estland</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Answer '{ANSWER}' is not valid.</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Spørgsmål '{QUESTION}' ({QUESTION_NUMBER}): Svaret '{ANSWER}' er ikke gyldigt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Looking after the home</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Hjemmegående</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Please provide an answer.</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Ét eller flere svar mangler.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Improved</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Bedre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Water Supply; sewerage, waste management and remediation activities</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>VANDFORSYNING; KLOAKVÆSEN, AFFALDSHÅNDTERING OG RENSNING AF JORD OG GRUNDVAND</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>European Economic and Social Committee</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Det Europæiske Økonomiske og Sociale Udvalg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Answer '{ANSWER}' ({CATEGORY}) has a response but is not selected.</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Svaret '{ANSWER}' ({CATEGORY}) rummer et svar, men er ikke valgt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Portugal</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Portugal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The survey includes some questions that could be considered sensitive as they relate to political opinions. Your child may refuse to answer these questions at any time, and you can withdraw your consent for your child’s participation at any time.</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Undersøgelsen omfatter spørgsmål, der kan anses som følsomme, fordi de omhandler politiske holdninger. Dit barn kan til hver en tid afvise at besvare disse spørgsmål, og du kan til hver en tid trække dit samtykke til barnets deltagelse tilbage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Without a professional activity</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Uden erhvervsmæssig beskæftigelse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Errors</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Fejlmeddelelser</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Would you say you live in...?
+	{#D2_ins}</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Vil du sige, at du bor i ...?
+	{#D2_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Select all that apply.</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Vælg alle relevante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>German</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Tysk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Insert for D5._5 - Refusal</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Indsæt til D5._5 – Afvist</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Answer '{ANSWER}' is not an integer value.</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Svaret '{ANSWER}' er ikke et helt tal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The survey specific questions section ends here</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>The survey specific questions section ends here</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Thank you for your time. We remind you that if you would like to read the Data Protection Notice, you can access it at {#intro_link}. This explains the purposes for processing your personal data as well as your rights under applicable data protection law.</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Mange tak for din tid. Vi minder om, at hvis du ønsker at læse meddelelsen om beskyttelse af personlige oplysninger, så kan du finde den på {#intro_link}. Den forklarer formålet med behandlingen af dine personoplysninger samt dine rettigheder i forhold til databeskyttelse inden for gældende lovgivning.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Products to companies or other organisations</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Produkter til virksomheder eller andre organisationer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>(READ OUT; ONE ANSWER ONLY)</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>(LÆS OP: KUN ÉT SVAR)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Owned or controlled entirely by persons from (THIS COUNTRY)</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Den ejes eller kontrolleres fuldt ud af personer fra Danmark</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Maltese</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Maltesisk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Local political matters</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Lokalpolitiske spørgsmål</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>European Investment Bank Group</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Den Europæiske Investeringsbank-Gruppe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Sold products and or services to countries outside EU</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Solgt produkter og/eller serviceydelser til lande uden for EU</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Education</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>UNDERVISNING</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>National political matters</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Indenrigspolitiske spørgsmål</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>I’m rather sceptical of the European Union, but could change my opinion if radical reform was brought about</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Jeg er overvejende skeptisk over for EU, men jeg kunne ændre mening, hvis der blev gennemført omfattende reformer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;p&gt;Those are all the questions we have for you today.  Thank you for your time.&lt;/p&gt;&lt;p&gt;All information you provide is kept strictly confidential and is used for research purposes only.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>&lt;p&gt;Det var alt, hvad vi havde af spørgsmål til dig i dag.  Mange tak for din tid.&lt;/p&gt;&lt;p&gt;Alle de oplysninger, du afgiver, bliver opbevaret fortroligt og udelukkende anvendt i forskningsøjemed.&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Cyprus</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Cypern</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>51-75%</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>51-75%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>(WHEN SPEAKING TO THE TARGETED RESPONDENT) Hello, My name is …, from (NAME OF NATIONAL INSTITUTE), and I'm conducting an interview for Ipsos Public Affairs, on behalf of one of their clients. We are contacting decision makers in companies across Europe regarding their views on current business topics. The feedback will be used to support policymaking in Europe.
+
+		I would be grateful if you could spare {#minutes_ins} minutes to participate in this survey. Participation in the survey is voluntary and you can change your mind at any time. All of your answers will remain confidential and will be combined with all other participants’ answers. This means that neither you, nor your business, will be identifiable in any of the published results. 
+		
+		For quality assurance, this phone call may be monitored and recorded.
+		
+		&lt;b&gt;INTERVIEWER ADD IF ASKED:&lt;/b&gt;
+		CLIENT? Ipsos is conducting this survey for the {#Client}. Flash Eurobarometer surveys have as purpose to monitor public and business opinion in the European Union on a broad range of thematic issues.
+		
+		WHAT PERSONAL DATA WILL BE COLLECTED: No personal data will be collected during this interview. Your participation, together with your individual responses to the questions, will be kept strictly confidential. If you have comments or questions, or any concerns, please send an email to: &lt;a href='FlashEB-dataprotection-coordinator@ipsos-online.com'&gt;FlashEB-dataprotection-coordinator@ipsos-online.com&lt;/a&gt;
+		
+		Are you happy to proceed with the interview?
+		(SINGLE ANSWER, DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>(NÅR DU TALER MED MÅLRESPONDENTEN) Hej, mit navn er ..., og jeg ringer fra (NAVN PÅ INSTITUT). Vi gennemfører et interview for Ipsos Public Affairs på vegne af en af deres kunder. Vi kontakter beslutningstagere i virksomheder i hele Europa for at spørge til deres syn på aktuelle erhvervsrelaterede emner. Den modtagne feedback vil blive brugt til at understøtte den politiske beslutningsproces i Europa.
+
+		Jeg ville sætte pris på, hvis du kunne afsætte {#minutes_ins} minutter til at deltage i denne undersøgelse. Det er frivilligt at deltage i undersøgelsen, og du kan ændre mening når som helst. Alle dine svar behandles fortroligt og bliver kombineret med svarene fra alle andre deltagere. Det betyder, at hverken du eller din virksomhed vil kunne identificeres i de offentliggjorte resultater. 
+		
+		Dette telefonopkald optages af hensyn til kvalitetskontrol.
+		
+		&lt;b&gt;TILFØJES AF INTERVIEWER VED FORESPØRGSEL:&lt;/b&gt;
+		KUNDE? Ipsos gennemfører denne undersøgelse på vegne af {#Client}. Undersøgelser fra Flash Eurobarometer har til formål at følge den offentlige og erhvervsmæssige opinion i EU inden for et bredt område af tematiske problemstillinger.
+		
+		HVILKE PERSONLIGE OPLYSNINGER INDSAMLES: Der indsamles ingen personlige oplysninger under dette interview. Din deltagelse samt dine individuelle svar på spørgsmålene i spørgeundersøgelsen bliver behandlet strengt fortroligt. Hvis du har kommentarer, spørgsmål eller andre bekymringer, kan du sende en e-mail til: &lt;a href='FlashEB-dataprotection-coordinator@ipsos-online.com'&gt;FlashEB-dataprotection-coordinator@ipsos-online.com&lt;/a&gt;
+		
+		Er du villig til at fortsætte med interviewet?
+		(ENKELT SVAR, LÆS IKKE OP)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Professional (employed doctor, lawyer, accountant, architect, …)</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Udøver af et liberalt erhverv (advokat, læge, revisor, arkitekt, etc.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Ireland</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Irland</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Manual worker</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Arbejder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>European Commission</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Europa-Kommissionen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Other</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Andet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Office clerk</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Kontormedarbejder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Before 1 January {#CurrentYear_insert_6}</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Før 1. januar {#CurrentYear_insert_6}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Electricity, gas, steam and air conditioning supply</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>EL-, GAS- OG FJERNVARMEFORSYNING</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Does your company sell …
+	(READ OUT – MULTIPLE ANSWERS POSSIBLE)</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Sælger jeres virksomhed…? (LÆS OP - FLERE SVAR MULIGT)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Swedish</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Svensk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Thank you for your time.</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Mange tak for din tid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>(WRITE DOWN AGE IN YEARS IF RESPONDENT IS 16 YEARS OR OVER)</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>(SKRIV ALDER I ANTAL ÅR, HVIS RESPONDENTEN ER 16 ÅR ELLER ÆLDRE)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>There are too few answers, at least {MINANSWERS} are required.</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Der er afgivet for få svar; mindst {MINANSWERS} skal gives.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>(READ OUT – ONE ANSWER PER LINE)</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>(LÆS OP - ÉT SVAR PR. LINJE)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>How many children under the age of 15 are living in your household?</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Hvor mange børn under 15 år er der i din husstand?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>After 1 January {#CurrentYear_insert_1}</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Efter 1. januar {#CurrentYear_insert_1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>years</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>år</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Never</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Aldrig</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;b&gt;Trade, accommodation and food services&lt;/b&gt;</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>&lt;b&gt;Handel, hotel- og restaurationsbranchen&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Between 1 and 5 years</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Mellem 1 og 5 år</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The thousands separator character is not allowed.</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Spørgsmål '{QUESTION}' ({QUESTION_NUMBER}): Tusindtalsseparator-tegnet er ikke tilladt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Sold products and or services to other EU countries</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Solgt produkter og/eller serviceydelser til andre EU-lande</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Bulgarian</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Bulgarsk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Between 10-50% owned by persons from other countries outside (THIS COUNTRY)</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>En andel på 10-50 % ejes af personer fra andre lande end Danmark</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A rural area or village</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Et landområde eller landsby</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Targeted respondent not available, call back later</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Målrespondenten er ikke tilgængelig, ring tilbage senere</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Refusal {#D5a_ins}</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Ønsker ikke at svare {#D5a_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Middle management</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Mellemleder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Products directly to consumers</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Produkter direkte til forbrugerne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Professional, scientific and technical activities</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>LIBERALE, VIDENSKABELIGE OG TEKNISKE TJENESTEYDELSER</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Which of the following describes how you think of yourself?
+	{#D2_ins}</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Hvilken af de følgende beskriver, hvordan du betragter dig selv?	{#D2_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>There are too many answers, only {MAXANSWERS} are allowed.</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Der er for mange svar, kun  {MAXANSWERS} svar er tilladt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>How many people aged 15 years or more live in your household, yourself included?</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Hvor mange personer på 15 år eller derover bor i din husstand, dig selv medregnet?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Put through to the targeted respondent</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Stilles igennem til målrespondenten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Professional (lawyer, medical practitioner, accountant, architect,…)</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Udøver af et liberalt erhverv (advokat, læge, revisor, arkitekt, etc.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Services directly to consumers</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Serviceydelser direkte til forbrugerne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Bulgaria</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Bulgarien</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Spanish</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Spansk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Question '{QUESTION}' ({QUESTION_NUMBER}): Answer '{ANSWER}' ({CATEGORY}) has a response but it is not selected.</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Spørgsmålet '{QUESTION}' ({QUESTION_NUMBER}): Svaret '{ANSWER}' ({CATEGORY}) rummer tekst, men er ikke valgt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Other employee (salesman, nurse, …)</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Anden type funktionær (sælger, sygeplejerske, etc.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Czech</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Tjekkisk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;center&gt;Thank you for taking part in this survey. &lt;br /&gt;These are all the questions we have for you today.&lt;/center&gt;</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>&lt;center&gt;Tak for din deltagelse i denne undersøgelse. &lt;br /&gt;Det var alt, hvad vi havde af spørgsmål til dig i dag.&lt;/center&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Occasionally</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>En gang imellem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In which (region) is your company headquarers located?</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Hvilken region ligger hovedkvarteret for din virksomhed i?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Do you also have a landline telephone at home? 
+    Do not include telephones only used for business purposes or for connecting to the Internet or to a fax machine.
+	{#D2_ins}</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Har du også en fastnettelefon i hjemmet? 
+    Omfatter ikke telefoner, som kun bruges til forretningsformål eller til at oprette forbindelse til internettet eller til en fax.
+	{#D2_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Between 1 January {#CurrentYear_insert_6} and 1 January {#CurrentYear_insert_1}</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Mellem 1. januar {#CurrentYear_insert_6} og 1. januar {#CurrentYear_insert_1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>General management, director or top management</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Daglig leder, direktør eller topleder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Slovenia</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Slovenien</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>I’m rather in favour of the European Union, but not the way it has been realised until now</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Jeg er overvejende tilhænger af EU, men ikke sådan som det har fungeret indtil nu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Navigations</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Navigering</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>How many employees (in full-time equivalents) does your company currently have? 	
+	ADD, IF NEEDED: If you are not sure, please provide your best estimate.	
+	(READ OUT IF NECESSARY, ONE ANSWER ONLY)</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Hvor mange ansatte (fuldtidsstillinger) har din virksomhed i øjeblikket? 	
+	TILFØJ, HVIS NØDVENDIGT: Hvis du ikke er sikker, så giv dit bedste bud.	
+	(LÆS OP HVIS NØDVENDIGT: KUN ÉT SVAR)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Netherlands</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Holland</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>16 years or older (not available, call back later)</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>16 år eller ældre (ikke hjemme, ring tilbage senere)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Germany</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Tyskland</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{#Nationality} nationality</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>{#Nationality} nationalitet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Mining and Quarrying</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>RÅSTOFINDVINDING</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Is your company…?
+	(READ OUT, ONE ANSWER ONLY)</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Gælder det for virksomheden, at...? (LÆS OP: KUN ÉT SVAR)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>European Parliament</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Europa-Parlamentet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Italy</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Italien</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>26-50%</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>26-50%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Between 6 and 10 years</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Mellem 6 og 10 år</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Interviewer instruction: Do not read, just fill in your interviewer_ID.</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Intervieweranvisning: Læses ikke op, udfyld blot dit interviewer-id.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>I’m in favour of the European Union as it has been realised so far</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Jeg er tilhænger af EU, sådan som det har fungeret indtil nu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Denmark</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Danmark</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>More than 10 years</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>I mere end 10 år</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Refusal (SPONTANEOUS)</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Afvist (SPONTANT)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>English (US)</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Standardmeddelelser</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Consumers, Health, Agriculture and Food Executive Agency</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Forvaltningsorganet for Forbrugere, Sundhed, Landbrug og Fødevarer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Croatian</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Kroatisk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>500 or more employees</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>500 medarbejdere eller derover</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>50% or more owned or controlled by persons from other countries outside (THIS COUNTRY)</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>En andel på 50 % eller derover ejes eller kontrolleres af personer fra andre lande end Danmark</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Please enter a value between 0 and 20.</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Indtast en værdi mellem 0 og 20.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Information and Communication</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>INFORMATION OG KOMMUNIKATION</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Arts, entertainment and recreation</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>KULTUR, FORLYSTELSER OG SPORT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Answer '{ANSWER}' is not numeric.</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Spørgsmål '{QUESTION}' ({QUESTION_NUMBER}): Svar '{ANSWER}'' er ikke et tal,n.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Hungarian</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Ungarsk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;b&gt;Public services&lt;/b&gt;</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>&lt;b&gt;Offentlige tjenesteydelser&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Malta</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Malta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The answer has too much text, current length is {LENGTH}, maximum is {MAXLENGTH}.</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Svaret indeholder for meget tekst ({LENGTH} tegn), kun {MAXLENGTH} tegn er tilladt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>European External Action Service</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Tjenesten for EU's Optræden Udadtil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Increased</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Steget</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Yes, available</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Ja, er hjemme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In the last two years, have you been involved in any dispute which has gone to court?</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Har du i løbet af de sidste to år været involveret i en sag, der er endt i retten?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Irish</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Irsk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Refusal</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Afvist</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Small or medium-sized town</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>En lille eller mellemstor by</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Services to companies or other organisations</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Serviceydelser direkte til virksomheder eller andre organisationer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You entered an unexpected value, please review your answer or continue to confirm your response.</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Du har indtastet en uventet værdi. Gennemse dit svar, eller fortsæt for at bekræfte dit svar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>1-25%</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>1-25%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Decreased</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Faldet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>ENU English (United States)</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>DAN Danish (Denmark)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Do we have your permission to conduct this interview with your child?</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Har vi din tilladelse til at gennemføre dette interview med dit barn?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>More than 100,000 to 250,000 euro</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Mere end 700.000 op til 1,75 millioner kroner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Luxembourg</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Luxembourg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Answer '{ANSWER}' is not valid.</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Svaret '{ANSWER}' er ikke gyldigt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Do you know if, in {#CurrentYear_insert_1}, your company has:
+	(READ OUT, ONE ANSWER PER LINE)</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Ved du, om din virksomhed i løbet af {#CurrentYear_insert_1} har:
+	(LÆS OP: KUN ÉT SVAR PR. LINJE)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Dutch</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Hollandsk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Polish</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Polsk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Slovenian</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Slovensk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>As far as your current occupation is concerned, would you say you are...?
+	{#D2_ins}</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Hvad angår din nuværende beskæftigelse, vil du så sige, at du er ...?
+	{#D2_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Hello, My name is …, from (NAME OF NATIONAL INSTITUTE), and I'm conducting an interview for Ipsos Public Affairs, on behalf of one of their clients. We are looking for people aged 15 or over who are willing to share their opinions about the issues of today’s society.
+
+		Can I speak to the person in your household, 15 years or older, whose birthday it was most recently? 
+		INTERVIEWER ADD IF NECESSARY: this is necessary to ensure everyone has an equal chance to participate, for the survey to be representative of this country’s population. 
+		
+		How old is he or she? 
+		Can you pass the phone to this household member?
+		
+		{#Birthday_ins}
+		Household member with the most recent birthday is:</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Hej, mit navn er ..., og jeg ringer fra (NAVN PÅ INSTITUT). Vi gennemfører et interview for Ipsos Public Affairs på vegne af en af deres kunder. Vi søger personer på 15 år eller mere, som gerne vil dele deres holdninger til forskellige problemstillinger i dagens samfund.
+
+		Må jeg tale med den person i din husstand, 15 år eller ældre, som senest har haft fødselsdag? 
+		TILFØJES AF INTERVIEWER HVIS NØDVENDIGT: Det er nødvendigt for at sikre, at alle har lige mulighed for at deltage, og for at undersøgelsen er repræsentativ for landets befolkning. 
+		
+		Hvor gammel er han eller hun? 
+		Kan du give telefonen videre til vedkommende?
+		
+		{#Birthday_ins}
+		Personen, som senest har haft fødselsdag, er:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;b&gt;Non-public services&lt;/b&gt;</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>&lt;b&gt;Ikke-offentlige tjenesteydelser&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Executive Agency for Small and Medium-sized Enterprises</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Forvaltningsorganet for Små og Mellemstore Virksomheder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Romanian</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Rumænsk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Hungary</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Ungarn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Greece</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Grækenland</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Neutral</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Neutralt image</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>More than 250,000 to 500,000 euro</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Mere end 1,75 millioner op til 3,5 millioner kroner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>France</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Frankrig</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>(DO NOT READ OUT; ONE ANSWER ONLY)</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>(LÆS IKKE OP - KUN ÉT SVAR)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Which nationality or nationalities do you hold?
+	{#D3b_ins}</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Hvilken eller hvilke nationaliteter har du?
+	{#D3b_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Please enter a value between {#D1_age_ins} and 105. If the respondent is less than {#D1_age_ins} years, select response “&lt;{#D1_age_ins} years”.</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Indtast en værdi mellem {#D1_age_ins} og 105. Hvis respondenten er under {#D1_age_ins} år, skal du vælge svaret “&lt;{#D1_age_ins} år”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>European political matters</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Europæiske politiske spørgsmål</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Please provide an answer.</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Spørgsmål '{QUESTION}' ({QUESTION_NUMBER}): Der mangler ét eller flere svar,.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>I’m opposed to the idea of the European Union in general</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Jeg er helt generelt modstander af idéen bag EU</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The answer does not have enough text, current length is {LENGTH}, minimum is {MINLENGTH}.</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Svarteksten er ikke tilstrækkeligt lang; den nuværende længde er {LENGTH}, minimumslængden er {MINLENGTH}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Sweden</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Sverige</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Luxembourgish</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Luxembourgsk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>How old were you when you stopped full-time education?
+    {#D4_ins}</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Hvor gammel var du, da du afsluttede din fuldtidsuddannelse?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>1 to 9 employees</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>1-9 medarbejdere</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Poland</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Polen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Hello, My name is …, from (NAME OF NATIONAL INSTITUTE), and I'm conducting an interview for Ipsos Public Affairs, on behalf of one of their clients. We are looking for people aged 15 or over who are willing to share their opinions about the issues of today’s society. We are conducting this survey across Europe. The survey is not part of any market research, we are interested in measuring public opinion.
+
+	We would like to speak to your child about this subject (CLARIFY IF NEEDED: your child, aged 15, whose birthday it was most recently).
+	
+	Are you the parent/legal guardian of the child, aged 15, we would like to interview?</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Hej, mit navn er ..., og jeg ringer fra (NAVN PÅ INSTITUT). Vi gennemfører et interview for Ipsos Public Affairs på vegne af en af deres kunder. Vi søger personer på 15 år eller mere, som gerne vil dele deres holdninger til forskellige problemstillinger i dagens samfund. Vi gennemfører denne undersøgelse i hele Europa. Undersøgelsen er ikke en del af en markedsundersøgelse. Vi ønsker at afdække den offentlige opinion.
+
+	Vi vil gerne tale med dit barn om dette emne (UDDYB HVIS NØDVENDIGT: Dit barn på 15 år, som senest har haft fødselsdag).
+	
+	Er du forælder/juridisk værge for barnet på 15 år, som vi gerne vil interviewe?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Male</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Mand</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Previous</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Tilbage</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Refusal</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Afvist</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Czechia</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Tjekkiet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Answer '{ANSWER}' is not in range '{RANGE}'.</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Spørgsmål '{QUESTION}' ({QUESTION_NUMBER}): Svar '{ANSWER}'' er udenfor det tilladte område '{RANGE}'.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>European Securities and Markets Authority</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Den Europæiske Værdipapir- og Markedstilsynsmyndighed</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>European Central Bank</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Den Europæiske Centralbank</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Fairly negative</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Ret negativt image</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In the last two years, has your company been involved in any dispute which has gone to court?</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Har din virksomhed Indenfor de sidste to år været involveret i nogen tvist, der endte i retten?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Romania</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Rumænien</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Manufacturing</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>FREMSTILLINGSVIRKSOMHED</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Don't know/No Answer (DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Ved ikke/Intet svar (LÆS IKKE OP)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Administrative and support service activities</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>ADMINISTRATIVE TJENESTEYDELSER OG HJÆLPETJENESTER</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>(DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>(LÆS IKKE OP)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Italian</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Italiensk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Slovak</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Slovakisk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Would you say you are…?
+	{#D2_ins}</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Er du…?
+	{#D2_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>None, sole trader (DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Ingen, selvstændig (LÆS IKKE OP)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Answer '{ANSWER}' cannot be combined with other answers.</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Spørgsmål '{QUESTION}' ({QUESTION_NUMBER}: Svar '{ANSWER}' ({CATEGORY}) kan ikke kombineres med andre svar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Transportation and Storage</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>TRANSPORT OG GODSHÅNDTERING</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Please enter a value between 0 and 99.</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Indtast en værdi mellem 0 og 99.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Wholesale and retail trade; repair of motor vehicles and motorcycles</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>ENGROSHANDEL OG DETAILHANDEL AF ENHVER SLAGS (INKLUSIV REPARATION AF MOTORKØRETØJER OG MOTORCYKLER)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Large town/city</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>En større by eller storby</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>European Insurance and Occupational Pensions Agency</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Den Europæiske Tilsynsmyndighed for Forsikrings- og Arbejdsmarkedspensionsordninger</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Portuguese</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Portugisisk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Danish</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Dansk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Hello, My name is …, from (NAME OF NATIONAL INSTITUTE), and I'm conducting an interview for Ipsos Public Affairs, on behalf of one of their clients. We are looking for people aged 16 or over who are willing to share their opinions about the issues of today’s society. We are conducting this survey across Europe. The survey is not part of any market research, we are interested in measuring public opinion.
+
+	I would be grateful if you could spare {#minutes_ins} minutes to participate in this survey. Participation in the survey is voluntary and you can change your mind at any time. All of your answers will remain confidential and will be combined with all other participants’ answers. This means you will not be identifiable in any of the published results. 
+	{#CONSENT_ins}
+	
+	If you would like to read the Data Protection Notice, you can access it at {#intro_link}. This explains the purpose for processing your personal data as well as your data protection rights.
+
+	For quality assurance, this phone call may be monitored and recorded.
+	
+	INTERVIEWER ADD IF ASKED:
+	HOW DID YOU GET MY NUMBER: Your telephone number has been randomly generated by a computer, like all numbers we dial for this research. Our aim is to interview a representative sample of this country’s population.
+	
+	CLIENT? Ipsos is conducting this survey for the {#Client}. Flash Eurobarometer surveys have as purpose to monitor public opinion in the European Union on a broad range of thematic issues.
+	
+	WHAT PERSONAL DATA WILL BE COLLECTED: We use your phone number to invite you to take part in this interview and for quality control purposes only. Gender and age information will be collected, as well as personal data from the replies to the interview questions (such as marital status). All of the information you provide will remain confidential, your answers will be combined with all other participants’ answers, and no identifiable data will be shared with Ipsos’ client.
+	
+	Are you happy to proceed with the interview?
+	{#Birthday_ins}</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Hej, mit navn er ..., og jeg ringer fra (NAVN PÅ INSTITUT). Vi gennemfører et interview for Ipsos Public Affairs på vegne af en af deres kunder. Vi søger personer på 16 år eller mere, som gerne vil dele deres holdninger til forskellige problemstillinger i dagens samfund. Vi gennemfører denne undersøgelse i hele Europa. Undersøgelsen er ikke en del af en markedsundersøgelse. Vi ønsker at afdække den offentlige opinion.
+
+	Jeg ville sætte pris på, hvis du kunne afsætte {#minutes_ins} minutter til at deltage i denne undersøgelse. Deltagelse i undersøgelsen er frivillig, og du kan ændre mening når som helst. Alle dine svar behandles fortroligt og bliver kombineret med svarene fra alle andre deltagere. Det betyder, at du ikke vil kunne identificeres i de offentliggjorte resultater. 
+	{#CONSENT_ins}
+	
+	Hvis du ønsker at læse meddelelsen om beskyttelse af personlige oplysninger, kan du finde den på {#intro_link}. Den forklarer formålet med behandlingen af dine personoplysninger samt dine rettigheder i forhold til databeskyttelse.
+
+	Dette telefonopkald optages af hensyn til kvalitetskontrol.
+	
+	TILFØJES AF INTERVIEWER VED FORESPØRGSEL:
+	HVORDAN FIK DU MIT NUMMER: Dit telefonnummer er tilfældigt udtrukket af en computer, ligesom alle andre numre, som vi ringer op, i forbindelse med denne undersøgelse. Vores mål er at interviewe et repræsentativt udsnit af landets befolkning.
+	
+	KUNDE? Ipsos gennemfører denne undersøgelse på vegne af [{#Client}]. Undersøgelser fra Flash Eurobarometer har til formål at følge den offentlige opinion i EU inden for et bredt område af tematiske problemstillinger.
+	
+	HVILKE PERSONOPLYSNINGER INDSAMLES: Vi bruger udelukkende dit telefonnummer til at invitere dig til at deltage i dette interview samt til kvalitetskontrol. Der indsamles oplysninger om køn og alder samt personlige oplysninger fra besvarelserne i interviewet (som for eksempel civilstand). Alle de oplysninger, som du afgiver, behandles fortroligt. Dine svar kombineres med svarene fra alle andre deltagere, og der deles ingen identificerbare oplysninger med Ipsos' kunde.
+	
+	Er du villig til at fortsætte med interviewet?	{#Birthday_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Less than 25,000 euro</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Op til 175.000 kroner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Human health and social work activities</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>SUNDHEDSVÆSEN OG SOCIALE FORANSTALTNINGER</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>50 to 249 employees</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>50-249 medarbejdere</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>General Secretariat of the Council of the European Union</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Generalsekretariatet for Rådet for Den Europæiske Union</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>76-100%</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>76-100%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Slovakia</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Slovakiet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>How long has your company been in business?	
+	(READ OUT, ONE ANSWER ONLY)</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Hvor længe har jeres virksomhed eksisteret?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Estonian</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Estisk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>0%</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>0%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>What is your nationality or nationalities if you hold more than one?
+	{#D3a_ins}</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Hvad er din nationalitet eller nationaliteter, hvis du har flere end en?
+	{#D3a_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Spain</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Spanien</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Manager of a company</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Leder af et firma</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

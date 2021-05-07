@@ -1,0 +1,6837 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx version="1.4">
+  <header creationtool="cApps" creationtoolversion="2020.10" segtype="paragraph" adminlang="en" datatype="HTML" srclang="en-US" o-tmf="omt"></header>
+  <body>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Yes, not available</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Tá, ní ar fáil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Kärnten</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Kärnten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Fairly negative</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Measartha diúltach</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Bundesländer</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Bundesländer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Rhône-Alpes</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Rhône-Alpes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Yes</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Tá</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Large town/city</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>I mbaile mór/i gcathair</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Got worse</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>D'éirigh sé níos measa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Occasionally</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Corruair</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Insert for D3b</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Insert for D3b</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Looking after the home</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Ag obair sa bhaile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Answer '{ANSWER}' is not a valid Date/Time.</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Answer '{ANSWER}' is not a valid Date/Time.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Regioni</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Regioni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Mining and Quarrying</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Mining and Quarrying</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Over the past two years, has your company's annual turnover increased, decreased or remained unchanged?
+	(DO NOT READ OUT, ONE ANSWER ONLY)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Ar tháinig méadú, laghdú nó nach raibh athrú ar láimhdeachas bliantúil do chomhlachta le dhá bhliain anuas?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>German</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Gearmánach</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Klaipėda County</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Klaipėda County</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Batch 2</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Batch 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In another way</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Inscne eile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Real estate activities</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Real estate activities</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;Please select&gt;</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>&lt;Please select&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>How many people aged 15 years or more live in your household, yourself included?</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Cé mhéad duine in aois 15 bliana nó níos sine a chónaíonn i do theaghlach, tú féin san áireamh?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>(SINGLE ANSWER, DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>(FREAGRA SINGIL, NÁ LÉIGH AMACH)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Select all that apply.</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Roghnaigh gach ceann lena mbaineann.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Kentriki Makedonia</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Kentriki Makedonia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Emilia-Romagna</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Emilia-Romagna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Nicocia</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Nicocia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Without a professional activity</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Gan aon ghníomhaíocht ghairmiúil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Unskilled manual worker</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Oibrí láimhe neamhoilte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Malopolskie</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Malopolskie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Podlaskie</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Podlaskie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Prov. Luxembourg (BE)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Prov. Luxembourg (BE)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In which region do you live?</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>In which region do you live?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Sold products and or services to countries outside EU</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Díoladh táirgí agus seirbhísí le tíortha lasmuigh den AE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Self-employed</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Self-employed</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;b&gt;Agriculture, Forestry and Fishing&lt;/b&gt;</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>&lt;b&gt;Talmhaíocht, Foraoiseacht agus Iascaireacht&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Yes, I am the parent/legal guardian</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Is mé, is mise an tuismitheoir/caomhnóir dlíthiúil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Less than 16 years (SPONTANEOUS)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Níos lú ná 16 bliana (TOBANN)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Utrecht</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Utrecht</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Südösterreich</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Südösterreich</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This question is shown only in test mode.
+    OCCUPATION</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>This question is shown only in test mode.
+    OCCUPATION</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Σε ποιο νομό έχω καλέσει;</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Σε ποιο νομό έχω καλέσει;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>20 years</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>20 years</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;b&gt;Trade, accommodation and food services&lt;/b&gt;</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>&lt;b&gt;Trádáil, cóiríocht agus seirbhísí bia&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Noord Nederland</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Noord Nederland</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Niedersachsen</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Niedersachsen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Stockholm</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Stockholm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Gorenjska</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Gorenjska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>RUS (Russian - EE)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>RUS (Russian - EE)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>PTG (Portuguese - PT)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>PTG (Portuguese - PT)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When was your company established?	
+	(READ OUT, ONE ANSWER ONLY)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Cathain a bunaíodh an chuideachta?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Yes</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Bhí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>V kateri regiji sedaj živite?</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>V kateri regiji sedaj živite?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Employee</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Fostaí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Cyprian</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Cipireach</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Dytiki Makedonia</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Dytiki Makedonia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>25 - 34 years</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>25 - 34 years</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Between 10-50% owned by persons from other countries outside (THIS COUNTRY)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>10-50% faoi úinéireacht ag daoine nach dtagann ó Éirinn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>18 years</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>18 years</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Ve kterém kraji žijete?</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Ve kterém kraji žijete?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Aquitaine - Limousin - Poitou-Charentes</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Aquitaine - Limousin - Poitou-Charentes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Manual worker</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Oibrí láimhe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Vidzeme</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Vidzeme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Between 6 and 10 years</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Idir 6 and 10 mbliana</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Slaskie</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Slaskie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Insert for D5._5 - Refusal</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Cuir isteach do D5._5 - Diúltú</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Self-employed</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Féinfhostaithe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Ouest</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Ouest</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Do you know if, in {#CurrentYear_insert_1}, your company has:
+	(READ OUT, ONE ANSWER PER LINE)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>An bhfuil eolas agat, sa bhliain {#CurrentYear_insert_1}, seo a leanas atá ag do chuideachta:
+	(LÉIGH AMACH, FREAGRA AMHÁIN GACH LÍNE)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Luxembourg</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Lucsamburg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>15 years old, and available/at home</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>15 bliana d'aois, agus ar fáil/sa bhaile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>LVI (Latvian - LV)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>LVI (Latvian - LV)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Millises maakonnas Te elate?/В каком уезде Вы живёте?</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Millises maakonnas Te elate?/В каком уезде Вы живёте?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Before 1 January {#CurrentYear_insert_6}</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Roimh an 1 Eanáir {#CurrentYear_insert_6}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;{#D1_age_ins} years</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>&lt;{#D1_age_ins} bliana</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Principado de Asturias</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Principado de Asturias</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Lithuania</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>an Liotuáin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Noreste</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Noreste</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Other (DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Eile (NÁ LÉIGH AMACH OS ARD)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Nord</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Nord</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Information and Communication</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Information and Communication</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Panevėžys County</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Panevėžys County</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Yes, one mobile phone</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Tá, fón póca amháin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Professional (employed doctor, lawyer, accountant, architect ...)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Professional (employed doctor, lawyer, accountant, architect ...)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Up to 15</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Up to 15</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Consumers, Health, Agriculture and Food Executive Agency</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>an Ghníomhaireacht Feidhmiúcháin um Thomhaltóirí, Sláinte, Talmhaíocht agus Bia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Retired</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Retired</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Don't know/No Answer (DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Ní fios/Gan Freagairt (NÁ LÉIGH AMACH)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Bremen</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Bremen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Nordrhein-Westfalen</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Nordrhein-Westfalen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Don't know</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Ní fios</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Luxembourgish</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Lucsamburgach</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Prov. Vlaams-Brabant</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Prov. Vlaams-Brabant</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Owner of shop, craftsman</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Úinéir siopa, ceardaí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>South Eastern</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>South Eastern</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Gozo and Comino</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Gozo and Comino</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>As far as your current occupation is concerned, would you say you are...?
+	{#D2_ins}</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Maidir le do shlí bheatha faoi láthair, cé acu a leanas a bhaineann leat...?
+	{#D2_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Cyprus</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>an Chipir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Dummy question showing the nationality</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Dummy question showing the nationality</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>UID from Sample Only redirects. This variable is filled from the link.</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>UID from Sample Only redirects. This variable is filled from the link.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Hovedstaden</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Hovedstaden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Mecklenburg-Vorpommern</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Mecklenburg-Vorpommern</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>What was your company's total turnover in {#CurrentYear_insert_1}?
+	ADD, IF NEEDED: If you are not sure, please provide your best estimate.	
+	(READ OUT IF NECESSARY, ONE ANSWER ONLY)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Cérbh é láimhdeachas iomlán do chuideachta in {#CurrentYear_insert_1}?		
+	BREIS, MÁS GÁ: Mura bhfuil tú cinnte, tabhair do mheastachán is fearr.	
+	(LÉIGH AMACH MÁS GÁ, FREAGRA AMHÁIN DE DHÍTH)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Employee</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Employee</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Vzhodna Slovenija</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Vzhodna Slovenija</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Millä alueella asutte?</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Millä alueella asutte?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Other nationality</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Náisiúntacht eile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Picardie</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Picardie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Friuli-Venezia Giulia</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Friuli-Venezia Giulia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>What is your nationality or nationalities if you hold more than one?
+	{#D3a_ins}</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Cén náisiúntacht thú nó cé na náisiúntachtaí thú má tá níos mó ná ceann amháin i gceist?
+	{#D3a_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Yugozapaden</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Yugozapaden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>National political matters</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Cúrsaí polaitíochta náisiúnta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Swedish</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Sualannach</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Nord-Est</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Nord-Est</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;b&gt;Public services&lt;/b&gt;</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>&lt;b&gt;Seirbhísí poiblí&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Noroeste (ES)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Noroeste (ES)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Makroregion Pólnocno-Zachodni</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Makroregion Pólnocno-Zachodni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Products to companies or other organisations</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>táirgí le cuideachtaí nó eagraíochtaí eile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Zuid Nederland</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Zuid Nederland</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Please enter a value between 1 and 30.</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Cuir isteach luach idir 1 agus 30.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>More than 100,000 to 250,000 euro</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Níos mó ná 100,000 euro suas le 250,000 euro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Alsace</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Alsace</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Makroregion Poludniowo-Zachodni</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Makroregion Poludniowo-Zachodni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Hvilken region bor du i?</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Hvilken region bor du i?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Hello, My name is …, from (NAME OF NATIONAL INSTITUTE), and I'm conducting an interview for Ipsos Public Affairs, on behalf of one of their clients. We are looking for people aged 15 or over who are willing to share their opinions about the issues of today’s society.
+
+		Can I speak to the person in your household, 15 years or older, whose birthday it was most recently? 
+		INTERVIEWER ADD IF NECESSARY: this is necessary to ensure everyone has an equal chance to participate, for the survey to be representative of this country’s population. 
+		
+		How old is he or she? 
+		Can you pass the phone to this household member?
+		
+		{#Birthday_ins}
+		Household member with the most recent birthday is:</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Heileo, is mise ..., as (AINM NA HINSTITIÚIDE NÁISIÚNTA), agus táim ag déanamh agallaimh do Ghnóthaí Poiblí Ipsos, ar son cliant dá chuid. Táimid ag lorg daoine in aois 15 bliana atá sásta a gcuid tuairimí a thabhairt ar shaincheisteanna i sochaí an lae inniu.
+
+		An féidir liom labhairt leis an duine sa teach, 15 bliana nó níos sine, a raibh breithlá is déanaí ann? 
+		EOLAS BREISE DON AGALLÓIR MÁS GÁ: tá sé sin riachtanach lena chinntiú go bhfuil comhdheis ag gach duine páirt a ghlacadh ann, ionas go dtugann an suirbhé léargas ar dhaonra na tíre seo.  
+		
+		Cén aois é nó í? 
+		An féidir leat an fón seo a thabhairt don duine sin sa teaghlach?
+		
+		{#Birthday_ins}
+		Tá an duine sa teaghlach a raibh breithlá is déanaí ann:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Friesland (NL)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Friesland (NL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;p&gt;Those are all the questions we have for you today.  Thank you for your time.&lt;/p&gt;&lt;p&gt;All information you provide is kept strictly confidential and is used for research purposes only.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>&lt;p&gt;Ba iad sin na ceisteanna uile a bhí againn ort inniu.  Go raibh maith agat as do chuid ama.&lt;/p&gt;&lt;p&gt;Coinnítear gach faisnéis a thugann tú faoi rún docht agus úsáidtear chun críocha taighde amháin í.&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Steiermark</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Steiermark</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Marijampolė County</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Marijampolė County</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Insert Sensitive Topics for CONSENT.</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Insert Sensitive Topics for CONSENT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>País Vasco</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>País Vasco</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>22 years and older</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>22 years and older</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Pomurska</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Pomurska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>FRB (French - BE)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>FRB (French - BE)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Estonia</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>an Eastóin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>I’m rather in favour of the European Union, but not the way it has been realised until now</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Táim sách fabhrach don Aontas Eorpach ach ní sa mhéid is a baineadh amach é go dtí seo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Savinjska</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Savinjska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>More than 250,000 to 500,000 euro</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Níos mó ná 250,000 euro suas le 500,000 euro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Sterea Ellada</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Sterea Ellada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>16 years or older (not available, call back later)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>16 bliana d'aois nó níos sine (ní ar fáil, glaoigh ar ais níos moille)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Comunidad Valenciana</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Comunidad Valenciana</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Eastern and Midland</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Eastern and Midland</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The answer does not have enough text, current length is {LENGTH}, minimum is {MINLENGTH}.</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>The answer does not have enough text, current length is {LENGTH}, minimum is {MINLENGTH}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Don't know</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Don't know</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Rheinland-Pfalz</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Rheinland-Pfalz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Manager of a company (self-employed)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Manager of a company (self-employed)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>1 to 9 employees</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Idir 1 agus 9 bhfostaí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Peloponnisos</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Peloponnisos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Podravska</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Podravska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Kirde-Eesti</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Kirde-Eesti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In general, does the EU conjure up for you a very positive, fairly positive, neutral, fairly negative or very negative image?
+   	{#SD15_ins}</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Go ginearálta, an bhfuil dearcadh an-dearfach, measartha dearfach, neodrach, measartha diúltach, nó an-diúltach agat i dtaca leis an AE?
+   	{#SD15_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Local political matters</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Cúrsaí polaitíochta áitiúla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Yes</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Yes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Looking after the home</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Looking after the home</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Wien</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Wien</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>ENU English (United States)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>IRE Irish (Ireland)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Pierīga</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Pierīga</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Övre Norrland</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Övre Norrland</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Is your company…?
+	(READ OUT, ONE ANSWER ONLY)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>An bhfuil do chuideachta...? (LÉIGH AMACH OS ARD - FREAGRA AMHÁIN AG TEASTÁIL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Other (Employee)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Other (Employee)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Molise</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Molise</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>More than 50 million euro</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Os cionn 50 milliún euro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>More than 500,000 to 2 million euro</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Níos mó ná 500,000 suas le 2 mhilliún euro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Italian</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Iodálach</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Piemonte</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Piemonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Sold products and or services to other EU countries</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Díoladh táirgí agus seirbhísí le tíortha eile an AE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Provence-Alpes-Côte d'Azur</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Provence-Alpes-Côte d'Azur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Cantabria</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Cantabria</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Insert for D3a</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Insert for D3a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>I’m in favour of the European Union as it has been realised so far</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Táim fabhrach don Aontas Eorpach sa mhéid is a baineadh amach é go dtí seo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Marker holding the label for questions PARENT3_1 to PARENT3_20</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Marker holding the label for questions PARENT3_1 to PARENT3_20</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Austria</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>an Ostair</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Never been in full-time education</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Nach raibh in oideachas lánaimseartha riamh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>LTH (Lithuanian - LT)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>LTH (Lithuanian - LT)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Malta</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Málta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Activities of extraterritorial organisations and bodies</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Activities of extraterritorial organisations and bodies</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When you get together with friends or relatives, would you say you discuss frequently, occasionally or never about...?
+    {#SD14a_ins}</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Agus tú i gcuideachta le cairde nó gaolta, an ndéarfá go bpléann sibh na cúrsaí a leanas go minic, corruair nó choíche...?
+    {#SD14a_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Professional, scientific and technical activities</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Professional, scientific and technical activities</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>9999</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>9999</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Netherlands</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>an Ísiltír</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Salzburg</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Salzburg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Farmer, forester, fisherman</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Feirmeoir, foraoiseoir, iascaire</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Yugoiztochen</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Yugoiztochen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Male</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Male</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Frequently</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Go minic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Never</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Choíche</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>(DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>(NÁ LÉIGH AMACH)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>South-East (Carlow, Kilkenny, Waterford, Wexford, Tipperary, Waterford City Council)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>South-East</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>21 years</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>21 years</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Don't know (DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Ní fios (NÁ LÉAMH AMACH)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The survey includes some questions that could be considered sensitive as they relate to political opinions. Your child may refuse to answer these questions at any time, and you can withdraw your consent for your child’s participation at any time.</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Áirítear sa suirbhé seo roinnt ceisteanna a d'fhéadfaí a mheas mar íogair mar go mbaineann siad le tuairimí polaitíochta. Is féidir le do leanbh diúltú na ceisteanna sin a fhreagairt am ar bith, agus tig leat do thoiliú ar rannpháirtíocht do linbh a tharraing siar am ar bith.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Canarias</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Canarias</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>55 - 64 years</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>55 - 64 years</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Interviewer instruction: Do not read, just fill in your interviewer_ID.</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Treoir don agallóir: Ná léitear, líon isteach d'ID_agallóra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Zachodniopomorskie</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Zachodniopomorskie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Veneto</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Veneto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Primorsko-notranjska</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Primorsko-notranjska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>How many children under the age of 15 are living in your household?</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>How many children under the age of 15 are living in your household?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Services to companies or other organisations</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>seirbhísí díreach le cuideachtaí agus eagraíochtaí eile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Other {#D5a_ins}</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Eile {#D5a_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Illes Balears</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Illes Balears</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Groningen</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Groningen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>(READ OUT; ONE ANSWER ONLY)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>(LÉIGH AMACH; FREAGRA AMHÁIN)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>W którym regionie Pan/Pani mieszka?</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>W którym regionie Pan/Pani mieszka?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Approximately, what percentage of the value of your company's products and or services were sold to other EU Member States in {#CurrentYear_insert_1}?
+	ADD, IF NEEDED: If you are not sure, please provide your best estimate.	
+	(READ OUT IF NECESSARY, ONE ANSWER ONLY)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Go neasach, cén céatadán den luach de tháirgí nó seirbhísí do chuideachta a díoladh le Ballstáit eile an AE in {#CurrentYear_insert_1}?	
+	BREIS, MÁS GÁ: Mura bhfuil tú cinnte, tabhair do mheastachán is fearr.	
+	(LÉIGH AMACH MÁS GÁ, FREAGRA AMHÁIN DE DHÍTH)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>16-19</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>16-19</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Ile de France</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Ile de France</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>La Rioja</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>La Rioja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Retired</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Duine ar scor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Vest</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Vest</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>(WHEN SPEAKING TO THE TARGETED RESPONDENT) Hello, My name is …, from (NAME OF NATIONAL INSTITUTE), and I'm conducting an interview for Ipsos Public Affairs, on behalf of one of their clients. We are contacting decision makers in companies across Europe regarding their views on current business topics. The feedback will be used to support policymaking in Europe.
+
+		I would be grateful if you could spare {#minutes_ins} minutes to participate in this survey. Participation in the survey is voluntary and you can change your mind at any time. All of your answers will remain confidential and will be combined with all other participants’ answers. This means that neither you, nor your business, will be identifiable in any of the published results. 
+		
+		For quality assurance, this phone call may be monitored and recorded.
+		
+		&lt;b&gt;INTERVIEWER ADD IF ASKED:&lt;/b&gt;
+		CLIENT? Ipsos is conducting this survey for the {#Client}. Flash Eurobarometer surveys have as purpose to monitor public and business opinion in the European Union on a broad range of thematic issues.
+		
+		WHAT PERSONAL DATA WILL BE COLLECTED: No personal data will be collected during this interview. Your participation, together with your individual responses to the questions, will be kept strictly confidential. If you have comments or questions, or any concerns, please send an email to: &lt;a href='FlashEB-dataprotection-coordinator@ipsos-online.com'&gt;FlashEB-dataprotection-coordinator@ipsos-online.com&lt;/a&gt;
+		
+		Are you happy to proceed with the interview?
+		(SINGLE ANSWER, DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>(AG LABHAIRT LEIS AN SPRIOC-FHREAGRÓIR) Heileo, is mise ..., as (AINM NA HINSTITIÚIDE NÁISIÚNTA), agus táim ag déanamh agallamh thar cheann Ghnóthaí Poiblí Ipsos, ar son cliant dá chuid. Táimid ag dul i dteagmháil le lucht cinnteoireachta i gcuideachtaí fud fad na hEorpa maidir lena dtuairimí ar ábhair ghnó faoi láthair. Úsáidfear an t-aiseolas le tacú le ceapadh beartais san Eoraip.
+
+		Ba mhór agam dá dtabharfá {#minutes_ins} nóiméad dom chun páirt a ghlacadh sa suirbhé seo. Is de do dheoin féin rannpháirtíocht sa suirbhé agus tig leat d'intinn a athrú am ar bith. Beidh gach freagra faoi rún agus cuirfear isteach le freagraí na rannpháirtithe uile eile iad. Ciallaíonn sé sin nach mbeidh tusa, ná do ghnó, inaitheanta in aon torthaí a fhoilseofar. 
+		
+		Le haghaidh dearbhú cáilíochta, d'fhéadfaí an glao seo a mhonatóiriú agus a thaifeadadh.
+		
+		&lt;b&gt;BREIS EOLAIS MÁ IARRTAR AR AN AGALLÓIR:&lt;/b&gt;
+		CLIANT? Tá Ipsos ag déanamh an tsuirbhé seo ar son {#Client}. Is é cuspóir Suirbhéanna Splancacha Eorabharaiméadair monatóireacht a dhéanamh ar thuairimí an phobail agus lucht gnó san Aontas Eorpach maidir le réimse leathan saincheisteanna téamacha.
+		
+		CÉ NA SONRAÍ PEARSANTA A BHAILEOFAR: Ní bhaileofar aon sonraí pearsanta le linn an agallaimh seo. Fanfaidh do rannpháirtíocht, in éineacht le do fhreagraí aonair ar na ceisteanna, faoi rún docht. Má tá tráchtanna nó ceisteanna agat, nó aon chúis imní ort, seol ríomhphost chuig: &lt;a href='FlashEB-dataprotection-coordinator@ipsos-online.com'&gt;FlashEB-dataprotection-coordinator@ipsos-online.com&lt;/a&gt;
+		
+		An bhfuil tú sásta leanúint leis an agallamh?
+		(FREAGRA SINGIL, NÁ LÉIGH AMACH)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Hungary</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>an Ungáir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Other employee (salesman, nurse, ...)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Other employee (salesman, nurse, ...)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Romanian</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Rómánach</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Sud-Est</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Sud-Est</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Southern Harbour</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Southern Harbour</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>16 years or older (will pass phone to start the interview)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>16 bliana d'aois nó níos sine (tabharfaidh an fón ar aghaidh chun tús a chur leis an agallamh)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>(READ IF TARGET RESPONDENT IS NOT THE PERSON WHO FIRST ANSWERED THE PHONE)
+	Hello, My name is …, from (NAME OF NATIONAL INSTITUTE), and I'm conducting an interview for Ipsos Public Affairs, on behalf of one of their clients. We are looking for people aged 15 or over who are willing to share their opinions about the issues of today’s society. We are conducting this survey across Europe. The survey is not part of any market research, we are interested in measuring public opinion.
+	
+	(READ FOR ALL RESPONDENTS)
+	I would be grateful if you could spare {#minutes_ins} minutes to participate in this survey. Participation in the survey is voluntary and you can change your mind at any time. All of your answers will remain confidential and will be combined with all other participants’ answers. This means you will not be identifiable in any of the published results. 
+	{#CONSENT_ins}
+	
+	If you would like to read the Data Protection Notice, you can access it at {#intro_link}. This explains the purpose for processing your personal data as well as your data protection rights.
+	
+	For quality assurance, this phone call may be monitored and recorded.
+	
+	INTERVIEWER ADD IF ASKED:
+	HOW DID YOU GET MY NUMBER: Your telephone number has been randomly generated by a computer, like all numbers we dial for this research. Our aim is to interview a representative sample of this country’s population.
+	
+	CLIENT? Ipsos is conducting this survey for the {#Client}. Flash Eurobarometer surveys have as purpose to monitor public opinion in the European Union on a broad range of thematic issues.
+	
+	WHAT PERSONAL DATA WILL BE COLLECTED: We use your phone number to invite you to take part in this interview and for quality control purposes only. Gender and age information will be collected, as well as personal data from the replies to the interview questions (such as marital status). All of the information you provide will remain confidential, your answers will be combined with all other participants’ answers, and no identifiable data will be shared with Ipsos’ client.
+	
+	Are you happy to proceed with the interview?
+	{#Birthday_ins}</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>(LÉIGH AMACH MURAB IONANN AN SPRIOC-FHREAGRÓIR AGUS AN DUINE A D'FHREAGAIR AN GLAO)
+	Heileo, is mise ..., as (AINM NA HINSTITIÚIDE NÁISIÚNTA), agus táim ag déanamh agallaimh do Ghnóthaí Poiblí Ipsos, ar son cliant dá chuid. Táimid ag lorg daoine in aois 15 bliana atá sásta a gcuid tuairimí a thabhairt ar shaincheisteanna i sochaí an lae inniu. Táimid ag déanamh an tsuirbhé seo fud fad na hEorpa. Níl an suirbhé seo mar chuid d'aon taighde margaíochta, tá suim againn i dtuairimí an phobail a thomhais.
+	
+	(LÉIGH DO GACH FREAGRÓIR)
+	Ba mhór agam dá dtabharfá {#minutes_ins} nóiméad dom chun páirt a ghlacadh sa suirbhé seo. Is de do dheoin féin rannpháirtíocht sa suirbhé agus tig leat d'intinn a athrú am ar bith. Beidh gach freagra faoi rún agus cuirfear isteach le freagraí na rannpháirtithe eile iad. Ciallaíonn sé sin nach mbeidh tú inaitheanta in aon torthaí a fhoilsítear. 
+	{#CONSENT_ins}
+	
+	Más maith leat an Fógra maidir le Cosaint Sonraí a léamh, tá sé ar fáil ag {#intro_link}. Tugtar míniú ann ar an gcuspóir maidir le próiseáil do shonraí pearsanta chomh maith le do chearta um chosaint sonraí.
+	
+Le haghaidh dearbhú cáilíochta, d'fhéadfaí an glao seo a mhonatóiriú agus a thaifeadadh.
+
+	BREIS EOLAIS MÁ IARRTAR AR AN AGALLÓIR:
+	CONAS A FUAIR TÚ M'UIMHIR: Ghin ríomhaire d'uimhir fóin go randamach, amhail gach uimhir a dhiailímid don taighde seo. Is é ár n-aidhm ná agallamh a chur ar shampla ionadaíoch na tíre seo.
+	
+	CLIANT? Tá Ipsos ag déanamh an tsuirbhé seo ar son {#Client}. Is é cuspóir Suirbhéanna Splancacha Eorabharaiméadair monatóireacht a dhéanamh ar thuairimí an phobail san Aontas Eorpach maidir le réimse leathan saincheisteanna téamacha.
+	
+	CÉ NA SONRAÍ PEARSANTA A BHAILEOFAR: Úsáidimid d'uimhir fóin le cuireadh a thabhairt duit páirt a ghlacadh san agallamh seo agus le haghaidh rialú cáilíochta amháin. Baileofar inscne agus aois, chomh maith le sonraí pearsanta ó na freagraí ar na ceisteanna san agallamh (amhail stádas pósta). Fanfaidh gach faisnéis a thabharfaidh tú faoi rún, cuirfear do chuid freagraí isteach le freagraí na rannpháirtithe uile eile agus ní chomhroinnfear aon sonraí inaitheanta le cliant Ipsos
+	
+	An bhfuil tú sásta leanúint leis an agallamh?
+	{#Birthday_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Este</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Este</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>ENI (English - IE)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>ENI (English - IE)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Makroregion Pólnocny</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Makroregion Pólnocny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Which of the following describes how you think of yourself?
+	{#D2_ins}</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Cé acu seo a leanas lena ndéanfá féin cur síos ort?
+	{#D2_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Norra Mellansverige</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Norra Mellansverige</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Qual é a entidade intermunicipal de sua residência?</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Qual é a entidade intermunicipal de sua residência?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Thessalia</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Thessalia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Gelderland</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Gelderland</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>(DO NOT READ OUT; MULTIPLE ANSWERS POSSIBLE)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>(NÁ LÉIGH AMACH; IS FÉIDIR GO DTABHARFAR GO LEOR FREAGRAÍ)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Alsace - Champagne-Ardenne - Lorraine</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Alsace - Champagne-Ardenne - Lorraine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Toscana</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Toscana</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Centre-Est</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Centre-Est</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Western</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Western</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Transportation and Storage</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Transportation and Storage</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Nord-Pas-de-Calais</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Nord-Pas-de-Calais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Nyugat-Dunántúl</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Nyugat-Dunántúl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Lombardia</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Lombardia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Slovak</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Slóvacach</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Noord-Holland</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Noord-Holland</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>France</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>an Fhrainc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Région Wallone</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Région Wallone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Hello, My name is …, from (NAME OF NATIONAL INSTITUTE). May I speak with someone with decision making responsibilities (managing director, general manager, CEO, financial director) or someone leading the commercial activities (commercial manger, sales manager, marketing manager) or a legal officer in your company?
+
+		(IF THE GATEKEEPER ASKS FOR ADDITIONAL INFORMATION) I'm conducting an interview for Ipsos Public Affairs, on behalf of one of their clients. We are contacting (decision makers in) companies across Europe regarding their views on current business topics. The feedback will be used to support policymaking in Europe. I would greatly appreciate being able to speak with him or her to include his/her opinion in the study.
+		
+		&lt;b&gt;INTERVIEWER ADD IF ASKED:&lt;/b&gt;
+		CLIENT? Ipsos is conducting this survey for a European public institution. I can only reveal the name of this institution during the interview.
+		
+		&lt;b&gt;WHO TO CONTACT ABOUT THE SURVEY:&lt;/b&gt;
+		If you have comments or questions, or any concerns, please send an email to: &lt;a href='FlashEB-dataprotection-coordinator@ipsos-online.com'&gt;FlashEB-dataprotection-coordinator@ipsos-online.com&lt;/a&gt;  
+		
+		(SINGLE ANSWER, DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Heileo, Is mise …, as (AINM NA HINSTITIÚIDE NÁISIÚNTA). An féidir liom labhairt le duine a bhfuil cúram cinnteoireachta aige (stiúrthóir bainistíochta, bainisteoir ginearálta, POF, stiúrthóir airgeadais) nó duine a stiúrann na gníomhaíochtaí tráchtála (bainisteoir tráchtála, bainisteoir díolachán bainisteoir margaíochta) nó oifigeach dlí i do chuideachta?
+
+		(MÁ IARRANN AN GEATÓIR TUILLEADH FAISNÉISE) Táim ag déanamh agallamh thar cheann Ghnóthaí Poiblí Ipsos, ar son cliant dá chuid. Táimid ag dul i dteagmháil le (lucht cinnteoireachta) i gcuideachtaí fud fad na hEorpa maidir lena dtuairimí ar ábhair ghnó faoi láthair. Úsáidfear an t-aiseolas le tacú le ceapadh beartais san Eoraip. Ba mhór agam labhairt leis an duine sin lena tuairim/lena thuairim a chur san áireamh sa staidéar.
+		
+		&lt;b&gt;BREIS EOLAIS MÁ IARRTAR AR AN AGALLÓIR:&lt;/b&gt;
+		CLIANT? Tá Ipsos ag déanamh an tsuirbhé seo ar son institiúid phoiblí Eorpach. Ní féidir liom ainm na hinstitiúide sin a thabhairt ach le linn an agallaimh.
+		
+		&lt;b&gt;CÉ LEIS DUL I DTEAGMHÁIL FAOIN SUIRBHÉ:&lt;/b&gt;
+		Má tá tráchtanna nó ceisteanna agat, nó aon chúis imní ort, seol ríomhphost chuig: &lt;a href='FlashEB-dataprotection-coordinator@ipsos-online.com'&gt;FlashEB-dataprotection-coordinator@ipsos-online.com&lt;/a&gt;  
+		
+		(FREAGRA SINGIL, NÁ LÉIGH AMACH)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>No</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Ní raibh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Danish</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Danmhargach</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Nord-Ouest</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Nord-Ouest</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Other (self-employed)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Other (self-employed)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Mellersta Norrland</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Mellersta Norrland</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Public administration and defence; compulsory social security</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Public administration and defence; compulsory social security</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Marker shows do we have sensitive topics Yes = 1, No = 2.</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Marker shows do we have sensitive topics Yes = 1, No = 2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>15 years</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>15 years</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Greece</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>an Ghréig</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Latgale</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Latgale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Marker holding the label for questions PC_1 to PC_20</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Marker holding the label for questions PC_1 to PC_20</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Variable showing the Client</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Variable showing the Client</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>More than 2 to 10 million euro</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Níos mó ná 2 mhilliún suas le 10 milliún euro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>South East (UK)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>South East (UK)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Makroregion Wschodni</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Makroregion Wschodni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Közép-Dunántúl</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Közép-Dunántúl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Please provide an answer.</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Please provide an answer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Please enter a value between {#D1_age_ins} and 105. If the respondent is less than {#D1_age_ins} years, select response “&lt;{#D1_age_ins} years”.</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Cuir isteach luach idir {#D1_age_ins} agus 105. Má tá an freagróir níos óige ná {#D1_age_ins} bliana, roghnaigh freagairt “&lt;{#D1_age_ins} bliana”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Neutral</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Neodrach</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>BGR (Bulgarian - BG)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>BGR (Bulgarian - BG)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Which nationality or nationalities do you hold?
+	{#D3b_ins}</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Cén náisiúntacht nó cé na náisiúntachtaí atá tógtha agat?
+	{#D3b_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This question is shown only in test mode.
+    HOUSEHOLD SIZE - AGED 15+ (RECODED)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>This question is shown only in test mode.
+    HOUSEHOLD SIZE - AGED 15+ (RECODED)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Ostösterreich</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Ostösterreich</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Stredné Slovensko</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Stredné Slovensko</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Yes, available</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Tá, ar fáil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>NLB (Dutch - BE)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>NLB (Dutch - BE)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Education</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Education</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Refusal</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Diúltú</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Pohjois- ja Itä-Suomi</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Pohjois- ja Itä-Suomi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Pays-de-la-Loire</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Pays-de-la-Loire</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>SKY (Slovak - SK)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>SKY (Slovak - SK)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Puglia</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Puglia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Seeking a job</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Ag lorg poist</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Région de Bruxelles-Capitale / Brussels Hoofdstedelijk Gewest</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Région de Bruxelles-Capitale / Brussels Hoofdstedelijk Gewest</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Yes, more than one mobile phone</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Tá, níos mó ná fón póca amháin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Isole</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Isole</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Fairly positive</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Measartha dearfach</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Lubuskie</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Lubuskie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Regiony</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Regiony</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In the last two years, have you been involved in any dispute which has gone to court?</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Sa dá bhliain seo caite, an raibh páirt agat in aon díospóid a chuaigh os comhair na cúirte?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Are you a permanent resident of {#MRK_Country}?</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>An buanchónaitheoir de chuid {#MRK_Country}thú?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Research Executive Agency</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>an Ghníomhaireacht Feidhmiúcháin Taighde</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>DAN (Danish - DK)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>DAN (Danish - DK)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Bratislavský kraj</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Bratislavský kraj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Batch 5</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Batch 5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Prov. Brabant Wallon</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Prov. Brabant Wallon</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Please enter a value between 0 and 20.</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Please enter a value between 0 and 20.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Podkarpackie</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Podkarpackie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Don't know/No Answer (DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Ní fios/Níl bainteach (NÁ LÉIGH AMACH OS ARD)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Greek</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Gréagach</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Wales</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Wales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Melyik régióban élsz?</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Melyik régióban élsz?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;b&gt;Thank you for your participation. Please click next and then close the browser.&lt;/b&gt;</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>&lt;b&gt;Go raibh maith agat as do rannpháirtíocht. Cliceáil Ar aghaidh agus ansin dún an brabhsálaí.&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>How old are you?
+	{#D1_ins}</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>How old are you?
+	{#D1_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>These questions are only asked in test mode!</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>These questions are only asked in test mode!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Slovakia</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>an tSlóvaic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Corse</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Corse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Sicilia</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Sicilia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Manager of a company</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Bainisteoir comhlachta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Nord-Vest</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Nord-Vest</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Refusal {#D5a_ins}</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Diúltú {#D5a_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Insert the minutes for CONSENT and CONSENTM.
+	
+	This question is showing only in test mode.</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Insert the minutes for CONSENT and CONSENTM.
+	
+	This question is showing only in test mode.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Still in full-time education</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Still in full-time education</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Comunidad de Madrid</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Comunidad de Madrid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Kujawsko-Pomorskie</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Kujawsko-Pomorskie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Wielkopolskie</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Wielkopolskie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Does your company sell …
+	(READ OUT – MULTIPLE ANSWERS POSSIBLE)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>An ndíolann do chuideachta… (LÉIGH AMACH OS ARD - IS FÉIDIR NÍOS MÓ NÁ FREAGRA AMHÁIN A THABHAIRT)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Jadranska Hrvatska</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Jadranska Hrvatska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Committee of the Regions</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Coiste Eorpach na Réigiún</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Vilnius county</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Vilnius county</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>European Central Bank</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>an Banc Ceannais Eorpach</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Spanish</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Spáinneach</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Portugal</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>an Phortaingéil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Office clerk</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Cléireach oifige</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Severozapaden</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Severozapaden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Est</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Est</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Northern</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Northern</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Sud-Ouest</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Sud-Ouest</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Refusal</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Diúltú</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Irish</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Éireannach</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>10 to 49 employees</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Idir 10 agus 49 fostaí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Moravskoslezsko</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Moravskoslezsko</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>I vilket riksområde bor du?</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>I vilket riksområde bor du?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Lääne-Eesti</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Lääne-Eesti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Auvergne</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Auvergne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Lithuanian</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Liotuánach</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Larnaca</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Larnaca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Bourgogne</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Bourgogne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>SVF (Swedish - FI)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>SVF (Swedish - FI)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Up to 14 years</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Up to 14 years</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Kurzeme</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Kurzeme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Spain</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>an Spáinn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Campania</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Campania</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>PLK (Polish - PL)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>PLK (Polish - PL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>European Ombudsman</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>an tOmbudsman Eorpach</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Do you use more than one mobile phone?
+	{#D2_ins}</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>An bhfuil fón póca nó níos mó á n-úsáid agat?
+	{#D2_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Decreased</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Laghdú</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Dutch</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Ísiltíreach</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Észak-Magyarország</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Észak-Magyarország</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Jihovýchod</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Jihovýchod</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>There are too many answers, only {MAXANSWERS} are allowed.</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>There are too many answers, only {MAXANSWERS} are allowed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Question '{QUESTION}' ({QUESTION_NUMBER}): Answer '{ANSWER}' ({CATEGORY}) has a response but it is not selected.</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Question '{QUESTION}' ({QUESTION_NUMBER}): Answer '{ANSWER}' ({CATEGORY}) has a response but it is not selected.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Owned or controlled entirely by persons from (THIS COUNTRY)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Faoi úinéireacht nó rialú iomlán ag daoine a thagann ó Éirinn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>ESM (Maltese - Malta)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>ESM (Maltese - Malta)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Západné Slovensko</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Západné Slovensko</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This question is asked only in test mode!
+
+	Please add a new category if there is a batch &gt; 10!</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>This question is asked only in test mode!
+
+	Please add a new category if there is a batch &gt; 10!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Jugovzhodna Slovenija</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Jugovzhodna Slovenija</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Civil servant</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Civil servant</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Flevoland</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Flevoland</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Supervisor/foreman (team manager, …)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Maoirseoir\ saoiste (bainisteoir foirne,..)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Answer '{ANSWER}' is not numeric.</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Answer '{ANSWER}' is not numeric.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Italy</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>an Iodáil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In which district do you live?/F'liema distrett tgħix</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>In which district do you live?/F'liema distrett tgħix</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Accommodation and food service activities</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Accommodation and food service activities</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Slovenia</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>an tSlóivéin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Belgian</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Beilgeach</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Basilicata</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Basilicata</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Castilla y León</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Castilla y León</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>East of England</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>East of England</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Sur</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Sur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Executive Agency for Small and Medium-sized Enterprises</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>an Ghníomhaireacht Feidhmiúcháin um Fhiontair Bheaga agus Mheánmhéide</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This question is shown only in test mode.
+    OCCUPATION (SCALE)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>This question is shown only in test mode.
+    OCCUPATION (SCALE)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In the last two years, has your company been involved in any dispute which has gone to court?</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Le dhá bhliain anuas, an raibh baint ag do chuideachta le haon díospóid ar imigh chun cúirte?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Denmark</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>an Danmhairg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Attiki</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Attiki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Put through to the targeted respondent</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Curtha ar aghaidh chuig an sprioc-fhreagróir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Answer '{ANSWER}' is not an integer value.</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Answer '{ANSWER}' is not an integer value.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>(WRITE DOWN AGE IN YEARS IF RESPONDENT IS 15 YEARS OR OVER)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>(SCRÍOBH AOIS I MBLIANTA MÁ TÁ AN FREAGRÓIR 15 BLIANA D'AOIS NÓ NÍOS SINE)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Owner of shop, craftsman (self-employed)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Owner of shop, craftsman (self-employed)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Latvian</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Laitviach</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>General management, director or top management</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>General management, director or top management</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Batch 10</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Batch 10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Limousin</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Limousin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>16 years</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>16 years</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Does someone pick-up the phone?</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>An bhfuil an fón á fhreagairt?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Improved</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Feabhsuithe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The European General Data Protection Regulation (GDPR) requires us to first speak to a parent or legal guardian of a teenager. Can I speak to this teenager’s parent or legal guardian?
+	(SINGLE ANSWER, DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Éilítear sa Rialachán Eorpach Ginearálta maidir le Cosaint Sonraí (RGCS) orainn labhairt le tuismitheoir nó caomhnóir dlíthiúil déagóra. An féidir liom labhairt le tuismitheoir nó caomhnóir dlíthiúil an déagóra seo.
+	(FREAGRA SINGIL, NÁ LÉIGH AMACH)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Next</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Next</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Strední Morava</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Strední Morava</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Without a professional activity</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Without a professional activity</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Errors</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Errors</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Bucuresti - Ilfov</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Bucuresti - Ilfov</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Castilla-la Mancha</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Castilla-la Mancha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>25 - 39 years</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>25 - 39 years</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Services directly to consumers</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>seirbhísí díreach le tomhaltóirí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Sjælland</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Sjælland</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Rīga</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Rīga</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Scotland</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Scotland</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Croatian</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Crótach</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Dans quelle région habitez-vous?</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Dans quelle région habitez-vous?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Syddanmark</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Syddanmark</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Tauragė County</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Tauragė County</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Insert for D4</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Insert for D4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Dublin (Dublin City Council, Dún Laoghaire–Rathdown, Fingal and South Dublin)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Dublin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This question is shown only in test mode.
+    AGE RECODED - 6 CATEGORIES</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>This question is shown only in test mode.
+    AGE RECODED - 6 CATEGORIES</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>South-West (Cork City Council, Cork and Kerry)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>South-West</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This question is shown only in test mode.
+    AGE EDUCATION (RECODED 5 CAT)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>This question is shown only in test mode.
+    AGE EDUCATION (RECODED 5 CAT)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Prov. West-Vlaanderen</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Prov. West-Vlaanderen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>2</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Budapest</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Budapest</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Bulgaria</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>an Bhulgáir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Bulgarian</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Bulgárach</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Marker showing the itteration of Intro question.</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Marker showing the itteration of Intro question.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This dummy question hold the two unique letters of the country.</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>This dummy question hold the two unique letters of the country.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Only one answer is allowed.</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Only one answer is allowed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>After 1 January {#CurrentYear_insert_1}</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Tar éis an 1 Eanáir {#CurrentYear_insert_1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Zemgale</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Zemgale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Franche-Comté</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Franche-Comté</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Västsverige</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Västsverige</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Strední Cechy</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Strední Cechy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Provincia Autonoma di Trento</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Provincia Autonoma di Trento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Provincies / Provinces</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Provincies / Provinces</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>4+</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>4+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>CSY (Czech - CZ)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>CSY (Czech - CZ)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Brandenburg</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Brandenburg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Šiauliai County</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Šiauliai County</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>SLV (Slovenian - SI)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>SLV (Slovenian - SI)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>More than 25,000 to 50,000 euro</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Níos mó ná 25,000 euro suas le 50,000 euro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The minutes for CONSENT and CONSENTM.</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>The minutes for CONSENT and CONSENTM.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Poland</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>an Pholainn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Human health and social work activities</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Human health and social work activities</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Midtjylland</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Midtjylland</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Over the last year, would you say that this image you have of the EU improved, got worse or stayed about the same? 
+	{#SD15_ins}</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Le bliain anuas, an ndéarfá go bhfuil an dearcadh sin atá agat i dtaca leis an AE feabhsaithe, gur éirigh sé níos measa nó go bhfuil sé mar a bhí? 
+	{#SD15_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Thank you for your time. We remind you that if you would like to read the Data Protection Notice, you can access it at {#intro_link}. This explains the purposes for processing your personal data as well as your rights under applicable data protection law.</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Go raibh maith agat as do chuid ama. Cuimhnigh, más maith leat an Fógra maidir le Cosaint Sonraí a léamh, tá sé ar fáil ag {#intro_link}. Tugtar míniú ann ar na cuspóirí maidir le próiseáil do shonraí pearsanta chomh maith le do chearta faoin dlí is infheidhme um chosaint sonraí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Batch 9</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Batch 9</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Statistične regije</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Statistične regije</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Cataluña</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Cataluña</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Border (Cavan, Donegal, Leitrim, Louth, Monaghan, Sligo)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Border</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Quota based on D2 but only for CAWI projects.</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Quota based on D2 but only for CAWI projects.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Makroregion Centralny</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Makroregion Centralny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;p&gt;These are all the questions we have for you today.  It appears that a sufficient number of respondents with a similar profile have already completed this study, or that your profile does not exactly match our needs for this study. We apologize for the inconvenience.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>&lt;p&gt;Seo na ceisteanna uile atá againn ort inniu.  Is cosúil go bhfuil an staidéar déanta cheana féin ag go leor freagróirí leis an bpróifíl chéanna, nó nach dtéann do phróifíl go díreach lenár riachtanais maidir leis an staidéar seo. Gabhaimid ár leithscéal as an míchaoithiúlacht.&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Electricity, gas, steam and air conditioning supply</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Electricity, gas, steam and air conditioning supply</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>50% or more owned or controlled by persons from other countries outside (THIS COUNTRY)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>50% nó níos mó faoi úinéireacht nó rialú ag daoine nach dtagann ó Éirinn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Sorry, but the system has encountered an internal error and cannot go on with the interview at this stage.&lt;br/&gt;Please check back later.</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Sorry, but the system has encountered an internal error and cannot go on with the interview at this stage.&lt;br/&gt;Please check back later.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Refusal</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Refusal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>1</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>HUN (Hungarian - HU)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>HUN (Hungarian - HU)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Baden-Württemberg</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Baden-Württemberg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Unskilled manual worker</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Unskilled manual worker</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>51-75%</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>51-75%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Região Autónoma dos Açores (PT)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Região Autónoma dos Açores (PT)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>В коя област живеете?</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>В коя област живеете?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Lõuna-Eesti</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Lõuna-Eesti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Região Autónoma da Madeira (PT)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Região Autónoma da Madeira (PT)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Kriti</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Kriti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Northern Harbour</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Northern Harbour</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Quota for Batch
+    
+	Please add a new category if there is a batch &gt; 10!</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Quota for Batch
+    
+	Please add a new category if there is a batch &gt; 10!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Kesk-Eesti</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Kesk-Eesti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Prov. Hainaut</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Prov. Hainaut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Jihozápad</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Jihozápad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg></seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Overijssel</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Overijssel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Marche</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Marche</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Which of the following statements regarding the European Union is closest to your opinion? 
+    {#D2_ins}</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Cé acu ráiteas maidir leis an Aontas Eorpach is cóngaraí do do thuairim? 
+    {#D2_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Dél-Alföld</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Dél-Alföld</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Batch 7</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Batch 7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>65 years and older</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>65 years and older</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Increased</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Méadú</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>More than 50,000 to 100,000 euro</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Níos mó ná 50,000 euro suas le 100,000 euro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Below 10% owned by persons from other countries outside (THIS COUNTRY)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Níos lú ná 10% faoi úinéireacht ag daoine nach dtagann ó Éirinn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Severozápad</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Severozápad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Other</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Eile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>ENU</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>ENU</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>West (Galway City Council, Galway, Mayo, Roscommon)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>West</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>I would like to reassure you that your child's cooperation is completely voluntary. All answers are confidential and combined with other participants’ answers. This means your child will not be identifiable in any of the published results.
+	{#PARENT3_ins}
+	
+	If you would like to read the Data Protection Notice, you can access it at {#intro_link}. This explains the purpose for processing your personal data as well as your data protection rights.
+	
+	INTERVIEWER ADD IF ASKED:
+	HOW DID YOU GET MY NUMBER: Your telephone number has been randomly generated by a computer, like all numbers we dial for this research. Our aim is to interview a representative sample of this country’s population.
+	
+	CLIENT? Ipsos is conducting this survey for the {#Client}. Flash Eurobarometer surveys have as purpose to monitor public opinion in the European Union on a broad range of thematic issues.
+	
+	WHAT PERSONAL DATA WILL BE COLLECTED: We use your phone number to invite you to take part in this interview and for quality control purposes only. Gender and age information will be collected, as well as personal data from the replies to the interview questions (such as marital status). All of the information you provide will remain confidential, your answers will be combined with all other participants’ answers, and no identifiable data will be shared with Ipsos’ client.
+	
+	Do we have your permission to conduct this interview with your child?
+	{#Birthday_ins}</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Ba mhaith liom cur in iúl duit go bhfuil comhoibriú do linbh go hiomlán dá dheoin féin. Tá gach freagra faoi rún agus cuirtear le freagraí na rannpháirtithe eile iad. Ciallaíonn sé sin nach mbeidh do leanbh inaitheanta in aon torthaí a fhoilsítear.
+	{#PARENT3_ins}
+	
+	Más maith leat an Fógra maidir le Cosaint Sonraí a léamh, tá sé ar fáil ag {#intro_link}. Tugtar míniú ann ar an gcuspóir maidir le próiseáil do shonraí pearsanta chomh maith le do chearta um chosaint sonraí.
+	
+	BREIS EOLAIS MÁ IARRTAR AR AN AGALLÓIR:
+	CONAS A FUAIR TÚ M'UIMHIR: Ghin ríomhaire d'uimhir fóin go randamach, amhail gach uimhir a dhiailímid don taighde seo. Is é ár n-aidhm ná agallamh a chur ar shampla ionadaíoch na tíre seo.
+	
+	CLIANT? Tá Ipsos ag déanamh an tsuirbhé seo ar son  [{#Client}]. Is é cuspóir Suirbhéanna Splancacha Eorabharaiméadair monatóireacht a dhéanamh ar thuairimí an phobail san Aontas Eorpach maidir le réimse leathan saincheisteanna téamacha.
+	
+	CÉ NA SONRAÍ PEARSANTA A BHAILEOFAR: Úsáidimid d'uimhir fóin le cuireadh a thabhairt duit páirt a ghlacadh san agallamh seo agus le haghaidh rialú cáilíochta amháin. Baileofar inscne agus aois, chomh maith le sonraí pearsanta ó na freagraí ar na ceisteanna san agallamh (amhail stádas pósta). Fanfaidh gach faisnéis a thabharfaidh tú faoi rún, cuirfear do chuid freagraí isteach le freagraí na rannpháirtithe uile eile agus ní chomhroinnfear aon sonraí inaitheanta le cliant Ipsos
+	
+	An bhfuil cead againn uait an t-agallamh seo a chur ar do leanbh?
+	{#Birthday_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>European External Action Service</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>an tSeirbhís Eorpach Gníomhaíochta Seachtraí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Kentriki ellada</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Kentriki ellada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>European Investment Bank Group</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Grúpa an Bhainc Eorpaigh Infheistíochta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Polish</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Polannach</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Mid-West (Clare, Limerick, Limerick City Council, North Tipperary)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Mid-West</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>În care regiune locuiţi ?</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>În care regiune locuiţi ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Nordjylland</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Nordjylland</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Don't know/No Answer (DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Ní fhios/Níl bainteach (NÁ LÉIGH AMACH)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Hello, My name is …, from (NAME OF NATIONAL INSTITUTE), and I'm conducting an interview for Ipsos Public Affairs, on behalf of one of their clients. We are looking for people aged 15 or over who are willing to share their opinions about the issues of today’s society. We are conducting this survey across Europe. The survey is not part of any market research, we are interested in measuring public opinion.
+
+	We would like to speak to your child about this subject (CLARIFY IF NEEDED: your child, aged 15, whose birthday it was most recently).
+	
+	Are you the parent/legal guardian of the child, aged 15, we would like to interview?</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Heileo, is mise ..., as (AINM NA HINSTITIÚIDE NÁISIÚNTA), agus táim ag déanamh agallaimh do Ghnóthaí Poiblí Ipsos, ar son cliant dá chuid. Táimid ag lorg daoine in aois 15 bliana atá sásta a gcuid tuairimí a thabhairt ar shaincheisteanna i sochaí an lae inniu. Táimid ag déanamh an tsuirbhé seo fud fad na hEorpa. Níl an suirbhé seo mar chuid d'aon taighde margaíochta, tá suim againn i dtuairimí an phobail a thomhais.
+
+	Ba mhaith linn labhairt le do leanbh faoin ábhar seo (SOILÉIRIGH MÁS GÁ: do leanbh, aois 15, a raibh breithlá is déanaí ann).
+	
+	An tusa tuismitheoir/caomhnóir dlíthiúil an linbh, aois 15, lenar mhaith linn agallamh a dhéanamh?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Prov. Liège</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Prov. Liège</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This question is shown only in test mode.
+    AGE RECODED - 4 CATEGORIES</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>This question is shown only in test mode.
+    AGE RECODED - 4 CATEGORIES</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>(WRITE DOWN AGE IN YEARS IF RESPONDENT IS 16 YEARS OR OVER)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>(SCRÍOBH AOIS I MBLIANTA MÁ TÁ AN FREAGRÓIR 16 BLIANA D'AOIS NÓ NÍOS SINE)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Over the past two years, has your company's total number of employees increase, decreased or remained about the same?	
+	(DO NOT READ OUT, ONE ANSWER ONLY)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Sa dá bhliain anuas, an raibh méadú nó laghdú nó gan athrú beagnach i líon iomlán na bhfostaithe i do chuideachta?	
+	(NÁ LÉIGH AMACH, FREAGRA AMHÁIN DE DHÍTH)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Yes (will pass phone to start the interview)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Tá (tabharfaidh an fón ar aghaidh chun tús a chur leis an agallamh)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Tirol</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Tirol</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Småland med öarna</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Småland med öarna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Student (full-time)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Student (full-time)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>DEL (German - LU)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>DEL (German - LU)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In welchem Bundesland leben Sie?</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>In welchem Bundesland leben Sie?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Male</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Fear</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>FRL (French - LU)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>FRL (French - LU)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Prov. Oost-Vlaanderen</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Prov. Oost-Vlaanderen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Etelä-Suomi</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Etelä-Suomi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Lorraine</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Lorraine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>ITA (Italian - IT)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>ITA (Italian - IT)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>(READ OUT – ONE ANSWER PER LINE)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>(LÉIGH AMACH– FREAGRA AMHÁIN GACH LÍNE)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Aquitaine</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Aquitaine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Centru</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Centru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Východné Slovensko</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Východné Slovensko</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Área Metropolitana de Lisboa</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Área Metropolitana de Lisboa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Kaunas county</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Kaunas county</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>20 years and older</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>20 years and older</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Prefer not to say</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Is fearr liom gan a lua</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Don't know {#D5a_ins}</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Don't know {#D5a_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Remained unchanged</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Gan athrú</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Middle management</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Meánbhainistíocht</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Northern Ireland</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Northern Ireland</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Insert for D2</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Insert for D2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Professional (employed doctor, lawyer, accountant, architect, …)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Duine gairme (dlíodóir, liachleachtóir, cuntasóir, ailtire fostaithe...)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>North West (UK)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>North West (UK)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>19 years</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>19 years</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Kokioje apskrityje Jūs gyvente?</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Kokioje apskrityje Jūs gyvente?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Female</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Female</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Don't know</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Ní fios (NÁ LÉAMH AMACH)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>West Nederland</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>West Nederland</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>English (US)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>English (US)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Never been in full-time education</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Never been in full-time education</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Other employee (salesman, nurse, …)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Fostaí eile (díoltóir, altra...)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>European Securities and Markets Authority</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>an tÚdarás Eorpach um Urrúis agus Margaí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Products directly to consumers</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>táirgí díreach le tomhaltóirí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>17 years</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>17 years</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Batch 8</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Batch 8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Dans quelle province habitez-vous?/In welke provincie woont u?</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Dans quelle province habitez-vous?/In welke provincie woont u?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>French</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Francach</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Madrid</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Madrid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>European political matters</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Cúrsaí polaitíochta Eorpacha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Sachsen</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Sachsen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Midi-Pyrénées</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Midi-Pyrénées</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>None, sole trader (DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Duine ar bith, trádálaí aonair (NÁ LÉIGH AMACH)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Sydsverige</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Sydsverige</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Sachsen-Anhalt</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Sachsen-Anhalt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>V ktorej oblasti bývate?</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>V ktorej oblasti bývate?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Kontinentalna Hrvatska</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Kontinentalna Hrvatska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Less than 25,000 euro</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Níos lú ná 25,000 euros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Insert for D1</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Insert for D1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>3</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Marker holding the label for questions Birthday_1 to Birthday_20</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Marker holding the label for questions Birthday_1 to Birthday_20</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Comunidad Foral de Navarra</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Comunidad Foral de Navarra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Provincies</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Provincies</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Batch 6</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Batch 6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Croatia</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>an Chróit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Makroregion Poludniowy</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Makroregion Poludniowy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Latvia</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>an Laitvia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Calabria</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Calabria</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Swietokrzyskie</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Swietokrzyskie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Targeted respondent not available, call back later</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Níl an sprioc-fhreagróir ar fáil, glaoigh ar ais níos déanaí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>35 - 44 years</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>35 - 44 years</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>FRA (French - FR)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>FRA (French - FR)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Galicia</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Galicia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Észak-Alföld</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Észak-Alföld</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Portuguese</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Portaingéalach</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Refusal (SPONTANEOUS)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Refusal (SPONTANEOUS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Prov. Namur</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Prov. Namur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Administrative and support service activities</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Administrative and support service activities</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Mazowiecki regionalny</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Mazowiecki regionalny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Burgenland (AT)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Burgenland (AT)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Haute Normandie</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Haute Normandie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Norte</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Norte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Oost Nederland</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Oost Nederland</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Oberösterreich</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Oberösterreich</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Languedoc-Roussillon - Midi-Pyrénées</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Languedoc-Roussillon - Midi-Pyrénées</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>European Commission</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>An Coimisiún Eorpach</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Comunidades y ciudades Autónomas</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Comunidades y ciudades Autónomas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>HRV (Croation - HR)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>HRV (Croation - HR)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Do you also use one or more mobile phones?
+	{#D2_ins}</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>An bhfuil fón póca nó níos mó á n-úsáid agat freisin?
+	{#D2_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Umbria</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Umbria</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Drenthe</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Drenthe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>15 years old, but not available/not at home</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>15 bliana d'aois, ach ní ar fáil/ní sa bhaile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>I’m opposed to the idea of the European Union in general</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Táim i gcoinne idé an Aontais Eorpaigh go ginearálta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Lazio</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Lazio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Don't know/No Answer (DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Ní fhios/Níl bainteach (NÁ LÉIGH AMACH OS ARD)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>West Midlands (UK)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>West Midlands (UK)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Bourgogne - Franche-Comté</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Bourgogne - Franche-Comté</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>How old were you when you stopped full-time education?
+    {#D4_ins}</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Cén aois a bhí tú nuair a d'fhág tú oideachas lánaimseartha? {#D4_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Midland (Laois, Longford, Offaly, Westmeath)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Midland</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Seeking a job</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Seeking a job</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>British</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Briotánach</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Centro (E)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Centro (E)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>U kojoj regiji živite?</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>U kojoj regiji živite?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;b&gt;Non-public services&lt;/b&gt;</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>&lt;b&gt;Seirbhísí neamh-phoiblí&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>250 to 499 employees</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Idir 250 agus 499 fostaí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Do you also have a landline telephone at home? 
+    Do not include telephones only used for business purposes or for connecting to the Internet or to a fax machine.
+	{#D2_ins}</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>An bhfuil fón le líne thalún agat freisin? 
+    Ná cuir san áireamh fóin nach n-úsáidtear ach chun críche gnó nó le nascadh leis an Idirlíon nó le meaisín facsála.
+	{#D2_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>European Agency for Safety and Health at Work</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>an Ghníomhaireacht Eorpach um Shábháilteacht agus Sláinte ag an Obair</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Austrian</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Ostarach</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Zahodna Slovenija</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Zahodna Slovenija</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;center&gt;Thank you for taking part in this survey. &lt;br /&gt;These are all the questions we have for you today.&lt;/center&gt;</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>&lt;center&gt;Go raibh maith agat as páirt a ghlacadh sa suirbhé seo. &lt;br /&gt;Seo na ceisteanna uile atá againn ort inniu.&lt;/center&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Please enter a value between 15 and 105. If you are less than 15 years old, you are not eligible to participate in this study.</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Cuir isteach luach idir 15 agus 105. Má tá tú níos óige ná 15 bliana d'aois, níl tú incháilithe páirt a ghlacadh sa staidéar seo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>FIN (Finnish - FI)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>FIN (Finnish - FI)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Dytiki Ellada</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Dytiki Ellada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Still in full-time education</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>In oideachas lánaimseartha fós</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Other (manual worker)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Other (manual worker)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Provincia Autonoma di Bolzano/Bozen</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Provincia Autonoma di Bolzano/Bozen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;a target='_blank' href="https://pp.ipsos.be"&gt;https://pp.ipsos.be&lt;/a&gt;</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>&lt;a target='_blank' href="https://pp.ipsos.be"&gt;https://pp.ipsos.be&lt;/a&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>What is the main activity of your company?
+    (READ OUT MAIN CATEGORIES FIRST, THEN SUBCATEGORIES, ONE ANSWER ONLY)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Cad is príomhghníomhaíocht do chuideachta?
+    (LÉIGH AMACH NA PRÍOMHCHATAGÓIRÍ AR DTÚS, ANSIN NA FOCHATAGÓIRÍ, FREAGRA AMHÁIN DE DHÍTH)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Construction</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Construction</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Vlaams gewest</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Vlaams gewest</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>No, I am not the parent/legal guardian</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Ní mé, ní mise an tuismitheoir/caomhnóir dlíthiúil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Manufacturing</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Manufacturing</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Champagne-Ardenne</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Champagne-Ardenne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{#D1X_insert}
+	(DO NOT READ OUT, ONE ANSWER ONLY)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>{#D1X_insert}
+	(FREAGRA AMHÁIN AG TEASTÁIL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Goriška</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Goriška</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You’ve now been unsubscribed from this survey. You’ll no longer receive invites or reminders related to this study.</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>You’ve now been unsubscribed from this survey. You’ll no longer receive invites or reminders related to this study.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>ETI</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>ETI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Centre - Val de Loire</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Centre - Val de Loire</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Previous</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Previous</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>More than 10 years</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Níos mó ná 10 mbliana</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Navigations</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Navigations</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>55 years and older</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>55 years and older</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Hessen</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Hessen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Περιφέρειες (Periferies - Regions)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Περιφέρειες (Periferies - Regions)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>26-50%</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>26-50%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Batch 3</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Batch 3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Between 1 January {#CurrentYear_insert_6} and 1 January {#CurrentYear_insert_1}</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Idir an 1 Eanáir {#CurrentYear_insert_6} agus an 1 Eanáir {#CurrentYear_insert_1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Less than 1 year</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Níos lú ná bliain amháin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Sud - Muntenia</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Sud - Muntenia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Auvergne - Rhône-Alpes</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Auvergne - Rhône-Alpes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>I’m rather sceptical of the European Union, but could change my opinion if radical reform was brought about</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Táim sách amhrasach faoin Aontas Eorpach, ach d'fhéadfadh an tuairim sin athrú dá ndéanfaí leasú radacach air</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>KAL (Greek - Cyprus)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>KAL (Greek - Cyprus)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The thousands separator character is not allowed.</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>The thousands separator character is not allowed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The answer has too much text, current length is {LENGTH}, maximum is {MAXLENGTH}.</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>The answer has too much text, current length is {LENGTH}, maximum is {MAXLENGTH}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Pest</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Pest</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>South West (UK)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>South West (UK)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Lubelskie</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Lubelskie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Centro (IT)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Centro (IT)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Marker holding the label for questions CONSENTM_1 to CONSENTM_20</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Marker holding the label for questions CONSENTM_1 to CONSENTM_20</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Niederösterreich</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Niederösterreich</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Languedoc-Roussillon</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Languedoc-Roussillon</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A rural area or village</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>I limistéar tuaithe nó sráidbhaile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Not applicable (DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Níl bainteach (NÁ LÉIGH AMACH OS ARD)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In which county do you live?</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Cén cúige a bhfuil cónaí ort?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Nord-Pas-de-Calais - Picardie</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Nord-Pas-de-Calais - Picardie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You entered an unexpected value, please review your answer or continue to confirm your response.</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Chuir tú isteach luach nach rabhthas ag súil leis, déan athbhreithniú ar do fhreagra nó lean ort le do fhreagairt a dheimhniú.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Other service activities</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Other service activities</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>500 or more employees</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>500 fostaí nó níos mó</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Answer '{ANSWER}' ({CATEGORY}) has a response but is not selected.</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Answer '{ANSWER}' ({CATEGORY}) has a response but is not selected.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You have used the browser buttons, please use the Next/Previous buttons below.</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>You have used the browser buttons, please use the Next/Previous buttons below.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Aragón</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Aragón</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Limburg (NL)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Limburg (NL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>London</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>London</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;b&gt;Construction, transport, ICT&lt;/b&gt;</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>&lt;b&gt;Foirgníocht, iompar, TFC&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>40 - 54 years</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>40 - 54 years</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Do we have your permission to conduct this interview with your child?</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>An bhfuil cead againn uait an t-agallamh seo a chur ar do leanbh?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Schleswig-Holstein</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Schleswig-Holstein</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Noord-Brabant</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Noord-Brabant</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Marker holding the label for questions PARENT1_1 to PARENT1_20</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Marker holding the label for questions PARENT1_1 to PARENT1_20</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Financial and insurance activities</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Financial and insurance activities</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Paphos</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Paphos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Opolskie</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Opolskie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Answer '{ANSWER}' is not valid.</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Answer '{ANSWER}' is not valid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>IRE (Irish - IE)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>IRE (Irish - IE)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>General management, director or top management</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Bainsitíocht ghinearálta, stiúrthóir, ardbhainistíocht</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Centro (PT)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Centro (PT)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Normandie</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Normandie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Bretagne</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Bretagne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{#Nationality} nationality</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>{#Nationality} náisiúntacht</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Manual worker</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Manual worker</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;b&gt;Industry&lt;/b&gt;</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>&lt;b&gt;Tionsclaíocht&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Office clerk</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Office clerk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Yuzhen tsentralen</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Yuzhen tsentralen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Would you say you live in...?
+	{#D2_ins}</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>An ndéarfá go bhfuil tú i do chónaí...?
+	{#D2_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Régions</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Régions</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>45 - 54 years</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>45 - 54 years</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>There are too few answers, at least {MINANSWERS} are required.</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>There are too few answers, at least {MINANSWERS} are required.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The survey includes some questions that could be considered sensitive as they relate to political opinions. You may refuse to answer these questions at any time, and you can withdraw your consent for participation at any time.</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Áirítear sa suirbhé seo roinnt ceisteanna a d'fhéadfaí a mheas mar íogair mar go mbaineann siad le tuairimí polaitíochta. Is féidir leat diúltú na ceisteanna sin a fhreagairt am ar bith, agus tig leat do thoiliú ar rannpháirtíocht a tharraing siar am ar bith.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Centre</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Centre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Marker holding the label for questions Interviewer_ID1_1 to Interviewer_ID1_20 and Interviewer_ID2</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Marker holding the label for questions Interviewer_ID1_1 to Interviewer_ID1_20 and Interviewer_ID2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>How many employees (in full-time equivalents) does your company currently have? 	
+	ADD, IF NEEDED: If you are not sure, please provide your best estimate.	
+	(READ OUT IF NECESSARY, ONE ANSWER ONLY)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Cé mhéad fostaithe (lánaimseartha coibhéiseach) atá ag do chuideachta? 	
+	BREIS, MÁS GÁ: Mura bhfuil tú cinnte, tabhair do mheastachán is fearr.	
+	(LÉIGH AMACH MÁS GÁ, FREAGRA AMHÁIN DE DHÍTH)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Hello, My name is …, from (NAME OF NATIONAL INSTITUTE), and I'm conducting an interview for Ipsos Public Affairs, on behalf of one of their clients. We are looking for people aged 16 or over who are willing to share their opinions about the issues of today’s society. We are conducting this survey across Europe. The survey is not part of any market research, we are interested in measuring public opinion.
+
+	I would be grateful if you could spare {#minutes_ins} minutes to participate in this survey. Participation in the survey is voluntary and you can change your mind at any time. All of your answers will remain confidential and will be combined with all other participants’ answers. This means you will not be identifiable in any of the published results. 
+	{#CONSENT_ins}
+	
+	If you would like to read the Data Protection Notice, you can access it at {#intro_link}. This explains the purpose for processing your personal data as well as your data protection rights.
+
+	For quality assurance, this phone call may be monitored and recorded.
+	
+	INTERVIEWER ADD IF ASKED:
+	HOW DID YOU GET MY NUMBER: Your telephone number has been randomly generated by a computer, like all numbers we dial for this research. Our aim is to interview a representative sample of this country’s population.
+	
+	CLIENT? Ipsos is conducting this survey for the {#Client}. Flash Eurobarometer surveys have as purpose to monitor public opinion in the European Union on a broad range of thematic issues.
+	
+	WHAT PERSONAL DATA WILL BE COLLECTED: We use your phone number to invite you to take part in this interview and for quality control purposes only. Gender and age information will be collected, as well as personal data from the replies to the interview questions (such as marital status). All of the information you provide will remain confidential, your answers will be combined with all other participants’ answers, and no identifiable data will be shared with Ipsos’ client.
+	
+	Are you happy to proceed with the interview?
+	{#Birthday_ins}</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Heileo, is mise ..., as (AINM NA HINSTITIÚIDE NÁISIÚNTA), agus táim ag déanamh agallaimh do Ghnóthaí Poiblí Ipsos, ar son cliant dá chuid. Táimid ag lorg daoine in aois 16 bliana nó níos sine atá sásta a gcuid tuairimí a thabhairt ar shaincheisteanna i sochaí an lae inniu. Táimid ag déanamh an tsuirbhé seo fud fad na hEorpa. Níl an suirbhé seo mar chuid d'aon taighde margaíochta, tá suim againn i dtuairimí an phobail a thomhais.
+
+	Ba mhór agam dá dtabharfá {#minutes_ins} nóiméad dom chun páirt a ghlacadh sa suirbhé seo. Is de do dheoin féin rannpháirtíocht sa suirbhé agus tig leat d'intinn a athrú am ar bith. Beidh gach freagra faoi rún agus cuirfear isteach le freagraí na rannpháirtithe eile iad. Ciallaíonn sé sin nach mbeidh tú inaitheanta in aon torthaí a fhoilsítear. 
+	{#CONSENT_ins}
+	
+	Más maith leat an Fógra maidir le Cosaint Sonraí a léamh, tá sé ar fáil ag {#intro_link}. Tugtar míniú ann ar an gcuspóir maidir le próiseáil do shonraí pearsanta chomh maith le do chearta um chosaint sonraí.
+
+	Le haghaidh dearbhú cáilíochta, d'fhéadfaí an glao seo a mhonatóiriú agus a thaifeadadh.
+	
+	BREIS EOLAIS MÁ IARRTAR AR AN AGALLÓIR:
+	CONAS A FUAIR TÚ M'UIMHIR: Ghin ríomhaire d'uimhir fóin go randamach, amhail gach uimhir a dhiailímid don taighde seo. Is é ár n-aidhm ná agallamh a chur ar shampla ionadaíoch na tíre seo.
+	
+	CLIANT? Tá Ipsos ag déanamh an tsuirbhé seo ar son  [{#Client}]. Is é cuspóir Suirbhéanna Splancacha Eorabharaiméadair monatóireacht a dhéanamh ar thuairimí an phobail san Aontas Eorpach maidir le réimse leathan saincheisteanna téamacha.
+	
+	CÉ NA SONRAÍ PEARSANTA A BHAILEOFAR: Úsáidimid d'uimhir fóin le cuireadh a thabhairt duit páirt a ghlacadh san agallamh seo agus le haghaidh rialú cáilíochta amháin. Baileofar inscne agus aois, chomh maith le sonraí pearsanta ó na freagraí ar na ceisteanna san agallamh (amhail stádas pósta). Fanfaidh gach faisnéis a thabharfaidh tú faoi rún, cuirfear do chuid freagraí isteach le freagraí na rannpháirtithe uile eile agus ní chomhroinnfear aon sonraí inaitheanta le cliant Ipsos
+	
+	An bhfuil tú sásta leanúint leis an agallamh?
+	{#Birthday_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Algarve</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Algarve</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Student (full-time)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Mac léinn (lánaimseartha)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>How old are you?
+	{#D1_ins}</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Cén aois thú?
+	{#D1_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Refusal {#D5a_ins}</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Refusal {#D5a_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This question is shown only in test mode.
+    AGE EDUCATION (RECODED 11 CAT)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>This question is shown only in test mode.
+    AGE EDUCATION (RECODED 11 CAT)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Región de Murcia</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Región de Murcia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Finland</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>an Fhionlainn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Slovenian</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Slóivéanach</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Thüringen</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Thüringen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Posavska</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Posavska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Professional (lawyer, medical practitioner, accountant, architect,…)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Duine gairmiúil (dlíodóir, liachleachtóir, cuntasóir, ailtire...)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Pomorskie</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Pomorskie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The link for intro questions.</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>The link for intro questions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Bayern</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Bayern</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Alentejo</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Alentejo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Mediterranee</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Mediterranee</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>NLD (Dutch - NL)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>NLD (Dutch - NL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In welke provincie woont u?</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>In welke provincie woont u?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>UKR (Russian - LV)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>UKR (Russian - LV)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>1-25%</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>1-25%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Northern and Western</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Northern and Western</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Sud-Vest Oltenia</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Sud-Vest Oltenia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Between 1 and 5 years</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Idir 1 agus 5 bliana</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Don't know {#D5a_ins}</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Ní fios {#D5a_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Regional Authority Regions</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Regional Authority Regions</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Basse-Normandie</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Basse-Normandie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Kurā reģionā Jūs dzīvojat?</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Kurā reģionā Jūs dzīvojat?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Nisia Aigaiou, Kriti</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Nisia Aigaiou, Kriti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Berlin</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Berlin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>DEA (German - AT)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>DEA (German - AT)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Põhja-Eesti</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Põhja-Eesti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Czechia</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>an tSeicia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Insert for Birthday</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Insert for Birthday</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Östra Mellansverige</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Östra Mellansverige</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Famagusta</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Famagusta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Extremadura</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Extremadura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Select all that apply.</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>#N/A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Hungarian</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Ungárach</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Batch 4</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Batch 4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>ELL (Greek - EL)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>ELL (Greek - EL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Helsinki-Uusimaa</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Helsinki-Uusimaa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Osrednjeslovenska</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Osrednjeslovenska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Sud</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Sud</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>European Economic and Social Committee</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Coiste Eacnamaíoch agus Sóisialta na hEorpa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Activities of households as employers; undifferentiate goods and services producing activities of households for own use</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Activities of households as employers; undifferentiate goods and services producing activities of households for own use</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Lódzkie</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Lódzkie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Female</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Bean</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Middle management</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Middle management</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Poitou-Charentes</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Poitou-Charentes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>East Midlands (UK)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>East Midlands (UK)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Praha</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Praha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>100% downloaded</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>100% downloaded</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Oops! We no longer require survey respondents at this time, but we appreciate your participation! &lt;br/&gt;&lt;br/&gt;Thank you for your time! &lt;br/&gt;&lt;br/&gt;But wait, don’t leave just yet! &lt;strong class='text-secondary'&gt;Continue on for the chance to win amazing prizes.&lt;/strong&gt;</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Oops! We no longer require survey respondents at this time, but we appreciate your participation! &lt;br/&gt;&lt;br/&gt;Thank you for your time! &lt;br/&gt;&lt;br/&gt;But wait, don’t leave just yet! &lt;strong class='text-secondary'&gt;Continue on for the chance to win amazing prizes.&lt;/strong&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Supervisor/foreman (team manager, ...)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Supervisor/foreman (team manager, ...)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Insert for SD15</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Insert for SD15</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Warszawski stoleczny</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Warszawski stoleczny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Vorarlberg</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Vorarlberg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Prov. Antwerpen</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Prov. Antwerpen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Sardegna</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Sardegna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>European Insurance and Occupational Pensions Agency</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>An Ghníomhaireacht Eorpach um Árachas agus Pinsin Cheirde</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Valle d'Aosta/Vallée d'Aoste</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Valle d'Aosta/Vallée d'Aoste</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Westösterreich</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Westösterreich</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Small or medium-sized town</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>I mbaile beag nó meánmhéide</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Are you happy to proceed with the interview?</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>An bhfuil tú sásta leanúint leis an agallamh?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Ipeiros</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Ipeiros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Belgium</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>an Bheilg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Answer '{ANSWER}' cannot be combined with other answers.</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Answer '{ANSWER}' cannot be combined with other answers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Notio Aigaio</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Notio Aigaio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>European Parliament</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Parlaimint na hEorpa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Obalno-kraška</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Obalno-kraška</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Zasavska</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Zasavska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Zuid-Holland</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Zuid-Holland</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>SVE (Swedish - SE)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>SVE (Swedish - SE)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Marker holding the label for questions CONSENT_1 to CONSENT_20</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Marker holding the label for questions CONSENT_1 to CONSENT_20</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Very negative</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>An-diúltach</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>years</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>bliain</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Wholesale and retail trade; repair of motor vehicles and motorcycles</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Wholesale and retail trade; repair of motor vehicles and motorcycles</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Arts, entertainment and recreation</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Arts, entertainment and recreation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In che regione vive attualmente?</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>In che regione vive attualmente?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Answer {ANSWER} is not numeric.</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Answer {ANSWER} is not numeric.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Alytus county</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Alytus county</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Dolnoslaskie</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Dolnoslaskie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Farmer, forester, fisherman (self-employed)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Farmer, forester, fisherman (self-employed)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Please enter a value between 0 and 99.</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Cuir isteach luach idir 0 agus 99.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Anatoliki Makedonia, Thraki</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Anatoliki Makedonia, Thraki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>ENA (English - Malta)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>ENA (English - Malta)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Czech</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Seiceach</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Warminsko-Mazurskie</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Warminsko-Mazurskie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>DEU (German - DE)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>DEU (German - DE)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Voreia ellada</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Voreia ellada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Länsi-Suomi</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Länsi-Suomi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Agriculture, Forestry and Fishing</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Agriculture, Forestry and Fishing</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Telšiai County</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Telšiai County</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Ireland</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Éire</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>(DO NOT READ OUT; ONE ANSWER ONLY)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>(NÁ LÉIGH AMACH; FREAGRA AMHÁIN)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Sweden</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>an tSualainn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Marker holding the label for questions PARENT2_1 to PARENT2_20</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Marker holding the label for questions PARENT2_1 to PARENT2_20</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Batch 1</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Batch 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Romania</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>an Rómáin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Don’t know (DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Ní fios (NÁ LÉAMH AMACH)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Dél-Dunántúl</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Dél-Dunántúl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Koroška</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Koroška</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Water Supply; sewerage, waste management and remediation activities</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Water Supply; sewerage, waste management and remediation activities</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Remained about the same</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Gan athrú beagnach</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Yorkshire and The Humber</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Yorkshire and The Humber</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Ionia Nisia</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Ionia Nisia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Finnish</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Fionlannach</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Hamburg</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Hamburg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>North East (UK)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>North East (UK)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Recode from D12fr</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Recode from D12fr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Saarland</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Saarland</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Nord-Pas-De-Calais</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Nord-Pas-De-Calais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Bassin Parisien</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Bassin Parisien</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Estonian</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Eastónach</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Andalucía</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Andalucía</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Åland</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Åland</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Would you say you are…?
+	{#D2_ins}</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>As na cineálacha gairmeacha seo a leanas, cé acu an cur síos is fearr ort féin...?
+	{#D2_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Utena county</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Utena county</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Severen tsentralen</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Severen tsentralen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>No</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Níl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Severovýchod</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Severovýchod</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>50 to 249 employees</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Idir 50 agus 249 fostaí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Severoiztochen</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Severoiztochen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Maltese</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Máltach</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>General Secretariat of the Council of the European Union</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Ardrúnaíocht Chomhairle an Aontais Eorpaigh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Zeeland</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Zeeland</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Makroregion Województwo Mazowieckie</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Makroregion Województwo Mazowieckie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Professional (self-employed lawyer, medical practitioner, ...)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Professional (self-employed lawyer, medical practitioner, ...)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Answer '{ANSWER}' is not in range '{RANGE}'.</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Answer '{ANSWER}' is not in range '{RANGE}'.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Insert after the text box.</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Insert after the text box.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>No</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>No</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>More than 10 to 50 million euro</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Níos mó ná 10 milliún suas le 50 milliún euro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Prov. Limburg (BE)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Prov. Limburg (BE)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Île de France</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Île de France</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Voreio Aigaio</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Voreio Aigaio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Stayed about the same</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Tá sé mar a bhí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Insert for SD14a</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Insert for SD14a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Southern</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Southern</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Σε ποια επαρχία κατοικείτε;</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Σε ποια επαρχία κατοικείτε;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Very positive</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>An-dearfach</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>How long has your company been in business?	
+	(READ OUT, ONE ANSWER ONLY)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Cá fhad atá do chuideachta i mbun gnó?	
+	(LÉIGH AMACH, FREAGRA AMHÁIN DE DHÍTH)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Germany</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>an Ghearmáin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>ROM (Romanian - RO)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>ROM (Romanian - RO)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Dans quel région vivez-vous actuellement?/In welcher Region leben Sie?</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Dans quel région vivez-vous actuellement?/In welcher Region leben Sie?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Insert Sensitive Topics for Parent3.</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Insert Sensitive Topics for Parent3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Limassol</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Limassol</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Refusal (SPONTANEOUS)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Diúltú (TOBANN)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>76-100%</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>76-100%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Mid-East (Kildare, Meath, Wicklow)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Mid-East</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Other (without a professional activity)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Other (without a professional activity)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Civil servant</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Státseirbhíseach</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>15 - 24 years</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>15 - 24 years</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>¿En qué región vive usted?</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>¿En qué región vive usted?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>ESN (Spanish - ES)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>ESN (Spanish - ES)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Liguria</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Liguria</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In which (region) is your company headquarers located?</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Cén (contae) ina bhfuil ceanncheathrú do chuideachta lonnaithe?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>0%</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>0%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Canarias (ES)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Canarias (ES)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Abruzzo</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Abruzzo</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

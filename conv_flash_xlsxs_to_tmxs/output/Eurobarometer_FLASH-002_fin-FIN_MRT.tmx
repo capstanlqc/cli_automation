@@ -1,0 +1,2837 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx version="1.4">
+  <header creationtool="cApps" creationtoolversion="2020.10" segtype="paragraph" adminlang="en" datatype="HTML" srclang="en-US" o-tmf="omt"></header>
+  <body>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You have used the browser buttons, please use the Next/Previous buttons below.</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Olet käyttänyt selaimen nappuloita, käytä ainoastaan lomakkeen Edellinen/Seuraava nappuloita</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Lithuanian</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Liettualainen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Hello, My name is …, from (NAME OF NATIONAL INSTITUTE), and I'm conducting an interview for Ipsos Public Affairs, on behalf of one of their clients. We are looking for people aged 15 or over who are willing to share their opinions about the issues of today’s society. We are conducting this survey across Europe. The survey is not part of any market research, we are interested in measuring public opinion.
+
+	We would like to speak to your child about this subject (CLARIFY IF NEEDED: your child, aged 15, whose birthday it was most recently).
+	
+	Are you the parent/legal guardian of the child, aged 15, we would like to interview?</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Hei! Olen … yrityksestä (KANSALLISEN INSTITUUTIN NIMI) ja teen haastattelua Ipsos Public Affairs -yritykselle heidän asiakkaansa puolesta. Haemme yli 15-vuotiaita henkilöitä, jotka haluavat kertoa mielipiteitään nykypäivän yhteiskunnallisista ongelmista. Teemme tämän tutkimuksen koko Euroopassa. Kysely ei ole osa markkinatutkimusta; olemme kiinnostuneita ainoastaan julkisen mielipiteen mittaamisesta.
+
+	Haluaisimme puhua lapsellesi tästä aiheesta (SELVENNÄ TARVITTAESSA: 15-vuotiaalle lapsellesi, jolla oli viimeksi syntymäpäivä).
+	
+	Oletko sen 15-vuotiaan lapsen vanhempi / laillinen huoltaja, jota haluaisimme haastatella?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Do you know if, in {#CurrentYear_insert_1}, your company has:
+	(READ OUT, ONE ANSWER PER LINE)</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Tiedätkö, onko yrityksesi {#CurrentYear_insert_1}:
+	(LUE ÄÄNEEN, YKSI VASTAUS RIVIÄ KOHDEN)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Remained unchanged</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Pysynyt samana</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Other {#D5a_ins}</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Muu {#D5a_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Committee of the Regions</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Alueiden komitea</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Public administration and defence; compulsory social security</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>JULKINEN HALLINTO JA MAANPUOLUSTU3S; PAKOLLINEN SOSIAALIVAKUUTUS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Poland</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Puola</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Student (full-time)</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Opiskelija (kokoaikainen)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Refusal</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Kieltäytyi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Very positive</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Hyvin positiivisen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Germany</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Saksa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Sweden</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Ruotsi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Please enter a value between {#D1_age_ins} and 105. If the respondent is less than {#D1_age_ins} years, select response “&lt;{#D1_age_ins} years”.</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Anna luku väliltä {#D1_age_ins}–105. Mikäli vastaaja on alle {#D1_age_ins} vuotta, valitse vastaukseksi “&lt;{#D1_age_ins} vuotta”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>European Insurance and Occupational Pensions Agency</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Euroopan vakuutus- ja työeläkevirasto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Got worse</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Huonontunut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Less than 25,000 euro</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Alle 25 000 euroa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The answer has too much text, current length is {LENGTH}, maximum is {MAXLENGTH}.</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Vastauksessa on liian paljon merkkejä. Merkkejä on  {LENGTH}, sallittu maksimi on {MAXLENGTH}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Fairly negative</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Melko negatiivisen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Hello, My name is …, from (NAME OF NATIONAL INSTITUTE), and I'm conducting an interview for Ipsos Public Affairs, on behalf of one of their clients. We are looking for people aged 16 or over who are willing to share their opinions about the issues of today’s society. We are conducting this survey across Europe. The survey is not part of any market research, we are interested in measuring public opinion.
+
+	I would be grateful if you could spare {#minutes_ins} minutes to participate in this survey. Participation in the survey is voluntary and you can change your mind at any time. All of your answers will remain confidential and will be combined with all other participants’ answers. This means you will not be identifiable in any of the published results. 
+	{#CONSENT_ins}
+	
+	If you would like to read the Data Protection Notice, you can access it at {#intro_link}. This explains the purpose for processing your personal data as well as your data protection rights.
+
+	For quality assurance, this phone call may be monitored and recorded.
+	
+	INTERVIEWER ADD IF ASKED:
+	HOW DID YOU GET MY NUMBER: Your telephone number has been randomly generated by a computer, like all numbers we dial for this research. Our aim is to interview a representative sample of this country’s population.
+	
+	CLIENT? Ipsos is conducting this survey for the {#Client}. Flash Eurobarometer surveys have as purpose to monitor public opinion in the European Union on a broad range of thematic issues.
+	
+	WHAT PERSONAL DATA WILL BE COLLECTED: We use your phone number to invite you to take part in this interview and for quality control purposes only. Gender and age information will be collected, as well as personal data from the replies to the interview questions (such as marital status). All of the information you provide will remain confidential, your answers will be combined with all other participants’ answers, and no identifiable data will be shared with Ipsos’ client.
+	
+	Are you happy to proceed with the interview?
+	{#Birthday_ins}</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Hei! Olen … yrityksestä (KANSALLISEN INSTITUUTIN NIMI) ja teen haastattelua Ipsos Public Affairs -yritykselle heidän asiakkaansa puolesta. Haemme vähintään 16-vuotiaita henkilöitä, jotka haluavat kertoa mielipiteitään nykypäivän yhteiskunnallisista ongelmista. Teemme tämän tutkimuksen koko Euroopassa. Kysely ei ole osa markkinatutkimusta; olemme kiinnostuneita ainoastaan julkisen mielipiteen mittaamisesta.
+
+	Olisimme kiitollisia, mikäli voisit varata {#minutes_ins} minuuttia osallistuaksesi tähän kyselyyn. Kyselyyn osallistuminen on vapaaehtoista, ja voit muuttaa mieltäsi milloin tahansa. Kaikki vastaukset ovat luottamuksellisia ja ne yhdistetään kaikkien muiden osallistujien vastauksiin. Tämä tarkoittaa sitä, että sinua ei voida tunnistaa julkaistuista tuloksista. 
+	{#CONSENT_ins}
+	
+	Mikäli haluat lukea tietosuojailmoituksen, voit tehdä sen osoitteessa {#intro_link}. Siinä selitetään henkilötietojesi käsittelyn tarkoitus sekä tietosuojaoikeutesi.
+
+	Laaduntarkkailuun liittyvistä syistä puheluasi voidaan valvoa ja se voidaan nauhoittaa.
+	
+	HAASTATTELIJA LISÄÄ KYSYTTÄESSÄ:
+	MITEN SAIT NUMERONI: Tietokone loi puhelinnumerosi satunnaisesti, kuten kaikki numerot, joihin soitamme tämän tutkimuksen yhteydessä. Tavoitteenamme on haastatella edustavaa otosta tämän maan väestöstä.
+	
+	ASIAKAS? Ipsos suorittaa tämän tutkimuksen yrityksen [{#Client}] puolesta. Flash-eurobarometrikyselyiden tarkoituksena on valvoa julkista mielipidettä Euroopan unionissa useiden eri aiheiden osalta.
+	
+	MITÄ HENKILÖTIETOJA KERÄTÄÄN: Käytämme puhelinnumeroasi kutsuaksemme sinut osallistumaan tähän haastatteluun sekä ainoastaan laaduntarkkailuun liittyvistä syistä. Keräämme sukupuoleen ja ikään liittyvät tiedot sekä haastattelukysymysten vastauksista saadut henkilötiedot (kuten siviilisääty). Kaikki antamasi tiedot pysyvät luottamuksellisina, ja vastauksesi yhdistetään muiden osallistujien vastauksiin, eikä tunnistettavia tietoja jaeta Ipsosin asiakkaan kanssa.
+	
+	Haluatko jatkaa haastattelua?	{#Birthday_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>More than 250,000 to 500,000 euro</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Yli 250 000–500 000 euroa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Before 1 January {#CurrentYear_insert_6}</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Ennen 1. tammikuuta {#CurrentYear_insert_6}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>After 1 January {#CurrentYear_insert_1}</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>1. tammikuuta {#CurrentYear_insert_1} jälkeen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>German</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Saksalainen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Spanish</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Espanjalainen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Male</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Mies</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Other nationality</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Muu kansalaisuus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Unskilled manual worker</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Kouluttamaton työntekijä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Cyprian</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Kyproslainen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The thousands separator character is not allowed.</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Tuhaterottimena on kielletty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In which (region) is your company headquarers located?</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Millä (alueella) yrityksesi pääkonttori sijaitsee?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Please enter a value between 0 and 20.</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Anna luku väliltä 0–20.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>European Commission</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Euroopan komissio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Only one answer is allowed.</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Kysymys '{QUESTION}' ({QUESTION_NUMBER}): Vain yksi vastaus sallitaan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Does someone pick-up the phone?</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Vastaako joku puhelimeen?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>How old were you when you stopped full-time education?
+    {#D4_ins}</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Minkä ikäisenä lopetitte päätoimisen opiskelun?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Answer '{ANSWER}' is not a valid Date/Time.</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Kysymys '{QUESTION}' ({QUESTION_NUMBER}): Vastaus '{ANSWER}' ei ole validi päivämäärä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Lithuania</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Liettua</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The answer does not have enough text, current length is {LENGTH}, minimum is {MINLENGTH}.</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Kysymys '{QUESTION}' ({QUESTION_NUMBER}): Vastaus ei ole riittävän pitkä. Pituus on {LENGTH}, Minimi pituus on {MINLENGTH}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>European Economic and Social Committee</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Euroopan talous- ja sosiaalikomitea</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Italian</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Italialainen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>None, sole trader (DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Ei yhtäkään, itsenäinen ammatinharjoittaja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Does your company sell …
+	(READ OUT – MULTIPLE ANSWERS POSSIBLE)</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Myykö yrityksenne… (LUETTELE – USEAMPI VASTAUS MAHDOLLINEN)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Answer '{ANSWER}' is not valid.</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Vastaus '{ANSWER}' ei ole validi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Do we have your permission to conduct this interview with your child?</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Onko meillä lupa haastatella lastasi?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Neutral</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Neutraalin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>I’m opposed to the idea of the European Union in general</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Vastustan yleisesti ottaen ajatusta Euroopan unionista</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Financial and insurance activities</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>RAHOITUS- JA VAKUUTUSTOIMINTA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>10 to 49 employees</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>10–49 työntekijää</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Over the past two years, has your company's total number of employees increase, decreased or remained about the same?	
+	(DO NOT READ OUT, ONE ANSWER ONLY)</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Onko yrityksesi työntekijöiden kokonaismäärä lisääntynyt, vähentynyt vai pysynyt ennallaan viimeisten kahden vuoden aikana?	
+	(ÄLÄ LUE ÄÄNEEN; VAIN YKSI VASTAUS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Yes</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Kyllä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Which nationality or nationalities do you hold?
+	{#D3b_ins}</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Mikä on tai mitkä ovat kansalaisuutesi?
+	{#D3b_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Between 10-50% owned by persons from other countries outside (THIS COUNTRY)</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>10–50 % yrityksestä on muiden kuin suomalaisten omistuksessa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Not applicable (DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Ei sovellu (ÄLÄ LUETTELE)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Romania</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Romania</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Activities of households as employers; undifferentiate goods and services producing activities of households for own use</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>KOTITALOUKSIEN TOIMINTA TYÖNANTAJINA; KOTITALOUKSIEN ERIYTTÄMÄTÖN TOIMINTA TAVAROIDEN JA PALVELUJEN TUOTTAMISEKSI OMAAN KÄYTTÖÖN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Without a professional activity</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>En harjoita ammatillista toimintaa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Never</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Ei koskaan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Answer '{ANSWER}' ({CATEGORY}) has a response but is not selected.</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Vastauskentässä  '{ANSWER}' ({CATEGORY}) on tekstiä, mutta vaihtoehtoa ei ole valittu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Insert for D5._5 - Refusal</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Anna kohdassa D5._5 - Kieltäytyi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>As far as your current occupation is concerned, would you say you are...?
+	{#D2_ins}</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Sanoisitko, että tämänhetkinen ammattisi on...?
+	{#D2_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Croatia</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Kroatia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Belgian</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Belgialainen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>I’m rather sceptical of the European Union, but could change my opinion if radical reform was brought about</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Suhtaudun Euroopan unioniin melko epäillen, mutta voisin muuttaa kantaani, jos sitä uudistettaisiin rajusti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Increased</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Kasvanut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Czech</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Tšekkiläinen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Refusal (SPONTANEOUS)</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Kieltäytyi (SPONTAANI)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Please enter a value between 1 and 30.</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Anna luku väliltä 1–30.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Interviewer instruction: Do not read, just fill in your interviewer_ID.</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Ohje haastattelijalle: Älä lue, vaan kirjoita haastattelijatunnuksesi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;b&gt;Trade, accommodation and food services&lt;/b&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>&lt;b&gt;Kaupankäynti, majoitus- ja ravitsemispalvelut&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>There are too few answers, at least {MINANSWERS} are required.</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Liian vähän vastauksia, vähintään {MINANSWERS} vaaditaan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>General Secretariat of the Council of the European Union</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Euroopan unionin neuvoston pääsihteeristö</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Answer '{ANSWER}' is not valid.</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Kysymys '{QUESTION}' ({QUESTION_NUMBER}): Vastaus '{ANSWER}' ei ole sallittu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Over the past two years, has your company's annual turnover increased, decreased or remained unchanged?
+	(DO NOT READ OUT, ONE ANSWER ONLY)</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Onko yrityksenne vuotuinen liikevaihto kahden viime vuoden aikana kasvanut, vähentynyt vai pysynyt samana?	
+	(ÄLÄ LUE ÄÄNEEN; VAIN YKSI VASTAUS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Please provide an answer.</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Vastaus puuttuu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>European political matters</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Euroopan politiikkaan liittyvistä asioista</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Professional (lawyer, medical practitioner, accountant, architect,…)</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Yksityinen akateeminen ammatinharjoittaja (lakimies, lääkäri, kirjanpitäjä,arkkitehti...)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Local political matters</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Paikallispolitiikkaan liittyvistä asioista</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Austrian</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Itävaltalainen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Which of the following statements regarding the European Union is closest to your opinion? 
+    {#D2_ins}</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Mikä seuraavista Euroopan unionia koskevista väittämistä on lähinnä omaa kantaanne?
+    {#D2_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Hello, My name is …, from (NAME OF NATIONAL INSTITUTE). May I speak with someone with decision making responsibilities (managing director, general manager, CEO, financial director) or someone leading the commercial activities (commercial manger, sales manager, marketing manager) or a legal officer in your company?
+
+		(IF THE GATEKEEPER ASKS FOR ADDITIONAL INFORMATION) I'm conducting an interview for Ipsos Public Affairs, on behalf of one of their clients. We are contacting (decision makers in) companies across Europe regarding their views on current business topics. The feedback will be used to support policymaking in Europe. I would greatly appreciate being able to speak with him or her to include his/her opinion in the study.
+		
+		&lt;b&gt;INTERVIEWER ADD IF ASKED:&lt;/b&gt;
+		CLIENT? Ipsos is conducting this survey for a European public institution. I can only reveal the name of this institution during the interview.
+		
+		&lt;b&gt;WHO TO CONTACT ABOUT THE SURVEY:&lt;/b&gt;
+		If you have comments or questions, or any concerns, please send an email to: &lt;a href='FlashEB-dataprotection-coordinator@ipsos-online.com'&gt;FlashEB-dataprotection-coordinator@ipsos-online.com&lt;/a&gt;  
+		
+		(SINGLE ANSWER, DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Hei! Olen … yrityksestä (KANSALLISEN INSTITUUTIN NIMI). Voinko puhua jollekin henkilölle, joka on vastuussa päätöksenteosta (toiminnallinen johtaja, pääjohtaja, toimitusjohtaja, talouspäällikkö) tai johtaa kaupallista toimintaa (kaupallinen johtaja, myyntijohtaja, markkinointipäällikkö) tai toimii oikeudellisena neuvonantajana yrityksessäsi?
+
+		(MIKÄLI PORTINVARTIJA PYYTÄÄ LISÄTIETOJA) Teen haastattelua Ipsos Public Affairs -yritykselle heidän asiakkaansa puolesta. Otamme yhteyttä (päätöksentekijöihin ja) yrityksiin koko Euroopassa heidän ajankohtaisista liiketoimintaan liittyvistä mielipiteistään. Palautetta käytetään päätöksenteon tukena Euroopassa. Arvostaisin suuresti mahdollisuutta puhua hänelle sisällyttääkseni hänen mielipiteensä tähän tutkimukseen.
+		
+		&lt;b&gt;HAASTATTELIJA LISÄÄ KYSYTTÄESSÄ:&lt;/b&gt;
+		ASIAKAS? Ipsos tekee tämän tutkimuksen Euroopan julkisoikeudelliselle laitokselle. Voin paljastaa tämän instituution nimen vasta haastattelun aikana.
+		
+		&lt;b&gt;KEHEN VOIDAAN OTTAA YHTEYTTÄ TUTKIMUKSEN TIIMOILTA:&lt;/b&gt;
+		Mikäli sinulla on kommentteja, kysymyksiä tai huolenaiheita, lähetä sähköpostia osoitteeseen: &lt;a href='FlashEB-dataprotection-coordinator@ipsos-online.com'&gt;FlashEB-dataprotection-coordinator@ipsos-online.com&lt;/a&gt;  
+		
+		(YKSI VASTAUS, ÄLÄ LUE ÄÄNEEN)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Thank you for your time. We remind you that if you would like to read the Data Protection Notice, you can access it at {#intro_link}. This explains the purposes for processing your personal data as well as your rights under applicable data protection law.</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Kiitos ajastasi. Muistutamme sinua, että mikäli haluat lukea tietosuojailmoituksen, voit tehdä sen osoitteessa {#intro_link}. Siinä selitetään henkilötietojesi käsittelyn tarkoitus sekä voimassa olevan tietosuojalain mukaiset oikeutesi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In the last two years, have you been involved in any dispute which has gone to court?</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Oletteko kahden viime vuoden aikana ollut osallisena jossakin oikeuteen asti edenneessä kiistassa?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Occasionally</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Ajoittain</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Thank you for your time.</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Kiitos ajastasi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Yes, available</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Kyllä, paikalla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Greek</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Kreikkalainen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Activities of extraterritorial organisations and bodies</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>KANSAINVÄLISTEN ORGANISAATIOIDEN JA TOIMIELINTEN TOIMINTA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Slovak</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Slovakialainen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Other</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Muu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The survey includes some questions that could be considered sensitive as they relate to political opinions. Your child may refuse to answer these questions at any time, and you can withdraw your consent for your child’s participation at any time.</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Kysely sisältää kysymyksiä, joita voidaan pitää arkaluonteisina, sillä ne koskevat poliittisia mielipiteitä. Lapsesi voi milloin tahansa kieltäytyä vastaamasta näihin kysymyksiin, ja voit peruuttaa milloin tahansa suostumuksesi lapsesi osallistumiseen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When was your company established?	
+	(READ OUT, ONE ANSWER ONLY)</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Milloin yrityksenne on perustettu?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Female</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Nainen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;p&gt;Those are all the questions we have for you today.  Thank you for your time.&lt;/p&gt;&lt;p&gt;All information you provide is kept strictly confidential and is used for research purposes only.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>&lt;p&gt;Tässä olivat kaikki kysymykset tältä päivältä.  Kiitos ajastasi.&lt;/p&gt;&lt;p&gt;Huomaa, että kaikki meille antamasi tiedot pidetään ehdottoman luottamuksellisina ja niitä käytetään ainoastaan tutkimustarkoituksiin.&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>British</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Britti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Only one answer is allowed.</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Vain yksi vastaus sallitaan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>What is your nationality or nationalities if you hold more than one?
+	{#D3a_ins}</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Mikä on tai mitkä ovat kansalaisuutesi, mikäli sinulla on useampi?
+	{#D3a_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>(READ OUT; ONE ANSWER ONLY)</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>(LUE ÄÄNEEN; VAIN YKSI VASTAUS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Czechia</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Tšekki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Other service activities</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>MUU PALVELUTOIMINTA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Swedish</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Ruotsalainen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Italy</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Italia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Self-employed</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Itsenäinen ammatinharjoittaja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{#Nationality} nationality</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>{#Nationality} kansalaisuus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Owner of shop, craftsman</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Kaupanomistaja, käsityöläinen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Don't know</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>En osaa sanoa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>16 years or older (not available, call back later)</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>vähintään 16-vuotias (ei paikalla, soita myöhemmin uudelleen)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Please enter a value between 15 and 105. If you are less than 15 years old, you are not eligible to participate in this study.</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Anna luku väliltä 15–105. Mikäli olet alle 15-vuotias, et voi osallistua tähän tutkimukseen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Targeted respondent not available, call back later</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Kohdevastaaja ei ole saatavilla; soita myöhemmin uudelleen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Approximately, what percentage of the value of your company's products and or services were sold to other EU Member States in {#CurrentYear_insert_1}?
+	ADD, IF NEEDED: If you are not sure, please provide your best estimate.	
+	(READ OUT IF NECESSARY, ONE ANSWER ONLY)</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Suurin piirtein minkä prosenttiosuuden verran yrityksenne tuotteiden ja/tai palveluiden arvosta myytiin muihin EU:n jäsenmaihin vuonna {#CurrentYear_insert_1}? 	
+	LISÄÄ TARVITTAESSA: Mikäli et ole varma, arvioi parhaasi mukaan	
+	(LUE TARVITTAESSA ÄÄNEEN, VAIN YKSI VASTAUS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>More than 25,000 to 50,000 euro</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Yli 25 000–50 000 euroa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Cyprus</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Kypros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Refusal</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Kieltäytyi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>No</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Ei</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>15 years old, and available/at home</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>15-vuotias ja paikalla/kotona</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The survey includes some questions that could be considered sensitive as they relate to political opinions. You may refuse to answer these questions at any time, and you can withdraw your consent for participation at any time.</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Kysely sisältää kysymyksiä, joita voidaan pitää arkaluonteisina, sillä ne koskevat poliittisia mielipiteitä. Voit milloin tahansa kieltäytyä vastaamasta näihin kysymyksiin ja peruuttaa milloin tahansa suostumuksesi lapsesi osallistumiseen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>I would like to reassure you that your child's cooperation is completely voluntary. All answers are confidential and combined with other participants’ answers. This means your child will not be identifiable in any of the published results.
+	{#PARENT3_ins}
+	
+	If you would like to read the Data Protection Notice, you can access it at {#intro_link}. This explains the purpose for processing your personal data as well as your data protection rights.
+	
+	INTERVIEWER ADD IF ASKED:
+	HOW DID YOU GET MY NUMBER: Your telephone number has been randomly generated by a computer, like all numbers we dial for this research. Our aim is to interview a representative sample of this country’s population.
+	
+	CLIENT? Ipsos is conducting this survey for the {#Client}. Flash Eurobarometer surveys have as purpose to monitor public opinion in the European Union on a broad range of thematic issues.
+	
+	WHAT PERSONAL DATA WILL BE COLLECTED: We use your phone number to invite you to take part in this interview and for quality control purposes only. Gender and age information will be collected, as well as personal data from the replies to the interview questions (such as marital status). All of the information you provide will remain confidential, your answers will be combined with all other participants’ answers, and no identifiable data will be shared with Ipsos’ client.
+	
+	Do we have your permission to conduct this interview with your child?
+	{#Birthday_ins}</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Vakuutamme, että lapsesi yhteistyö on täysin vapaaehtoista. Kaikki vastaukset ovat luottamuksellisia ja ne yhdistetään muiden osallistujien vastauksiin. Tämä tarkoittaa sitä, että lastasi ei voida tunnistaa julkaistuista tuloksista.
+	{#PARENT3_ins}
+	
+	Mikäli haluat lukea tietosuojailmoituksen, voit tehdä sen osoitteessa {#intro_link}. Siinä selitetään henkilötietojesi käsittelyn tarkoitus sekä tietosuojaoikeutesi.
+	
+	HAASTATTELIJA LISÄÄ KYSYTTÄESSÄ:
+	MITEN SAIT NUMERONI: Tietokone loi puhelinnumerosi satunnaisesti, kuten kaikki numerot, joihin soitamme tämän tutkimuksen yhteydessä. Tavoitteenamme on haastatella edustavaa otosta tämän maan väestöstä.
+	
+	ASIAKAS? Ipsos suorittaa tämän tutkimuksen yrityksen [{#Client}] puolesta. Flash-eurobarometrikyselyiden tarkoituksena on valvoa julkista mielipidettä Euroopan unionissa useiden eri aiheiden osalta.
+	
+	MITÄ HENKILÖTIETOJA KERÄTÄÄN: Käytämme puhelinnumeroasi kutsuaksemme sinut osallistumaan tähän haastatteluun sekä ainoastaan laaduntarkkailuun liittyvistä syistä. Keräämme sukupuoleen ja ikään liittyvät tiedot sekä haastattelukysymysten vastauksista saadut henkilötiedot (kuten siviilisääty). Kaikki antamasi tiedot pysyvät luottamuksellisina, ja vastauksesi yhdistetään muiden osallistujien vastauksiin, eikä tunnistettavia tietoja jaeta Ipsosin asiakkaan kanssa.
+	
+	Onko meillä lupa haastatella lastasi?
+	{#Birthday_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Water Supply; sewerage, waste management and remediation activities</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>VESIHUOLTO, VIEMÄRI- JA JÄTEVESIHUOLTO, JÄTEHUOLTO JA MUU YMPÄRISTÖN PUHTAANAPITO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Spain</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Espanja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>France</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Ranska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Manager of a company</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Yrityksen omistaja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Arts, entertainment and recreation</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>TAITEET, VIIHDE JA VIRKISTYS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Construction</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>RAKENTAMINEN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>There are too many answers, only {MAXANSWERS} are allowed.</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Liikaa vastauksia, vain {MAXANSWERS} sallitaan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>16 years or older (will pass phone to start the interview)</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>vähintään 16-vuotias (pyytää puhelimeen haastattelun aloittamiseksi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>There are too many answers, only {MAXANSWERS} are allowed.</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Kysymys '{QUESTION}' ({QUESTION_NUMBER}): Liian monta vastausta, vain {MAXANSWERS} vastausta sallitaan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Research Executive Agency</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Tutkimuksen toimeenpanovirasto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>(WRITE DOWN AGE IN YEARS IF RESPONDENT IS 16 YEARS OR OVER)</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>(KIRJOITA IKÄ VUOSINA, MIKÄLI VASTAAJA ON VÄHINTÄÄN 16-VUOTIAS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Finnish</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Suomalainen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Accommodation and food service activities</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>MAJOITUS- JA RAVITSEMISTOIMINTA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>How old are you?
+	{#D1_ins}</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Minkä ikäinen olet?	{#D1_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Refusal</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Kieltäytyi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Owned or controlled entirely by persons from (THIS COUNTRY)</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Yritys on täysin suomalaisten omistuksessa tai hallinnassa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Professional, scientific and technical activities</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>AMMATILLINEN, TIETEELLINEN JA TEKNINEN TOIMINTA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Hello, My name is …, from (NAME OF NATIONAL INSTITUTE), and I'm conducting an interview for Ipsos Public Affairs, on behalf of one of their clients. We are looking for people aged 15 or over who are willing to share their opinions about the issues of today’s society.
+
+		Can I speak to the person in your household, 15 years or older, whose birthday it was most recently? 
+		INTERVIEWER ADD IF NECESSARY: this is necessary to ensure everyone has an equal chance to participate, for the survey to be representative of this country’s population. 
+		
+		How old is he or she? 
+		Can you pass the phone to this household member?
+		
+		{#Birthday_ins}
+		Household member with the most recent birthday is:</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Hei! Olen … yrityksestä (KANSALLISEN INSTITUUTIN NIMI) ja teen haastattelua Ipsos Public Affairs -yritykselle heidän asiakkaansa puolesta. Haemme yli 15-vuotiaita henkilöitä, jotka haluavat kertoa mielipiteitään nykypäivän yhteiskunnallisista ongelmista.
+
+		Voinko puhua talouteesi kuuluvalle vähintään 15-vuotiaalle henkilölle, jolla oli viimeksi syntymäpäivä? 
+		HAASTATTELIJA LISÄÄ TARPEEN MUKAAN: tämä on tarpeen varmistaaksemme, että kaikilla on yhtäläiset mahdollisuudet osallistua, jotta kyselytutkimus edustaa tämän maan väestöä. 
+		
+		Minkä ikäinen hän on? 
+		Voitko pyytää talouden tätä jäsentä puhelimeen?
+		
+		{#Birthday_ins}
+		Talouden jäsen, jonka syntymäpäivä oli viimeiseksi:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The answer does not have enough text, current length is {LENGTH}, minimum is {MINLENGTH}.</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Vastauksessa on liian vähän tekstiä. Vastauksen pituus on {LENGTH}, sallittu minimi on {MINLENGTH}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Supervisor/foreman (team manager, …)</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Työnjohtaja tai tiiminvetäjä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>More than 10 years</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Yli 10 vuotta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>European Parliament</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Euroopan parlamentti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Prefer not to say</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>En halua vastata</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Never been in full-time education</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>En ole koskaan ollut kokopäivätoiminen opiskelija</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Refusal {#D5a_ins}</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Kieltäytyi {#D5a_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Middle management</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Keskijohto, muu johto (osastopäällikkö, opettaja, teknikko)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You entered an unexpected value, please review your answer or continue to confirm your response.</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Annoit odottamattoman luvun; tarkista vastauksesi tai jatka vahvistaaksesi vastauksesi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>1 to 9 employees</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>1–9 työntekijää</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;center&gt;Thank you for taking part in this survey. &lt;br /&gt;These are all the questions we have for you today.&lt;/center&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>&lt;center&gt;Kiitos, että osallistut tähän kyselyyn. &lt;br /&gt;Siinä olivat kaikki kysymykset tältä päivältä.&lt;/center&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Denmark</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Tanska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Estonian</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Virolainen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Information and Communication</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>INFORMAATIO JA VIESTINTÄ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Products to companies or other organisations</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>tuotteita yrityksille tai muille organisaatioille</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Don't know</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>EOS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The survey specific questions section ends here</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>The survey specific questions section ends here</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Dutch</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Hollantilainen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Put through to the targeted respondent</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Yhdistä kohdevastaajalle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Ireland</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Irlanti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Do you use more than one mobile phone?
+	{#D2_ins}</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Käytätkö useampaa kuin yhtä matkapuhelinta?
+	{#D2_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In another way</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Muu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Yes (will pass phone to start the interview)</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Kyllä (pyydän puhelimeen haastattelun aloittamiseksi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Between 1 and 5 years</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>1–5 vuotta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Are you a permanent resident of {#MRK_Country}?</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Asutko pysyvästi maassa {#MRK_Country}?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Next</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Seuraava</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Manual worker</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Työntekijä (teollisuustyöntekijä, rakennusmies, siivooja, bussikuski jne.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The European General Data Protection Regulation (GDPR) requires us to first speak to a parent or legal guardian of a teenager. Can I speak to this teenager’s parent or legal guardian?
+	(SINGLE ANSWER, DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Euroopan yleinen tietosuoja-asetus (GDPR) vaatii meitä puhumaan ensin teini-ikäisen henkilön vanhemmalle tai lailliselle huoltajalle. Voinko puhua teini-ikäisen vanhemmalle tai lailliselle huoltajalle?
+	(YKSI VASTAUS, ÄLÄ LUE ÄÄNEEN)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Civil servant</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Virkamies</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Netherlands</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Alankomaat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Administrative and support service activities</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>HALLINTO- JA TUKIPALVELUTOIMINTA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>51-75%</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>51-75%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Less than 16 years (SPONTANEOUS)</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Alle 16-vuotias (SPONTAANI)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Belgium</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Belgia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Answer '{ANSWER}' cannot be combined with other answers.</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Vastausta '{ANSWER}' ({CATEGORY}) ei voi yhdistää muiden vastausten kanssa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Still in full-time education</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Edelleen kokopäivätoiminen opiskelija</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Improved</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Parantunut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>How long has your company been in business?	
+	(READ OUT, ONE ANSWER ONLY)</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Kuinka pitkään yrityksenne on ollut toiminnassa?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>(DO NOT READ OUT; ONE ANSWER ONLY)</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>(VAIN YKSI VASTAUS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Please provide an answer.</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Kysymys '{QUESTION}' ({QUESTION_NUMBER}): Vastaus puuttuu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Between 6 and 10 years</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>6–10 vuotta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Yes, one mobile phone</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Kyllä, yhtä matkapuhelinta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Fairly positive</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Melko positiivisen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>(DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>(ÄLÄ LUE ÄÄNEEN)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Do you also use one or more mobile phones?
+	{#D2_ins}</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Käytätkö myös yhtä tai useampaa matkapuhelinta?
+	{#D2_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;b&gt;Construction, transport, ICT&lt;/b&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>&lt;b&gt;Rakentaminen, kuljetus, tieto- ja viestintätekniikka&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Austria</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Itävalta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Please enter a value between 0 and 99.</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Anna arvo väliltä 0–99.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Polish</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Puolalainen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Wholesale and retail trade; repair of motor vehicles and motorcycles</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>MIKÄ TAHANSA TUKKU- ja VÄHITTÄISKAUPPA (SISÄLTÄEN MOOTTORIAJONEUVOJEN JA MOOTTORIPYÖRIEN KORJAUKSEN)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>years</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>vuotta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Transportation and Storage</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>KULJETUS JA VARASTOINTI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>European External Action Service</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Euroopan ulkosuhdehallinto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The thousands separator character is not allowed.</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Kysymys '{QUESTION}' ({QUESTION_NUMBER}): Tuhaterottimena on kielletty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>How many people aged 15 years or more live in your household, yourself included?</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Kuinka monta vähintään 15-vuotiasta henkilöä taloudessasi asuu, itsesi mukaan lukien?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Slovenia</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Slovenia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Irish</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Irlantilainen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>I’m in favour of the European Union as it has been realised so far</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Kannatan Euroopan unionia sellaisena, joksi se on tähän mennessä muotoutunut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>More than 50 million euro</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Yli 50 miljoonaa euroa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Retired</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Eläkkeellä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Romanian</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Romanialainen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Previous</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Edellinen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Other (DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Muu (ÄLÄ LUETTELE)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Danish</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Tanskalainen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Answer '{ANSWER}' is not a valid Date/Time.</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Vastaus '{ANSWER}' pitää olla päivämäärä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In the last two years, has your company been involved in any dispute which has gone to court?</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Onko yrityksenne joutunut viimeisen kahden vuoden aikana kiistoihin, jotka on viety oikeuteen?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Hungarian</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Unkarilainen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>European Agency for Safety and Health at Work</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Euroopan työturvallisuus- ja työterveysjärjestö</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Portuguese</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Portugalilainen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Is your company…?
+	(READ OUT, ONE ANSWER ONLY)</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Mikä seuraavista vaihtoehdoista kuvaa yritystänne? (LUE ÄÄNEEN; VAIN YKSI VASTAUS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Luxembourgish</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Luxemburgilainen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Farmer, forester, fisherman</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Maanviljelijä, metsätyöntekijä, kalastaja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Real estate activities</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>KIINTEISTÖALAN TOIMINTA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Don't know {#D5a_ins}</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>En osaa sanoa {#D5a_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>More than 100,000 to 250,000 euro</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Yli 100 000–250 000 euroa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Don't know/No Answer (DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>EOS/EV (ÄLÄ LUETTELE)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Answer '{ANSWER}' is not in range '{RANGE}'.</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Vastaus '{ANSWER}' on rajojen '{RANGE}' ulkopuolella</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Employee</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Toimihenkilö</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Do you also have a landline telephone at home? 
+    Do not include telephones only used for business purposes or for connecting to the Internet or to a fax machine.
+	{#D2_ins}</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Onko kotonasi myös lankapuhelin? 
+    Älä sisällytä vastaukseen puhelimia, joita käytetään vain työtarkoituksiin tai internet-liittymää tai faksia varten.
+	{#D2_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;b&gt;Industry&lt;/b&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>&lt;b&gt;Teollisuus&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>European Central Bank</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Euroopan keskuspankki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Answer '{ANSWER}' is not an integer value.</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Kysymys '{QUESTION}' ({QUESTION_NUMBER}): Vastaus '{ANSWER}' ei ole kokonaisluku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Finland</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Suomi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>More than 500,000 to 2 million euro</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Yli 500 000 – 2 miljoonaa euroa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In general, does the EU conjure up for you a very positive, fairly positive, neutral, fairly negative or very negative image?
+   	{#SD15_ins}</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Luoko EU teille yleisesti ottaen hyvin positiivisen, melko positiivisen, neutraalin, melko negatiivisen vai hyvin negatiivisen vaikutelman itsestään?
+   	{#SD15_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Answer '{ANSWER}' is not numeric.</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Kysymys '{QUESTION}' ({QUESTION_NUMBER}): Vastaus '{ANSWER}' ei ole numeerinen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Education</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>KOULUTUS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Errors</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Virheet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Services directly to consumers</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>palveluita suoraan kuluttajille</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Remained about the same</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Pysynyt ennallaan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;b&gt;Agriculture, Forestry and Fishing&lt;/b&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>&lt;b&gt;Maatalous, metsätalous ja kalastus&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{#D1X_insert}
+	(DO NOT READ OUT, ONE ANSWER ONLY)</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>{#D1X_insert}
+	(VAIN YKSI VASTAUS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Latvia</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Latvia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>15 years old, but not available/not at home</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>15-vuotias, mutta ei paikalla/kotona</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Agriculture, Forestry and Fishing</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>MAATALOUS, METSÄTALOUS JA KALATALOUS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;p&gt;These are all the questions we have for you today.  It appears that a sufficient number of respondents with a similar profile have already completed this study, or that your profile does not exactly match our needs for this study. We apologize for the inconvenience.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>&lt;p&gt;Siinä olivat kaikki kysymykset tältä päivältä.  Näyttää siltä, että riittävä määrä samanlaisen profiilin omaavia vastaajia on jo vastannut tähän kyselyyn, tai että profiilisi ei vastaa täysin tämän tutkimuksen tarpeita. Pahoittelemme tästä aiheutunutta vaivaa.&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Greece</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Kreikka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>European Ombudsman</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Euroopan oikeusasiamies</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Less than 1 year</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Alle 1 vuoden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>26-50%</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>26-50%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>More than 10 to 50 million euro</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Yli 10 miljoonaa – 50 miljoonaa euroa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Latvian</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Latvialainen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Stayed about the same</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Pysynyt samalla tasolla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Professional (employed doctor, lawyer, accountant, architect, …)</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Akateeminen ammattilainen (lääkäri, lakimies, kirjanpitäjä, arkkitehti...)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Very negative</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Hyvin negatiivisen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Bulgarian</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Bulgarialainen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Frequently</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Usein</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>I’m rather in favour of the European Union, but not the way it has been realised until now</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Kannatan Euroopan unionia melko paljon, mutta en sellaisena, joksi se on tähän mennessä muotoutunut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Looking after the home</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Kodista huolehtiva</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Bulgaria</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Bulgaria</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Answer '{ANSWER}' cannot be combined with other answers.</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Kysymys '{QUESTION}' ({QUESTION_NUMBER}): Vastausta '{ANSWER}' ({CATEGORY}) ei voi yhdistää muiden vastausten kanssa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Executive Agency for Small and Medium-sized Enterprises</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Pienten ja keskisuurten yritysten toimeenpanovirasto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>What was your company's total turnover in {#CurrentYear_insert_1}?
+	ADD, IF NEEDED: If you are not sure, please provide your best estimate.	
+	(READ OUT IF NECESSARY, ONE ANSWER ONLY)</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Mikä oli yrityksenne kokonaisliikevaihto vuonna {#CurrentYear_insert_1}? 	
+	LISÄÄ TARVITTAESSA: Mikäli et ole varma, arvioi parhaasi mukaan	
+	(LUE TARVITTAESSA ÄÄNEEN, VAIN YKSI VASTAUS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>How many employees (in full-time equivalents) does your company currently have? 	
+	ADD, IF NEEDED: If you are not sure, please provide your best estimate.	
+	(READ OUT IF NECESSARY, ONE ANSWER ONLY)</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Kuinka monta (kokopäivätoimista tai vastaavaa) työntekijää yrityksessäsi on tällä hetkellä? 	
+	LISÄÄ TARVITTAESSA: Mikäli et ole varma, arvioi parhaasi mukaan	
+	(LUE TARVITTAESSA ÄÄNEEN, VAIN YKSI VASTAUS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>English (US)</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Standardi tekstit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Over the last year, would you say that this image you have of the EU improved, got worse or stayed about the same? 
+	{#SD15_ins}</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Onko EU:sta saamanne kuva viimeisen vuoden aikana parantunut, huonontunut vai pysynyt suunnilleen samalla tasolla?
+   	{#SD15_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Yes, I am the parent/legal guardian</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Kyllä, olen vanhempi / laillinen huoltaja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>European Investment Bank Group</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Euroopan investointipankkiryhmä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>General management, director or top management</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Pääjohtaja, johtaja tai ylintä johtoa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Decreased</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Vähentynyt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Malta</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Malta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Portugal</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Portugali</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>(SINGLE ANSWER, DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>(YKSI VASTAUS, ÄLÄ LUE ÄÄNEEN)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Question '{QUESTION}' ({QUESTION_NUMBER}): Answer '{ANSWER}' ({CATEGORY}) has a response but it is not selected.</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Kysymys '{QUESTION}' ({QUESTION_NUMBER}): Vastaus '{ANSWER}' ({CATEGORY}) on täytetty mutta vastausvaihtoehtoa ei ole valittu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>50 to 249 employees</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>50–249 työntekijää</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Below 10% owned by persons from other countries outside (THIS COUNTRY)</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Alle 10 % yrityksestä on muiden kuin suomalaisten omistuksessa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>(WHEN SPEAKING TO THE TARGETED RESPONDENT) Hello, My name is …, from (NAME OF NATIONAL INSTITUTE), and I'm conducting an interview for Ipsos Public Affairs, on behalf of one of their clients. We are contacting decision makers in companies across Europe regarding their views on current business topics. The feedback will be used to support policymaking in Europe.
+
+		I would be grateful if you could spare {#minutes_ins} minutes to participate in this survey. Participation in the survey is voluntary and you can change your mind at any time. All of your answers will remain confidential and will be combined with all other participants’ answers. This means that neither you, nor your business, will be identifiable in any of the published results. 
+		
+		For quality assurance, this phone call may be monitored and recorded.
+		
+		&lt;b&gt;INTERVIEWER ADD IF ASKED:&lt;/b&gt;
+		CLIENT? Ipsos is conducting this survey for the {#Client}. Flash Eurobarometer surveys have as purpose to monitor public and business opinion in the European Union on a broad range of thematic issues.
+		
+		WHAT PERSONAL DATA WILL BE COLLECTED: No personal data will be collected during this interview. Your participation, together with your individual responses to the questions, will be kept strictly confidential. If you have comments or questions, or any concerns, please send an email to: &lt;a href='FlashEB-dataprotection-coordinator@ipsos-online.com'&gt;FlashEB-dataprotection-coordinator@ipsos-online.com&lt;/a&gt;
+		
+		Are you happy to proceed with the interview?
+		(SINGLE ANSWER, DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>(KOHDEVASTAAJALLE PUHUTTAESSA) Hei! Olen … yrityksestä (KANSALLISEN INSTITUUTIN NIMI) ja teen haastattelua Ipsos Public Affairs -yritykselle heidän asiakkaansa puolesta. Otamme yhteyttä päätöksentekijöihin yrityksissä koko Euroopassa heidän ajankohtaisista liiketoimintaan liittyvistä mielipiteistään. Palautetta käytetään päätöksenteon tukena Euroopassa.
+
+		Olisimme kiitollisia, mikäli voisit varata {#minutes_ins} minuuttia osallistuaksesi tähän kyselyyn. Kyselyyn osallistuminen on vapaaehtoista, ja voit muuttaa mieltäsi milloin tahansa. Kaikki vastaukset ovat luottamuksellisia ja ne yhdistetään kaikkien muiden osallistujien vastauksiin. Tämä tarkoittaa sitä, ettei sinua eikä yritystäsi voida tunnistaa julkaistuista tuloksista. 
+		
+		Laaduntarkkailuun liittyvistä syistä puheluasi voidaan valvoa ja se voidaan nauhoittaa.
+		
+		&lt;b&gt;HAASTATTELIJA LISÄÄ KYSYTTÄESSÄ:&lt;/b&gt;
+		ASIAKAS? Ipsos suorittaa tämän tutkimuksen yrityksen {#Client} puolesta. Flash-eurobarometrikyselyiden tarkoituksena on valvoa julkista ja yritysten mielipidettä Euroopan unionissa useiden eri aiheiden osalta.
+		
+		MITÄ HENKILÖTIETOJA KERÄTÄÄN: Tämän haastattelun aikana ei kerätä henkilötietoja. Osallistumisesi sekä yksittäiset vastauksesi tutkimuskysymyksiin pidetään täysin luottamuksellisina. Mikäli sinulla on kommentteja, kysymyksiä tai huolenaiheita, lähetä sähköpostia osoitteeseen: &lt;a href='FlashEB-dataprotection-coordinator@ipsos-online.com'&gt;FlashEB-dataprotection-coordinator@ipsos-online.com&lt;/a&gt;
+		
+		Haluatko jatkaa haastattelua?
+		(YKSI VASTAUS, ÄLÄ LUE ÄÄNEEN)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Other employee (salesman, nurse, …)</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Muu toimihenkilö (myyntiedustaja, sairaanhoitaja...)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When you get together with friends or relatives, would you say you discuss frequently, occasionally or never about...?
+    {#SD14a_ins}</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Kun tapaatte ystäviänne tai sukulaisianne, sanoisitteko, että keskustelette usein, ajoittain vai ette koskaan…
+    {#SD14a_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;{#D1_age_ins} years</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>&lt;{#D1_age_ins} vuotta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>1-25%</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>1-25%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Don't know (DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>En osaa sanoa (ÄLÄ LUE ÄÄNEEN)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Yes, not available</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Kyllä, ei paikalla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Estonia</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Viro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A rural area or village</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Maaseudulla tai kylässä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Maltese</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Maltalainen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Consumers, Health, Agriculture and Food Executive Agency</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Kuluttaja-, terveys-, maatalous- ja elintarvikeasioiden toimeenpanovirasto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Would you say you are…?
+	{#D2_ins}</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Sanoisitteko olevanne…?
+	{#D2_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Products directly to consumers</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>tuotteita suoraan kuluttajille</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>500 or more employees</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>500 työntekijää tai enemmän</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Small or medium-sized town</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Pienessä tai keskisuuressa kaupungissa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>More than 50,000 to 100,000 euro</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Yli 50 000–100 000 euroa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>(READ OUT – ONE ANSWER PER LINE)</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>(VAIN YKSI VASTAUS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Electricity, gas, steam and air conditioning supply</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>SÄHKÖ-, KAASU-, LÄMPÖ- JA ILMASTOINTIHUOLTO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Don’t know (DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>En osaa sanoa (ÄLÄ LUE ÄÄNEEN)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>French</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Ranskalainen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Luxembourg</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Luxemburg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Hungary</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Unkari</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Human health and social work activities</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>TERVEYS- JA SOSIAALIPALVELUT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Navigations</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Edellinen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Seeking a job</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Työtön työnhakija</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Manufacturing</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>TEOLLISUUS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>There are too few answers, at least {MINANSWERS} are required.</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Kysymys '{QUESTION}' ({QUESTION_NUMBER}): Liian vähän valintoja, vaaditaan vähintään {MINANSWERS} valintaa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>50% or more owned or controlled by persons from other countries outside (THIS COUNTRY)</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>50 % tai sitä suurempi osuus yrityksestä on muiden kuin suomalaisten omistuksessa tai hallinnassa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;b&gt;Non-public services&lt;/b&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>&lt;b&gt;Muut kuin julkiset palvelut&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Answer '{ANSWER}' is not in range '{RANGE}'.</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Kysymys '{QUESTION}' ({QUESTION_NUMBER}): Vastaus '{ANSWER}' ei ole väliltä '{RANGE}'.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;b&gt;Public services&lt;/b&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>&lt;b&gt;Julkiset palvelut&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Answer {ANSWER} is not numeric.</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Vastaus '{ANSWER}' pitää olla numeerinen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>National political matters</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Kansalliseen politiikkaan liittyvistä asioista</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Are you happy to proceed with the interview?</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Haluatko jatkaa haastattelua?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>(DO NOT READ OUT; MULTIPLE ANSWERS POSSIBLE)</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>(ÄLÄ LUE ÄÄNEEN; USEAMPI VASTAUS MAHDOLLINEN)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The answer has too much text, current length is {LENGTH}, maximum is {MAXLENGTH}.</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Kysymys '{QUESTION}' ({QUESTION_NUMBER}): Vastaus on liian pitkä. Pituus on {LENGTH}, maksimi pituus on {MAXLENGTH}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Sold products and or services to countries outside EU</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Myi tuotteita ja/tai palveluita EU-maiden ulkopuolelle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>250 to 499 employees</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>250-499 työntekijää</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Select all that apply.</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Valitse kaikki sopivat vaihtoehdot.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Which of the following describes how you think of yourself?
+	{#D2_ins}</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Mikä seuraavista kuvaa sukupuolta, jota koet edustavasi?	{#D2_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Services to companies or other organisations</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>palveluita yrityksille tai muille organisaatioille</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Answer '{ANSWER}' is not an integer value.</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Vastaus '{ANSWER}'  ei ole kokonaisluku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>More than 2 to 10 million euro</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Yli 2 miljoonaa – 10 miljoonaa euroa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>How many children under the age of 15 are living in your household?</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Kuinka monta alle 15-vuotiasta lasta taloudessasi asuu?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Large town/city</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Isossa kaupungissa / suurkaupungissa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>What is the main activity of your company?
+    (READ OUT MAIN CATEGORIES FIRST, THEN SUBCATEGORIES, ONE ANSWER ONLY)</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Mikä on päävastuualueesi yrityksessänne?
+    (LUE ENSIN TÄRKEIMMÄT KATEGORIAT JA SITTEN ALAKATEGORIAT, VAIN YKSI VASTAUS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Sold products and or services to other EU countries</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Myi tuotteita ja/tai palveluita muihin EU-maihin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Yes, more than one mobile phone</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Kyllä, useampaa kuin yhtä matkapuhelinta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>No, I am not the parent/legal guardian</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>En ole vanhempi / laillinen huoltaja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;b&gt;Thank you for your participation. Please click next and then close the browser.&lt;/b&gt;</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>&lt;b&gt;Kiitos osallistumisestasi. Napsauta seuraava ja sulje selain.&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Croatian</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Kroatialainen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Between 1 January {#CurrentYear_insert_6} and 1 January {#CurrentYear_insert_1}</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>1. tammikuuta {#CurrentYear_insert_6} ja 1. tammikuuta {#CurrentYear_insert_1} välillä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Mining and Quarrying</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>KAIVOSTOIMINTA JA LOUHINTA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>ENU English (United States)</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>FIN Finnish (Finland)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Slovenian</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Slovenialainen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Office clerk</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Toimistotyöntekijä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>76-100%</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>76-100%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Would you say you live in...?
+	{#D2_ins}</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Sanoisitko, että asut...?
+	{#D2_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Manual worker</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Ruumiillisen työn tekijä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>(READ IF TARGET RESPONDENT IS NOT THE PERSON WHO FIRST ANSWERED THE PHONE)
+	Hello, My name is …, from (NAME OF NATIONAL INSTITUTE), and I'm conducting an interview for Ipsos Public Affairs, on behalf of one of their clients. We are looking for people aged 15 or over who are willing to share their opinions about the issues of today’s society. We are conducting this survey across Europe. The survey is not part of any market research, we are interested in measuring public opinion.
+	
+	(READ FOR ALL RESPONDENTS)
+	I would be grateful if you could spare {#minutes_ins} minutes to participate in this survey. Participation in the survey is voluntary and you can change your mind at any time. All of your answers will remain confidential and will be combined with all other participants’ answers. This means you will not be identifiable in any of the published results. 
+	{#CONSENT_ins}
+	
+	If you would like to read the Data Protection Notice, you can access it at {#intro_link}. This explains the purpose for processing your personal data as well as your data protection rights.
+	
+	For quality assurance, this phone call may be monitored and recorded.
+	
+	INTERVIEWER ADD IF ASKED:
+	HOW DID YOU GET MY NUMBER: Your telephone number has been randomly generated by a computer, like all numbers we dial for this research. Our aim is to interview a representative sample of this country’s population.
+	
+	CLIENT? Ipsos is conducting this survey for the {#Client}. Flash Eurobarometer surveys have as purpose to monitor public opinion in the European Union on a broad range of thematic issues.
+	
+	WHAT PERSONAL DATA WILL BE COLLECTED: We use your phone number to invite you to take part in this interview and for quality control purposes only. Gender and age information will be collected, as well as personal data from the replies to the interview questions (such as marital status). All of the information you provide will remain confidential, your answers will be combined with all other participants’ answers, and no identifiable data will be shared with Ipsos’ client.
+	
+	Are you happy to proceed with the interview?
+	{#Birthday_ins}</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>(LUE, MIKÄLI KOHDEVASTAAJA EI OLE HENKILÖ, JOKA VASTASI PUHELIMEEN)
+	Hei! Olen … yrityksestä (KANSALLISEN INSTITUUTIN NIMI) ja teen haastattelua Ipsos Public Affairs -yritykselle heidän asiakkaansa puolesta. Haemme vähintään 15-vuotiaita henkilöitä, jotka haluavat kertoa mielipiteitään nykypäivän yhteiskunnallisista ongelmista. Teemme tämän tutkimuksen koko Euroopassa. Kysely ei ole osa markkinatutkimusta; olemme kiinnostuneita ainoastaan julkisen mielipiteen mittaamisesta.
+	
+	LUE KAIKILLE VASTAAJILLE)
+	Olisimme kiitollisia, mikäli voisit varata {#minutes_ins} minuuttia osallistuaksesi tähän kyselyyn. Kyselyyn osallistuminen on vapaaehtoista, ja voit muuttaa mieltäsi milloin tahansa. Kaikki vastaukset ovat luottamuksellisia ja ne yhdistetään kaikkien muiden osallistujien vastauksiin. Tämä tarkoittaa sitä, että sinua ei voida tunnistaa julkaistuista tuloksista. 
+	{#CONSENT_ins}
+	
+	Mikäli haluat lukea tietosuojailmoituksen, voit tehdä sen osoitteessa {#intro_link}. Siinä selitetään henkilötietojesi käsittelyn tarkoitus sekä tietosuojaoikeutesi.
+	
+	Laaduntarkkailuun liittyvistä syistä puheluasi voidaan valvoa ja se voidaan nauhoittaa.
+
+	HAASTATTELIJA LISÄÄ KYSYTTÄESSÄ:
+	MITEN SAIT NUMERONI: Tietokone loi puhelinnumerosi satunnaisesti, kuten kaikki numerot, joihin soitamme tämän tutkimuksen yhteydessä. Tavoitteenamme on haastatella edustavaa otosta tämän maan väestöstä.
+	
+	ASIAKAS? Ipsos suorittaa tämän tutkimuksen yrityksen {#Client} puolesta. Flash-eurobarometrikyselyiden tarkoituksena on valvoa julkista mielipidettä Euroopan unionissa useiden eri aiheiden osalta.
+	
+	MITÄ HENKILÖTIETOJA KERÄTÄÄN: Käytämme puhelinnumeroasi kutsuaksemme sinut osallistumaan tähän haastatteluun sekä ainoastaan laaduntarkkailuun liittyvistä syistä. Keräämme sukupuoleen ja ikään liittyvät tiedot sekä haastattelukysymysten vastauksista saadut henkilötiedot (kuten siviilisääty). Kaikki antamasi tiedot pysyvät luottamuksellisina, ja vastauksesi yhdistetään muiden osallistujien vastauksiin, eikä tunnistettavia tietoja jaeta Ipsosin asiakkaan kanssa.
+	
+	Haluatko jatkaa haastattelua?	{#Birthday_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Slovakia</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Slovakia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>(WRITE DOWN AGE IN YEARS IF RESPONDENT IS 15 YEARS OR OVER)</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>(KIRJOITA IKÄ VUOSINA, MIKÄLI VASTAAJA ON VÄHINTÄÄN 15-VUOTIAS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>European Securities and Markets Authority</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>Euroopan arvopaperimarkkinaviranomainen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>0%</seg>
+      </tuv>
+      <tuv xml:lang="fi-FI">
+        <seg>0%</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

@@ -28,7 +28,7 @@ __status__ = "Testing / pre-production" # "Production"
 
 # ############# IMPORTS ###########################################
 
-import re
+import re, sys
 import argparse
 import xlrd
 from yattag import Doc, indent
@@ -54,9 +54,21 @@ args = parser.parse_args()
 # check for -V or --version
 if args.version:
     print("This is program TM Workbook Converter version 0.2")
+    sys.exit()
+
 if args.input:
     print("Processing %s" % args.input)
 
+# check for -V or --version
+if args.version:
+    print("This is Flash Prepp/Extract utility version 0.1.0")
+    sys.exit()
+
+if args.input:
+    path_to_wb = args.input.rstrip('/')
+else:
+    print("Argument -i not found.")
+    sys.exit()
 
 # ############# FUNCTIONS #####################################################
 
@@ -178,7 +190,7 @@ def convert_wb_to_tmx_files(path_to_file, langtags_csv):
 
 # ############# EXECUTION #####################################################
 
-path_to_wb = args.input
+
 convert_wb_to_tmx_files(path_to_wb, 'langtags_20181210.csv')
 
 # ############# WIP ###########################################################

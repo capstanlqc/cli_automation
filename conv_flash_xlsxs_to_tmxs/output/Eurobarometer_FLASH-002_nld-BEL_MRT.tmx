@@ -1,0 +1,2864 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx version="1.4">
+  <header creationtool="cApps" creationtoolversion="2020.10" segtype="paragraph" adminlang="en" datatype="HTML" srclang="en-US" o-tmf="omt"></header>
+  <body>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Latvia</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Letland</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>50% or more owned or controlled by persons from other countries outside (THIS COUNTRY)</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>50 % of meer eigendom van of onder controle van personen uit andere landen dan België</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Don't know (DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Weet ik niet (NIET VOORLEZEN)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Don't know</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Weet ik niet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;b&gt;Industry&lt;/b&gt;</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>&lt;b&gt;Industrie&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Thank you for your time.</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Hartelijk dank voor uw tijd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Hello, My name is …, from (NAME OF NATIONAL INSTITUTE), and I'm conducting an interview for Ipsos Public Affairs, on behalf of one of their clients. We are looking for people aged 15 or over who are willing to share their opinions about the issues of today’s society. We are conducting this survey across Europe. The survey is not part of any market research, we are interested in measuring public opinion.
+
+	We would like to speak to your child about this subject (CLARIFY IF NEEDED: your child, aged 15, whose birthday it was most recently).
+	
+	Are you the parent/legal guardian of the child, aged 15, we would like to interview?</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Hallo, mijn naam is …, van (NAAM VAN NATIONAAL INSTITUUT), en ik voer een interview uit voor Ipsos Public Affairs, namens een van hun klanten. We zijn op zoek naar personen van 15 jaar of ouder die bereid zijn hun mening over de problemen in de hedendaagse samenleving te delen. We voeren deze enquête uit in heel Europa. De enquête maakt geen deel uit van een marktonderzoek. We zijn geïnteresseerd in het meten van de publieke opinie.
+
+	We willen graag met uw kind spreken over dit onderwerp (VERDUIDELIJK INDIEN NODIG: Uw kind van 15 jaar wiens verjaardag het meest recent was).
+	
+	Bent u de ouder / wettelijke voogd van het kind van 15 jaar dat we willen interviewen?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Do you know if, in {#CurrentYear_insert_1}, your company has:
+	(READ OUT, ONE ANSWER PER LINE)</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Heeft uw bedrijf in {#CurrentYear_insert_1}:
+	(VOORLEZEN, ÉÉN ANTWOORD PER LIJN)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Refusal</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Weigering</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Slovak</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Slowaaks</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Very negative</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Heel negatief</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Answer '{ANSWER}' ({CATEGORY}) has a response but is not selected.</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Antwoord '{ANSWER}' ({CATEGORY}) heeft een antwoord maar is niet geselecteerd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Activities of extraterritorial organisations and bodies</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>EXTRATERRITORIALE ORGANISATIES EN LICHAMEN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;center&gt;Thank you for taking part in this survey. &lt;br /&gt;These are all the questions we have for you today.&lt;/center&gt;</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>&lt;center&gt;Hartelijk dank dat u mee wilt werken aan deze enquête. &lt;br /&gt;Dat waren alle vragen voor vandaag.&lt;/center&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Estonian</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Ests</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When was your company established?	
+	(READ OUT, ONE ANSWER ONLY)</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Wanneer is uw bedrijf opgericht?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Are you happy to proceed with the interview?</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Bent u bereid verder te gaan met het interview?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Don’t know (DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Weet ik niet (NIET VOORLEZEN)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>(DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>(NIET VOORLEZEN)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Administrative and support service activities</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>ADMINISTRATIEVE EN ONDERSTEUNENDE DIENSTEN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>ENU English (United States)</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>NLB Dutch (Belgium)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Portuguese</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Portugees</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Sold products and or services to other EU countries</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>producten en/of diensten aan andere EU-landen verkocht heeft</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The thousands separator character is not allowed.</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Het duizendtallen scheidingsteken is niet toegestaan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Finland</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Finland</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You have used the browser buttons, please use the Next/Previous buttons below.</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>U heeft de navigatieknoppen van de browser gebruikt, gebruik a.u.b. de knoppen hieronder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Please enter a value between 1 and 30.</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Vul een waarde tussen 1 en 30 in.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>As far as your current occupation is concerned, would you say you are...?
+	{#D2_ins}</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Hoe zou u uw huidige beroep omschrijven?
+	{#D2_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;b&gt;Public services&lt;/b&gt;</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>&lt;b&gt;Openbare diensten&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>No, I am not the parent/legal guardian</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Nee, ik ben niet de ouder / wettelijk voogd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Answer '{ANSWER}' is not in range '{RANGE}'.</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Antwoord '{ANSWER}' valt buiten bereik '{RANGE}'.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Construction</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>BOUWNIJVERHEID</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>European Parliament</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Europees Parlement</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Stayed about the same</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Ongeveer hetzelfde gebleven</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Activities of households as employers; undifferentiate goods and services producing activities of households for own use</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>HUISHOUDENS ALS WERKGEVER; NIET-GEDIFFERENTIEERDE PRODUCTIE VAN GOEDEREN EN DIENSTEN DOOR HUISHOUDENS VOOR EIGEN GEBRUIK</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>More than 100,000 to 250,000 euro</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Meer dan 100.000 tot 250.000 euro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Between 10-50% owned by persons from other countries outside (THIS COUNTRY)</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Tussen 10 en 50 % eigendom van personen uit andere landen dan België</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Small or medium-sized town</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Een kleine of middelgrote stad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>There are too many answers, only {MAXANSWERS} are allowed.</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Te veel antwoorden gegeven, slechts {MAXANSWERS} antwoorden toegestaan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Female</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Vrouw</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>250 to 499 employees</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>250 tot 499 werknemers</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You entered an unexpected value, please review your answer or continue to confirm your response.</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>U heeft een onverwachte waarde ingevoerd. Controleer uw antwoord of ga verder om uw antwoord te bevestigen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Yes, more than one mobile phone</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Ja, meer dan één mobiele telefoon</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Services to companies or other organisations</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>diensten aan bedrijven of andere organisaties</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>(READ OUT – ONE ANSWER PER LINE)</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>(ENQ. LEES ALLE ANTWOORDMOGELIJKHEDEN VOOR - 1 ENKEL ANTWOORD MOGELIJK PER LIJN)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Czech</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Tsjechisch</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Only one answer is allowed.</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Slechts één antwoord toegestaan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Remained unchanged</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Gelijk gebleven</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>None, sole trader (DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Geen, zelfstandige handelaar (NIET VOORLEZEN)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Committee of the Regions</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Comité van de Regio's</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Products directly to consumers</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>producten rechtstreeks aan consumenten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Answer '{ANSWER}' cannot be combined with other answers.</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Vraag '{QUESTION}' ({QUESTION_NUMBER}): Antwoord '{ANSWER}' ({CATEGORY}) is niet mogelijk in combinatie met andere antwoorden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Are you a permanent resident of {#MRK_Country}?</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Bent u een permanente inwoner van {#MRK_Country}?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>General management, director or top management</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Lid van de algemene direktie-hoger kaderlid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The answer has too much text, current length is {LENGTH}, maximum is {MAXLENGTH}.</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Vraag '{QUESTION}' ({QUESTION_NUMBER}): Het antwoord is te lang, huidige lengte is '{LENGTH}', maximum is '{MAXLENGTH}'.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Electricity, gas, steam and air conditioning supply</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>PRODUCTIE EN DISTRIBUTIE VAN ELEKTRICITEIT, GAS, STOOM EN GEKOELDE LUCHT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Answer '{ANSWER}' is not an integer value.</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Vraag '{QUESTION}' ({QUESTION_NUMBER}): Antwoord '{ANSWER}' is geen geheel getal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Between 1 and 5 years</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Tussen 1 en 5 jaar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Owner of shop, craftsman</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Zelfstandige-vakman-handelaar-winkelier( minder dan 5 personen in loondienst)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Manual worker</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Geschoold arbeider</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Insert for D5._5 - Refusal</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Invoegen voor D5._5 - Weigering</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Yes</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Ja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Interviewer instruction: Do not read, just fill in your interviewer_ID.</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Instructie voor de interviewer: Lees niet voor, vul alleen uw interviewer_ID in.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Products to companies or other organisations</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>producten aan bedrijven of andere organisaties</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Student (full-time)</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Student (fulltime)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Would you say you are…?
+	{#D2_ins}</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Bent u…?
+	{#D2_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>More than 50,000 to 100,000 euro</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Meer dan 50.000 tot 100.000 euro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Please provide an answer.</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Vraag '{QUESTION}' ({QUESTION_NUMBER}): Ontbrekend(e) antwoord(en)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;{#D1_age_ins} years</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>&lt;{#D1_age_ins} jaar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Targeted respondent not available, call back later</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Beoogde respondent niet beschikbaar, later terugbellen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Finnish</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Fins</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Over the past two years, has your company's annual turnover increased, decreased or remained unchanged?
+	(DO NOT READ OUT, ONE ANSWER ONLY)</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Is in de afgelopen twee jaar de jaarlijkse omzet van uw bedrijf gestegen, gedaald of gelijk gebleven?	
+	(NIET VOORLEZEN, SLECHTS ÉÉN ANTWOORD)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Answer '{ANSWER}' is not valid.</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Vraag '{QUESTION}' ({QUESTION_NUMBER}): Antwoord '{ANSWER}' is niet valide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Answer '{ANSWER}' is not a valid Date/Time.</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Vraag '{QUESTION}' ({QUESTION_NUMBER}): Antwoord '{ANSWER}'' is geen valide datum.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Frequently</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Vaak</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Water Supply; sewerage, waste management and remediation activities</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>DISTRIBUTIE VAN WATER; AFVAL- EN AFVALWATERBEHEER EN SANERING</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>European Securities and Markets Authority</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Europese Autoriteit voor effecten en markten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>I’m in favour of the European Union as it has been realised so far</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Ik ben voor de Europese Unie zoals ze tot nu toe is gerealiseerd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Less than 16 years (SPONTANEOUS)</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Jonger dan 16 jaar (SPONTAAN)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;b&gt;Non-public services&lt;/b&gt;</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>&lt;b&gt;Niet-openbare diensten&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>More than 10 years</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Meer dan 10 jaar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Owned or controlled entirely by persons from (THIS COUNTRY)</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Volledig eigendom van of volledig onder controle van personen uit België</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Austria</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Oostenrijk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>More than 25,000 to 50,000 euro</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Meer dan 25.000 tot 50.000 euro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Fairly positive</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Redelijk positief</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Slovakia</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Slowakije</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Hello, My name is …, from (NAME OF NATIONAL INSTITUTE), and I'm conducting an interview for Ipsos Public Affairs, on behalf of one of their clients. We are looking for people aged 16 or over who are willing to share their opinions about the issues of today’s society. We are conducting this survey across Europe. The survey is not part of any market research, we are interested in measuring public opinion.
+
+	I would be grateful if you could spare {#minutes_ins} minutes to participate in this survey. Participation in the survey is voluntary and you can change your mind at any time. All of your answers will remain confidential and will be combined with all other participants’ answers. This means you will not be identifiable in any of the published results. 
+	{#CONSENT_ins}
+	
+	If you would like to read the Data Protection Notice, you can access it at {#intro_link}. This explains the purpose for processing your personal data as well as your data protection rights.
+
+	For quality assurance, this phone call may be monitored and recorded.
+	
+	INTERVIEWER ADD IF ASKED:
+	HOW DID YOU GET MY NUMBER: Your telephone number has been randomly generated by a computer, like all numbers we dial for this research. Our aim is to interview a representative sample of this country’s population.
+	
+	CLIENT? Ipsos is conducting this survey for the {#Client}. Flash Eurobarometer surveys have as purpose to monitor public opinion in the European Union on a broad range of thematic issues.
+	
+	WHAT PERSONAL DATA WILL BE COLLECTED: We use your phone number to invite you to take part in this interview and for quality control purposes only. Gender and age information will be collected, as well as personal data from the replies to the interview questions (such as marital status). All of the information you provide will remain confidential, your answers will be combined with all other participants’ answers, and no identifiable data will be shared with Ipsos’ client.
+	
+	Are you happy to proceed with the interview?
+	{#Birthday_ins}</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Hallo, mijn naam is …, van (NAAM VAN NATIONAAL INSTITUUT), en ik voer een interview uit voor Ipsos Public Affairs, namens een van hun klanten. We zijn op zoek naar personen van 16 jaar of ouder die bereid zijn hun mening over de problemen in de hedendaagse samenleving te delen. We voeren deze enquête uit in heel Europa. De enquête maakt geen deel uit van een marktonderzoek. We zijn geïnteresseerd in het meten van de publieke opinie.
+
+	Ik zou het erg op prijs stellen als u {#minutes_ins} minuten tijd heeft om aan deze enquête deel te nemen. Deelname aan de enquête is vrijwillig en u kunt te allen tijde van gedachten veranderen. Al uw antwoorden blijven vertrouwelijk en worden samengevoegd met de antwoorden van alle andere deelnemers. Dit betekent dat u niet identificeerbaar zal zijn in de gepubliceerde resultaten. 
+	{#CONSENT_ins}
+	
+	Als u de Verklaring voor Gegevensbescherming wilt lezen, kunt u deze raadplegen via {#intro_link}. Hierin worden het doel van de verwerking van uw persoonsgegevens en uw rechten wat betreft de bescherming van uw gegevens toegelicht.
+
+	Het is mogelijk dat dit telefoongesprek wordt gecontroleerd en opgenomen voor kwaliteitswaarborging.
+	
+	INTERVIEWER VOEG TOE INDIEN GEVRAAGD:
+	HOE HEEFT U MIJN NUMMER GEKREGEN: Uw telefoonnummer werd willekeurig gegenereerd door een computer, zoals alle nummers die we voor dit onderzoek contacteren. Ons doel is een representatieve steekproef van de bevolking van dit land te interviewen.
+	
+	KLANT? Ipsos voert deze enquête uit namens [{#Client}]. Flash Eurobarometer-enquêtes hebben tot doel de publieke opinie in de Europese Unie over een breed scala van thematische kwesties te volgen.
+	
+	WELKE PERSOONSGEGEVENS WORDEN VERZAMELD: Wij gebruiken uw telefoonnummer uitsluitend om u uit te nodigen voor deelname aan dit interview en voor kwaliteitscontroledoeleinden. Informatie over het geslacht en de leeftijd zal worden verzameld, evenals persoonsgegevens afkomstig uit de antwoorden op de interviewvragen (zoals burgerlijke staat). Alle informatie die u verstrekt, blijft vertrouwelijk. Uw antwoorden worden samengevoegd met de antwoorden van alle andere deelnemers en er worden geen identificeerbare gegevens gedeeld met de klant van Ipsos.
+	
+	Bent u bereid verder te gaan met het interview?
+	{#Birthday_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Do you use more than one mobile phone?
+	{#D2_ins}</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Gebruikt u meer dan één mobiele telefoon?
+	{#D2_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Denmark</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Denemarken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Sweden</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Zweden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Research Executive Agency</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Uitvoerend Agentschap onderzoek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When you get together with friends or relatives, would you say you discuss frequently, occasionally or never about...?
+    {#SD14a_ins}</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Wanneer u met vrienden of familieleden bent, zou u zeggen dat u dan vaak, af en toe of nooit praat over...?
+    {#SD14a_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Supervisor/foreman (team manager, …)</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Opzichter \ teamleider</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Neutral</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Neutraal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Romanian</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Roemeens</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>More than 500,000 to 2 million euro</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Meer dan 500.000 tot 2 miljoen euro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The answer does not have enough text, current length is {LENGTH}, minimum is {MINLENGTH}.</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Het antwoord is te kort, huidige lengte is '{LENGTH}', minimum is '{MINLENGTH}'.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Never</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Nooit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Does someone pick-up the phone?</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Neemt iemand de telefoon op?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>There are too few answers, at least {MINANSWERS} are required.</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Vraag '{QUESTION}' ({QUESTION_NUMBER}): Te weinig antwoorden gegeven, minimaal {MINANSWERS} antwoorden noodzakelijk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>European Economic and Social Committee</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Europees Economisch en Sociaal Comité</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Answer {ANSWER} is not numeric.</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Antwoord '{ANSWER}' is geen getal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Approximately, what percentage of the value of your company's products and or services were sold to other EU Member States in {#CurrentYear_insert_1}?
+	ADD, IF NEEDED: If you are not sure, please provide your best estimate.	
+	(READ OUT IF NECESSARY, ONE ANSWER ONLY)</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Wat is ongeveer het percentage van de waarde van de producten en/of diensten van uw bedrijf die in {#CurrentYear_insert_1} aan andere EU-lidstaten werden verkocht?
+	TOEVOEGEN INDIEN NODIG: Als u niet zeker bent, geef dan uw beste schatting.	
+	(VOORLEZEN INDIEN NODIG, SLECHTS ÉÉN ANTWOORD)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Select all that apply.</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Selecteer alle antwoorden die van toepassing zijn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Education</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>ONDERWIJS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Cyprus</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Cyprus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>years</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>jaar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Spanish</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Spaans</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Lithuanian</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Litouws</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>1 to 9 employees</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>1 tot 9 werknemers</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Swedish</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Zweeds</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Got worse</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Verslechterd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The thousands separator character is not allowed.</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Vraag ‘{QUESTION}’ ({QUESTION_NUMBER}): Het duizendtallen scheidingsteken is niet toegestaan.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Manufacturing</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>INDUSTRIE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Belgian</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Belgisch</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Luxembourgish</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Luxemburgs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>European Central Bank</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Europese Centrale Bank</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The survey includes some questions that could be considered sensitive as they relate to political opinions. Your child may refuse to answer these questions at any time, and you can withdraw your consent for your child’s participation at any time.</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>De enquête bevat enkele vragen die als gevoelig kunnen worden beschouwd, omdat zij betrekking hebben op politieke overtuigingen. Uw kind mag te allen tijde weigeren deze vragen te beantwoorden en u kunt uw toestemming voor deelname van uw kind op elk moment intrekken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Bulgarian</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Bulgaars</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Italy</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Italië</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Estonia</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Estland</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>15 years old, but not available/not at home</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>15 jaar, maar niet beschikbaar/thuis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Agriculture, Forestry and Fishing</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>LANDBOUW, BOSBOUW EN VISSERIJ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Civil servant</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Ambtenaar( bediende bij de overheid)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Other service activities</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>OVERIGE DIENSTEN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Male</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Man</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>More than 250,000 to 500,000 euro</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Meer dan 250.000 tot 500.000 euro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Yes, not available</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Ja, niet beschikbaar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Germany</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Duitsland</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The survey includes some questions that could be considered sensitive as they relate to political opinions. You may refuse to answer these questions at any time, and you can withdraw your consent for participation at any time.</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>De enquête bevat enkele vragen die als gevoelig kunnen worden beschouwd, omdat zij betrekking hebben op politieke overtuigingen. U mag te allen tijde weigeren deze vragen te beantwoorden en u kunt uw toestemming voor deelname op elk moment intrekken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Don't know</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Weet niet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Fairly negative</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Redelijk negatief</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Please enter a value between 0 and 99.</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Vul een waarde tussen 0 en 99 in.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Netherlands</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Nederland</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>European political matters</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Europese politieke aangelegenheden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>I would like to reassure you that your child's cooperation is completely voluntary. All answers are confidential and combined with other participants’ answers. This means your child will not be identifiable in any of the published results.
+	{#PARENT3_ins}
+	
+	If you would like to read the Data Protection Notice, you can access it at {#intro_link}. This explains the purpose for processing your personal data as well as your data protection rights.
+	
+	INTERVIEWER ADD IF ASKED:
+	HOW DID YOU GET MY NUMBER: Your telephone number has been randomly generated by a computer, like all numbers we dial for this research. Our aim is to interview a representative sample of this country’s population.
+	
+	CLIENT? Ipsos is conducting this survey for the {#Client}. Flash Eurobarometer surveys have as purpose to monitor public opinion in the European Union on a broad range of thematic issues.
+	
+	WHAT PERSONAL DATA WILL BE COLLECTED: We use your phone number to invite you to take part in this interview and for quality control purposes only. Gender and age information will be collected, as well as personal data from the replies to the interview questions (such as marital status). All of the information you provide will remain confidential, your answers will be combined with all other participants’ answers, and no identifiable data will be shared with Ipsos’ client.
+	
+	Do we have your permission to conduct this interview with your child?
+	{#Birthday_ins}</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Ik wil u ervan verzekeren dat de medewerking van uw kind geheel vrijwillig is. Alle antwoorden zijn vertrouwelijk en worden samengevoegd met de antwoorden van andere deelnemers. Dit betekent dat uw kind niet identificeerbaar zal zijn in de gepubliceerde resultaten.
+	{#PARENT3_ins}
+	
+	Als u de Verklaring voor Gegevensbescherming wilt lezen, kunt u deze raadplegen via {#intro_link}. Hierin worden het doel van de verwerking van uw persoonsgegevens en uw rechten wat betreft de bescherming van uw gegevens toegelicht.
+	
+	INTERVIEWER VOEG TOE INDIEN GEVRAAGD:
+	HOE HEEFT U MIJN NUMMER GEKREGEN: Uw telefoonnummer werd willekeurig gegenereerd door een computer, zoals alle nummers die we voor dit onderzoek contacteren. Ons doel is een representatieve steekproef van de bevolking van dit land te interviewen.
+	
+	KLANT? Ipsos voert deze enquête uit namens [{#Client}]. Flash Eurobarometer-enquêtes hebben tot doel de publieke opinie in de Europese Unie over een breed scala van thematische kwesties te volgen.
+	
+	WELKE PERSOONSGEGEVENS WORDEN VERZAMELD: Wij gebruiken uw telefoonnummer uitsluitend om u uit te nodigen voor deelname aan dit interview en voor kwaliteitscontroledoeleinden. Informatie over het geslacht en de leeftijd zal worden verzameld, evenals persoonsgegevens afkomstig uit de antwoorden op de interviewvragen (zoals burgerlijke staat). Alle informatie die u verstrekt, blijft vertrouwelijk. Uw antwoorden worden samengevoegd met de antwoorden van alle andere deelnemers en er worden geen identificeerbare gegevens gedeeld met de klant van Ipsos.
+	
+	Hebben we uw toestemming om dit interview met uw kind uit te voeren?
+	{#Birthday_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Portugal</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Portugal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>What is the main activity of your company?
+    (READ OUT MAIN CATEGORIES FIRST, THEN SUBCATEGORIES, ONE ANSWER ONLY)</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Wat is het voornaamste domein van uw bedrijf?
+    (HOOFDCATEGORIEËN EERST VOORLEZEN EN DAARNA SUBCATEGORIEËN, SLECHTS ÉÉN ANTWOORD)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Decreased</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Gedaald</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Other nationality</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Andere nationaliteit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A rural area or village</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Een plattelandsgemeente of dorp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Croatian</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Kroatisch</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Greek</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Grieks</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>More than 2 to 10 million euro</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Meer dan 2 tot 10 miljoen euro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>How many people aged 15 years or more live in your household, yourself included?</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Hoeveel personen van 15 jaar of ouder wonen er in uw huishouden, inclusief uzelf?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The survey specific questions section ends here</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>The survey specific questions section ends here</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Please enter a value between 15 and 105. If you are less than 15 years old, you are not eligible to participate in this study.</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Vul een waarde tussen 15 en 105 in. Als u jonger bent dan 15 jaar, komt u niet in aanmerking voor deelname aan dit onderzoek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>What was your company's total turnover in {#CurrentYear_insert_1}?
+	ADD, IF NEEDED: If you are not sure, please provide your best estimate.	
+	(READ OUT IF NECESSARY, ONE ANSWER ONLY)</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Wat was de totale omzet van uw bedrijf in {#CurrentYear_insert_1}?	
+	TOEVOEGEN INDIEN NODIG: Als u niet zeker bent, geef dan uw beste schatting.	
+	(VOORLEZEN INDIEN NODIG, SLECHTS ÉÉN ANTWOORD)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Other</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Overig</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Czechia</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Tsjechië</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Belgium</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>België</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>How many employees (in full-time equivalents) does your company currently have? 	
+	ADD, IF NEEDED: If you are not sure, please provide your best estimate.	
+	(READ OUT IF NECESSARY, ONE ANSWER ONLY)</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Hoeveel werknemers (in voltijdequivalenten) telt uw bedrijf op dit moment? 	
+	TOEVOEGEN INDIEN NODIG: Als u niet zeker bent, geef dan uw beste schatting.	
+	(VOORLEZEN INDIEN NODIG, SLECHTS ÉÉN ANTWOORD)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>51-75%</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>51-75%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Cyprian</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Cypriotisch</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Middle management</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Middenkader- geen deeluitmakend van de algemene direktie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Please enter a value between 0 and 20.</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Vul een waarde tussen 0 en 20 in.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>European External Action Service</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Europese Dienst voor extern optreden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Consumers, Health, Agriculture and Food Executive Agency</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Uitvoerend Agentschap voor consumenten, gezondheid, landbouw en voeding</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Executive Agency for Small and Medium-sized Enterprises</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Uitvoerend Agentschap voor kleine en middelgrote ondernemingen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;b&gt;Agriculture, Forestry and Fishing&lt;/b&gt;</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>&lt;b&gt;Landbouw, bosbouw en visserij&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Navigations</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Navigaties</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Hungarian</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Hongaars</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Only one answer is allowed.</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Vraag '{QUESTION}' ({QUESTION_NUMBER}): Slechts één antwoord toegestaan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>European Ombudsman</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Europese Ombudsman</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Retired</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Gepensioneerd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Over the last year, would you say that this image you have of the EU improved, got worse or stayed about the same? 
+	{#SD15_ins}</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Zou u zeggen dat dit beeld dat u van de EU heeft in het afgelopen jaar is verbeterd, verslechterd of ongeveer hetzelfde is gebleven?
+   	{#SD15_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Croatia</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Kroatië</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>There are too many answers, only {MAXANSWERS} are allowed.</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Vraag '{QUESTION}' ({QUESTION_NUMBER}): Te veel antwoorden gegeven, slechts  {MAXANSWERS} antwoorden toegestaan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Hello, My name is …, from (NAME OF NATIONAL INSTITUTE). May I speak with someone with decision making responsibilities (managing director, general manager, CEO, financial director) or someone leading the commercial activities (commercial manger, sales manager, marketing manager) or a legal officer in your company?
+
+		(IF THE GATEKEEPER ASKS FOR ADDITIONAL INFORMATION) I'm conducting an interview for Ipsos Public Affairs, on behalf of one of their clients. We are contacting (decision makers in) companies across Europe regarding their views on current business topics. The feedback will be used to support policymaking in Europe. I would greatly appreciate being able to speak with him or her to include his/her opinion in the study.
+		
+		&lt;b&gt;INTERVIEWER ADD IF ASKED:&lt;/b&gt;
+		CLIENT? Ipsos is conducting this survey for a European public institution. I can only reveal the name of this institution during the interview.
+		
+		&lt;b&gt;WHO TO CONTACT ABOUT THE SURVEY:&lt;/b&gt;
+		If you have comments or questions, or any concerns, please send an email to: &lt;a href='FlashEB-dataprotection-coordinator@ipsos-online.com'&gt;FlashEB-dataprotection-coordinator@ipsos-online.com&lt;/a&gt;  
+		
+		(SINGLE ANSWER, DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Hallo, mijn naam is … van (NAAM VAN NATIONAAL INSTITUUT). Kan ik spreken met iemand die verantwoordelijk is voor het nemen van beslissingen (bedrijfsleider, algemeen directeur, CEO, financieel directeur), iemand die leiding heeft over de commerciële activiteiten (commercieel directeur, verkoopdirecteur, marketingdirecteur) of een juridische medewerker in uw bedrijf?
+
+		(ALS ER OM BIJKOMENDE INFORMATIE WORDT GEVRAAGD) Ik voer een interview uit voor Iposos Public Affairs, namens een van hun klanten. Wij nemen contact op met (personen die verantwoordelijk zijn voor het nemen van beslissingen in) bedrijven in heel Europa met betrekking tot hun mening over actuele zakelijke onderwerpen. De feedback zal worden gebruikt ter ondersteuning van de beleidsvorming in Europa. Ik zou het zeer op prijs stellen als ik met deze persoon kan spreken om zijn of haar mening in de studie op te nemen.
+		
+		&lt;b&gt;INTERVIEWER VOEG TOE INDIEN GEVRAAGD:&lt;/b&gt;
+		KLANT? Ipsos voert deze enquête uit voor een Europese openbare instelling. Ik kan de naam van deze instelling slechts tijdens het interview onthullen.
+		
+		&lt;b&gt;WIE KUNT U CONTACTEREN IN VERBAND MET DE ENQUÊTE:&lt;/b&gt;
+		Als u opmerkingen of vragen heeft, of als u zich zorgen maakt, stuur dan een e-mail naar: &lt;a href='FlashEB-dataprotection-coordinator@ipsos-online.com'&gt;FlashEB-dataprotection-coordinator@ipsos-online.com&lt;/a&gt;  
+		
+		(ÉÉN ANTWOORD, NIET VOORLEZEN)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>There are too few answers, at least {MINANSWERS} are required.</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Te weinig antwoorden gegeven, een minimum van {MINANSWERS} is noodzakelijk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Don't know/No Answer (DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>WN/GA (NIET VOORLEZEN)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Unskilled manual worker</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Ongeschoolde arbeider</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Greece</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Griekenland</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Not applicable (DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Niet van toepassing (NIET VOORLEZEN)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Answer '{ANSWER}' is not in range '{RANGE}'.</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Vraag '{QUESTION}' ({QUESTION_NUMBER}): Antwoord '{ANSWER}' valt buiten bereik '{RANGE}'.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{#D1X_insert}
+	(DO NOT READ OUT, ONE ANSWER ONLY)</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>{#D1X_insert}
+	(ENQ. NIET VOORLEZEN - SLECHTS EEN ANTWOORD MOGELIJK)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Hello, My name is …, from (NAME OF NATIONAL INSTITUTE), and I'm conducting an interview for Ipsos Public Affairs, on behalf of one of their clients. We are looking for people aged 15 or over who are willing to share their opinions about the issues of today’s society.
+
+		Can I speak to the person in your household, 15 years or older, whose birthday it was most recently? 
+		INTERVIEWER ADD IF NECESSARY: this is necessary to ensure everyone has an equal chance to participate, for the survey to be representative of this country’s population. 
+		
+		How old is he or she? 
+		Can you pass the phone to this household member?
+		
+		{#Birthday_ins}
+		Household member with the most recent birthday is:</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Hallo, mijn naam is …, van (NAAM VAN NATIONAAL INSTITUUT), en ik voer een interview uit voor Ipsos Public Affairs, namens een van hun klanten. We zijn op zoek naar personen van 15 jaar of ouder die bereid zijn hun mening over de problemen in de hedendaagse samenleving te delen.
+
+		Kan ik spreken met de persoon in uw huishouden die 15 jaar of ouder is en wiens verjaardag het meest recent was? 
+		INTERVIEWER VOEG TOE INDIEN NODIG: Dit is nodig om ervoor te zorgen dat iedereen een gelijke kans heeft om deel te nemen, zodat de enquête representatief is voor de bevolking van dit land. 
+		
+		Hoe oud is hij of zij? 
+		Kunt u de telefoon doorgeven aan dit lid van uw huishouden?
+		
+		{#Birthday_ins}
+		Het lid van het huishouden wiens verjaardag het meest recent was, is:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>France</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Frankrijk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>I’m rather in favour of the European Union, but not the way it has been realised until now</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Ik ben eerder voor de Europese Unie, maar niet hoe ze tot nu toe is gerealiseerd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>After 1 January {#CurrentYear_insert_1}</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Na 1 januari {#CurrentYear_insert_1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>(SINGLE ANSWER, DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>(ÉÉN ANTWOORD, NIET VOORLEZEN)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Slovenian</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Sloveens</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Lithuania</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Litouwen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Arts, entertainment and recreation</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>KUNST, AMUSEMENT EN RECREATIE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In which (region) is your company headquarers located?</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>In welke provincie is uw hoofdkantoor gevestigd?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Ireland</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Ierland</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Is your company…?
+	(READ OUT, ONE ANSWER ONLY)</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Is uw bedrijf...? (VOORLEZEN; SLECHTS ÉÉN ANTWOORD)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Accommodation and food service activities</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>VERSCHAFFEN VAN ACCOMMODATIE EN MAALTIJDEN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Local political matters</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Lokale politieke aangelegenheden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>How old are you?
+	{#D1_ins}</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Hoe oud bent u?
+	{#D1_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Other (DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Andere (NIET VOORLEZEN)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Previous</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Vorige</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>(READ OUT; ONE ANSWER ONLY)</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>(VOORLEZEN; SLECHTS ÉÉN ANTWOORD)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Austrian</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Oostenrijks</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Refusal {#D5a_ins}</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Geweigerd {#D5a_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Please provide an answer.</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Ontbrekend(e) antwoord(en)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>What is your nationality or nationalities if you hold more than one?
+	{#D3a_ins}</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Wat is uw nationaliteit / zijn uw nationaliteiten (als u er meer dan één heeft)?
+	{#D3a_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Maltese</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Maltees</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;p&gt;These are all the questions we have for you today.  It appears that a sufficient number of respondents with a similar profile have already completed this study, or that your profile does not exactly match our needs for this study. We apologize for the inconvenience.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>&lt;p&gt;Dat waren alle vragen voor vandaag.  Het lijkt erop dat er voldoende respondenten met een gelijkaardig profiel deze enquête hebben ingevuld of dat uw profiel niet helemaal overeenkomt met het profiel waarnaar we voor dit onderzoek op zoek zijn. Onze excuses voor het ongemak.&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;b&gt;Trade, accommodation and food services&lt;/b&gt;</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>&lt;b&gt;Handel, accommodatie en horecadiensten&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Remained about the same</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Ongeveer hetzelfde gebleven</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>I’m opposed to the idea of the European Union in general</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Ik ben tegen het idee van de Europese Unie in het algemeen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Don't know/No Answer (DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>WN/GA (ENQ. NIET VOORLEZEN)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In the last two years, has your company been involved in any dispute which has gone to court?</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Is uw bedrijf in de afgelopen twee jaar betrokken geweest bij een geschil dat voor de rechtbank is gebracht?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Professional (lawyer, medical practitioner, accountant, architect,…)</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Vrij beroep dat een kwalificatie vereist (advocaat, arts, boekhouder, architect, ...)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Seeking a job</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Werkzoekende/werkloos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Do we have your permission to conduct this interview with your child?</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Hebben we uw toestemming om dit interview met uw kind uit te voeren?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Information and Communication</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>INFORMATIE EN COMMUNICATIE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Spain</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Spanje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>English (US)</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>StandaardTeksten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Answer '{ANSWER}' is not numeric.</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Vraag '{QUESTION}' ({QUESTION_NUMBER}): Antwoord '{ANSWER}'' is geen getal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Wholesale and retail trade; repair of motor vehicles and motorcycles</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>GROOT- EN DETAILHANDEL VAN WELKE AARD OOK (ONDER MEER REPARATIE VAN AUTO'S EN MOTORFIETSEN)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Self-employed</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Zelfstandige</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Improved</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Verbeterd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Human health and social work activities</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>MENSELIJKE GEZONDHEIDSZORG EN MAATSCHAPPELIJKE DIENSTVERLENING</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Which of the following describes how you think of yourself?
+	{#D2_ins}</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Welke van de volgende opties omschrijft het best hoe u uzelf ziet?
+	{#D2_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>British</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Brits</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>European Commission</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Europese Commissie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Refusal {#D5a_ins}</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Weigering {#D5a_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Latvian</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Lets</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>26-50%</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>26-50%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Transportation and Storage</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>VERVOER EN OPSLAG</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Romania</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Roemenië</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{#Nationality} nationality</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>{#Nationality} nationaliteit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Professional (employed doctor, lawyer, accountant, architect, …)</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Bediende die een kwalificatie vereist (arts, advocaat, boekhouder, architect)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>European Agency for Safety and Health at Work</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Europees Agentschap voor de veiligheid en de gezondheid op het werk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>(READ IF TARGET RESPONDENT IS NOT THE PERSON WHO FIRST ANSWERED THE PHONE)
+	Hello, My name is …, from (NAME OF NATIONAL INSTITUTE), and I'm conducting an interview for Ipsos Public Affairs, on behalf of one of their clients. We are looking for people aged 15 or over who are willing to share their opinions about the issues of today’s society. We are conducting this survey across Europe. The survey is not part of any market research, we are interested in measuring public opinion.
+	
+	(READ FOR ALL RESPONDENTS)
+	I would be grateful if you could spare {#minutes_ins} minutes to participate in this survey. Participation in the survey is voluntary and you can change your mind at any time. All of your answers will remain confidential and will be combined with all other participants’ answers. This means you will not be identifiable in any of the published results. 
+	{#CONSENT_ins}
+	
+	If you would like to read the Data Protection Notice, you can access it at {#intro_link}. This explains the purpose for processing your personal data as well as your data protection rights.
+	
+	For quality assurance, this phone call may be monitored and recorded.
+	
+	INTERVIEWER ADD IF ASKED:
+	HOW DID YOU GET MY NUMBER: Your telephone number has been randomly generated by a computer, like all numbers we dial for this research. Our aim is to interview a representative sample of this country’s population.
+	
+	CLIENT? Ipsos is conducting this survey for the {#Client}. Flash Eurobarometer surveys have as purpose to monitor public opinion in the European Union on a broad range of thematic issues.
+	
+	WHAT PERSONAL DATA WILL BE COLLECTED: We use your phone number to invite you to take part in this interview and for quality control purposes only. Gender and age information will be collected, as well as personal data from the replies to the interview questions (such as marital status). All of the information you provide will remain confidential, your answers will be combined with all other participants’ answers, and no identifiable data will be shared with Ipsos’ client.
+	
+	Are you happy to proceed with the interview?
+	{#Birthday_ins}</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>(VOORLEZEN ALS DE BEOOGDE RESPONDENT NIET DE PERSOON IS DIE ALS EERSTE DE TELEFOON OPNAM)
+	Hallo, mijn naam is … van (NAAM VAN NATIONAAL INSTITUUT), en ik voer een interview uit voor Ipsos Public Affairs, namens een van hun klanten. We zijn op zoek naar personen van 15 jaar of ouder die bereid zijn hun mening over de problemen in de hedendaagse samenleving te delen. We voeren deze enquête uit in heel Europa. De enquête maakt geen deel uit van een marktonderzoek. We zijn geïnteresseerd in het meten van de publieke opinie.
+	
+	(VOORLEZEN VOOR ALLE RESPONDENTEN)
+	Ik zou het erg op prijs stellen als u {#minutes_ins} minuten tijd heeft om aan deze enquête deel te nemen. Deelname aan de enquête is vrijwillig en u kunt te allen tijde van gedachten veranderen. Al uw antwoorden blijven vertrouwelijk en worden samengevoegd met de antwoorden van alle andere deelnemers. Dit betekent dat u niet identificeerbaar zal zijn in de gepubliceerde resultaten. 
+	{#CONSENT_ins}
+	
+	Als u de Verklaring voor Gegevensbescherming wilt lezen, kunt u deze raadplegen via {#intro_link}. Hierin worden het doel van de verwerking van uw persoonsgegevens en uw rechten wat betreft de bescherming van uw gegevens toegelicht.
+	
+Het is mogelijk dat dit telefoongesprek wordt gecontroleerd en opgenomen voor kwaliteitswaarborging.
+
+	INTERVIEWER VOEG TOE INDIEN GEVRAAGD:
+	HOE HEEFT U MIJN NUMMER GEKREGEN: Uw telefoonnummer werd willekeurig gegenereerd door een computer, zoals alle nummers die we voor dit onderzoek contacteren. Ons doel is een representatieve steekproef van de bevolking van dit land te interviewen.
+	
+	KLANT? Ipsos voert deze enquête uit namens {#Client}. Flash Eurobarometer-enquêtes hebben tot doel de publieke opinie in de Europese Unie over een breed scala van thematische kwesties te volgen.
+	
+	WELKE PERSOONSGEGEVENS WORDEN VERZAMELD: Wij gebruiken uw telefoonnummer uitsluitend om u uit te nodigen voor deelname aan dit interview en voor kwaliteitscontroledoeleinden. Informatie over het geslacht en de leeftijd zal worden verzameld, evenals persoonsgegevens afkomstig uit de antwoorden op de interviewvragen (zoals burgerlijke staat). Alle informatie die u verstrekt, blijft vertrouwelijk. Uw antwoorden worden samengevoegd met de antwoorden van alle andere deelnemers en er worden geen identificeerbare gegevens gedeeld met de klant van Ipsos.
+	
+	Bent u bereid verder te gaan met het interview?
+	{#Birthday_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Office clerk</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Administratief bediende</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>How many children under the age of 15 are living in your household?</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Hoeveel kinderen jonger dan 15 jaar wonen in uw huishouden?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Farmer, forester, fisherman</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Landbouwer, boswachter, visser</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The answer has too much text, current length is {LENGTH}, maximum is {MAXLENGTH}.</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Het antwoord is te lang, huidige lengte is '{LENGTH}', maximum is '{MAXLENGTH}'.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Very positive</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Heel positief</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Yes, one mobile phone</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Ja, één mobiele telefoon</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Do you also have a landline telephone at home? 
+    Do not include telephones only used for business purposes or for connecting to the Internet or to a fax machine.
+	{#D2_ins}</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Heeft u thuis ook een vaste telefoonlijn? 
+    Telefoons die uitsluitend voor zakelijke doeleinden worden gebruikt of om verbinding te maken met het internet of een faxapparaat, hoeft u niet mee te rekenen.
+	{#D2_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>General Secretariat of the Council of the European Union</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Secretariaat-Generaal van de Raad van de Europese Unie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>German</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Duits</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>I’m rather sceptical of the European Union, but could change my opinion if radical reform was brought about</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Ik sta eerder sceptisch ten opzichte van de Europese Unie, maar zou mijn mening kunnen veranderen als er een radicale hervorming zou plaatsvinden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>French</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Frans</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Polish</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Pools</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Refusal</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Weigering</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Malta</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Malta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>10 to 49 employees</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>10 tot 49 werknemers</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Put through to the targeted respondent</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Met de beoogde respondent doorverbonden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Between 1 January {#CurrentYear_insert_6} and 1 January {#CurrentYear_insert_1}</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Tussen 1 januari {#CurrentYear_insert_6} en 1 januari {#CurrentYear_insert_1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Yes (will pass phone to start the interview)</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Ja (zal de telefoon doorgeven om het interview te starten)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Prefer not to say</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Ik zeg dit liever niet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Answer '{ANSWER}' is not a valid Date/Time.</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Antwoord '{ANSWER}' is geen valide datum.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Please enter a value between {#D1_age_ins} and 105. If the respondent is less than {#D1_age_ins} years, select response “&lt;{#D1_age_ins} years”.</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Vul een waarde tussen {#D1_age_ins} en 105 in. Als de respondent jonger is dan {#D1_age_ins} jaar, selecteer dan het antwoord '&lt;{#D1_age_ins} jaar'.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Less than 1 year</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Minder dan 1 jaar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;p&gt;Those are all the questions we have for you today.  Thank you for your time.&lt;/p&gt;&lt;p&gt;All information you provide is kept strictly confidential and is used for research purposes only.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>&lt;p&gt;Dat waren alle vragen voor vandaag.  Hartelijk dank voor uw tijd.&lt;/p&gt;&lt;p&gt;Alle informatie die u verstrekt wordt als strikt vertrouwelijk behandeld en is uitsluitend bestemd voor onderzoeksdoeleinden.&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>(WRITE DOWN AGE IN YEARS IF RESPONDENT IS 15 YEARS OR OVER)</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>(NOTEER LEEFTIJD IN JAREN ALS RESPONDENT 15 JAAR OF OUDER IS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Still in full-time education</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Nog in het voltijds onderwijs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>1-25%</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>1-25%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Between 6 and 10 years</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Tussen 6 en 10 jaar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Large town/city</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Een grote stad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In another way</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Anders</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>More than 10 to 50 million euro</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Meer dan 10 tot 50 miljoen euro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Which nationality or nationalities do you hold?
+	{#D3b_ins}</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Welke nationaliteit of nationaliteiten heeft u?
+	{#D3b_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Public administration and defence; compulsory social security</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>OPENBAAR BESTUUR EN DEFENSIE; VERPLICHTE SOCIALE VERZEKERINGEN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Question '{QUESTION}' ({QUESTION_NUMBER}): Answer '{ANSWER}' ({CATEGORY}) has a response but it is not selected.</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Vraag '{QUESTION}' ({QUESTION_NUMBER}): Antwoord '{ANSWER}' ({CATEGORY}) heeft een antwoord maar is niet geselecteerd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Danish</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Deens</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>How old were you when you stopped full-time education?
+    {#D4_ins}</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Hoe oud was u toen u uw voltijdse studies heeft beëindigd of stopgezet?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>16 years or older (not available, call back later)</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>16 jaar of ouder (niet beschikbaar, later terugbellen)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Financial and insurance activities</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>FINANCIËLE ACTIVITEITEN EN VERZEKERINGEN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Yes, available</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Ja, beschikbaar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Looking after the home</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Huisvrouw/huisman</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Real estate activities</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>EXPLOITATIE VAN EN HANDEL IN ONROEREND GOED</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Before 1 January {#CurrentYear_insert_6}</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Vóór 1 januari {#CurrentYear_insert_6}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Dutch</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Nederlands</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Over the past two years, has your company's total number of employees increase, decreased or remained about the same?	
+	(DO NOT READ OUT, ONE ANSWER ONLY)</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Is het totale aantal werknemers in uw bedrijf de afgelopen twee jaar gestegen, gedaald of ongeveer hetzelfde gebleven?	
+	(NIET VOORLEZEN, SLECHTS ÉÉN ANTWOORD)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>500 or more employees</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>500 of meer werknemers</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Luxembourg</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Luxemburg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Manual worker</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Arbeider</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Employee</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Werknemer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Answer '{ANSWER}' is not valid.</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Antwoord '{ANSWER}' is niet valide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>(WRITE DOWN AGE IN YEARS IF RESPONDENT IS 16 YEARS OR OVER)</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>(NOTEER LEEFTIJD IN JAREN ALS RESPONDENT 16 JAAR OF OUDER IS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Refusal</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Geweigerd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Which of the following statements regarding the European Union is closest to your opinion? 
+    {#D2_ins}</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Welke van de volgende uitspraken over de Europese Unie ligt het dichtst bij uw mening?
+    {#D2_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Dans quelle province habitez-vous?/In welke provincie woont u?</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>In welke provincie woont u?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Services directly to consumers</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>diensten rechtstreeks aan consumenten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Poland</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Polen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Occasionally</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Af en toe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The answer does not have enough text, current length is {LENGTH}, minimum is {MINLENGTH}.</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Vraag '{QUESTION}' ({QUESTION_NUMBER}): Het antwoord is te kort, huidige lengte is {LENGTH}, minimum is '{MINLENGTH}'.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Without a professional activity</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Zonder professionele activiteit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Mining and Quarrying</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>WINNING VAN DELFSTOFFEN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Next</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Volgende</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In the last two years, have you been involved in any dispute which has gone to court?</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Was u in de afgelopen twee jaar betrokken bij een geschil dat aan een rechtbank voorgelegd werd?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Other {#D5a_ins}</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Anders {#D5a_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Answer '{ANSWER}' cannot be combined with other answers.</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Antwoord '{ANSWER}' ({CATEGORY}) niet toegestaan in combinatie met andere antwoorden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>(DO NOT READ OUT; ONE ANSWER ONLY)</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>(ENQ. NIET VOORLEZEN - SLECHTS EEN ANTWOORD MOGELIJK)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Irish</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Iers</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Refusal (SPONTANEOUS)</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Weigering (SPONTAAN)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Below 10% owned by persons from other countries outside (THIS COUNTRY)</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Minder dan 10 % eigendom van personen uit andere landen dan België</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>16 years or older (will pass phone to start the interview)</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>16 jaar of ouder (zal telefoon doorgeven om interview te starten)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Answer '{ANSWER}' is not an integer value.</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Antwoord '{ANSWER}' is geen geheel getal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Other employee (salesman, nurse, …)</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Overige werknemer (verkoper, verpleegkundige)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;b&gt;Construction, transport, ICT&lt;/b&gt;</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>&lt;b&gt;Bouw, transport, ICT&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Don't know {#D5a_ins}</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Weet ik niet {#D5a_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Does your company sell …
+	(READ OUT – MULTIPLE ANSWERS POSSIBLE)</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Verkoopt uw bedrijf … ? (LEES VOOR - MEERDERE ANTWOORDEN MOGELIJK)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Would you say you live in...?
+	{#D2_ins}</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Zou u uw woonplaats beschrijven als …?
+	{#D2_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>National political matters</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Nationale politieke aangelegenheden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Professional, scientific and technical activities</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>VRIJE BEROEPEN EN WETENSCHAPPELIJKE EN TECHNISCHE ACTIVITEITEN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In general, does the EU conjure up for you a very positive, fairly positive, neutral, fairly negative or very negative image?
+   	{#SD15_ins}</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Heeft de Europese Unie in uw ogen in het algemeen een heel positief, redelijk positief, neutraal, redelijk negatief of heel negatief imago?
+   	{#SD15_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Errors</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Fouten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Bulgaria</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Bulgarije</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Manager of a company</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Bedrijfsleider-industrieel-ondernemer( meer dan 5 personen in loondienst)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Refusal</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Weigering</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>European Investment Bank Group</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Europese Investeringsbank Groep</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>(DO NOT READ OUT; MULTIPLE ANSWERS POSSIBLE)</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>(NIET VOORLEZEN; MEERDERE ANTWOORDEN MOGELIJK)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The European General Data Protection Regulation (GDPR) requires us to first speak to a parent or legal guardian of a teenager. Can I speak to this teenager’s parent or legal guardian?
+	(SINGLE ANSWER, DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>De Europese Algemene Verordening Gegevensbescherming (AVG) vereist dat we eerst met een ouder of wettelijke voogd van een tiener spreken. Kan ik met de ouder of wettelijke voogd van deze tiener spreken?
+	(ÉÉN ANTWOORD, NIET VOORLEZEN)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Yes, I am the parent/legal guardian</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Ja, ik ben de ouder / wettelijke voogd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>50 to 249 employees</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>50 tot 249 werknemers</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;b&gt;Thank you for your participation. Please click next and then close the browser.&lt;/b&gt;</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>&lt;b&gt;Hartelijk dank voor uw deelname. Klik op 'Volgende' en sluit daarna de browser.&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Do you also use one or more mobile phones?
+	{#D2_ins}</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Gebruikt u ook één of meer mobiele telefoons?
+	{#D2_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Hungary</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Hongarije</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Thank you for your time. We remind you that if you would like to read the Data Protection Notice, you can access it at {#intro_link}. This explains the purposes for processing your personal data as well as your rights under applicable data protection law.</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Hartelijk dank voor uw tijd. We herinneren u eraan dat u de Verklaring voor Gegevensbescherming kunt raadplegen via {#intro_link}, als u deze wilt lezen. Hierin worden de doeleinden van de verwerking van uw persoonsgegevens en uw rechten op grond van de toepasselijke wetgeving inzake gegevensbescherming toegelicht.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>More than 50 million euro</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Meer dan 50 miljoen euro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Less than 25,000 euro</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Minder dan 25.000 euro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>No</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Nee</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>(WHEN SPEAKING TO THE TARGETED RESPONDENT) Hello, My name is …, from (NAME OF NATIONAL INSTITUTE), and I'm conducting an interview for Ipsos Public Affairs, on behalf of one of their clients. We are contacting decision makers in companies across Europe regarding their views on current business topics. The feedback will be used to support policymaking in Europe.
+
+		I would be grateful if you could spare {#minutes_ins} minutes to participate in this survey. Participation in the survey is voluntary and you can change your mind at any time. All of your answers will remain confidential and will be combined with all other participants’ answers. This means that neither you, nor your business, will be identifiable in any of the published results. 
+		
+		For quality assurance, this phone call may be monitored and recorded.
+		
+		&lt;b&gt;INTERVIEWER ADD IF ASKED:&lt;/b&gt;
+		CLIENT? Ipsos is conducting this survey for the {#Client}. Flash Eurobarometer surveys have as purpose to monitor public and business opinion in the European Union on a broad range of thematic issues.
+		
+		WHAT PERSONAL DATA WILL BE COLLECTED: No personal data will be collected during this interview. Your participation, together with your individual responses to the questions, will be kept strictly confidential. If you have comments or questions, or any concerns, please send an email to: &lt;a href='FlashEB-dataprotection-coordinator@ipsos-online.com'&gt;FlashEB-dataprotection-coordinator@ipsos-online.com&lt;/a&gt;
+		
+		Are you happy to proceed with the interview?
+		(SINGLE ANSWER, DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>(ALS U SPREEKT MET DE BEOOGDE RESPONDENT) Hallo, mijn naam is … van (NAAM VAN NATIONAAL INSTITUUT), en ik voer een interview uit voor Ipsos Public Affairs, namens een van hun klanten. Wij nemen contact op met personen die verantwoordelijk zijn voor het nemen van beslissingen in bedrijven in heel Europa met betrekking tot hun mening over actuele zakelijke onderwerpen. De feedback zal worden gebruikt ter ondersteuning van de beleidsvorming in Europa.
+
+		Ik zou het erg op prijs stellen als u {#minutes_ins} minuten tijd heeft om aan deze enquête deel te nemen. Deelname aan de enquête is vrijwillig en u kunt te allen tijde van gedachten veranderen. Al uw antwoorden blijven vertrouwelijk en worden samengevoegd met de antwoorden van alle andere deelnemers. Dit betekent dat noch u, noch uw bedrijf identificeerbaar zal zijn in de gepubliceerde resultaten. 
+		
+		Het is mogelijk dat dit telefoongesprek wordt gecontroleerd en opgenomen voor kwaliteitswaarborging.
+		
+		&lt;b&gt;INTERVIEWER VOEG TOE INDIEN GEVRAAGD:&lt;/b&gt;
+		KLANT? Ipsos voert deze enquête uit namens {#Client}. Flash Eurobarometer-enquêtes hebben tot doel de publieke en zakelijke opinie in de Europese Unie over een breed scala van thematische kwesties te volgen.
+		
+		WELKE PERSOONSGEGEVENS WORDEN VERZAMELD: Tijdens dit interview worden geen persoonsgegevens verzameld. Uw deelname en individuele antwoorden op de onderzoeksvragen worden strikt vertrouwelijk bewaard. Als u opmerkingen of vragen heeft, of als u zich zorgen maakt, stuur dan een e-mail naar: &lt;a href='FlashEB-dataprotection-coordinator@ipsos-online.com'&gt;FlashEB-dataprotection-coordinator@ipsos-online.com&lt;/a&gt;
+		
+		Bent u bereid verder te gaan met het interview?
+		(ÉÉN ANTWOORD, NIET VOORLEZEN)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>15 years old, and available/at home</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>15 jaar en beschikbaar/thuis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>76-100%</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>76-100%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Never been in full-time education</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Nooit voltijds onderwijs gevolgd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Increased</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Gestegen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>European Insurance and Occupational Pensions Agency</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Europese Autoriteit voor verzekeringen en bedrijfspensioenen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Italian</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Italiaans</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Slovenia</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>Slovenië</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Sold products and or services to countries outside EU</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>producten en/of diensten aan landen buiten de EU verkocht heeft</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>0%</seg>
+      </tuv>
+      <tuv xml:lang="nl-BE">
+        <seg>0%</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

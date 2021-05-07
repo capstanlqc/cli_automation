@@ -1,0 +1,2862 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx version="1.4">
+  <header creationtool="cApps" creationtoolversion="2020.10" segtype="paragraph" adminlang="en" datatype="HTML" srclang="en-US" o-tmf="omt"></header>
+  <body>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Answer '{ANSWER}' is not in range '{RANGE}'.</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Intrebarea '{QUESTION}' ({QUESTION_NUMBER}): Raspunsul '{ANSWER}' nu este in interval '{RANGE}'.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;b&gt;Construction, transport, ICT&lt;/b&gt;</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>&lt;b&gt;Construcții, transport, ICT (tehnologia informației și a comunicațiilor)&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;b&gt;Industry&lt;/b&gt;</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>&lt;b&gt;Industrie&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Remained about the same</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>A rămas aproximativ la fel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>16 years or older (not available, call back later)</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>16 ani sau mai mult (nu este disponibil, reveniți cu apel mai târziu)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>There are too few answers, at least {MINANSWERS} are required.</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Exista prea putine raspunsuri, cel putin {MINANSWERS} sunt necesare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Less than 25,000 euro</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Mai puţin de 110 mii RON</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In another way</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Alt gen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Before 1 January {#CurrentYear_insert_6}</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Înainte de 1 ianuarie {#CurrentYear_insert_6}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Products directly to consumers</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>produse direct consumatorilor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>European Securities and Markets Authority</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Autoritatea Europeană pentru Valori Mobiliare și Piețe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Hungarian</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>maghiară</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>European political matters</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Probleme politice europene</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>I’m in favour of the European Union as it has been realised so far</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Sunt în favoarea Uniunii Europene, așa cum a fost realizată până acum</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>European Central Bank</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Banca Centrală Europeană</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Without a professional activity</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Fără activitate profesională</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Between 6 and 10 years</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Între 6 și 10 ani</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Please provide an answer.</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Intrebarea '{QUESTION}' ({QUESTION_NUMBER}): Raspuns(uri) lipsa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Not applicable (DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Nu se aplică (NU CITIŢI)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Only one answer is allowed.</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Intrebarea '{QUESTION}' ({QUESTION_NUMBER}): Este permis numai un raspuns .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Hungary</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Ungaria</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>French</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>franceză</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Other</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Altele</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Remained unchanged</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>A rămas neschimbată</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Between 1 and 5 years</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Între 1 și 5 ani</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Construction</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>CONSTRUCŢII</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Don't know (DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Nu știu (NU CITIȚI)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Errors</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Erori</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Services to companies or other organisations</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>servicii companiilor sau altor organizaţii</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>What is your nationality or nationalities if you hold more than one?
+	{#D3a_ins}</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Care este naționalitatea dvs. sau care sunt naționalitățile dvs., dacă aveți mai multe?
+	{#D3a_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>(READ OUT; ONE ANSWER ONLY)</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>(CITIȚI; DOAR UN SINGUR RĂSPUNS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>European Investment Bank Group</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Grupul Băncii Europene de Investiții</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>I’m rather in favour of the European Union, but not the way it has been realised until now</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Sunt mai degrabă în favoarea Uniunii Europene, dar nu în modul în care aceasta a fost realizată până acum</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Answer '{ANSWER}' cannot be combined with other answers.</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Intrebarea '{QUESTION}' ({QUESTION_NUMBER}): Raspunsul '{ANSWER}' ({CATEGORY}) nu poate fi combinat cu alte raspunsuri.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>General Secretariat of the Council of the European Union</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Secretariatul General al Consiliului Uniunii Europene</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>250 to 499 employees</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>De la 250 la 499 angajaţi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Sold products and or services to other EU countries</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>A vândut produse şi/sau servicii către alte ţări ale UE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Thank you for your time.</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Vă mulțumim pentru timpul acordat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Frequently</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Frecvent</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>European Economic and Social Committee</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Comitetul Economic și Social European</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>How long has your company been in business?	
+	(READ OUT, ONE ANSWER ONLY)</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>De cât timp activează compania dvs.?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;b&gt;Trade, accommodation and food services&lt;/b&gt;</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>&lt;b&gt;Comerț, servicii de cazare și alimentație&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Don’t know (DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Nu știu (NU CITIȚI)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The answer has too much text, current length is {LENGTH}, maximum is {MAXLENGTH}.</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Intrebarea '{QUESTION}' ({QUESTION_NUMBER}): Raspunsul are prea mult text, lungimea curenta este {LENGTH}, maximul este {MAXLENGTH}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Insert for D5._5 - Refusal</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Introduceți pentru D5._5 - Refuz să răspund</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>No</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Nu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>National political matters</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Probleme politice naţionale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The survey includes some questions that could be considered sensitive as they relate to political opinions. Your child may refuse to answer these questions at any time, and you can withdraw your consent for your child’s participation at any time.</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Sondajul include câteva întrebări care ar putea fi considerate sensibile, deoarece se referă la opinii politice. Copilul dvs. poate refuza să răspundă la aceste întrebări în orice moment și vă puteți retrage consimțământul privind participarea copilului dvs. în orice moment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>France</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Franța</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Small or medium-sized town</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Oraș de dimensiuni mici sau medii</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Approximately, what percentage of the value of your company's products and or services were sold to other EU Member States in {#CurrentYear_insert_1}?
+	ADD, IF NEEDED: If you are not sure, please provide your best estimate.	
+	(READ OUT IF NECESSARY, ONE ANSWER ONLY)</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Aproximativ ce procent din valoarea produselor şi/sau serviciilor companiei dvs. au fost vândute către alte state membre ale UE în {#CurrentYear_insert_1}?		
+	ADĂUGAȚI, DACĂ ESTE NECESAR: Dacă nu sunteți sigur(ă), vă rugăm să estimați cât mai bine.	
+	(CITIȚI DACĂ ESTE NECESAR, DOAR UN SINGUR RĂSPUNS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>50% or more owned or controlled by persons from other countries outside (THIS COUNTRY)</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Deținută sau controlată în proporție de 50% de persoane din afara României</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When was your company established?	
+	(READ OUT, ONE ANSWER ONLY)</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Când a fost fondată compania dvs.?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>European Parliament</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Parlamentul European</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>I would like to reassure you that your child's cooperation is completely voluntary. All answers are confidential and combined with other participants’ answers. This means your child will not be identifiable in any of the published results.
+	{#PARENT3_ins}
+	
+	If you would like to read the Data Protection Notice, you can access it at {#intro_link}. This explains the purpose for processing your personal data as well as your data protection rights.
+	
+	INTERVIEWER ADD IF ASKED:
+	HOW DID YOU GET MY NUMBER: Your telephone number has been randomly generated by a computer, like all numbers we dial for this research. Our aim is to interview a representative sample of this country’s population.
+	
+	CLIENT? Ipsos is conducting this survey for the {#Client}. Flash Eurobarometer surveys have as purpose to monitor public opinion in the European Union on a broad range of thematic issues.
+	
+	WHAT PERSONAL DATA WILL BE COLLECTED: We use your phone number to invite you to take part in this interview and for quality control purposes only. Gender and age information will be collected, as well as personal data from the replies to the interview questions (such as marital status). All of the information you provide will remain confidential, your answers will be combined with all other participants’ answers, and no identifiable data will be shared with Ipsos’ client.
+	
+	Do we have your permission to conduct this interview with your child?
+	{#Birthday_ins}</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Aș dori să vă asigur că participarea copilului dvs. este complet voluntară. Toate răspunsurile sunt confidențiale și combinate cu răspunsurile altor participanți. Aceasta înseamnă că, în rezultatele publicate, copilul dvs. nu va putea fi identificat.
+	{#PARENT3_ins}
+	
+	Dacă doriți să citiți Declarația privind protecția datelor, puteți să o accesați online la {#intro_link}. Aceasta explică scopul prelucrării datelor dvs. cu caracter personal, precum și drepturile dvs. privind protecția datelor.
+	
+	ADĂUGARE DE CĂTRE OPERATOR, DACĂ ESTE ÎNTREBAT:
+	DE UNDE AVEȚI NUMĂRUL MEU: Numărul dvs. de telefon a fost generat în mod aleatoriu de un computer, la fel ca toate numerele pe care le apelăm pentru acest studiu. Obiectivul nostru este să intervievăm un eșantion reprezentativ al populației acestei țări.
+	
+	CLIENT? Ipsos efectuează acest sondaj pentru [{#Client}]. Sondajele Flash Eurobarometer au ca scop monitorizarea opiniei publice în Uniunea Europeană în ceea ce privește o gamă vastă de chestiuni tematice.
+	
+	CE DATE CU CARACTER PERSONAL VOR FI COLECTATE: Folosim numărul dvs. de telefon doar pentru a vă invita să participați la acest interviu și în scopuri de control al calității. Se vor colecta informațiile despre gen și vârstă, precum și date cu caracter personal din răspunsurile la întrebările interviului (cum ar fi starea civilă). Toate informațiile pe care le furnizați vor rămâne confidențiale, răspunsurile dvs. vor fi combinate cu răspunsurile tuturor celorlalți participanți și niciun fel de date de identificare nu vor fi divulgate clientului societății Ipsos.
+	
+	Avem permisiunea dvs. pentru a efectua acest interviu cu copilul dvs.?
+	{#Birthday_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Please enter a value between {#D1_age_ins} and 105. If the respondent is less than {#D1_age_ins} years, select response “&lt;{#D1_age_ins} years”.</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Introduceți o valoare între {#D1_age_ins} și 105. Dacă respondentul are vârsta mai mică de {#D1_age_ins} ani, selectați răspunsul „&lt;{#D1_age_ins} ani”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>How many employees (in full-time equivalents) does your company currently have? 	
+	ADD, IF NEEDED: If you are not sure, please provide your best estimate.	
+	(READ OUT IF NECESSARY, ONE ANSWER ONLY)</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Câți angajați (în echivalente cu normă întreagă) are în prezent compania dvs.? 	
+	ADĂUGAȚI, DACĂ ESTE NECESAR: Dacă nu sunteți sigur(ă), vă rugăm să estimați cât mai bine.	
+	(CITIȚI DACĂ ESTE NECESAR, DOAR UN SINGUR RĂSPUNS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Polish</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>poloneză</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In the last two years, has your company been involved in any dispute which has gone to court?</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>În ultimii doi ani, compania dvs. a fost implicată în vreun conflict care să ajungă în instanţă?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Answer '{ANSWER}' is not a valid Date/Time.</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Raspunsul '{ANSWER}' nu este data valida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Never</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Niciodată</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Don't know</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Nu știu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Yes, not available</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Da, nedisponibil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Ireland</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Irlanda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Latvia</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Letonia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Office clerk</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Funcţionar, lucrător la birou</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The thousands separator character is not allowed.</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Intrebarea '{QUESTION}' ({QUESTION_NUMBER}): Nu este permis caracterul separator pentru mii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The answer does not have enough text, current length is {LENGTH}, minimum is {MINLENGTH}.</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Intrebarea '{QUESTION}' ({QUESTION_NUMBER}): Raspunsul nu are suficient text, lungimea curenta este {LENGTH}, minimul este {MINLENGTH}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Increased</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>A crescut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Sweden</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Suedia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Refusal</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Refuz să răspund</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Answer '{ANSWER}' ({CATEGORY}) has a response but is not selected.</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Raspunsul '{ANSWER}' ({CATEGORY}) are un raspuns dar nu este selectat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Yes, more than one mobile phone</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Da, mai multe telefoane mobile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;b&gt;Non-public services&lt;/b&gt;</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>&lt;b&gt;Servicii non-publice&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>No, I am not the parent/legal guardian</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Nu, nu sunt părintele/tutorele legal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Does your company sell …
+	(READ OUT – MULTIPLE ANSWERS POSSIBLE)</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Compania dvs. vinde… (CITIŢI VARIANTELE DE RĂSPUNS - MAI MULTE RĂSPUNSURI POSIBILE)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Owned or controlled entirely by persons from (THIS COUNTRY)</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Deținută sau controlată integral de persoane din România</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Other {#D5a_ins}</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Altceva {#D5a_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Refusal</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Refuz să răspund</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When you get together with friends or relatives, would you say you discuss frequently, occasionally or never about...?
+    {#SD14a_ins}</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Când vă întâlniţi cu prietenii sau rudele, aţi spune că discutați frecvent, ocazional sau niciodată despre ...?
+    {#SD14a_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Answer '{ANSWER}' is not an integer value.</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Raspunsul '{ANSWER}' nu este numar intreg.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Public administration and defence; compulsory social security</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>ADMINISTRAŢIE PUBLICĂ ŞI APĂRARE; ASIGURĂRI SOCIALE DIN SISTEMUL PUBLIC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Answer '{ANSWER}' is not a valid Date/Time.</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Intrebarea '{QUESTION}' ({QUESTION_NUMBER}): Raspunsul '{ANSWER}' nu este data valida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>How many children under the age of 15 are living in your household?</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Câți copii cu vârsta sub 15 ani locuiesc în prezent în gospodăria dvs.?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Very positive</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Foarte pozitivă</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Decreased</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>A scăzut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Between 1 January {#CurrentYear_insert_6} and 1 January {#CurrentYear_insert_1}</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Între 1 ianuarie {#CurrentYear_insert_6} şi 1 ianuarie {#CurrentYear_insert_1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Human health and social work activities</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>SĂNĂTATE ŞI ASISTENŢĂ SOCIALĂ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>As far as your current occupation is concerned, would you say you are...?
+	{#D2_ins}</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>În ceea ce privește ocupația dvs. actuală, ați spune că sunteți...?
+	{#D2_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Hello, My name is …, from (NAME OF NATIONAL INSTITUTE). May I speak with someone with decision making responsibilities (managing director, general manager, CEO, financial director) or someone leading the commercial activities (commercial manger, sales manager, marketing manager) or a legal officer in your company?
+
+		(IF THE GATEKEEPER ASKS FOR ADDITIONAL INFORMATION) I'm conducting an interview for Ipsos Public Affairs, on behalf of one of their clients. We are contacting (decision makers in) companies across Europe regarding their views on current business topics. The feedback will be used to support policymaking in Europe. I would greatly appreciate being able to speak with him or her to include his/her opinion in the study.
+		
+		&lt;b&gt;INTERVIEWER ADD IF ASKED:&lt;/b&gt;
+		CLIENT? Ipsos is conducting this survey for a European public institution. I can only reveal the name of this institution during the interview.
+		
+		&lt;b&gt;WHO TO CONTACT ABOUT THE SURVEY:&lt;/b&gt;
+		If you have comments or questions, or any concerns, please send an email to: &lt;a href='FlashEB-dataprotection-coordinator@ipsos-online.com'&gt;FlashEB-dataprotection-coordinator@ipsos-online.com&lt;/a&gt;  
+		
+		(SINGLE ANSWER, DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Bună ziua, numele meu este …, de la (DENUMIREA INSTITUTULUI NAȚIONAL). Pot vorbi cu cineva cu responsabilități de decizie (director general, manager general, CEO, director financiar) sau cu cineva care conduce activitățile comerciale (manager comercial, manager de vânzări, manager de marketing) sau cu juristul din compania dvs.?
+
+		(DACĂ PORTARUL SOLICITĂ INFORMAȚII SUPLIMENTARE) Efectuez un interviu pentru Ipsos Public Affairs, în numele unuia dintre clienții săi. Contactăm (factori de decizie din) companii din toată Europa referitor la opiniile lor privind subiecte actuale de afaceri. Feedbackul va fi folosit pentru a susține elaborarea politicilor în Europa. Aș aprecia mult dacă aș putea vorbi cu dânșii pentru a le include opinia în studiu.
+		
+		&lt;b&gt;ADĂUGARE DE CĂTRE OPERATOR, DACĂ ESTE ÎNTREBAT:&lt;/b&gt;
+		CLIENT? Ipsos efectuează acest sondaj pentru o instituție publică europeană. Pot divulga numele acestei instituții doar în timpul interviului.
+		
+		&lt;b&gt;PE CINE SĂ CONTACTAȚI ÎN LEGĂTURĂ CU SONDAJUL:&lt;/b&gt;
+		Dacă aveți comentarii sau întrebări, ori îngrijorări, vă rugăm să trimiteți un e-mail la: &lt;a href='FlashEB-dataprotection-coordinator@ipsos-online.com'&gt;FlashEB-dataprotection-coordinator@ipsos-online.com&lt;/a&gt;  
+		
+		(UN SINGUR RĂSPUNS, NU CITIȚI)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Water Supply; sewerage, waste management and remediation activities</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>DISTRIBUŢIA APEI; SALUBRITATE, GESTIONAREA DEŞEURILOR, ACTIVITĂŢI DE DECONTAMINARE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Lithuania</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Lituania</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Luxembourgish</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>luxemburgheză</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Between 10-50% owned by persons from other countries outside (THIS COUNTRY)</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Deținută în proporție de 10-50% de persoane din afara României</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Next</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Urmatorul</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Supervisor/foreman (team manager, …)</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Maistru / supervizor (şef de echipă, etc...)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>More than 50,000 to 100,000 euro</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Mai mult de 220 mii RON, până la 440 mii RON</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Italy</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Italia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Put through to the targeted respondent</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Legătură cu respondentul vizat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Refusal</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Refuz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Got worse</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>S-a înrăutăţit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Very negative</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Foarte negativă</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Yes, available</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Da, disponibil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Maltese</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>malteză</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>(DO NOT READ OUT; MULTIPLE ANSWERS POSSIBLE)</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>(NU CITIȚI; MAI MULTE RĂSPUNSURI POSIBILE)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>(READ OUT – ONE ANSWER PER LINE)</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>(CITIŢI VARIANTELE DE RĂSPUNS - UN SINGUR RĂSPUNS PE LINIE)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Don't know</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Nu ştiu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Greece</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Grecia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Italian</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>italiană</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Refusal</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Refuz să răspund</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Self-employed</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Liber profesionist</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Student (full-time)</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Elev\ Student (la zi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>(DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>(NU CITIȚI)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Yes (will pass phone to start the interview)</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Da (îi voi da telefonul ca să începeți interviul)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Question '{QUESTION}' ({QUESTION_NUMBER}): Answer '{ANSWER}' ({CATEGORY}) has a response but it is not selected.</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Intrebarea '{QUESTION}' ({QUESTION_NUMBER}): Raspunsul '{ANSWER}' ({CATEGORY}) are un raspuns dar nu este selectat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Civil servant</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Funcţionar public</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>10 to 49 employees</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>De la 10 la 49 de angajaţi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;{#D1_age_ins} years</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>&lt;{#D1_age_ins} ani</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>How old are you?
+	{#D1_ins}</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Câți ani aveți?
+	{#D1_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>How old were you when you stopped full-time education?
+    {#D4_ins}</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>La ce vârstă aţi încheiat pregătirea şcolară (cursuri de zi)?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>15 years old, and available/at home</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>15 ani și este disponibil/acasă</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Electricity, gas, steam and air conditioning supply</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>PRODUCŢIA ŞI FURNIZAREA DE ENERGIE ELECTRICĂ ŞI TERMICĂ, GAZE, APĂ CALDĂ ŞI AER CONDIŢIONAT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Previous</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Anteriorul</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>(DO NOT READ OUT; ONE ANSWER ONLY)</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>(NU CITIŢI VARIANTELE DE RĂSPUNS - UN SINGUR RĂSPUNS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Interviewer instruction: Do not read, just fill in your interviewer_ID.</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Instrucțiune pentru operator: nu citiți, doar completați ID-ul dvs. de operator.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Other service activities</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>ALTE ACTIVITĂŢI DE SERVICII</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>There are too many answers, only {MAXANSWERS} are allowed.</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Intrebarea '{QUESTION}' ({QUESTION_NUMBER}): Exista prea multe raspunsuri, numai {MAXANSWERS} sunt permise.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Still in full-time education</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Sunt încă la școală cu frecvență la zi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Latvian</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>letonă</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Large town/city</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Oraș mare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Do you know if, in {#CurrentYear_insert_1}, your company has:
+	(READ OUT, ONE ANSWER PER LINE)</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Știți dacă, în {#CurrentYear_insert_1}, compania dvs. a:
+	(CITIȚI, UN SINGUR RĂSPUNS PE LINIE)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;b&gt;Public services&lt;/b&gt;</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>&lt;b&gt;Servicii publice&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>European External Action Service</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Serviciul European de Acțiune Externă</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Less than 1 year</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>De mai puțin de 1 an</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>16 years or older (will pass phone to start the interview)</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>16 ani sau mai mult (îi voi da telefonul ca să începeți interviul)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;p&gt;These are all the questions we have for you today.  It appears that a sufficient number of respondents with a similar profile have already completed this study, or that your profile does not exactly match our needs for this study. We apologize for the inconvenience.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>&lt;p&gt;Acestea sunt toate întrebările pe care le avem pentru dvs. astăzi.  Se pare că un număr suficient de respondenți cu un profil similar au completat deja acest studiu sau că profilul dvs. nu se potrivește exact cu necesitățile noastre pentru acest studiu. Ne cerem scuze pentru inconvenient.&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Are you happy to proceed with the interview?</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Doriți să continuați interviul?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Improved</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>S-a îmbunătăţit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Over the past two years, has your company's total number of employees increase, decreased or remained about the same?	
+	(DO NOT READ OUT, ONE ANSWER ONLY)</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>În ultimii doi ani, numărul total de angajați ai companiei dvs. a crescut, a scăzut sau a rămas aproximativ la fel?	
+	(NU CITIȚI, DOAR UN SINGUR RĂSPUNS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Answer '{ANSWER}' is not valid.</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Raspunsul '{ANSWER}' nu este valid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>(WRITE DOWN AGE IN YEARS IF RESPONDENT IS 15 YEARS OR OVER)</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>(SCRIEȚI VÂRSTA ÎN ANI DACĂ RESPONDENTUL ARE 15 ANI SAU MAI MULT)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>How many people aged 15 years or more live in your household, yourself included?</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Câte persoane cu vârsta de cel puțin 15 ani locuiesc în gospodăria dvs., incluzându-vă și pe dvs.?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Portuguese</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>portugheză</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>500 or more employees</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>500 sau mai mulți angajați</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Is your company…?
+	(READ OUT, ONE ANSWER ONLY)</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Compania dvs. este...? (CITIȚI; DOAR UN SINGUR RĂSPUNS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;center&gt;Thank you for taking part in this survey. &lt;br /&gt;These are all the questions we have for you today.&lt;/center&gt;</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>&lt;center&gt;Vă mulțumim pentru participarea la acest sondaj. &lt;br /&gt;Acestea sunt toate întrebările pe care le avem pentru dvs. astăzi.&lt;/center&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In the last two years, have you been involved in any dispute which has gone to court?</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>În ultimii doi ani, ați fost implicat în vreun litigiu pentru care ați apelat la instanță?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Czech</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>cehă</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>English (US)</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>TexteStandard</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>European Insurance and Occupational Pensions Agency</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Autoritatea Europeană de Asigurări și Pensii Ocupaționale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In which (region) is your company headquarers located?</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>În ce regiune este situat sediul firmei dvs.?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Information and Communication</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>INFORMAŢII ŞI COMUNICAŢII</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{#Nationality} nationality</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>{#Nationality} Naționalitatea</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Estonian</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>estonă</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Please provide an answer.</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Raspuns(uri)Lipsa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>General management, director or top management</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Manager general, director sau poziţie managerială de top</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Research Executive Agency</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Agenția Executivă pentru Cercetare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Transportation and Storage</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>TRANSPORT ŞI DEPOZITARE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Slovenian</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>slovenă</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Never been in full-time education</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Nu am urmat niciodată o școală cu frecvență la zi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Hello, My name is …, from (NAME OF NATIONAL INSTITUTE), and I'm conducting an interview for Ipsos Public Affairs, on behalf of one of their clients. We are looking for people aged 15 or over who are willing to share their opinions about the issues of today’s society.
+
+		Can I speak to the person in your household, 15 years or older, whose birthday it was most recently? 
+		INTERVIEWER ADD IF NECESSARY: this is necessary to ensure everyone has an equal chance to participate, for the survey to be representative of this country’s population. 
+		
+		How old is he or she? 
+		Can you pass the phone to this household member?
+		
+		{#Birthday_ins}
+		Household member with the most recent birthday is:</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Bună ziua, numele meu este …, de la (DENUMIREA INSTITUTULUI NAȚIONAL), și efectuez un interviu pentru Ipsos Public Affairs, în numele unuia dintre clienții săi. Căutăm persoane cu vârsta de cel puțin 15 ani, care doresc să își împărtășească opiniile cu privire la chestiunile societății actuale.
+
+		Aș putea vorbi cu persoana din gospodăria dvs., cu vârsta de cel puțin 15 ani, a cărei aniversare a zilei de naștere a avut loc cel mai recent? 
+		ADĂUGARE DE CĂTRE OPERATOR, DACĂ ESTE NECESAR: acest lucru este necesar pentru a ne asigura că toată lumea are șanse egale de participare, astfel încât sondajul să fie reprezentativ pentru populația acestei țări. 
+		
+		Câți ani are? 
+		Îi puteți da telefonul acestui membru al gospodăriei?
+		
+		{#Birthday_ins}
+		Membrul gospodăriei a cărui aniversare a zilei de naștere a avut loc cel mai recent este:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Croatia</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Croația</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Mining and Quarrying</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>INDUSTRIA EXTRACTIVĂ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The survey specific questions section ends here</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>The survey specific questions section ends here</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The European General Data Protection Regulation (GDPR) requires us to first speak to a parent or legal guardian of a teenager. Can I speak to this teenager’s parent or legal guardian?
+	(SINGLE ANSWER, DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Regulamentul general european privind protecția datelor (GDPR) ne impune să vorbim mai întâi cu un părinte sau tutore legal al adolescentului. Pot vorbi cu părintele sau tutorele legal al acestui adolescent?
+	(UN SINGUR RĂSPUNS, NU CITIȚI)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>European Commission</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Comisia Europeană</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Stayed about the same</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>A rămas aproximativ la fel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Which nationality or nationalities do you hold?
+	{#D3b_ins}</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Ce naționalitate sau naționalități aveți?
+	{#D3b_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>(WRITE DOWN AGE IN YEARS IF RESPONDENT IS 16 YEARS OR OVER)</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>(SCRIEȚI VÂRSTA ÎN ANI DACĂ RESPONDENTUL ARE 16 ANI SAU MAI MULT)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Other nationality</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Altă naționalitate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Spain</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Spania</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Education</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>ÎNVĂŢĂMÂNT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Would you say you are…?
+	{#D2_ins}</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Aţi spune că sunteţi...?
+	{#D2_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Austrian</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>austriacă</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Cyprian</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>cipriotă</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>51-75%</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>51-75%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Belgium</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Belgia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Poland</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Polonia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Please enter a value between 1 and 30.</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Introduceți o valoare între 1 și 30.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Only one answer is allowed.</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Este permis doar un singur raspuns.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Professional, scientific and technical activities</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>ACTIVITĂŢI PROFESIONALE, ŞTIINŢIFICE ŞI TEHNICE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Please enter a value between 0 and 99.</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Introduceți o valoare între 0 și 99.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Select all that apply.</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Selectați toate variantele care se aplică.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The thousands separator character is not allowed.</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Nu este permis caracterul separator pentru mii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Executive Agency for Small and Medium-sized Enterprises</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Agenția Executivă pentru Întreprinderi Mici și Mijlocii</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Croatian</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>croată</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Refusal {#D5a_ins}</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Refuz să răspund {#D5a_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Activities of households as employers; undifferentiate goods and services producing activities of households for own use</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>ACTIVITĂŢI ALE GOSPODĂRIILOR PRIVATE ÎN CALITATE DE ANGAJATOR DE PERSONAL CASNIC; ACTIVITĂŢI ALE GOSPODĂRIILOR PRIVATE DE PRODUCERE DE BUNURI ŞI SERVICII DESTINATE CONSUMULUI PROPRIU</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Please enter a value between 0 and 20.</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Introduceți o valoare între 0 și 20.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{#D1X_insert}
+	(DO NOT READ OUT, ONE ANSWER ONLY)</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>{#D1X_insert}
+	(NU CITIŢI VARIANTELE DE RĂSPUNS - UN SINGUR RĂSPUNS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Spanish</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>spaniolă</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Do you also use one or more mobile phones?
+	{#D2_ins}</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Folosiți, de asemenea, unul sau mai multe telefoane mobile?
+	{#D2_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Products to companies or other organisations</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>produse companiilor sau altor organizaţii</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Slovenia</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Slovenia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Retired</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Pensionar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>1 to 9 employees</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>De la 1 la 9 angajaţi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Accommodation and food service activities</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>HOTELURI ŞI RESTAURANTE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;b&gt;Thank you for your participation. Please click next and then close the browser.&lt;/b&gt;</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>&lt;b&gt;Vă mulțumim pentru participare. Dați clic pe Înainte și apoi închideți browserul.&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Prefer not to say</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Prefer să nu răspund</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Financial and insurance activities</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>INTERMEDIERI FINANCIARE ŞI ASIGURARI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Swedish</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>suedeză</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Services directly to consumers</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>servicii direct consumatorilor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Local political matters</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Probleme politice locale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;p&gt;Those are all the questions we have for you today.  Thank you for your time.&lt;/p&gt;&lt;p&gt;All information you provide is kept strictly confidential and is used for research purposes only.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>&lt;p&gt;Acestea sunt toate întrebările pe care le avem pentru dvs. astăzi.  Vă mulțumim pentru timpul acordat.&lt;/p&gt;&lt;p&gt;Toate informațiile furnizate vor rămâne strict confidențiale și vor fi utilizate doar în scopuri de cercetare.&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>There are too many answers, only {MAXANSWERS} are allowed.</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Exista prea multe raspunsuri, numai {MAXANSWERS} sunt permise.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Answer '{ANSWER}' is not numeric.</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Intrebarea '{QUESTION}' ({QUESTION_NUMBER}): Raspunsul '{ANSWER}' nu este numeric.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Hello, My name is …, from (NAME OF NATIONAL INSTITUTE), and I'm conducting an interview for Ipsos Public Affairs, on behalf of one of their clients. We are looking for people aged 15 or over who are willing to share their opinions about the issues of today’s society. We are conducting this survey across Europe. The survey is not part of any market research, we are interested in measuring public opinion.
+
+	We would like to speak to your child about this subject (CLARIFY IF NEEDED: your child, aged 15, whose birthday it was most recently).
+	
+	Are you the parent/legal guardian of the child, aged 15, we would like to interview?</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Bună ziua, numele meu este …, de la (DENUMIREA INSTITUTULUI NAȚIONAL), și efectuez un interviu pentru Ipsos Public Affairs, în numele unuia dintre clienții săi. Căutăm persoane cu vârsta de cel puțin 15 ani, care doresc să își împărtășească opiniile cu privire la chestiunile societății actuale. Efectuăm acest sondaj în toată Europa. Sondajul nu face parte din nicio cercetare de piață, ne interesează să măsurăm opinia publică.
+
+	Am dori să discutăm cu copilul dvs. despre acest subiect (CLARIFICAȚI, DACĂ ESTE NECESAR: copilul dvs, cu vârsta de 15 ani, a cărui aniversare a zilei de naștere a avut loc cel mai recent).
+	
+	Sunteți părintele/tutorele legal al copilului cu vârsta de 15 ani pe care am dori să îl intervievăm?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Manufacturing</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>INDUSTRIA PRELUCRĂTOARE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Less than 16 years (SPONTANEOUS)</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Sub 16 ani (SPONTAN)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You entered an unexpected value, please review your answer or continue to confirm your response.</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Ați introdus o valoare neașteptată, revizuiți răspunsul sau continuați pentru a confirma răspunsul dvs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Czechia</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Cehia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The answer has too much text, current length is {LENGTH}, maximum is {MAXLENGTH}.</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Raspunsul are prea mult text, lungimea curenta este {LENGTH}, maximul este {MAXLENGTH}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Slovakia</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Slovacia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>British</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>britanică</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Real estate activities</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>TRANZACŢII IMOBILIARE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Does someone pick-up the phone?</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Răspunde cineva la telefon?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>More than 50 million euro</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Mai mult de 225 milioane RON</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Don't know {#D5a_ins}</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Nu știu {#D5a_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>There are too few answers, at least {MINANSWERS} are required.</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Intrebarea '{QUESTION}' ({QUESTION_NUMBER}): Exista prea putine raspunsuri, cel putin {MINANSWERS} sunt necesare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Answer '{ANSWER}' is not an integer value.</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Intrebarea '{QUESTION}' ({QUESTION_NUMBER}): Raspunsul '{ANSWER}' nu este numar intreg.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Occasionally</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Ocazional</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Yes, one mobile phone</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Da, un telefon mobil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Male</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Bărbat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Irish</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>irlandeză</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Bulgarian</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>bulgară</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Fairly positive</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Destul de pozitivă</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Over the last year, would you say that this image you have of the EU improved, got worse or stayed about the same? 
+	{#SD15_ins}</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>În ultimul an, ați spune că această imagine pe care o aveți despre UE s-a îmbunătățit, s-a înrăutățit sau a rămas aproximativ la fel?
+   	{#SD15_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Do we have your permission to conduct this interview with your child?</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Avem permisiunea dvs. pentru a efectua acest interviu cu copilul dvs.?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Which of the following describes how you think of yourself?
+	{#D2_ins}</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Care dintre următoarele descrie sexul în care considerați că vă regăsiți?	{#D2_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Answer {ANSWER} is not numeric.</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Raspunsul '{ANSWER}' nu este numeric.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>More than 100,000 to 250,000 euro</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Mai mult de 440 mii RON, până la 1,1 milioane RON</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Administrative and support service activities</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>ACTIVITĂŢI DE SERVICII ADMINISTRATIVE ŞI ACTIVITĂŢI DE SERVICII SUPORT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>German</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>germană</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Navigations</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Navigari</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>15 years old, but not available/not at home</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>15 ani, dar nu este disponibil/acasă</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Are you a permanent resident of {#MRK_Country}?</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Sunteți rezident permanent în {#MRK_Country}?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>More than 10 years</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Mai mult de 10 ani</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Yes, I am the parent/legal guardian</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Da, sunt părintele/tutorele legal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>More than 2 to 10 million euro</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Mai mult de 9 milioane, până la 45 milioane RON</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Over the past two years, has your company's annual turnover increased, decreased or remained unchanged?
+	(DO NOT READ OUT, ONE ANSWER ONLY)</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>În ultimii doi ani, cifra de afaceri anuală a companiei dvs. a crescut, a scăzut sau a rămas neschimbată?	
+	(NU CITIȚI, DOAR UN SINGUR RĂSPUNS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Seeking a job</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>În căutarea unui loc de muncă</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>26-50%</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>26-50%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Romanian</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>română</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Romania</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>România</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Finland</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Finlanda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>What is the main activity of your company?
+    (READ OUT MAIN CATEGORIES FIRST, THEN SUBCATEGORIES, ONE ANSWER ONLY)</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Care este activitatea principală a companiei dvs.?
+    (CITIȚI MAI ÎNTÂI CATEGORIILE PRINCIPALE, APOI SUBCATEGORIILE, DOAR UN SINGUR RĂSPUNS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>(SINGLE ANSWER, DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>(UN SINGUR RĂSPUNS, NU CITIȚI)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The survey includes some questions that could be considered sensitive as they relate to political opinions. You may refuse to answer these questions at any time, and you can withdraw your consent for participation at any time.</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Sondajul include câteva întrebări care ar putea fi considerate sensibile, deoarece se referă la opinii politice. Puteți refuza să răspundeți la aceste întrebări în orice moment și vă puteți retrage consimțământul de participare în orice moment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Greek</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>greacă</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Bulgaria</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Bulgaria</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>years</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>ani</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Portugal</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Portugalia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Please enter a value between 15 and 105. If you are less than 15 years old, you are not eligible to participate in this study.</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Introduceți o valoare între 15 și 105. Dacă aveți vârsta mai mică de 15 ani, nu sunteți eligibil(ă) să participați la acest studiu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Malta</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Malta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Professional (employed doctor, lawyer, accountant, architect, …)</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Specialist cu studii superioare angajat (medic, avocat, contabil, arhitect angajat)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Arts, entertainment and recreation</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>ACTIVITĂŢI DE SPECTACOLE, CULTURALE ŞI RECREATIVE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Below 10% owned by persons from other countries outside (THIS COUNTRY)</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Deținută în proporție de mai puțin de 10% de persoane din afara României</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>More than 500,000 to 2 million euro</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Mai mult de 2,25 milioane, până la 9 milioane RON</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>1-25%</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>1-25%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Thank you for your time. We remind you that if you would like to read the Data Protection Notice, you can access it at {#intro_link}. This explains the purposes for processing your personal data as well as your rights under applicable data protection law.</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Vă mulțumim pentru timpul acordat. Vă reamintim că, dacă doriți să citiți Declarația privind protecția datelor, puteți să o accesați online la {#intro_link}. Aceasta explică scopurile prelucrării datelor dvs. cu caracter personal, precum și drepturile dvs. în conformitate cu legislația aplicabilă privind protecția datelor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Activities of extraterritorial organisations and bodies</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>ACTIVITĂŢI ALE ORGANIZAŢIILOR ŞI ORGANISMELOR EXTRATERITORIALE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Manual worker</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Muncitor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Professional (lawyer, medical practitioner, accountant, architect,…)</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Specialist cu studii superioare (avocat, medic, contabil, arhitect, etc...)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Farmer, forester, fisherman</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Agricultor, silvicultor, pescar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Other employee (salesman, nurse, …)</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Altă ocupaţie (vânzător/oare, asistent/ă medical/ă, ...)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>More than 25,000 to 50,000 euro</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Mai mult de 110 mii RON, până la 220 mii RON</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Finnish</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>finlandeză</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>ENU English (United States)</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>ROM Romanian (Romania)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>European Agency for Safety and Health at Work</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Agenția Europeană pentru Sănătate și Securitate în Muncă</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Female</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Femeie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Wholesale and retail trade; repair of motor vehicles and motorcycles</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>COMERŢ CU RIDICATA ŞI CU AMĂNUNTUL DE ORICE FEL (INCLUSIV REPARAREA AUTOVEHICULELOR ŞI MOTOCICLETELOR)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>(WHEN SPEAKING TO THE TARGETED RESPONDENT) Hello, My name is …, from (NAME OF NATIONAL INSTITUTE), and I'm conducting an interview for Ipsos Public Affairs, on behalf of one of their clients. We are contacting decision makers in companies across Europe regarding their views on current business topics. The feedback will be used to support policymaking in Europe.
+
+		I would be grateful if you could spare {#minutes_ins} minutes to participate in this survey. Participation in the survey is voluntary and you can change your mind at any time. All of your answers will remain confidential and will be combined with all other participants’ answers. This means that neither you, nor your business, will be identifiable in any of the published results. 
+		
+		For quality assurance, this phone call may be monitored and recorded.
+		
+		&lt;b&gt;INTERVIEWER ADD IF ASKED:&lt;/b&gt;
+		CLIENT? Ipsos is conducting this survey for the {#Client}. Flash Eurobarometer surveys have as purpose to monitor public and business opinion in the European Union on a broad range of thematic issues.
+		
+		WHAT PERSONAL DATA WILL BE COLLECTED: No personal data will be collected during this interview. Your participation, together with your individual responses to the questions, will be kept strictly confidential. If you have comments or questions, or any concerns, please send an email to: &lt;a href='FlashEB-dataprotection-coordinator@ipsos-online.com'&gt;FlashEB-dataprotection-coordinator@ipsos-online.com&lt;/a&gt;
+		
+		Are you happy to proceed with the interview?
+		(SINGLE ANSWER, DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>(CÂND VORBIȚI CU RESPONDENTUL VIZAT) Bună ziua, numele meu este …, de la (DENUMIREA INSTITUTULUI NAȚIONAL), și efectuez un interviu pentru Ipsos Public Affairs, în numele unuia dintre clienții săi. Contactăm factori de decizie din companii din toată Europa referitor la opiniile lor privind subiecte actuale de afaceri. Feedbackul va fi folosit pentru a susține elaborarea politicilor în Europa.
+
+		Aș aprecia dacă mi-ați acorda {#minutes_ins} minute pentru a participa la acest sondaj. Participarea la sondaj este voluntară și vă puteți răzgândi în orice moment. Toate răspunsurile dvs. vor rămâne confidențiale și vor fi combinate cu răspunsurile tuturor celorlalți participanți. Aceasta înseamnă că nici dvs., nici compania dvs. nu veți putea fi identificați/identificate în rezultatele publicate. 
+		
+		Pentru asigurarea calității, acest apel telefonic poate fi monitorizat și înregistrat.
+		
+		&lt;b&gt;ADĂUGARE DE CĂTRE OPERATOR, DACĂ ESTE ÎNTREBAT:&lt;/b&gt;
+		CLIENT? Ipsos efectuează acest sondaj pentru {#Client}. Sondajele Flash Eurobarometer au ca scop monitorizarea opiniei publice și a companiilor din Uniunea Europeană în ceea ce privește o gamă vastă de chestiuni tematice.
+		
+		CE DATE CU CARACTER PERSONAL VOR FI COLECTATE: Niciun fel de date cu caracter personal nu vor fi colectate în timpul acestui interviu. Atât participarea dvs. la acest sondaj, cât și răspunsurile dvs. individuale la întrebări vor fi păstrate strict confidențiale. Dacă aveți comentarii sau întrebări, ori îngrijorări, vă rugăm să trimiteți un e-mail la: &lt;a href='FlashEB-dataprotection-coordinator@ipsos-online.com'&gt;FlashEB-dataprotection-coordinator@ipsos-online.com&lt;/a&gt;
+		
+		Doriți să continuați interviul?
+		(UN SINGUR RĂSPUNS, NU CITIȚI)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>None, sole trader (DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Niciunul, comerciant unic (NU CITIȚI)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In general, does the EU conjure up for you a very positive, fairly positive, neutral, fairly negative or very negative image?
+   	{#SD15_ins}</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>În general, imaginea pe care o aveţi despre Uniunea Europeană este foarte pozitivă, destul de pozitivă, neutră, destul de negativă sau foarte negativă? 
+   	{#SD15_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Belgian</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>belgiană</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Refusal (SPONTANEOUS)</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Refuz să răspund (SPONTAN)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Looking after the home</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Are grijă de gospodărie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Manual worker</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Muncitor calificat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>I’m opposed to the idea of the European Union in general</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Sunt împotriva ideii de Uniune Europeană în general</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>More than 10 to 50 million euro</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Mai mult de 45 milioane, până la 225 milioane RON</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Which of the following statements regarding the European Union is closest to your opinion? 
+    {#D2_ins}</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Care dintre următoarele afirmații privind Uniunea Europeană este cea mai apropiată de opinia dvs.?
+    {#D2_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Owner of shop, craftsman</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Proprietarul unui magazin, meşteşugar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Middle management</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Poziţie managerială de mijloc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Hello, My name is …, from (NAME OF NATIONAL INSTITUTE), and I'm conducting an interview for Ipsos Public Affairs, on behalf of one of their clients. We are looking for people aged 16 or over who are willing to share their opinions about the issues of today’s society. We are conducting this survey across Europe. The survey is not part of any market research, we are interested in measuring public opinion.
+
+	I would be grateful if you could spare {#minutes_ins} minutes to participate in this survey. Participation in the survey is voluntary and you can change your mind at any time. All of your answers will remain confidential and will be combined with all other participants’ answers. This means you will not be identifiable in any of the published results. 
+	{#CONSENT_ins}
+	
+	If you would like to read the Data Protection Notice, you can access it at {#intro_link}. This explains the purpose for processing your personal data as well as your data protection rights.
+
+	For quality assurance, this phone call may be monitored and recorded.
+	
+	INTERVIEWER ADD IF ASKED:
+	HOW DID YOU GET MY NUMBER: Your telephone number has been randomly generated by a computer, like all numbers we dial for this research. Our aim is to interview a representative sample of this country’s population.
+	
+	CLIENT? Ipsos is conducting this survey for the {#Client}. Flash Eurobarometer surveys have as purpose to monitor public opinion in the European Union on a broad range of thematic issues.
+	
+	WHAT PERSONAL DATA WILL BE COLLECTED: We use your phone number to invite you to take part in this interview and for quality control purposes only. Gender and age information will be collected, as well as personal data from the replies to the interview questions (such as marital status). All of the information you provide will remain confidential, your answers will be combined with all other participants’ answers, and no identifiable data will be shared with Ipsos’ client.
+	
+	Are you happy to proceed with the interview?
+	{#Birthday_ins}</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Bună ziua, numele meu este …, de la (DENUMIREA INSTITUTULUI NAȚIONAL), și efectuez un interviu pentru Ipsos Public Affairs, în numele unuia dintre clienții săi. Căutăm persoane cu vârsta de cel puțin 16 ani, care doresc să își împărtășească opiniile cu privire la chestiunile societății actuale. Efectuăm acest sondaj în toată Europa. Sondajul nu face parte din nicio cercetare de piață, ne interesează să măsurăm opinia publică.
+
+	Aș fi recunoscător (recunoscătoare) dacă mi-ați acorda {#minutes_ins} minute pentru a participa la acest sondaj. Participarea la sondaj este voluntară și vă puteți răzgândi în orice moment. Toate răspunsurile dvs. vor rămâne confidențiale și vor fi combinate cu răspunsurile tuturor celorlalți participanți. Aceasta înseamnă că nu veți putea fi identificat(ă) în rezultatele publicate. 
+	{#CONSENT_ins}
+	
+	Dacă doriți să citiți Declarația privind protecția datelor, puteți să o accesați online la {#intro_link}. Aceasta explică scopul prelucrării datelor dvs. cu caracter personal, precum și drepturile dvs. privind protecția datelor.
+
+	Pentru asigurarea calității, acest apel telefonic poate fi monitorizat și înregistrat.
+	
+	ADĂUGARE DE CĂTRE OPERATOR, DACĂ ESTE ÎNTREBAT:
+	DE UNDE AVEȚI NUMĂRUL MEU: Numărul dvs. de telefon a fost generat în mod aleatoriu de un computer, la fel ca toate numerele pe care le apelăm pentru acest studiu. Obiectivul nostru este să intervievăm un eșantion reprezentativ al populației acestei țări.
+	
+	CLIENT? Ipsos efectuează acest sondaj pentru [{#Client}]. Sondajele Flash Eurobarometer au ca scop monitorizarea opiniei publice în Uniunea Europeană în ceea ce privește o gamă vastă de chestiuni tematice.
+	
+	CE DATE CU CARACTER PERSONAL VOR FI COLECTATE: Folosim numărul dvs. de telefon doar pentru a vă invita să participați la acest interviu și în scopuri de control al calității. Se vor colecta informațiile despre gen și vârstă, precum și date cu caracter personal din răspunsurile la întrebările interviului (cum ar fi starea civilă). Toate informațiile pe care le furnizați vor rămâne confidențiale, răspunsurile dvs. vor fi combinate cu răspunsurile tuturor celorlalți participanți și niciun fel de date de identificare nu vor fi divulgate clientului societății Ipsos.
+	
+	Doriți să continuați interviul?	{#Birthday_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Luxembourg</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Luxemburg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Do you use more than one mobile phone?
+	{#D2_ins}</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Folosiți mai multe telefoane mobile?
+	{#D2_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Unskilled manual worker</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Muncitor necalificat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Sold products and or services to countries outside EU</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>A vândut produse şi/sau servicii către ţări din afara UE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Yes</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Da</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Cyprus</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Cipru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Would you say you live in...?
+	{#D2_ins}</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Ați spune că locuiți într-o/un...?
+	{#D2_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Manager of a company</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Managerul unei companii</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Answer '{ANSWER}' is not valid.</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Intrebarea '{QUESTION}' ({QUESTION_NUMBER}): Raspunsul '{ANSWER}' nu este valid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Germany</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Germania</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Don't know/No Answer (DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>NȘ/NR (NU CITIŢI)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>(READ IF TARGET RESPONDENT IS NOT THE PERSON WHO FIRST ANSWERED THE PHONE)
+	Hello, My name is …, from (NAME OF NATIONAL INSTITUTE), and I'm conducting an interview for Ipsos Public Affairs, on behalf of one of their clients. We are looking for people aged 15 or over who are willing to share their opinions about the issues of today’s society. We are conducting this survey across Europe. The survey is not part of any market research, we are interested in measuring public opinion.
+	
+	(READ FOR ALL RESPONDENTS)
+	I would be grateful if you could spare {#minutes_ins} minutes to participate in this survey. Participation in the survey is voluntary and you can change your mind at any time. All of your answers will remain confidential and will be combined with all other participants’ answers. This means you will not be identifiable in any of the published results. 
+	{#CONSENT_ins}
+	
+	If you would like to read the Data Protection Notice, you can access it at {#intro_link}. This explains the purpose for processing your personal data as well as your data protection rights.
+	
+	For quality assurance, this phone call may be monitored and recorded.
+	
+	INTERVIEWER ADD IF ASKED:
+	HOW DID YOU GET MY NUMBER: Your telephone number has been randomly generated by a computer, like all numbers we dial for this research. Our aim is to interview a representative sample of this country’s population.
+	
+	CLIENT? Ipsos is conducting this survey for the {#Client}. Flash Eurobarometer surveys have as purpose to monitor public opinion in the European Union on a broad range of thematic issues.
+	
+	WHAT PERSONAL DATA WILL BE COLLECTED: We use your phone number to invite you to take part in this interview and for quality control purposes only. Gender and age information will be collected, as well as personal data from the replies to the interview questions (such as marital status). All of the information you provide will remain confidential, your answers will be combined with all other participants’ answers, and no identifiable data will be shared with Ipsos’ client.
+	
+	Are you happy to proceed with the interview?
+	{#Birthday_ins}</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>(CITIȚI DACĂ RESPONDENTUL ȚINTĂ NU ESTE PERSOANA CARE A RĂSPUNS PRIMA DATĂ LA TELEFON)
+	Bună ziua, numele meu este …, de la (DENUMIREA INSTITUTULUI NAȚIONAL), și efectuez un interviu pentru Ipsos Public Affairs, în numele unuia dintre clienții săi. Căutăm persoane cu vârsta de cel puțin 15 ani, care doresc să își împărtășească opiniile cu privire la chestiunile societății actuale. Efectuăm acest sondaj în toată Europa. Sondajul nu face parte din nicio cercetare de piață, ne interesează să măsurăm opinia publică.
+	
+	(CITIȚI PENTRU TOȚI RESPONDENȚII)
+	Aș fi recunoscător (recunoscătoare) dacă mi-ați acorda {#minutes_ins} minute pentru a participa la acest sondaj. Participarea la sondaj este voluntară și vă puteți răzgândi în orice moment. Toate răspunsurile dvs. vor rămâne confidențiale și vor fi combinate cu răspunsurile tuturor celorlalți participanți. Aceasta înseamnă că nu veți putea fi identificat(ă) în rezultatele publicate. 
+	{#CONSENT_ins}
+	
+	Dacă doriți să citiți Declarația privind protecția datelor, puteți să o accesați online la {#intro_link}. Aceasta explică scopul prelucrării datelor dvs. cu caracter personal, precum și drepturile dvs. privind protecția datelor.
+
+Pentru asigurarea calității, acest apel telefonic poate fi monitorizat și înregistrat.
+	
+	ADĂUGARE DE CĂTRE OPERATOR, DACĂ ESTE ÎNTREBAT:
+	DE UNDE AVEȚI NUMĂRUL MEU: Numărul dvs. de telefon a fost generat în mod aleatoriu de un computer, la fel ca toate numerele pe care le apelăm pentru acest studiu. Obiectivul nostru este să intervievăm un eșantion reprezentativ al populației acestei țări.
+	
+	CLIENT? Ipsos efectuează acest sondaj pentru {#Client}. Sondajele Flash Eurobarometer au ca scop monitorizarea opiniei publice în Uniunea Europeană în ceea ce privește o gamă vastă de chestiuni tematice.
+	
+	CE DATE CU CARACTER PERSONAL VOR FI COLECTATE: Folosim numărul dvs. de telefon doar pentru a vă invita să participați la acest interviu și în scopuri de control al calității. Se vor colecta informațiile despre gen și vârstă, precum și date cu caracter personal din răspunsurile la întrebările interviului (cum ar fi starea civilă). Toate informațiile pe care le furnizați vor rămâne confidențiale, răspunsurile dvs. vor fi combinate cu răspunsurile tuturor celorlalți participanți și niciun fel de date de identificare nu vor fi divulgate clientului societății Ipsos.
+	
+	Doriți să continuați interviul?	{#Birthday_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>I’m rather sceptical of the European Union, but could change my opinion if radical reform was brought about</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Sunt mai degrabă sceptic(ă) cu privire la Uniunea Europeană, dar mi-aș putea schimba opinia dacă ar avea loc o reformă radicală</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Other (DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Altceva (NU CITIŢI)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Fairly negative</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Destul de negativă</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Dutch</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>olandeză</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A rural area or village</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Zonă rurală sau sat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Consumers, Health, Agriculture and Food Executive Agency</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Agenția Executivă pentru Consumatori, Sănătate, Agricultură și Alimente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>More than 250,000 to 500,000 euro</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Mai mult de 1,1 milioane RON, până la 2,25 milioane RON</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Agriculture, Forestry and Fishing</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>AGRICULTURĂ, SILVICULTURĂ ŞI PESCUIT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Do you also have a landline telephone at home? 
+    Do not include telephones only used for business purposes or for connecting to the Internet or to a fax machine.
+	{#D2_ins}</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Aveți, de asemenea, un telefon fix acasă? 
+    Nu includeți telefoanele folosite doar în scopuri de afaceri sau pentru a vă conecta la internet sau la un aparat fax.
+	{#D2_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Employee</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Angajat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Danish</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>daneză</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You have used the browser buttons, please use the Next/Previous buttons below.</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Ati folosit butoanele de navigare, va rog folositi butoanele de mai jos Next/Previous de mai jos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Netherlands</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Țările de Jos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Don't know/No Answer (DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>NŞ/NR (NU CITIŢI)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>After 1 January {#CurrentYear_insert_1}</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>După 1 ianuarie {#CurrentYear_insert_1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Answer '{ANSWER}' is not in range '{RANGE}'.</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Raspunsul '{ANSWER}' nu este in interval '{RANGE}'.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Slovak</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>slovacă</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;b&gt;Agriculture, Forestry and Fishing&lt;/b&gt;</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>&lt;b&gt;Agricultură, domeniul forestier și pescuit&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>What was your company's total turnover in {#CurrentYear_insert_1}?
+	ADD, IF NEEDED: If you are not sure, please provide your best estimate.	
+	(READ OUT IF NECESSARY, ONE ANSWER ONLY)</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Care a fost cifra de afaceri totală a companiei dumneavoastră în anul {#CurrentYear_insert_1}?	
+	ADĂUGAȚI, DACĂ ESTE NECESAR: Dacă nu sunteți sigur(ă), vă rugăm să estimați cât mai bine.	
+	(CITIȚI DACĂ ESTE NECESAR, DOAR UN SINGUR RĂSPUNS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Denmark</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Danemarca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>50 to 249 employees</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>De la 50 la 249 de angajaţi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Refusal {#D5a_ins}</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Refuz {#D5a_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The answer does not have enough text, current length is {LENGTH}, minimum is {MINLENGTH}.</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Raspunsul nu are suficient text, lungimea curenta este {LENGTH}, minimul este {MINLENGTH}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Neutral</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Neutră</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>76-100%</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>76-100%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>European Ombudsman</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Ombudsmanul European</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Lithuanian</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>lituaniană</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Austria</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Austria</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Answer '{ANSWER}' cannot be combined with other answers.</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Raspunsul '{ANSWER}' ({CATEGORY}) nu poate fi combinat cu alte raspunsuri.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Estonia</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Estonia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Targeted respondent not available, call back later</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Respondentul vizat nu este disponibil, revenire cu apel mai târziu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Committee of the Regions</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Comitetul Regiunilor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>0%</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>0%</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

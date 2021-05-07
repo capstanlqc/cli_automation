@@ -1,0 +1,2848 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx version="1.4">
+  <header creationtool="cApps" creationtoolversion="2020.10" segtype="paragraph" adminlang="en" datatype="HTML" srclang="en-US" o-tmf="omt"></header>
+  <body>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;p&gt;These are all the questions we have for you today.  It appears that a sufficient number of respondents with a similar profile have already completed this study, or that your profile does not exactly match our needs for this study. We apologize for the inconvenience.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>&lt;p&gt;Šie bija visi jautājumi, kurus šodien vēlējāmies Jums uzdot.  Šķiet, ka pietiekams skaits respondentu ar līdzīgu profilu jau ir piedalījušies šajā pētījumā vai, ka Jūsu profils īsti neatbilst mūsu vajadzībām šī pētījuma ietvaros. Mēs atvainojamies par sagādātajām neērtībām.&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Remained about the same</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Palicis aptuveni nemainīgs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;b&gt;Public services&lt;/b&gt;</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>&lt;b&gt;Sabiedriskie pakalpojumi&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Please enter a value between 15 and 105. If you are less than 15 years old, you are not eligible to participate in this study.</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Lūdzu, ierakstiet ciparu no 15 līdz 105. Ja esat jaunāks(-a) par 15 gadiem, Jūs neesat piemērots(-a) dalībai šajā pētījumā.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Spain</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Spānija</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>National political matters</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Valsts līmeņa politiskos jautājumus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Portuguese</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Portugāles</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>(DO NOT READ OUT; ONE ANSWER ONLY)</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>(NENOLASĪT - TIKAI VIENA ATBILDE)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Between 6 and 10 years</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>6 līdz 10 gadus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Other</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Cits</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Seeking a job</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Meklē darbu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>More than 25,000 to 50,000 euro</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>No vairāk nekā 25 000 līdz 50 000 eiro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>General Secretariat of the Council of the European Union</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Eiropas Savienības Padomes Ģenerālsekretariāts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The European General Data Protection Regulation (GDPR) requires us to first speak to a parent or legal guardian of a teenager. Can I speak to this teenager’s parent or legal guardian?
+	(SINGLE ANSWER, DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Saskaņā ar Eiropas Vispārīgo datu aizsardzības regulu (GDPR) mums vispirms jārunā ar pusaudža vecākiem vai likumīgiem aizbildņiem. Vai es varu runāt ar vienu no pusaudža vecākiem vai likumīgiem aizbildņiem?
+	(VIENS ATBILDES VARIANTS, NENOLASĪT)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Next</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Nākamais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Fairly positive</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Diezgan pozitīvs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Navigations</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Navigācija</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Answer '{ANSWER}' is not an integer value.</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Küsimuses '{QUESTION}' ({QUESTION_NUMBER}): Vastus '{ANSWER}' ei ole täisarv.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;b&gt;Construction, transport, ICT&lt;/b&gt;</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>&lt;b&gt;Būvniecība, transports, IKT&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Slovenia</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Slovēnija</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Electricity, gas, steam and air conditioning supply</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>ELEKTROENERĢIJA, GĀZES APGĀDE, SILTUMAPGĀDE UN GAISA KONDICIONĒŠANA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>More than 500,000 to 2 million euro</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>No vairāk nekā 500 000 līdz 2 miljoniem eiro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Between 1 January {#CurrentYear_insert_6} and 1 January {#CurrentYear_insert_1}</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>No {#CurrentYear_insert_6}. gada 1. janvāra līdz {#CurrentYear_insert_1}. gada 1. janvārim</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Answer '{ANSWER}' is not an integer value.</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Vastus '{ANSWER}' ei ole täisarv.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Don't know (DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Nezinu (NENOLASĪT)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When was your company established?	
+	(READ OUT, ONE ANSWER ONLY)</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Kurā gadā tika dibināts Jūsu uzņēmums?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In the last two years, has your company been involved in any dispute which has gone to court?</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Vai pēdējo divu gadu laikā jūsu uzņēmums ir bijis iesaistīts strīdā, ko ir izskatījusi tiesa?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Decreased</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Samazinājies</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Prefer not to say</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Nevēlos atbildēt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Activities of households as employers; undifferentiate goods and services producing activities of households for own use</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>MĀJSAIMNIECĪBU KĀ DARBA DEVĒJU DARBĪBA; PAŠPATĒRIŅA PREČU RAŽOŠANA UN PAKALPOJUMU SNIEGŠANA INDIVIDUĀLAJĀS MĀJSAIMNIECĪBĀS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>15 years old, and available/at home</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>15 gadus vecs(-a), un ir pieejams(-a)/mājās</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>German</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Vācijas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Answer '{ANSWER}' is not numeric.</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Küsimuses '{QUESTION}' ({QUESTION_NUMBER}): Vastus '{ANSWER}' ei ole numbrilise väärtusega.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Answer '{ANSWER}' cannot be combined with other answers.</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Küsimuses '{QUESTION}' ({QUESTION_NUMBER}): Vastust '{ANSWER}' ({CATEGORY}) ei saa kombineerida teiste vastustega.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;{#D1_age_ins} years</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>&lt;{#D1_age_ins} gadi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Please enter a value between 0 and 20.</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Lūdzu, ievadiet ciparu no 0 līdz 20.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Got worse</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Pasliktinājies</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Don’t know (DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Nezinu (NENOLASĪT)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Other {#D5a_ins}</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Cits {#D5a_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The survey includes some questions that could be considered sensitive as they relate to political opinions. Your child may refuse to answer these questions at any time, and you can withdraw your consent for your child’s participation at any time.</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Aptauja ietver dažus jautājumus, kas var tikt uzskatīti par sensitīviem, jo tie saistīti ar politiskajiem uzskatiem. Jūsu bērns var jebkurā laikā atteikties atbildēt uz šiem jautājumiem, un Jūs jebkurā laikā varat atsaukt savu piekrišanu sava bērna dalībai.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Without a professional activity</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Neveicat profesionālo darbību</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>French</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Francijas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Professional (employed doctor, lawyer, accountant, architect, …)</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Algots speciālists (algots ārsts, jurists, grāmatvedis, arhitekts, …)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;b&gt;Trade, accommodation and food services&lt;/b&gt;</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>&lt;b&gt;Tirdzniecība, izmitināšana un ēdināšanas pakalpojumi&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Sold products and or services to countries outside EU</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Pārdevis preces un/vai pakalpojumus valstīm ārpus ES</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Hello, My name is …, from (NAME OF NATIONAL INSTITUTE), and I'm conducting an interview for Ipsos Public Affairs, on behalf of one of their clients. We are looking for people aged 15 or over who are willing to share their opinions about the issues of today’s society. We are conducting this survey across Europe. The survey is not part of any market research, we are interested in measuring public opinion.
+
+	We would like to speak to your child about this subject (CLARIFY IF NEEDED: your child, aged 15, whose birthday it was most recently).
+	
+	Are you the parent/legal guardian of the child, aged 15, we would like to interview?</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Sveiki! Mani sauc … un es pārstāvu (VALSTS IESTĀDES NOSAUKUMS). Es veicu interviju Ipsos Public Affairs vārdā, pārstāvot vienu no viņu klientiem. Mēs meklējam cilvēkus, kas ir vismaz 15 gadus veci un ir gatavi izteikt savu viedokli par aktuāliem mūsdienu sabiedrības jautājumiem. Mēs veicam Eiropas mēroga apsekojumu. Šī aptauja nav daļa no kāda tirgus izpētes, mūs interesē sabiedrības viedokļa noteikšana.
+
+	Mēs par šo tematu vēlētos aprunāties ar Jūsu bērnu (NEPIECIEŠAMĪBAS GADĪJUMĀ PASKAIDROJIET: Jūsu bērnu, kas ir 15 gadus vecs un kuram pēdējam bija dzimšanas diena).
+	
+	Vai Jūs esat bērna, kas ir 15 gadus vecs un ko mēs vēlētos intervēt, vecāks/likumīgais aizbildnis?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Services to companies or other organisations</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Pakalpojumus uzņēmumiem vai citām organizācijām</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The thousands separator character is not allowed.</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Tuhandike eraldaja ei ole lubatud.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Greek</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Grieķijas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When you get together with friends or relatives, would you say you discuss frequently, occasionally or never about...?
+    {#SD14a_ins}</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Vai, satiekoties ar draugiem vai radiniekiem, Jūs bieži, reizēm apspriežat vai nekad neapspriežat...?
+    {#SD14a_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Hello, My name is …, from (NAME OF NATIONAL INSTITUTE). May I speak with someone with decision making responsibilities (managing director, general manager, CEO, financial director) or someone leading the commercial activities (commercial manger, sales manager, marketing manager) or a legal officer in your company?
+
+		(IF THE GATEKEEPER ASKS FOR ADDITIONAL INFORMATION) I'm conducting an interview for Ipsos Public Affairs, on behalf of one of their clients. We are contacting (decision makers in) companies across Europe regarding their views on current business topics. The feedback will be used to support policymaking in Europe. I would greatly appreciate being able to speak with him or her to include his/her opinion in the study.
+		
+		&lt;b&gt;INTERVIEWER ADD IF ASKED:&lt;/b&gt;
+		CLIENT? Ipsos is conducting this survey for a European public institution. I can only reveal the name of this institution during the interview.
+		
+		&lt;b&gt;WHO TO CONTACT ABOUT THE SURVEY:&lt;/b&gt;
+		If you have comments or questions, or any concerns, please send an email to: &lt;a href='FlashEB-dataprotection-coordinator@ipsos-online.com'&gt;FlashEB-dataprotection-coordinator@ipsos-online.com&lt;/a&gt;  
+		
+		(SINGLE ANSWER, DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Sveiki! Mani sauc … un es pārstāvu (VALSTS IESTĀDES NOSAUKUMS). Vai es, lūdzu, varu runāt ar kādu, kurš ir atbildīgs par lēmumu pieņemšanu (rīkotājdirektors, ģenerāldirektors, izpilddirektors, finanšu direktors), vai ar kādu, kurš vada komercdarbību (komerciālais vadītājs, pārdošanas vadītājs, mārketinga vadītājs), vai ar juristu Jūsu uzņēmumā?
+
+		(JA TIEŠSAISTES VĀRTZINIS LŪDZ SNIEGT PAPILDU INFORMĀCIJU) Es veicu interviju Ipsos Public Affairs vārdā, pārstāvot vienu no viņu klientiem. Mēs sazināmies ar (lēmumu pieņēmējiem) uzņēmumos visā Eiropā, lai uzzinātu viņu viedokli par aktuālām uzņēmējdarbības tēmām. Atsauksmes tiks izmantotas, lai atbalstītu politikas veidošanu Eiropā. Es ļoti novērtētu iespēju aprunāties ar viņu, lai pētījumā iekļautu viņa/viņas viedokli.
+		
+		&lt;b&gt;INTERVĒTĀJ, PASKAIDROJIET, JA TIEK JAUTĀTS:&lt;/b&gt;
+		KLIENTS? Ipsos veic šo aptauju publiskas Eiropas iestādes vārdā. Šīs iestādes nosaukumu es varu atklāt tikai intervijas laikā.
+		
+		&lt;b&gt;AR KO SAZINĀTIES SAISTĪBĀ AR APTAUJU:&lt;/b&gt;
+		Ja Jums ir kādi komentāri, jautājumi vai neskaidrības, lūdzu, sazinieties, rakstot uz e-pastu: &lt;a href='FlashEB-dataprotection-coordinator@ipsos-online.com'&gt;FlashEB-dataprotection-coordinator@ipsos-online.com&lt;/a&gt;  
+		
+		(VIENS ATBILDES VARIANTS, NENOLASĪT)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>(READ OUT; ONE ANSWER ONLY)</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>(NOLASĪT; TIKAI VIENA ATBILDE)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Manual worker</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Strādnieks(-ce)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Between 10-50% owned by persons from other countries outside (THIS COUNTRY)</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>10-50% apmērā pieder personām no citām valstīm ārpus Latvijas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>I’m rather sceptical of the European Union, but could change my opinion if radical reform was brought about</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Mana attieksme pret Eiropas Savienību ir diezgan skeptiska, bet tā varētu mainīties, ja tiktu veikta radikāla reforma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Over the last year, would you say that this image you have of the EU improved, got worse or stayed about the same? 
+	{#SD15_ins}</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Vai Jūs teiktu, ka pēdējā gada laikā Jūsu priekšstats par ES ir uzlabojies, pasliktinājies vai palicis nemainīgs?
+   	{#SD15_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The answer has too much text, current length is {LENGTH}, maximum is {MAXLENGTH}.</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Küsimuses '{QUESTION}' ({QUESTION_NUMBER}): Vastuses liiga pikk tekst, praegune pikkus {LENGTH}, maximum on {MAXLENGTH}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>European Ombudsman</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Eiropas Ombuds</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Real estate activities</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>OPERĀCIJAS AR NEKUSTAMO ĪPAŠUMU</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Manual worker</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Fiziska darba veicējs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Finland</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Somija</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Bulgarian</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Bulgārijas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>European Insurance and Occupational Pensions Agency</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Eiropas Apdrošināšanas un aroda pensiju iestāde</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Ireland</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Īrija</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>European political matters</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Politiskos jautājumus Eiropas līmenī</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Yes, more than one mobile phone</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Jā, vairāk nekā vienu mobilo tālruni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>How many children under the age of 15 are living in your household?</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Cik bērni vecumā līdz 15 gadiem dzīvo jūsu mājsaimniecībā?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Spanish</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Spānijas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A rural area or village</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Laukos vai ciematā</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Farmer, forester, fisherman</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Lauksaimnieks, mežstrādnieks, zvejnieks</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Never</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Nekad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Please enter a value between 0 and 99.</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Lūdzu, ierakstiet ciparu no 0 līdz 99.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>50% or more owned or controlled by persons from other countries outside (THIS COUNTRY)</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>50% vai lielākā apmērā pieder personām vai to kontrolē personas no valstīm ārpus Latvijas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>500 or more employees</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>500 vai vairāk darbinieku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Are you a permanent resident of {#MRK_Country}?</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Vai Jūs esat {#MRK_Country} pastāvīgais iedzīvotājs?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Looking after the home</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Mājsaimnieks/ mājsaimniece</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>No</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Nē</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>More than 250,000 to 500,000 euro</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>No vairāk nekā 250 000 līdz 500 000 eiro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Hungarian</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Ungārijas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{#D1X_insert}
+	(DO NOT READ OUT, ONE ANSWER ONLY)</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>{#D1X_insert}
+	(NENOLASĪT - TIKAI VIENA ATBILDE)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Human health and social work activities</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>VESELĪBA UN SOCIĀLĀ APRŪPE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>(DO NOT READ OUT; MULTIPLE ANSWERS POSSIBLE)</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>(NENOLASĪT; IESPĒJAMAS VAIRĀKAS ATBILDES)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>I’m opposed to the idea of the European Union in general</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Es kopumā esmu pret ideju par Eiropas Savienību</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>50 to 249 employees</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>50 līdz 249 darbinieki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Which nationality or nationalities do you hold?
+	{#D3b_ins}</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Kuras valsts pilsonība vai pilsonības Jums ir?
+	{#D3b_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Portugal</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Portugāle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>European Economic and Social Committee</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Eiropas Ekonomikas un sociālo lietu komiteja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Romania</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Rumānija</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Answer '{ANSWER}' is not a valid Date/Time.</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Vastus '{ANSWER}' ei ole kehtiv kuupäev.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Wholesale and retail trade; repair of motor vehicles and motorcycles</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>JEBKĀDA VEIDA VAIRUMTIRDZNIECĪBA UN MAZUMTIRDZNIECĪBA (IESKAITOT AUTOMOBIĻU UN MOTOCIKLU REMONTU)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Refusal</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Atteikums</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>More than 50 million euro</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Vairāk nekā 50 miljoni eiro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Owned or controlled entirely by persons from (THIS COUNTRY)</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Pilnībā pieder personām vai to kontrolē personas no Latvijas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The answer does not have enough text, current length is {LENGTH}, minimum is {MINLENGTH}.</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Küsimuses '{QUESTION}' ({QUESTION_NUMBER}): Vastuses on liiga vähe teksti, praegune pikkus {LENGTH}, miinimum on {MINLENGTH}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>How old are you?
+	{#D1_ins}</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Kāds ir Jūsu vecums?
+	{#D1_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Before 1 January {#CurrentYear_insert_6}</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Pirms {#CurrentYear_insert_6}. gada 1. janvāra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>More than 50,000 to 100,000 euro</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>No vairāk nekā 50 000 līdz 100 000 eiro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>How old were you when you stopped full-time education?
+    {#D4_ins}</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Kādā vecumā Jūs pabeidzāt pilna laika mācības? (PILNA LAIKA MĀCĪBAS – mācības ir pamatnodarbošanās (saņemts pamatskolas vai vidusskolas diploms, bakalaura, maģistra grāds u.c.))</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Yes</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Jā</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>No, I am not the parent/legal guardian</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Nē, es neesmu vecāks / likumīgais aizbildnis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>There are too many answers, only {MAXANSWERS} are allowed.</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Küsimuses '{QUESTION}' ({QUESTION_NUMBER}): Liiga palju vastuseid, lubatud on {MAXANSWERS}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Arts, entertainment and recreation</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>MĀKSLA, IZKLAIDE UN ATPŪTA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Bulgaria</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Bulgārija</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>(WRITE DOWN AGE IN YEARS IF RESPONDENT IS 15 YEARS OR OVER)</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>(IERAKSTIET VECUMU GADOS, JA RESPONDENTS IR 15 GADUS VECS VAI VECĀKS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Female</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Sieviete</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Other employee (salesman, nurse, …)</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Cita veida algots (-a) darbinieks (-ce) (pārdevējs, medmāsa)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Very negative</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Ļoti negatīvs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>(WRITE DOWN AGE IN YEARS IF RESPONDENT IS 16 YEARS OR OVER)</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>(IERAKSTIET VECUMU GADOS, JA RESPONDENTS IR 16 GADUS VECS VAI VECĀKS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Supervisor/foreman (team manager, …)</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Uzraugs (-dze)/brigadieris (-e) (komandas vadītājs (-a),...)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Would you say you live in...?
+	{#D2_ins}</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Vai Jūs teiktu, ka dzīvojat...?
+	{#D2_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Do we have your permission to conduct this interview with your child?</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Vai Jūs mums atļaujat veikt šo interviju ar Jūsu bērnu?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Irish</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Īrijas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Errors</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Kļūdas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>ENU English (United States)</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>LVI Latvian (Latvia)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In the last two years, have you been involved in any dispute which has gone to court?</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Vai pēdējo divu gadu laikā Jūs esat bijis(-usi) iesaistīts(-a) strīdā, ko ir izskatījusi tiesa?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Professional, scientific and technical activities</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>PROFESIONĀLIE, ZINĀTNISKIE UN TEHNISKIE PAKALPOJUMI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Denmark</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Dānija</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>More than 100,000 to 250,000 euro</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>No vairāk nekā 100 000 līdz 250 000 eiro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>250 to 499 employees</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>250 līdz 499 darbinieki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Less than 16 years (SPONTANEOUS)</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Jaunāks(-a) par 16 gadiem (SPONTĀNI)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>More than 10 years</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Vairāk kā 10 gadus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>1 to 9 employees</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>1 līdz 9 darbinieki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>None, sole trader (DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Neviens, individuālais komersants (NELASĪT)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>There are too few answers, at least {MINANSWERS} are required.</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Küsimuses '{QUESTION}' ({QUESTION_NUMBER}): Liiga vähe vastuseid, vähemalt {MINANSWERS} on nõutud.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Over the past two years, has your company's annual turnover increased, decreased or remained unchanged?
+	(DO NOT READ OUT, ONE ANSWER ONLY)</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Vai pēdējos divos gados jūsu uzņēmuma gada apgrozījums ir palielinājies, samazinājies vai palicis nemainīgs?	
+	(NELASĪT, TIKAI VIENA ATBILDE)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Do you also use one or more mobile phones?
+	{#D2_ins}</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Vai Jūs arī lietojat vienu mobilo tālruni vai vairākus?
+	{#D2_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>What is the main activity of your company?
+    (READ OUT MAIN CATEGORIES FIRST, THEN SUBCATEGORIES, ONE ANSWER ONLY)</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Kāda ir Jūsu uzņēmuma pamatdarbība?
+    (VISPIRMS IZLASIET PAMATKATEGORIJAS, PĒC TAM APAKŠKATEGORIJAS, TIKAI VIENA ATBILDE)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Approximately, what percentage of the value of your company's products and or services were sold to other EU Member States in {#CurrentYear_insert_1}?
+	ADD, IF NEEDED: If you are not sure, please provide your best estimate.	
+	(READ OUT IF NECESSARY, ONE ANSWER ONLY)</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Aptuveni kādu procentuālo daļu no precēm un/vai pakalpojumiem (vērtības ziņā) Jūsu uzņēmums {#CurrentYear_insert_1}. gadā pārdeva citām ES dalībvalstīm?	
+	PASKAIDROJIET NEPIECIEŠAMĪBAS GADĪJUMĀ: Ja neesat pārliecināts(-a), lūdzu, norādiet aptuvenu skaitu.	
+	(NEPIECIEŠAMĪBAS GADĪJUMĀ NOLASIET, TIKAI VIENA ATBILDE)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Select all that apply.</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Atzīmējiet visas atbilstošās atbildes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>European Commission</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Eiropas Komisija</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Slovakia</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Slovākija</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Belgium</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Beļģija</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>I’m rather in favour of the European Union, but not the way it has been realised until now</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Es drīzāk atbalstu Eiropas Savienību, bet ne to, kā tā veidota līdz šim</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Answer '{ANSWER}' cannot be combined with other answers.</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Vastust '{ANSWER}' ({CATEGORY}) ei saa kombineerida teiste vastustega.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>European Central Bank</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Eiropas Centrālā banka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Increased</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Palielinājies</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Answer '{ANSWER}' is not a valid Date/Time.</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Küsimuses '{QUESTION}' ({QUESTION_NUMBER}): Vastus '{ANSWER}' ei ole kehtiv kuupäev.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The survey includes some questions that could be considered sensitive as they relate to political opinions. You may refuse to answer these questions at any time, and you can withdraw your consent for participation at any time.</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Aptauja ietver dažus jautājumus, kas var tikt uzskatīti par sensitīviem, jo tie saistīti ar politiskajiem uzskatiem. Jūs varat jebkurā laikā atteikties atbildēt uz šiem jautājumiem, un Jūs jebkurā laikā varat atsaukt savu piekrišanu dalībai.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Latvian</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Latvijas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Other nationality</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Cita pilsonība</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Yes, available</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Jā, pieejams(-a)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Less than 25,000 euro</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Mazāk nekā 25 000 eiro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Civil servant</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Civildienesta ierēdnis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Refusal (SPONTANEOUS)</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Atteikums (SPONTĀNI)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Do you know if, in {#CurrentYear_insert_1}, your company has:
+	(READ OUT, ONE ANSWER PER LINE)</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Vai Jūs zināt, vai {#CurrentYear_insert_1} Jūsu uzņēmums ir:
+	(NOLASIET, VIENA ATBILE RINDIŅĀ)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Hungary</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Ungārija</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>What is your nationality or nationalities if you hold more than one?
+	{#D3a_ins}</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Sakiet, lūdzu, kāda ir Jūsu pilsonība vai pilsonības, ja Jums ir vairāk kā viena?
+	{#D3a_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Yes, one mobile phone</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Jā, vienu mobilo tālruni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Water Supply; sewerage, waste management and remediation activities</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>ŪDENS APGĀDE; NOTEKŪDEŅU, ATKRITUMU APSAIMNIEKOŠANA UN SANĀCIJA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>There are too many answers, only {MAXANSWERS} are allowed.</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Liiga palju vastuseid, ainult {MAXANSWERS} vastust lubatud.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>15 years old, but not available/not at home</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>15 gadus vecs(-a), taču nav pieejams(-a)/nav mājās</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Czechia</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Čehija</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The answer does not have enough text, current length is {LENGTH}, minimum is {MINLENGTH}.</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Liiga vähe teksti, praegune pikkus on {LENGTH}, miinimum on {MINLENGTH}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>16 years or older (not available, call back later)</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>16 gadus vecs(-a) vai vecāks(-a) (nav pieejams(-a), atzvanīs vēlāk)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Please enter a value between 1 and 30.</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Lūdzu, ierakstiet ciparu no 1 līdz 30.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Hello, My name is …, from (NAME OF NATIONAL INSTITUTE), and I'm conducting an interview for Ipsos Public Affairs, on behalf of one of their clients. We are looking for people aged 15 or over who are willing to share their opinions about the issues of today’s society.
+
+		Can I speak to the person in your household, 15 years or older, whose birthday it was most recently? 
+		INTERVIEWER ADD IF NECESSARY: this is necessary to ensure everyone has an equal chance to participate, for the survey to be representative of this country’s population. 
+		
+		How old is he or she? 
+		Can you pass the phone to this household member?
+		
+		{#Birthday_ins}
+		Household member with the most recent birthday is:</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Sveiki! Mani sauc … un es pārstāvu (VALSTS IESTĀDES NOSAUKUMS). Es veicu interviju Ipsos Public Affairs vārdā, pārstāvot vienu no viņu klientiem. Mēs meklējam cilvēkus, kas ir vismaz 15 gadus veci un ir gatavi izteikt savu viedokli par aktuāliem mūsdienu sabiedrības jautājumiem.
+
+		Vai es, lūdzu, varētu runāt ar to Jūsu mājsaimniecības pārstāvi, kurš(-a) ir 15 gadus vecs(-a) vai vecāks(-a) un, kuram(-ai) pēdējam(-ai) ir bijusi dzimšanas diena? 
+		INTERVĒTĀJ, NEPIECIEŠAMĪBAS GADĪJUMĀ PASKAIDROJIET: tas vajadzīgs, lai nodrošinātu, ka visiem ir vienādas iespējas piedalīties, un lai aptauja atspoguļotu visu Latvijas iedzīvotāju viedokli. 
+		
+		Kāds ir viņa vai viņas vecums? 
+		Vai Jūs varat nodot tālruni šim mājsaimniecības loceklim?
+		
+		{#Birthday_ins}
+		Mājsaimniecības pārstāvis, kuram(-ai) pēdējam(-ai) bija dzimšanas diena, ir:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Only one answer is allowed.</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Ainult üks vastus lubatud.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Manufacturing</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>APSTRĀDES RŪPNIECĪBA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>51-75%</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>51-75%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>How many people aged 15 years or more live in your household, yourself included?</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Cik daudz cilvēku, ieskaitot Jūs pašu, kuri ir 15 un vairāk gadus veci, dzīvo Jūsu mājsaimniecībā?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Office clerk</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Biroja darbinieks</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Other</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Cita</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Middle management</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Vidējā līmeņa vadība, cits vadītājs (nodaļas vadītājs, menedžeris, skolotājs, speciālists)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Does your company sell …
+	(READ OUT – MULTIPLE ANSWERS POSSIBLE)</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Vai jūsu uzņēmums pārdod… (NOLASĪT - IESPĒJAMAS VAIRĀKAS ATBILDES)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The thousands separator character is not allowed.</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Küsimuses '{QUESTION}' ({QUESTION_NUMBER}): Tuhandike eraldaja ei ole lubatud.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Sweden</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Zviedrija</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Still in full-time education</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Joprojām turpinu pilna laika mācības</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Italy</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Itālija</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Czech</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Čehijas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Please enter a value between {#D1_age_ins} and 105. If the respondent is less than {#D1_age_ins} years, select response “&lt;{#D1_age_ins} years”.</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Lūdzu, ierakstiet ciparu no {#D1_age_ins} līdz 105. Ja respondents ir jaunāks par {#D1_age_ins} gadiem, izvēlieties atbildi "&lt;{#D1_age_ins} gadi".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Answer '{ANSWER}' is not in range '{RANGE}'.</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Küsimuses '{QUESTION}' ({QUESTION_NUMBER}): Vastus '{ANSWER}' ei ole vahemikus '{RANGE}'.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Dutch</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Nīderlandes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>(DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>(NENOLASĪT)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Retired</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Pensionārs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Self-employed</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Pašnodarbināts(-a)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Fairly negative</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Diezgan negatīvs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Belgian</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Beļģijas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Less than 1 year</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Mazāk kā 1 gadu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>There are too few answers, at least {MINANSWERS} are required.</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Liiga vähe vastuseid, vähemalt {MINANSWERS} vastust nõutud.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Activities of extraterritorial organisations and bodies</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>ĀRPUSTERITORIĀLO ORGANIZĀCIJU UN INSTITŪCIJU DARBĪBA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Slovenian</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Slovēnijas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Improved</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Uzlabojies</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Manager of a company</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Uzņēmuma vadītājs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>How many employees (in full-time equivalents) does your company currently have? 	
+	ADD, IF NEEDED: If you are not sure, please provide your best estimate.	
+	(READ OUT IF NECESSARY, ONE ANSWER ONLY)</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Cik darbinieku (izsakot ar pilnslodzes ekvivalentu) šobrīd ir Jūsu uzņēmumā? 	
+	PASKAIDROJIET NEPIECIEŠAMĪBAS GADĪJUMĀ: Ja neesat pārliecināts(-a), lūdzu, norādiet aptuvenu skaitu.	
+	(NEPIECIEŠAMĪBAS GADĪJUMĀ NOLASIET, TIKAI VIENA ATBILDE)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Do you also have a landline telephone at home? 
+    Do not include telephones only used for business purposes or for connecting to the Internet or to a fax machine.
+	{#D2_ins}</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Vai Jums mājās ir arī fiksētais tālrunis? 
+    Neiekļaujiet tālruņus, kas tiek izmantoti tikai darba vajadzībām vai, lai pieslēgtos internetam vai faksam.
+	{#D2_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Interviewer instruction: Do not read, just fill in your interviewer_ID.</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Instrukcija intervētājam: Nenolasīt, tikai ievadīt savu intervētāja ID.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Answer {ANSWER} is not numeric.</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Vastuses '{ANSWER}' ei saa kasutada numbreid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Lithuanian</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Lietuvas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Answer '{ANSWER}' is not in range '{RANGE}'.</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Vastus '{ANSWER}' ei ole skaalas '{RANGE}'.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Do you use more than one mobile phone?
+	{#D2_ins}</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Vai Jūs lietojat vairāk nekā vienu mobilo tālruni?
+	{#D2_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Austria</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Austrija</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Netherlands</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Nīderlande</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Lithuania</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Lietuva</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Previous</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Iepriekšējais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Professional (lawyer, medical practitioner, accountant, architect,…)</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Speciālists, kuram ir privātprakse (jurists, praktizējošs ārsts, grāmatvedis, arhitekts, …)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In which (region) is your company headquarers located?</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Kurā (reģionā) atrodas Jūsu uzņēmuma galvenais birojs?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>More than 2 to 10 million euro</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>No vairāk nekā 2 līdz 10 miljoniem eiro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Don't know/No Answer (DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Nezina/NA (NENOLASĪT)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>General management, director or top management</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Vispārējā vadība, direktors vai augstākā līmeņa vadība</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Administrative and support service activities</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>ADMINISTRATĪVO UN APKALPOJOŠO DIENESTU DARBĪBA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Answer '{ANSWER}' ({CATEGORY}) has a response but is not selected.</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Vastus '{ANSWER}' ({CATEGORY}) on valimata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Agriculture, Forestry and Fishing</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>LAUKSAIMNIECĪBA, MEŽSAIMNIECĪBA UN ZIVSAIMNIECĪBA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Yes, not available</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Jā, nav pieejams(-a)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Remained unchanged</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Palicis nemainīgs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Estonia</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Igaunija</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Is your company…?
+	(READ OUT, ONE ANSWER ONLY)</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Vai jūsu uzņēmums...? (NOLASĪT; TIKAI VIENA ATBILDE)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Consumers, Health, Agriculture and Food Executive Agency</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Patērētāju, veselības, lauksaimniecības un pārtikas izpildaģentūra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Unskilled manual worker</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Nekvalificēts strādnieks</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Products to companies or other organisations</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Preces uzņēmumiem vai citām organizācijām</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>European Securities and Markets Authority</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Eiropas Vērtspapīru un tirgu iestāde</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Would you say you are…?
+	{#D2_ins}</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Vai Jūsu pašreizējā nodarbošanās ir...?
+	{#D2_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Student (full-time)</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Students (pilna laika)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Swedish</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Zviedrijas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>16 years or older (will pass phone to start the interview)</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>16 gadus vecs(-a) vai vecāks(-a) (nodos tālruni intervijas uzsākšanai)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Transportation and Storage</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>TRANSPORTS UN UZGLABĀŠANA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The answer has too much text, current length is {LENGTH}, maximum is {MAXLENGTH}.</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Liiga pikk tekst, praegune pikkus {LENGTH}, maksimaalne lubatud on {MAXLENGTH}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Yes (will pass phone to start the interview)</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Jā (nodos tālruni intervijas uzsākšanai)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Between 1 and 5 years</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>1 līdz 5 gadus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Public administration and defence; compulsory social security</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>VALSTS PĀRVALDE UN AIZSARDZĪBA; OBLIGĀTĀ SOCIĀLĀ APDROŠINĀŠANA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Neutral</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Neitrāls</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Committee of the Regions</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Reģionu komiteja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Put through to the targeted respondent</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Savienots ar mērķa respondentu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Local political matters</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Vietēja līmeņa politiskos jautājumus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Answer '{ANSWER}' is not valid.</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Küsimuses '{QUESTION}' ({QUESTION_NUMBER}): Vastus '{ANSWER}' ei ole kehtiv.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Stayed about the same</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Palicis nemainīgs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Refusal</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Atteikums</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;b&gt;Agriculture, Forestry and Fishing&lt;/b&gt;</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>&lt;b&gt;Lauksaimniecība, mežsaimniecība un zivsaimniecība&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Employee</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Darbinieks(-ce)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Don't know {#D5a_ins}</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Nezinu {#D5a_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Mining and Quarrying</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>IEGUVES RŪPNIECĪBA UN KARJERU IZSTRĀDE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>years</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>gadi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Does someone pick-up the phone?</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Vai kāds atbild uz tālruņa zvaniem?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>10 to 49 employees</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>10 līdz 49 darbinieki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Education</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>IZGLĪTĪBA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You entered an unexpected value, please review your answer or continue to confirm your response.</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Jūs ierakstījāt neparedzētu ciparu, lūdzu, pārskatiet savu atbildi vai turpiniet, lai apstiprinātu Jūsu atbildi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Refusal</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Atteikums</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Frequently</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Bieži</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Financial and insurance activities</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>FINANŠU UN APDROŠINĀŠANAS DARBĪBAS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>26-50%</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>26-50%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>What was your company's total turnover in {#CurrentYear_insert_1}?
+	ADD, IF NEEDED: If you are not sure, please provide your best estimate.	
+	(READ OUT IF NECESSARY, ONE ANSWER ONLY)</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Kāds bija jūsu uzņēmuma kopējais apgrozījums {#CurrentYear_insert_1}. gadā? 	
+	PASKAIDROJIET NEPIECIEŠAMĪBAS GADĪJUMĀ: Ja neesat pārliecināts(-a), lūdzu, norādiet aptuvenu skaitu.	
+	(NEPIECIEŠAMĪBAS GADĪJUMĀ NOLASIET, TIKAI VIENA ATBILDE)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Maltese</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Maltas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;b&gt;Industry&lt;/b&gt;</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>&lt;b&gt;Rūpniecība&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Please provide an answer.</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Küsimuses '{QUESTION}' ({QUESTION_NUMBER}): Puudub vastus(ed).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Very positive</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Ļoti pozitīvs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>(READ OUT – ONE ANSWER PER LINE)</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>(NOLASĪT - VIENA ATBILDE KATRĀ RINDĀ)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Large town/city</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Lielā pilsētā / lielpilsētā</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Germany</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Vācija</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Research Executive Agency</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Pētniecības izpildaģentūra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Products directly to consumers</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Preces tieši patērētājiem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Danish</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Dānijas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Targeted respondent not available, call back later</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Mērķa respondents nav pieejams, atzvanīt vēlāk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Below 10% owned by persons from other countries outside (THIS COUNTRY)</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Mazāk nekā 10% apmērā pieder personām no citām valstīm ārpus Latvijas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>France</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Francija</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Cyprus</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Kipra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Please provide an answer.</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>trūkst atbildes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Answer '{ANSWER}' is not valid.</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Vastus '{ANSWER}' ei ole kehtiv</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Information and Communication</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>INFORMĀCIJAS UN KOMUNIKĀCIJAS PAKALPOJUMI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Malta</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Malta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In general, does the EU conjure up for you a very positive, fairly positive, neutral, fairly negative or very negative image?
+   	{#SD15_ins}</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Vai Jums kopumā ir ļoti pozitīvs, diezgan pozitīvs, neitrāls, diezgan negatīvs vai ļoti negatīvs priekšstats par Eiropas Savienību?
+   	{#SD15_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{#Nationality} nationality</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>{#Nationality} pilsonība</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Are you happy to proceed with the interview?</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Vai Jūs piekrītat turpināt interviju?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Estonian</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Igaunijas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Luxembourgish</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Luksemburgas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>I would like to reassure you that your child's cooperation is completely voluntary. All answers are confidential and combined with other participants’ answers. This means your child will not be identifiable in any of the published results.
+	{#PARENT3_ins}
+	
+	If you would like to read the Data Protection Notice, you can access it at {#intro_link}. This explains the purpose for processing your personal data as well as your data protection rights.
+	
+	INTERVIEWER ADD IF ASKED:
+	HOW DID YOU GET MY NUMBER: Your telephone number has been randomly generated by a computer, like all numbers we dial for this research. Our aim is to interview a representative sample of this country’s population.
+	
+	CLIENT? Ipsos is conducting this survey for the {#Client}. Flash Eurobarometer surveys have as purpose to monitor public opinion in the European Union on a broad range of thematic issues.
+	
+	WHAT PERSONAL DATA WILL BE COLLECTED: We use your phone number to invite you to take part in this interview and for quality control purposes only. Gender and age information will be collected, as well as personal data from the replies to the interview questions (such as marital status). All of the information you provide will remain confidential, your answers will be combined with all other participants’ answers, and no identifiable data will be shared with Ipsos’ client.
+	
+	Do we have your permission to conduct this interview with your child?
+	{#Birthday_ins}</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Es vēlētos apliecināt, ka Jūsu dēla/meitas piedalīšanās ir pilnīgi brīvprātīga. Visas atbildes ir konfidenciālas un tiks apkopotas ar citu dalībnieku atbildēm. Tas nozīmē, ka nevienā no publicētajiem rezultātiem Jūsu bērnu identificēt nebūs iespējams.
+	{#PARENT3_ins}
+	
+	Ja Jūs vēlaties izlasīt Paziņojumu par privātumu, Jūs varat piekļūt tam, apmeklējot vietni {#intro_link}. Tajā ir skaidrots Jūsu personas datu apstrādes mērķis, kā arī Jūsu datu aizsardzības tiesības.
+	
+	INTERVĒTĀJ, PASKAIDROJIET, JA TIEK JAUTĀTS:
+	KĀ JŪS IEGUVĀT MANU NUMURU: Jūsu tālruņa numuru nejaušā secībā ir ģenerējis dators, tāpat kā visus numurus, uz kuriem mēs zvanām šī pētījuma ietvaros. Mūsu mērķis ir intervēt šīs valsts iedzīvotāju reprezentatīvo izlasi.
+	
+	KLIENTS? Ipsos veic apsekojumu [{#Client}] vārdā. Flash Eurobarometer aptauju mērķis ir uzraudzīt sabiedrības viedokli Eiropas Savienībā par dažādiem jautājumiem.
+	
+	KĀDA VEIDA PERSONAS DATI TIKS APKOPOTI: Mēs izmantojam Jūsu tālruņa numuru tikai, lai aicinātu piedalīties šajā intervijā un kvalitātes kontroles nolūkos. Tiks apkopota informācija par dzimumu un vecumu, kā arī personas dati no atbildēm, kas sniegtas uz intervijas jautājumiem (piemēram, ģimenes stāvoklis). Visa Jūsu sniegtā informācija būs konfidenciāla, Jūsu atbildes tiks apkopotas ar visu pārējo dalībnieku atbildēm, un ar Ipsos klientu netiks kopīgoti nekādi identificējami dati.
+	
+	Vai Jūs mums atļaujat veikt šo interviju ar Jūsu bērnu?
+	{#Birthday_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Slovak</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Slovākijas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Poland</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Polija</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Romanian</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Rumānijas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>1-25%</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>1-25%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Only one answer is allowed.</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Küsimuses '{QUESTION}' ({QUESTION_NUMBER}): Lubatud on ainult üks vastus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Which of the following describes how you think of yourself?
+	{#D2_ins}</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Kas no šī raksturo to, kā sevi uztverat?
+	{#D2_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;b&gt;Thank you for your participation. Please click next and then close the browser.&lt;/b&gt;</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>&lt;b&gt;Paldies par dalību! Lūdzu, noklikšķiniet "nākamais" un aizveriet pārlūkprogrammu.&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Question '{QUESTION}' ({QUESTION_NUMBER}): Answer '{ANSWER}' ({CATEGORY}) has a response but it is not selected.</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Küsimuses '{QUESTION}' ({QUESTION_NUMBER}): Vastuses '{ANSWER}' ({CATEGORY}) on valimata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Kurā reģionā Jūs dzīvojat?</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Kurā reģionā Jūs dzīvojat?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You have used the browser buttons, please use the Next/Previous buttons below.</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Kasutasid veebilehitseja nuppe, palun kasuta allpool olevaid Edasi-Tagasi nuppe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Austrian</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Austrijas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Thank you for your time. We remind you that if you would like to read the Data Protection Notice, you can access it at {#intro_link}. This explains the purposes for processing your personal data as well as your rights under applicable data protection law.</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Pateicamies par veltīto laiku! Atgādinām, ja Jūs vēlaties izlasīt Paziņojumu par privātumu, Jūs varat piekļūt tam, apmeklējot vietni {#intro_link}. Tajā ir skaidroti Jūsu personas datu apstrādes mērķi, kā arī Jūsu tiesības saskaņā ar piemērojamajiem datu aizsardzības normatīvajiem aktiem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Not applicable (DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Nav piemērojams (NENOLASĪT)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Small or medium-sized town</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Mazā vai vidēji lielā pilsētā</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>(READ IF TARGET RESPONDENT IS NOT THE PERSON WHO FIRST ANSWERED THE PHONE)
+	Hello, My name is …, from (NAME OF NATIONAL INSTITUTE), and I'm conducting an interview for Ipsos Public Affairs, on behalf of one of their clients. We are looking for people aged 15 or over who are willing to share their opinions about the issues of today’s society. We are conducting this survey across Europe. The survey is not part of any market research, we are interested in measuring public opinion.
+	
+	(READ FOR ALL RESPONDENTS)
+	I would be grateful if you could spare {#minutes_ins} minutes to participate in this survey. Participation in the survey is voluntary and you can change your mind at any time. All of your answers will remain confidential and will be combined with all other participants’ answers. This means you will not be identifiable in any of the published results. 
+	{#CONSENT_ins}
+	
+	If you would like to read the Data Protection Notice, you can access it at {#intro_link}. This explains the purpose for processing your personal data as well as your data protection rights.
+	
+	For quality assurance, this phone call may be monitored and recorded.
+	
+	INTERVIEWER ADD IF ASKED:
+	HOW DID YOU GET MY NUMBER: Your telephone number has been randomly generated by a computer, like all numbers we dial for this research. Our aim is to interview a representative sample of this country’s population.
+	
+	CLIENT? Ipsos is conducting this survey for the {#Client}. Flash Eurobarometer surveys have as purpose to monitor public opinion in the European Union on a broad range of thematic issues.
+	
+	WHAT PERSONAL DATA WILL BE COLLECTED: We use your phone number to invite you to take part in this interview and for quality control purposes only. Gender and age information will be collected, as well as personal data from the replies to the interview questions (such as marital status). All of the information you provide will remain confidential, your answers will be combined with all other participants’ answers, and no identifiable data will be shared with Ipsos’ client.
+	
+	Are you happy to proceed with the interview?
+	{#Birthday_ins}</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>(NOLASIET, JA MĒRĶA RESPONDENTS NAV TĀ PATI PIRMĀ PERSONA, KAS ATBILDĒJA UZ ŠO ZVANU)
+	Sveiki! Mani sauc … un es pārstāvu (VALSTS IESTĀDES NOSAUKUMS). Es veicu interviju Ipsos Public Affairs vārdā, pārstāvot vienu no viņu klientiem. Mēs meklējam cilvēkus, kas ir vismaz 15 gadus veci un ir gatavi izteikt savu viedokli par aktuāliem mūsdienu sabiedrības jautājumiem. Mēs veicam Eiropas mēroga apsekojumu. Šī aptauja nav daļa no kāda tirgus izpētes, mūs interesē sabiedrības viedokļa noteikšana.
+	
+	(NOLASIET VISIEM RESPONDENTIEM)
+	Es būtu pateicīgs(-a), ja Jūs veltītu {#minutes_ins} minūtes dalībai šai aptaujā. Dalība aptaujā ir brīvprātīga un Jūs jebkurā brīdī varat pārdomāt. Visas Jūsu atbildes būs konfidenciālas un tiks apkopotas ar visu citu dalībnieku atbildēm. Tas nozīmē, ka nevienā no publicētajiem rezultātiem Jūs identificēt nebūs iespējams. 
+	{#CONSENT_ins}
+	
+	Ja Jūs vēlaties izlasīt Paziņojumu par privātumu, Jūs varat piekļūt tam, apmeklējot vietni {#intro_link}. Tajā ir skaidrots Jūsu personas datu apstrādes mērķis, kā arī Jūsu datu aizsardzības tiesības.
+	
+Kvalitātes kontroles nolūkos šis zvans var tikt uzraudzīts un ierakstīts.
+
+	INTERVĒTĀJ, PASKAIDROJIET, JA TIEK JAUTĀTS:
+	KĀ JŪS IEGUVĀT MANU NUMURU: Jūsu tālruņa numuru nejaušā secībā ir ģenerējis dators, tāpat kā visus numurus, uz kuriem mēs zvanām šī pētījuma ietvaros. Mūsu mērķis ir intervēt šīs valsts iedzīvotāju reprezentatīvo izlasi.
+	
+	KLIENTS? Ipsos šo aptauju veic {#Client} vārdā. Flash Eurobarometer aptauju mērķis ir uzraudzīt sabiedrības viedokli Eiropas Savienībā par dažādiem jautājumiem.
+	
+	KĀDA VEIDA PERSONAS DATI TIKS APKOPOTI: Mēs izmantojam Jūsu tālruņa numuru tikai, lai aicinātu piedalīties šajā intervijā un kvalitātes kontroles nolūkos. Tiks apkopota informācija par dzimumu un vecumu, kā arī personas dati no atbildēm, kas sniegtas uz intervijas jautājumiem (piemēram, ģimenes stāvoklis). Visa Jūsu sniegtā informācija būs konfidenciāla, Jūsu atbildes tiks apkopotas ar visu pārējo dalībnieku atbildēm, un ar Ipsos klientu netiks kopīgoti nekādi identificējami dati.
+	
+	Vai Jūs piekrītat turpināt interviju?
+	{#Birthday_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Finnish</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Somijas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;p&gt;Those are all the questions we have for you today.  Thank you for your time.&lt;/p&gt;&lt;p&gt;All information you provide is kept strictly confidential and is used for research purposes only.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>&lt;p&gt;Tie bija visi jautājumi, kurus šodien vēlējāmies Jums uzdot.  Pateicamies par veltīto laiku!&lt;/p&gt;&lt;p&gt;Visa Jūsu sniegtā informācija ir pilnīgi konfidenciāla un tā tiek izmantota tikai pētniecības nolūkiem.&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Refusal {#D5a_ins}</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Atteikums {#D5a_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Which of the following statements regarding the European Union is closest to your opinion? 
+    {#D2_ins}</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Kurš no šiem apgalvojumiem par Eiropas Savienību visvairāk atbilst Jūsu viedoklim?
+    {#D2_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>After 1 January {#CurrentYear_insert_1}</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Pēc {#CurrentYear_insert_1}. gada 1. janvāra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Latvia</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Latvija</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>(SINGLE ANSWER, DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>(VIENS ATBILDES VARIANTS, NENOLASĪT)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Greece</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Grieķija</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Other (DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Cits (NENOLASĪT)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Croatian</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Horvātijas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;b&gt;Non-public services&lt;/b&gt;</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>&lt;b&gt;Komerciālie pakalpojumi&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>(WHEN SPEAKING TO THE TARGETED RESPONDENT) Hello, My name is …, from (NAME OF NATIONAL INSTITUTE), and I'm conducting an interview for Ipsos Public Affairs, on behalf of one of their clients. We are contacting decision makers in companies across Europe regarding their views on current business topics. The feedback will be used to support policymaking in Europe.
+
+		I would be grateful if you could spare {#minutes_ins} minutes to participate in this survey. Participation in the survey is voluntary and you can change your mind at any time. All of your answers will remain confidential and will be combined with all other participants’ answers. This means that neither you, nor your business, will be identifiable in any of the published results. 
+		
+		For quality assurance, this phone call may be monitored and recorded.
+		
+		&lt;b&gt;INTERVIEWER ADD IF ASKED:&lt;/b&gt;
+		CLIENT? Ipsos is conducting this survey for the {#Client}. Flash Eurobarometer surveys have as purpose to monitor public and business opinion in the European Union on a broad range of thematic issues.
+		
+		WHAT PERSONAL DATA WILL BE COLLECTED: No personal data will be collected during this interview. Your participation, together with your individual responses to the questions, will be kept strictly confidential. If you have comments or questions, or any concerns, please send an email to: &lt;a href='FlashEB-dataprotection-coordinator@ipsos-online.com'&gt;FlashEB-dataprotection-coordinator@ipsos-online.com&lt;/a&gt;
+		
+		Are you happy to proceed with the interview?
+		(SINGLE ANSWER, DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>(SARUNĀJOTIES AR MĒRĶA RESPONDENTU) Sveiki! Mani sauc … un es pārstāvu (VALSTS IESTĀDES NOSAUKUMS). Es veicu interviju Ipsos Public Affairs vārdā, pārstāvot vienu no viņu klientiem. Mēs sazināmies ar lēmumu pieņēmējiem uzņēmumos visā Eiropā, lai uzzinātu viņu viedokli par aktuālām uzņēmējdarbības tēmām. Atsauksmes tiks izmantotas, lai atbalstītu politikas veidošanu Eiropā.
+
+		Es būtu pateicīgs(-a), ja Jūs veltītu {#minutes_ins} minūtes dalībai šai aptaujā. Dalība aptaujā ir brīvprātīga un Jūs jebkurā brīdī varat pārdomāt. Visas Jūsu atbildes būs konfidenciālas un tiks apkopotas ar visu citu dalībnieku atbildēm. Tas nozīmē, ka nevienā no publicētajiem rezultātiem nedz Jūs, nedz Jūsu uzņēmumu identificēt nebūs iespējams. 
+		
+		Kvalitātes kontroles nolūkos šis zvans var tikt uzraudzīts un ierakstīts.
+		
+		&lt;b&gt;INTERVĒTĀJ, PASKAIDROJIET, JA TIEK JAUTĀTS:&lt;/b&gt;
+		KLIENTS? Ipsos šo aptauju veic {#Client} vārdā. Flash Eurobarometer aptauju mērķis ir uzraudzīt sabiedrības un uzņēmumu viedokli Eiropas Savienībā par plašu tematisko jautājumu loku.
+		
+		KĀDA VEIDA PERSONAS DATI TIKS APKOPOTI: Šīs intervijas laikā netiks apkopoti nekādi personas dati. Jūsu dalība līdz ar Jūsu individuālajām atbildēm, kas sniegtas uz aptaujas jautājumiem, būs pilnīgi konfidenciālas. Ja Jums ir kādi komentāri, jautājumi vai neskaidrības, lūdzu, sazinieties, rakstot uz e-pastu: &lt;a href='FlashEB-dataprotection-coordinator@ipsos-online.com'&gt;FlashEB-dataprotection-coordinator@ipsos-online.com&lt;/a&gt;
+		
+		Vai Jūs piekrītat turpināt interviju?
+		(VIENS ATBILDES VARIANTS, NENOLASĪT)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In another way</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Cita atbilde</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Occasionally</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Reizēm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Yes, I am the parent/legal guardian</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Jā, es esmu vecāks / likumīgais aizbildnis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>European Agency for Safety and Health at Work</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Eiropas darba drošības un veselības aizsardzības aģentūra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;center&gt;Thank you for taking part in this survey. &lt;br /&gt;These are all the questions we have for you today.&lt;/center&gt;</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>&lt;center&gt;Paldies par dalību šajā aptaujā. &lt;br /&gt;Šie bija visi jautājumi, kurus šodien vēlējāmies Jums uzdot.&lt;/center&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Over the past two years, has your company's total number of employees increase, decreased or remained about the same?	
+	(DO NOT READ OUT, ONE ANSWER ONLY)</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Vai pēdējo divu gadu laikā Jūsu uzņēmuma kopējais darbinieku skaits ir palielinājies, samazinājies vai palicis aptuveni nemainīgs?	
+	(NELASĪT, TIKAI VIENA ATBILDE)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Sold products and or services to other EU countries</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Pārdevis preces un/vai pakalpojumus citām ES valstīm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Male</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Vīrietis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>I’m in favour of the European Union as it has been realised so far</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Es atbalstu Eiropas Savienību un to, kā tā veidota līdz šim</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Accommodation and food service activities</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>IZMITINĀŠANA UN ĒDINĀŠANAS PAKALPOJUMI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Luxembourg</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Luksemburga</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Polish</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Polijas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Don't know</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Nezina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Italian</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Itālijas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>European Investment Bank Group</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Eiropas Investīciju bankas grupa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>European External Action Service</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Eiropas Ārējās darbības dienests</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Thank you for your time.</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Pateicamies par veltīto laiku!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Cyprian</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Kipras</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Don't know/No Answer (DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Nezina / nav atbildes (NENOLASĪT)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Insert for D5._5 - Refusal</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Insert for D5._5 - Atteikums</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Executive Agency for Small and Medium-sized Enterprises</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Mazo un vidējo uzņēmumu izpildaģentūra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>European Parliament</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Eiropas Parlaments</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Construction</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>BŪVNIECĪBA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Hello, My name is …, from (NAME OF NATIONAL INSTITUTE), and I'm conducting an interview for Ipsos Public Affairs, on behalf of one of their clients. We are looking for people aged 16 or over who are willing to share their opinions about the issues of today’s society. We are conducting this survey across Europe. The survey is not part of any market research, we are interested in measuring public opinion.
+
+	I would be grateful if you could spare {#minutes_ins} minutes to participate in this survey. Participation in the survey is voluntary and you can change your mind at any time. All of your answers will remain confidential and will be combined with all other participants’ answers. This means you will not be identifiable in any of the published results. 
+	{#CONSENT_ins}
+	
+	If you would like to read the Data Protection Notice, you can access it at {#intro_link}. This explains the purpose for processing your personal data as well as your data protection rights.
+
+	For quality assurance, this phone call may be monitored and recorded.
+	
+	INTERVIEWER ADD IF ASKED:
+	HOW DID YOU GET MY NUMBER: Your telephone number has been randomly generated by a computer, like all numbers we dial for this research. Our aim is to interview a representative sample of this country’s population.
+	
+	CLIENT? Ipsos is conducting this survey for the {#Client}. Flash Eurobarometer surveys have as purpose to monitor public opinion in the European Union on a broad range of thematic issues.
+	
+	WHAT PERSONAL DATA WILL BE COLLECTED: We use your phone number to invite you to take part in this interview and for quality control purposes only. Gender and age information will be collected, as well as personal data from the replies to the interview questions (such as marital status). All of the information you provide will remain confidential, your answers will be combined with all other participants’ answers, and no identifiable data will be shared with Ipsos’ client.
+	
+	Are you happy to proceed with the interview?
+	{#Birthday_ins}</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Sveiki! Mani sauc … un es pārstāvu (VALSTS IESTĀDES NOSAUKUMS). Es veicu interviju Ipsos Public Affairs vārdā, pārstāvot vienu no viņu klientiem. Mēs meklējam cilvēkus, kas ir vismaz 16 gadus veci un ir gatavi izteikt savu viedokli par aktuāliem mūsdienu sabiedrības jautājumiem. Mēs veicam Eiropas mēroga apsekojumu. Šī aptauja nav daļa no kāda tirgus izpētes, mūs interesē sabiedrības viedokļa noteikšana.
+
+	Es būtu pateicīgs(-a), ja Jūs veltītu {#minutes_ins} minūtes dalībai šai aptaujā. Dalība aptaujā ir brīvprātīga un Jūs jebkurā brīdī varat pārdomāt. Visas Jūsu atbildes būs konfidenciālas un tiks apkopotas ar visu citu dalībnieku atbildēm. Tas nozīmē, ka nevienā no publicētajiem rezultātiem Jūs identificēt nebūs iespējams. 
+	{#CONSENT_ins}
+	
+	Ja Jūs vēlaties izlasīt Paziņojumu par privātumu, Jūs varat piekļūt tam, apmeklējot vietni {#intro_link}. Tajā ir skaidrots Jūsu personas datu apstrādes mērķis, kā arī Jūsu datu aizsardzības tiesības.
+
+	Kvalitātes kontroles nolūkos šis zvans var tikt uzraudzīts un ierakstīts.
+	
+	INTERVĒTĀJ, PASKAIDROJIET, JA TIEK JAUTĀTS:
+	KĀ JŪS IEGUVĀT MANU NUMURU: Jūsu tālruņa numuru nejaušā secībā ir ģenerējis dators, tāpat kā visus numurus, uz kuriem mēs zvanām šī pētījuma ietvaros. Mūsu mērķis ir intervēt šīs valsts iedzīvotāju reprezentatīvo izlasi.
+	
+	KLIENTS? Ipsos veic apsekojumu [{#Client}] vārdā. Flash Eurobarometer aptauju mērķis ir uzraudzīt sabiedrības viedokli Eiropas Savienībā par dažādiem jautājumiem.
+	
+	KĀDA VEIDA PERSONAS DATI TIKS APKOPOTI: Mēs izmantojam Jūsu tālruņa numuru tikai, lai aicinātu piedalīties šajā intervijā un kvalitātes kontroles nolūkos. Tiks apkopota informācija par dzimumu un vecumu, kā arī personas dati no atbildēm, kas sniegtas uz intervijas jautājumiem (piemēram, ģimenes stāvoklis). Visa Jūsu sniegtā informācija būs konfidenciāla, Jūsu atbildes tiks apkopotas ar visu pārējo dalībnieku atbildēm, un ar Ipsos klientu netiks kopīgoti nekādi identificējami dati.
+	
+	Vai Jūs piekrītat turpināt interviju?
+	{#Birthday_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Never been in full-time education</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Nekad neesmu bijis(-usi) iesaistīts(-a) pilna laika mācībās</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Services directly to consumers</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Pakalpojumus tieši patērētājiem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Don't know</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Nezinu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>More than 10 to 50 million euro</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>No vairāk nekā 10 līdz 50 miljoniem eiro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Croatia</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Horvātija</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Owner of shop, craftsman</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Veikala īpašnieks, amatnieks</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Refusal {#D5a_ins}</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Nevēlas atbildēt {#D5a_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>British</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Lielbritānijas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Other service activities</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>CITI PAKALPOJUMI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>76-100%</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>76-100%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>As far as your current occupation is concerned, would you say you are...?
+	{#D2_ins}</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>Kas attiecas uz Jūsu pašreizējo nodarbošanos, vai Jūs sacītu, ka esat...?
+	{#D2_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>0%</seg>
+      </tuv>
+      <tuv xml:lang="lv-LV">
+        <seg>0%</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

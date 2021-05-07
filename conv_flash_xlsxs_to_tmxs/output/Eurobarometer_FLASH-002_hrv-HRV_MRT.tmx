@@ -1,0 +1,2855 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx version="1.4">
+  <header creationtool="cApps" creationtoolversion="2020.10" segtype="paragraph" adminlang="en" datatype="HTML" srclang="en-US" o-tmf="omt"></header>
+  <body>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The European General Data Protection Regulation (GDPR) requires us to first speak to a parent or legal guardian of a teenager. Can I speak to this teenager’s parent or legal guardian?
+	(SINGLE ANSWER, DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Europska opća uredba o zaštiti podataka (GDPR) zahtijeva od nas da prvo razgovaramo s roditeljem ili zakonskim skrbnikom tinejdžera. Mogu li razgovarati s roditeljem ili zakonskim skrbnikom ovog tinejdžera?
+	(JEDAN ODGOVOR, NE ČITAJ)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Very negative</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Vrlo negativnu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Greek</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Grk/Grkinja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Activities of households as employers; undifferentiate goods and services producing activities of households for own use</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>DJELATNOSTI KUĆANSTAVA KAO POSLODAVACA; DJELATNOSTI KUĆANSTAVA KOJA PROIZVODE RAZLIČITU ROBU I OBAVLJAJU RAZLIČITE USLUGE ZA VLASTITE POTREBE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Approximately, what percentage of the value of your company's products and or services were sold to other EU Member States in {#CurrentYear_insert_1}?
+	ADD, IF NEEDED: If you are not sure, please provide your best estimate.	
+	(READ OUT IF NECESSARY, ONE ANSWER ONLY)</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Otprilike, koji je postotak vrijednosti proizvoda i/ili usluga vaše tvrtke prodan drugim državama članicama EU-a {#CurrentYear_insert_1}.?	
+	DODAJ AKO JE POTREBNO: Ukoliko niste sigurni, ponudite najbolju procjenu.	
+	(PROČITAJ AKO JE POTREBNO; SAMO JEDAN ODGOVOR)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Fairly positive</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Prilično pozitivnu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Yes, I am the parent/legal guardian</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Da, ja sam roditelj/zakonski skrbnik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>More than 2 to 10 million euro</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Više od 15,1 do 75,7 milijuna kuna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Unskilled manual worker</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Nekvalificirani fizički radnik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Answer '{ANSWER}' is not a valid Date/Time.</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Odgovor '{ANSWER}' nije valjan datum.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Refusal {#D5a_ins}</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Odbija odgovoriti {#D5a_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Still in full-time education</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Još pohađam redovnu školu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Don't know/No Answer (DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Ne zna/bez odgovora (NE ČITAJ)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Estonian</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Estonac/Estonka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Austrian</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Austrijanac/Austrijanka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Would you say you are…?
+	{#D2_ins}</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Biste li rekli da ste…?
+	{#D2_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Put through to the targeted respondent</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Poziv prebačen na ciljnog ispitanika</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Romanian</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Rumunj/Rumunjka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Less than 25,000 euro</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Manje od 190 000 kuna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In general, does the EU conjure up for you a very positive, fairly positive, neutral, fairly negative or very negative image?
+   	{#SD15_ins}</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Općenito gledajući, izaziva li Europska unija u vama vrlo pozitivnu, prilično pozitivnu, neutralnu, prilično negativnu ili vrlo negativnu predodžbu?
+   	{#SD15_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;p&gt;Those are all the questions we have for you today.  Thank you for your time.&lt;/p&gt;&lt;p&gt;All information you provide is kept strictly confidential and is used for research purposes only.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>&lt;p&gt;To su sva pitanja koja danas imamo za vas.  Hvala vam na vašem vremenu.&lt;/p&gt;&lt;p&gt;Sve informacije koje nam pružite čuvaju se kao strogo povjerljive i koriste se samo u istraživačke svrhe.&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Professional (employed doctor, lawyer, accountant, architect, …)</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Stručnjak (zaposleni liječnik, pravnik, računovođa, arhitekt…)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Czech</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Čeh/Čehinja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Never been in full-time education</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Nikada nisam pohađao redovnu školu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Does someone pick-up the phone?</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Odgovara li netko na pozive?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Luxembourgish</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Luksemburžanin/Luksemburžanka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Professional (lawyer, medical practitioner, accountant, architect,…)</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Stručnjak (pravnik, zdravstveni djelatnik, računovođa, arhitekt…)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Hello, My name is …, from (NAME OF NATIONAL INSTITUTE). May I speak with someone with decision making responsibilities (managing director, general manager, CEO, financial director) or someone leading the commercial activities (commercial manger, sales manager, marketing manager) or a legal officer in your company?
+
+		(IF THE GATEKEEPER ASKS FOR ADDITIONAL INFORMATION) I'm conducting an interview for Ipsos Public Affairs, on behalf of one of their clients. We are contacting (decision makers in) companies across Europe regarding their views on current business topics. The feedback will be used to support policymaking in Europe. I would greatly appreciate being able to speak with him or her to include his/her opinion in the study.
+		
+		&lt;b&gt;INTERVIEWER ADD IF ASKED:&lt;/b&gt;
+		CLIENT? Ipsos is conducting this survey for a European public institution. I can only reveal the name of this institution during the interview.
+		
+		&lt;b&gt;WHO TO CONTACT ABOUT THE SURVEY:&lt;/b&gt;
+		If you have comments or questions, or any concerns, please send an email to: &lt;a href='FlashEB-dataprotection-coordinator@ipsos-online.com'&gt;FlashEB-dataprotection-coordinator@ipsos-online.com&lt;/a&gt;  
+		
+		(SINGLE ANSWER, DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Pozdrav, moje ime je ..., iz (NAZIV NACIONALNOG INSTITUTA). Mogu li razgovarati s nekim tko donosi odluke (direktor, generalni direktor, izvršni direktor, financijski direktor) ili nekim tko vodi komercijalne aktivnosti (voditelj komercijale, voditelj prodaje, voditelj marketinga) ili pravnim službenikom u vašoj tvrtki?
+
+		(AKO NADZORNA OSOBA ZATRAŽI DODATNE INFORMACIJE) Provodim intervju za tvrtku Ipsos Public Affairs u ime jednog od njihovih klijenata. Kontaktiramo donositelje odluka u poduzećima diljem Europe u vezi s njihovim mišljenjima o današnjem poslovanju. Povratne informacije koristit će se kao podrška izradi raznih politika u Europi. Cijenio bih kada bih mogao razgovarati s njime/njome kako bih njihova mišljenja mogao dodati istraživanju.
+		
+		&lt;b&gt;ANKETAR DODAJE AKO UPITAN:&lt;/b&gt;
+		KLIJENT? Ipsos provodi ovu anketu za određenu europsku javnu instituciju. Naziv te institucije smijem otkriti tek za vrijeme intervjua.
+		
+		&lt;b&gt;KOGA KONTAKTIRATI U VEZI OVE ANKETE:&lt;/b&gt;
+		Ako imate bilo kakvih komentara ili pitanja, pošaljite nam poruku e-pošte na: &lt;a href='FlashEB-dataprotection-coordinator@ipsos-online.com'&gt;FlashEB-dataprotection-coordinator@ipsos-online.com&lt;/a&gt;  
+		
+		(JEDAN ODGOVOR, NE ČITAJ)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Cyprian</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Cipranin/Cipranka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;b&gt;Trade, accommodation and food services&lt;/b&gt;</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>&lt;b&gt;Trgovina, usluge smještaja i hrane&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Yes, one mobile phone</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Da, jedan mobitel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Answer '{ANSWER}' is not in range '{RANGE}'.</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Odgovor '{ANSWER}' nije u rasponu '{RANGE}'.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>European Economic and Social Committee</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Europski ekonomski i socijalni odbor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Answer '{ANSWER}' is not a valid Date/Time.</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Pitanje '{QUESTION}' ({QUESTION_NUMBER}): Odgovor '{ANSWER}' nije valjan datum.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Consumers, Health, Agriculture and Food Executive Agency</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Izvršnu agenciju za potrošače, zdravlje, poljoprivredu i hranu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Manual worker</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Fizički radnik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Don't know</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Ne zna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Wholesale and retail trade; repair of motor vehicles and motorcycles</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>TRGOVINA NA VELIKO I NA MALO BILO KOJE VRSTE (UKLJUČUJUĆI POPRAVAK MOTORNIH VOZILA I MOTOCIKALA)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Please provide an answer.</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Pitanje '{QUESTION}' ({QUESTION_NUMBER}): Nedostaje odgovor(i).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Please enter a value between 15 and 105. If you are less than 15 years old, you are not eligible to participate in this study.</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Unesite broj između 15 i 105. Ako imate manje od 15 godina, ne ispunjavate uvjete za sudjelovanje u ovom istraživanju.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Would you say you live in...?
+	{#D2_ins}</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Biste li rekli da živite na/u…?
+	{#D2_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Errors</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Greške</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Remained about the same</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Ostao otprilike isti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Arts, entertainment and recreation</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>UMJETNOST, ZABAVA I REKREACIJA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Services directly to consumers</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>usluge direktno potrošačima</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Manual worker</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Radnik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Only one answer is allowed.</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Pitanje '{QUESTION}' ({QUESTION_NUMBER}): Samo jedan odgovor moguć.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Local political matters</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Lokalnim političkim pitanjima</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Germany</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Njemačka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>More than 500,000 to 2 million euro</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Više od 3,8 do 15,1 milijuna kuna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Answer {ANSWER} is not numeric.</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Odgovor '{ANSWER}' nije brojčana vrijednost.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Hungary</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Mađarska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Middle management</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Srednji menadžment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Owned or controlled entirely by persons from (THIS COUNTRY)</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>U potpunom vlasništvu ili pod potpunom kontrolom osoba iz Hrvatske</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>There are too few answers, at least {MINANSWERS} are required.</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Ima premalo odgovora, potrebno je najmanje {MINANSWERS}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The thousands separator character is not allowed.</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Točka nije dozvoljena.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Thank you for your time.</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Hvala vam na vašem vremenu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Which of the following describes how you think of yourself?
+	{#D2_ins}</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Što od sljedećeg opisuje kako doživljavate sebe?
+	{#D2_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Which nationality or nationalities do you hold?
+	{#D3b_ins}</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Koje ste nacionalnosti (ili više njih)?
+	{#D3b_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Administrative and support service activities</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>ADMINISTRATIVNE I POMOĆNE USLUŽNE DJELATNOSTI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Increased</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Povećao se</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Does your company sell …
+	(READ OUT – MULTIPLE ANSWERS POSSIBLE)</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Prodaje li vaša tvrtka … (PROČITAJ - MOGUĆE JE VIŠE ODGOVORA)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>How many people aged 15 years or more live in your household, yourself included?</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Koliko ljudi u dobi od 15 godina ili više živi u vašem kućanstvu, uključujući vas?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Spanish</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Španjolac/Španjolka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>There are too many answers, only {MAXANSWERS} are allowed.</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Ima previše odgovora, dozvoljeni su samo {MAXANSWERS}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>10 to 49 employees</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>10 do 49 zaposlenika</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The answer has too much text, current length is {LENGTH}, maximum is {MAXLENGTH}.</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Odgovor ima previše teksta, trenutačna dužina je {LENGTH}, maksimalna dozvoljena je {MAXLENGTH}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;b&gt;Non-public services&lt;/b&gt;</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>&lt;b&gt;Nejavne usluge&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Latvian</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Latvijac/Latvijka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;b&gt;Thank you for your participation. Please click next and then close the browser.&lt;/b&gt;</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>&lt;b&gt;Hvala vam na sudjelovanju. Kliknite "Dalje" i zatim zatvorite preglednik.&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The answer has too much text, current length is {LENGTH}, maximum is {MAXLENGTH}.</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Pitanje '{QUESTION}' ({QUESTION_NUMBER}): Odgovor ima previše teksta, trenutačna dužina je {LENGTH}, maksimalna dozvoljena je {MAXLENGTH}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Do you use more than one mobile phone?
+	{#D2_ins}</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Koristite li više od jednog mobitela?
+	{#D2_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Bulgarian</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Bugar/Bugarka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>European Central Bank</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Europsku središnju banku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>No, I am not the parent/legal guardian</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Ne, ja nisam roditelj/zakonski skrbnik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>There are too many answers, only {MAXANSWERS} are allowed.</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Pitanje '{QUESTION}' ({QUESTION_NUMBER}): Ima previše odgovora, dozvoljeni su samo {MAXANSWERS}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>More than 100,000 to 250,000 euro</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Više od 757 000 do 1,9 milijuna kuna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>French</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Francuz/Francuskinja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>16 years or older (not available, call back later)</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>16 godina ili više (nije dostupan, nazovite kasnije)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>European Investment Bank Group</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Skupinu Europske investicijske banke</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Only one answer is allowed.</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Samo jedan odgovor moguć.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Professional, scientific and technical activities</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>STRUČNE, ZNANSTVENE I TEHNIČKE DJELATNOSTI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>15 years old, but not available/not at home</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>15 godina ali nedostupan/nije kod kuće</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>50 to 249 employees</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>50 do 249 zaposlenika</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>16 years or older (will pass phone to start the interview)</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>16 godina ili više (predat ću telefon na početku intervjua)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;center&gt;Thank you for taking part in this survey. &lt;br /&gt;These are all the questions we have for you today.&lt;/center&gt;</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>&lt;center&gt;Hvala vam na sudjelovanju u ovoj anketi. &lt;br /&gt;Ovo su sva pitanja koja danas imamo za vas.&lt;/center&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>What is your nationality or nationalities if you hold more than one?
+	{#D3a_ins}</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Koja je vaša nacionalnost ili nacionalnosti ako ih imate više?
+	{#D3a_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>250 to 499 employees</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>250 do 499 zaposlenika</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>(READ IF TARGET RESPONDENT IS NOT THE PERSON WHO FIRST ANSWERED THE PHONE)
+	Hello, My name is …, from (NAME OF NATIONAL INSTITUTE), and I'm conducting an interview for Ipsos Public Affairs, on behalf of one of their clients. We are looking for people aged 15 or over who are willing to share their opinions about the issues of today’s society. We are conducting this survey across Europe. The survey is not part of any market research, we are interested in measuring public opinion.
+	
+	(READ FOR ALL RESPONDENTS)
+	I would be grateful if you could spare {#minutes_ins} minutes to participate in this survey. Participation in the survey is voluntary and you can change your mind at any time. All of your answers will remain confidential and will be combined with all other participants’ answers. This means you will not be identifiable in any of the published results. 
+	{#CONSENT_ins}
+	
+	If you would like to read the Data Protection Notice, you can access it at {#intro_link}. This explains the purpose for processing your personal data as well as your data protection rights.
+	
+	For quality assurance, this phone call may be monitored and recorded.
+	
+	INTERVIEWER ADD IF ASKED:
+	HOW DID YOU GET MY NUMBER: Your telephone number has been randomly generated by a computer, like all numbers we dial for this research. Our aim is to interview a representative sample of this country’s population.
+	
+	CLIENT? Ipsos is conducting this survey for the {#Client}. Flash Eurobarometer surveys have as purpose to monitor public opinion in the European Union on a broad range of thematic issues.
+	
+	WHAT PERSONAL DATA WILL BE COLLECTED: We use your phone number to invite you to take part in this interview and for quality control purposes only. Gender and age information will be collected, as well as personal data from the replies to the interview questions (such as marital status). All of the information you provide will remain confidential, your answers will be combined with all other participants’ answers, and no identifiable data will be shared with Ipsos’ client.
+	
+	Are you happy to proceed with the interview?
+	{#Birthday_ins}</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>(PROČITAJ AKO CILJNI ISPITANIK NIJE OSOBA KOJA SE PRVA JAVILA NA TELEFON)
+	Pozdrav, moje ime je ..., iz (NAZIV NACIONALNOG INSTITUTA) i provodim intervju za tvrtku Ipsos Public Affairs u ime jednog od njihovih klijenata. Tražimo osobe u dobi od 15 godina ili više koje su spremne podijeliti svoje mišljenje o pitanjima današnjeg društva. Ovaj upitnik provodimo diljem Europe. Ovo istraživanje nije dio nijednog istraživanja tržišta, mi smo zainteresirani samo za mjerenje javnog mnijenja.
+	
+	(PROČITAJ ZA SVE ISPITANIKE)
+	Bio bih vam zahvalan ako biste mogli odvojiti {#minutes_ins} minuta za sudjelovanje u ovoj anketi. Sudjelovanje u ovom istraživanju je dobrovoljno i možete se predomisliti u bilo kojem trenutku. Svi su vaši odgovori povjerljivi i spajaju se s odgovorima svih ostalih sudionika. To znači da se vas neće moći identificirati u bilo kojem izvješću objavljenih rezultata. 
+	{#CONSENT_ins}
+	
+	Ako želite pročitati Obavijest o privatnosti možete je preuzeti na stranici {#intro_link}. U njoj se objašnjava svrha obrade vaših osobnih podataka, kao i vaša prava na zaštitu podataka.
+
+U svrhu osiguranja kvalitete, ovaj poziv može biti praćen i sniman.
+	
+	ANKETAR DODAJE AKO UPITAN:
+	KAKO STE DOBILI MOJ BROJ: Vaš telefonski broj nasumično je generiran računalom, kao i svi brojevi koje biramo za ovo istraživanje. Naš je cilj intervjuirati reprezentativni uzorak stanovništva ove zemlje.
+	
+	KLIJENT? Ipsos provodi ovu anketu za {#Client}. Ankete Flash Eurobarometer imaju kao cilj pratiti javno mišljenje u Europskoj uniji putem širokog raspona tematskih pitanja.
+	
+	KOJE ĆE SE OSOBNE PODATKE PRIKUPLJATI: Vaš telefonski broj koristimo samo da bismo vas pozvali da sudjelujete u ovom intervjuu i u svrhu kontrole kvalitete. Prikupljat će podaci o spolu i dobi, kao i osobni podaci iz odgovora na pitanja (kao što je bračni status). Svi podaci koje pružate ostat će povjerljivi, vaši će odgovori se spojiti s odgovorima svih ostalih sudionika, a nikakvi se podaci pomoću kojih bi se neka osoba mogla identificirati neće dijeliti s Ipsosovim klijentom.
+	
+	Pristajete li nastaviti s intervjuom?	{#Birthday_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A rural area or village</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Ruralnom području ili na selu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>(READ OUT; ONE ANSWER ONLY)</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>(PROČITAJ; SAMO JEDAN ODGOVOR)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Targeted respondent not available, call back later</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Ciljni ispitanik nije dostupan, nazvati kasnije</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Neutral</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Neutralnu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Public administration and defence; compulsory social security</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>JAVNA UPRAVA I OBRANA; OBVEZNO SOCIJALNO OSIGURANJE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>50% or more owned or controlled by persons from other countries outside (THIS COUNTRY)</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>50 % ili više u vlasništvu ili pod kontrolom osoba iz drugih država izvan Hrvatske</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Slovak</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Slovak/Slovakinja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Don't know/No Answer (DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Ne zna / bez odgovora (NE ČITAJ)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In which (region) is your company headquarers located?</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>U kojoj se (regiji) nalazi sjedište vašeg poduzeća?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Finland</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Finska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>15 years old, and available/at home</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>15 godina i dostupan/kod kuće</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Executive Agency for Small and Medium-sized Enterprises</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Izvršnu agenciju za mala i srednja poduzeća</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Not applicable (DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Nije primjenjivo (NE ČITAJ)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Slovakia</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Slovačka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Seeking a job</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Osoba koja traži posao</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Answer '{ANSWER}' is not numeric.</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Pitanje '{QUESTION}' ({QUESTION_NUMBER}): Odgovor '{ANSWER}' nije brojčana vrijednost.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>500 or more employees</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>500 ili više zaposlenika</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Question '{QUESTION}' ({QUESTION_NUMBER}): Answer '{ANSWER}' ({CATEGORY}) has a response but it is not selected.</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Pitanje '{QUESTION}' ({QUESTION_NUMBER}): '{ANSWER}' ({CATEGORY}) ima odgovor, ali nije odabran.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The survey includes some questions that could be considered sensitive as they relate to political opinions. Your child may refuse to answer these questions at any time, and you can withdraw your consent for your child’s participation at any time.</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Anketa uključuje neka pitanja koja se mogu smatrati osjetljivima jer se odnose na političke stavove. Vaše dijete može u svakom trenutku odbiti odgovoriti na ova pitanja, a vi također u svakom trenutku možete povući svoj pristanak za sudjelovanje vašeg djeteta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Decreased</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Smanjio se</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Cyprus</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Cipar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Answer '{ANSWER}' is not valid.</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Odgovor '{ANSWER}' nije valjan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>How long has your company been in business?	
+	(READ OUT, ONE ANSWER ONLY)</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Koliko dugo posluje vaše društvo?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>(WRITE DOWN AGE IN YEARS IF RESPONDENT IS 15 YEARS OR OVER)</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>(UPIŠI DOB U GODINAMA AKO ISPITANIK IMA 15 GODINA ILI VIŠE)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Don’t know (DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Ne znam (NE ČITAJ)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Don't know {#D5a_ins}</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Ne znam {#D5a_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You have used the browser buttons, please use the Next/Previous buttons below.</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Koristili ste gumb internetskog preglednika, molimo Vas da koristite Sljedeće/Prethodno gumb koji se nalazi ispod.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Lithuanian</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Litavac/Litavka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>British</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Britanac/Britanka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Answer '{ANSWER}' is not an integer value.</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Odgovor '{ANSWER}' nije cijeli broj.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>years</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>godina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Products to companies or other organisations</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>proizvode tvrtkama ili drugim organizacijama</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Over the last year, would you say that this image you have of the EU improved, got worse or stayed about the same? 
+	{#SD15_ins}</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Biste li rekli da se u proteklih godinu dana predodžba koju imate o EU-u poboljšala, pogoršala ili je ostala otprilike ista?
+   	{#SD15_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>France</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Francuska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Office clerk</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Uredski djelatnik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Are you happy to proceed with the interview?</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Pristajete li nastaviti s intervjuom?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Next</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Sljedeće</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Hungarian</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Mađar/Mađarica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Don't know</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Ne znam</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>(DO NOT READ OUT; MULTIPLE ANSWERS POSSIBLE)</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>(NE ČITAJ; MOGUĆE JE VIŠE ODGOVORA)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Hello, My name is …, from (NAME OF NATIONAL INSTITUTE), and I'm conducting an interview for Ipsos Public Affairs, on behalf of one of their clients. We are looking for people aged 16 or over who are willing to share their opinions about the issues of today’s society. We are conducting this survey across Europe. The survey is not part of any market research, we are interested in measuring public opinion.
+
+	I would be grateful if you could spare {#minutes_ins} minutes to participate in this survey. Participation in the survey is voluntary and you can change your mind at any time. All of your answers will remain confidential and will be combined with all other participants’ answers. This means you will not be identifiable in any of the published results. 
+	{#CONSENT_ins}
+	
+	If you would like to read the Data Protection Notice, you can access it at {#intro_link}. This explains the purpose for processing your personal data as well as your data protection rights.
+
+	For quality assurance, this phone call may be monitored and recorded.
+	
+	INTERVIEWER ADD IF ASKED:
+	HOW DID YOU GET MY NUMBER: Your telephone number has been randomly generated by a computer, like all numbers we dial for this research. Our aim is to interview a representative sample of this country’s population.
+	
+	CLIENT? Ipsos is conducting this survey for the {#Client}. Flash Eurobarometer surveys have as purpose to monitor public opinion in the European Union on a broad range of thematic issues.
+	
+	WHAT PERSONAL DATA WILL BE COLLECTED: We use your phone number to invite you to take part in this interview and for quality control purposes only. Gender and age information will be collected, as well as personal data from the replies to the interview questions (such as marital status). All of the information you provide will remain confidential, your answers will be combined with all other participants’ answers, and no identifiable data will be shared with Ipsos’ client.
+	
+	Are you happy to proceed with the interview?
+	{#Birthday_ins}</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Pozdrav, moje ime je ..., iz (NAZIV NACIONALNOG INSTITUTA) i provodim intervju za tvrtku Ipsos Public Affairs u ime jednog od njihovih klijenata. Tražimo osobe u dobi od 16 godina ili više koje su spremne podijeliti svoje mišljenje o pitanjima današnjeg društva. Ovaj upitnik provodimo diljem Europe. Ovo istraživanje nije dio nijednog istraživanja tržišta, mi smo zainteresirani samo za mjerenje javnog mnijenja.
+
+	Bio bih vam zahvalan ako biste mogli odvojiti {#minutes_ins} minuta za sudjelovanje u ovoj anketi. Sudjelovanje u ovom istraživanju je dobrovoljno i možete se predomisliti u bilo kojem trenutku. Svi su vaši odgovori povjerljivi i spajaju se s odgovorima svih ostalih sudionika. To znači da se vas neće moći identificirati u bilo kojem izvješću objavljenih rezultata. 
+	{#CONSENT_ins}
+	
+	Ako želite pročitati Obavijest o privatnosti možete je preuzeti na stranici {#intro_link}. U njoj se objašnjava svrha obrade vaših osobnih podataka, kao i vaša prava na zaštitu podataka.
+
+	U svrhu osiguranja kvalitete, ovaj poziv može biti praćen i sniman.
+	
+	ANKETAR DODAJE AKO UPITAN:
+	KAKO STE DOBILI MOJ BROJ: Vaš telefonski broj nasumično je generiran računalom, kao i svi brojevi koje biramo za ovo istraživanje. Naš je cilj intervjuirati reprezentativni uzorak stanovništva ove zemlje.
+	
+	KLIJENT? Ipsos provodi ovu anketu za [{#Client}]. Ankete Flash Eurobarometer imaju kao cilj pratiti javno mišljenje u Europskoj uniji putem širokog raspona tematskih pitanja.
+	
+	KOJE ĆE SE OSOBNE PODATKE PRIKUPLJATI: Vaš telefonski broj koristimo samo da bismo vas pozvali da sudjelujete u ovom intervjuu i u svrhu kontrole kvalitete. Prikupljat će podaci o spolu i dobi, kao i osobni podaci iz odgovora na pitanja (kao što je bračni status). Svi podaci koje pružate ostat će povjerljivi, vaši će odgovori se spojiti s odgovorima svih ostalih sudionika, a nikakvi se podaci pomoću kojih bi se neka osoba mogla identificirati neće dijeliti s Ipsosovim klijentom.
+	
+	Pristajete li nastaviti s intervjuom?	{#Birthday_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Are you a permanent resident of {#MRK_Country}?</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Jeste li stalni stanovnik {#MRK_Country}?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Slovenia</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Slovenija</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Please provide an answer.</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Nedostaje odgovor(i).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Do you also use one or more mobile phones?
+	{#D2_ins}</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Koristite li također mobitel ili više mobitela?
+	{#D2_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Portugal</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Portugal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Maltese</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Maltežanin/Maltežanka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Yes (will pass phone to start the interview)</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Da (predat ću telefon na početku intervjua)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>European political matters</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Europskim političkim pitanjima</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Estonia</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Estonija</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;b&gt;Agriculture, Forestry and Fishing&lt;/b&gt;</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>&lt;b&gt;Poljoprivreda, šumarstvo i ribolov&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Yes, not available</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Da, nedostupan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Swedish</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Šveđanin/Šveđanka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Manager of a company</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Direktor tvrtke</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Hello, My name is …, from (NAME OF NATIONAL INSTITUTE), and I'm conducting an interview for Ipsos Public Affairs, on behalf of one of their clients. We are looking for people aged 15 or over who are willing to share their opinions about the issues of today’s society.
+
+		Can I speak to the person in your household, 15 years or older, whose birthday it was most recently? 
+		INTERVIEWER ADD IF NECESSARY: this is necessary to ensure everyone has an equal chance to participate, for the survey to be representative of this country’s population. 
+		
+		How old is he or she? 
+		Can you pass the phone to this household member?
+		
+		{#Birthday_ins}
+		Household member with the most recent birthday is:</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Pozdrav, moje ime je ..., iz (NAZIV NACIONALNOG INSTITUTA) i provodim intervju za tvrtku Ipsos Public Affairs u ime jednog od njihovih klijenata. Tražimo osobe u dobi od 15 godina ili više koje su spremne podijeliti svoje mišljenje o pitanjima današnjeg društva.
+
+		Mogu li razgovarati s osobom u dobi od 15 ili više godina u vašem kućanstvu koja je posljednja imala rođendan? 
+		ANKETAR DODAJE PO POTREBI: to je potrebno kako bi se osiguralo da svatko ima jednaku priliku za sudjelovanje te da istraživanje predstavlja točan prikaz stanovništva ove zemlje. 
+		
+		Koliko on/ona ima godina? 
+		Možete li proslijediti telefon tom članu kućanstva?
+		
+		{#Birthday_ins}
+		Član kućanstva koji je posljednji imao rođendan je:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Yes, available</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Da, dostupan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Sold products and or services to countries outside EU</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Prodala proizvode i/ili usluge državama izvan EU-a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>European External Action Service</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Europsku službu za vanjsko djelovanje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Financial and insurance activities</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>FINANCIJSKE DJELATNOSTI I DJELATNOSTI OSIGURANJA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The survey specific questions section ends here</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>The survey specific questions section ends here</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Farmer, forester, fisherman</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Poljoprivrednik, šumar, ribar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Retired</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>U mirovini</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Research Executive Agency</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Izvršnu agenciju za istraživanje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In the last two years, has your company been involved in any dispute which has gone to court?</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Tijekom zadnje dvije godine, je li vaša tvrtka bila uključena u bilo kakav spor koji se vodio pred sudom?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Very positive</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Vrlo pozitivnu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The answer does not have enough text, current length is {LENGTH}, minimum is {MINLENGTH}.</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Odgovor nema dovoljno teksta, trenutačna dužina je {LENGTH}, minimalna potrebna je {MINLENGTH}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Belgium</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Belgija</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Irish</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Irac/Irkinja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Between 1 and 5 years</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Između 1 i 5 godina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>More than 250,000 to 500,000 euro</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Više od 1,9 do 3,8 milijuna kuna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>51-75%</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>51-75%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Belgian</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Belgijanac/Belgijanka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Frequently</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Često</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Improved</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Poboljšala</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Occasionally</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Povremeno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Which of the following statements regarding the European Union is closest to your opinion? 
+    {#D2_ins}</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Koja je od sljedećih izjava o Europskoj uniji najbliža vašem mišljenju?
+    {#D2_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>How old are you?
+	{#D1_ins}</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Koliko imate godina?
+	{#D1_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>No</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Ne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Real estate activities</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>POSLOVANJE NEKRETNINAMA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>More than 10 years</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Više od 10 godina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Education</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>OBRAZOVANJE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Other service activities</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>OSTALE USLUŽNE DJELATNOSTI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Less than 1 year</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Manje od 1 godine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>(WHEN SPEAKING TO THE TARGETED RESPONDENT) Hello, My name is …, from (NAME OF NATIONAL INSTITUTE), and I'm conducting an interview for Ipsos Public Affairs, on behalf of one of their clients. We are contacting decision makers in companies across Europe regarding their views on current business topics. The feedback will be used to support policymaking in Europe.
+
+		I would be grateful if you could spare {#minutes_ins} minutes to participate in this survey. Participation in the survey is voluntary and you can change your mind at any time. All of your answers will remain confidential and will be combined with all other participants’ answers. This means that neither you, nor your business, will be identifiable in any of the published results. 
+		
+		For quality assurance, this phone call may be monitored and recorded.
+		
+		&lt;b&gt;INTERVIEWER ADD IF ASKED:&lt;/b&gt;
+		CLIENT? Ipsos is conducting this survey for the {#Client}. Flash Eurobarometer surveys have as purpose to monitor public and business opinion in the European Union on a broad range of thematic issues.
+		
+		WHAT PERSONAL DATA WILL BE COLLECTED: No personal data will be collected during this interview. Your participation, together with your individual responses to the questions, will be kept strictly confidential. If you have comments or questions, or any concerns, please send an email to: &lt;a href='FlashEB-dataprotection-coordinator@ipsos-online.com'&gt;FlashEB-dataprotection-coordinator@ipsos-online.com&lt;/a&gt;
+		
+		Are you happy to proceed with the interview?
+		(SINGLE ANSWER, DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>(KADA RAZGOVARATE S CILJNIM ISPITANIKOM) Pozdrav, moje ime je ..., iz (NAZIV NACIONALNOG INSTITUTA) i provodim intervju za tvrtku Ipsos Public Affairs u ime jednog od njihovih klijenata. Kontaktiramo donositelje odluka u poduzećima diljem Europe u vezi s njihovim mišljenjima o današnjem poslovanju. Povratne informacije koristit će se kao podrška izradi raznih politika u Europi.
+
+		Bio bih vam zahvalan ako biste mogli odvojiti {#minutes_ins} minuta za sudjelovanje u ovoj anketi. Sudjelovanje u ovom istraživanju je dobrovoljno i možete se predomisliti u bilo kojem trenutku. Svi su vaši odgovori povjerljivi i spajaju se s odgovorima svih ostalih sudionika. To znači da se vas ili vaše poduzeće neće moći identificirati u bilo kojem izvješću s objavljenim rezultatima. 
+		
+		U svrhu osiguranja kvalitete, ovaj poziv može biti praćen i sniman.
+		
+		&lt;b&gt;ANKETAR DODAJE AKO UPITAN:&lt;/b&gt;
+		KLIJENT? Ipsos provodi ovu anketu za {#Client}. Ankete Flash Eurobarometer imaju kao cilj pratiti javno i poslovno mišljenje u Europskoj uniji putem širokog raspona tematskih pitanja.
+		
+		KOJI ĆE SE OSOBNI PODACI PRIKUPLJATI: Nikakvi osobni podaci neće se prikupljati za vrijeme ovog intervjua. Vaše sudjelovanje, kao i vaši pojedinačni odgovori na pitanja, čuvat će se kao strogo povjerljivi. Ako imate bilo kakvih komentara ili pitanja, pošaljite nam poruku e-pošte na: &lt;a href='FlashEB-dataprotection-coordinator@ipsos-online.com'&gt;FlashEB-dataprotection-coordinator@ipsos-online.com&lt;/a&gt;
+		
+		Pristajete li nastaviti s intervjuom?
+		(JEDAN ODGOVOR, NE ČITAJ)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Bulgaria</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Bugarska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Answer '{ANSWER}' ({CATEGORY}) has a response but is not selected.</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Odgovor '{ANSWER}' ({CATEGORY}) ima odgovor, ali nije odabran.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Slovenian</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Slovenac/Slovenka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You entered an unexpected value, please review your answer or continue to confirm your response.</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Unijeli ste neočekivani broj, pregledajte svoj odgovor ili nastavkom potvrdite ovaj odgovor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Stayed about the same</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Ostala je otprilike ista</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Employee</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Zaposlenik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>(SINGLE ANSWER, DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>(JEDAN ODGOVOR, NE ČITAJ)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Transportation and Storage</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>PRIJEVOZ I SKLADIŠTENJE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The survey includes some questions that could be considered sensitive as they relate to political opinions. You may refuse to answer these questions at any time, and you can withdraw your consent for participation at any time.</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Anketa uključuje neka pitanja koja se mogu smatrati osjetljivima jer se odnose na političke stavove. Možete u svakom trenutku odbiti odgovoriti na ova pitanja te u svakom trenutku možete povući svoj pristanak za sudjelovanje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Female</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Žensko</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>More than 10 to 50 million euro</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Više od 75,7 do 380 milijuna kuna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Construction</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>GRAĐEVINARSTVO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>National political matters</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Nacionalnim političkim pitanjima</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>German</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Nijemac/Njemica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Greece</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Grčka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>I’m in favour of the European Union as it has been realised so far</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Podržavam Europsku uniju takvu kakva je ostvarena do sada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The answer does not have enough text, current length is {LENGTH}, minimum is {MINLENGTH}.</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Pitanje '{QUESTION}' ({QUESTION_NUMBER}): Odgovor nema dovoljno teksta, trenutačna dužina je {LENGTH}, minimalna potrebna je {MINLENGTH}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Fairly negative</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Prilično negativnu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>(WRITE DOWN AGE IN YEARS IF RESPONDENT IS 16 YEARS OR OVER)</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>(UPIŠI DOB U GODINAMA AKO ISPITANIK IMA 16 GODINA ILI VIŠE)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{#D1X_insert}
+	(DO NOT READ OUT, ONE ANSWER ONLY)</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>{#D1X_insert}
+	(NE ČITAJ - SAMO JEDAN ODGOVOR)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Thank you for your time. We remind you that if you would like to read the Data Protection Notice, you can access it at {#intro_link}. This explains the purposes for processing your personal data as well as your rights under applicable data protection law.</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Hvala vam na vašem vremenu. Napominjemo još jednom da ako želite pročitati Obavijest o privatnosti, možete je preuzeti na stranici {#intro_link}. U njoj se objašnjavaju svrhe obrade vaših osobnih podataka, kao i vaša prava na temelju mjerodavnog zakona o zaštiti podataka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Over the past two years, has your company's annual turnover increased, decreased or remained unchanged?
+	(DO NOT READ OUT, ONE ANSWER ONLY)</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>U posljednje dvije godine, je li se godišnji promet vašeg društva povećao, smanjio ili je ostao isti? 
+	(NE ČITAJ, SAMO JEDAN ODGOVOR)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Other</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Drugo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Please enter a value between 0 and 20.</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Unesite broj između 0 i 20.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Ireland</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Irska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Owner of shop, craftsman</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Vlasnik trgovine, obrtnik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Without a professional activity</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Ne obavljate profesionalnu aktivnost</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>How many children under the age of 15 are living in your household?</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Koliko djece mlađe od 15 godina živi u vašem kućanstvu?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>More than 25,000 to 50,000 euro</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Više od 190 000 do 380 000 kuna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Yes, more than one mobile phone</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Da, više od jednog mobitela</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Refusal</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Odbija odgovoriti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Spain</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Španjolska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Austria</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Austrija</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Supervisor/foreman (team manager, …)</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Nadglednik/poslovođa (voditelj tima…)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Do we have your permission to conduct this interview with your child?</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Imamo li vaše dopuštenje za obavljanje ovog razgovora s vašim djetetom?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;b&gt;Public services&lt;/b&gt;</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>&lt;b&gt;Javne usluge&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>No</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>NE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>European Securities and Markets Authority</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Europsko nadzorno tijelo za vrijednosne papire i tržišta kapitala</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>European Insurance and Occupational Pensions Agency</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Europsko tijelo za osiguranje i strukovno mirovinsko osiguranje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Please enter a value between 0 and 99.</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Unesite broj između 0 i 99.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>How old were you when you stopped full-time education?
+    {#D4_ins}</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Koliko vam je bilo godina kad ste završili s redovnim obrazovanjem?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Interviewer instruction: Do not read, just fill in your interviewer_ID.</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Uputa za anketara: ne čitaj, samo unesi svoj interviewer_ID.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Yes</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>DA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Don't know (DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Ne znam (NE ČITAJ)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Mining and Quarrying</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>RUDARSTVO I VAĐENJE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Do you know if, in {#CurrentYear_insert_1}, your company has:
+	(READ OUT, ONE ANSWER PER LINE)</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Znate li, je li u {#CurrentYear_insert_1} vaše poduzeće:
+	(PROČITAJ; SAMO JEDAN ODGOVOR) PO RETKU</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Portuguese</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Portugalac/Portugalka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Previous</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Prethodno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Services to companies or other organisations</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>usluge tvrtkama ili drugim organizacijama</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Male</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Muško</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In another way</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Drugačije</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>I’m opposed to the idea of the European Union in general</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Općenito se protivim ideji Europske unije</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Insert for D5._5 - Refusal</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Umetni za D5._5 - Odbija odgovoriti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Croatian</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Hrvat/Hrvatica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Dutch</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Nizozemac/Nizozemka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Less than 16 years (SPONTANEOUS)</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Manje od 16 godina (SPONTANO)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Denmark</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Danska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Navigations</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Navigacija</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Answer '{ANSWER}' cannot be combined with other answers.</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Odgovor '{ANSWER}' ({CATEGORY}) se ne može kombinirati s ostalim odgovorima.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When was your company established?	
+	(READ OUT, ONE ANSWER ONLY)</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Kada je vaša tvrtka osnovana?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Water Supply; sewerage, waste management and remediation activities</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>OPSKRBA VODOM; UKLANJANJE OTPADNIH VODA, GOSPODARENJE OTPADOM TE DJELATNOSTI SANACIJE OKOLIŠA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>ENU English (United States)</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>HRV Croatian (Croatia)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Activities of extraterritorial organisations and bodies</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>DJELATNOSTI IZVANTERITORIJALNIH ORGANIZACIJA I TIJELA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>26-50%</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>26-50%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>1 to 9 employees</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>1 do 9 zaposlenika</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>(DO NOT READ OUT; ONE ANSWER ONLY)</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>(NE ČITAJ - SAMO JEDAN ODGOVOR)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Answer '{ANSWER}' is not in range '{RANGE}'.</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Pitanje '{QUESTION}' ({QUESTION_NUMBER}): Odgovor '{ANSWER}' nije u rasponu '{RANGE}'.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Products directly to consumers</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>proizvode direktno potrošačima</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Prefer not to say</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Radije ne bih odgovorio/la</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;p&gt;These are all the questions we have for you today.  It appears that a sufficient number of respondents with a similar profile have already completed this study, or that your profile does not exactly match our needs for this study. We apologize for the inconvenience.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>&lt;p&gt;Ovo su sva pitanja koja danas imamo za vas.  Čini se da imamo dovoljno ispitanika s profilom sličnim vašem ili da vaš profil ne odgovara u potpunosti za ovo ispitivanje. Ispričavamo se na neugodnosti.&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Polish</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Poljak/Poljakinja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Over the past two years, has your company's total number of employees increase, decreased or remained about the same?	
+	(DO NOT READ OUT, ONE ANSWER ONLY)</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Tijekom protekle dvije godine, je li se ukupni broj zaposlenika vašeg poduzeća povećao, smanjio ili ostao otprilike isti?	
+	(NE ČITAJ, SAMO JEDAN ODGOVOR)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Remained unchanged</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Ostao isti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{#Nationality} nationality</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>{#Nationality} Nacionalnost</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Information and Communication</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>INFORMACIJE I KOMUNIKACIJE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>What is the main activity of your company?
+    (READ OUT MAIN CATEGORIES FIRST, THEN SUBCATEGORIES, ONE ANSWER ONLY)</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Koja je glavna aktivnost vašeg poduzeća?
+    (PRVO PROČITAJ GLAVNE KATEGORIJE, A ZATIM POTKATEGORIJE; SAMO JEDAN ODGOVOR)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Italian</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Talijan/Talijanka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The thousands separator character is not allowed.</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Pitanje '{QUESTION}' ({QUESTION_NUMBER}): Točka nije dozvoljena.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Self-employed</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Samozaposlen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Do you also have a landline telephone at home? 
+    Do not include telephones only used for business purposes or for connecting to the Internet or to a fax machine.
+	{#D2_ins}</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Imate li kod kuće i zemaljsku telefonsku liniju? 
+    Ne uključujte telefone koji se koriste samo u poslovne svrhe ili za povezivanje s internetom ili na faks uređaj.
+	{#D2_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Answer '{ANSWER}' is not an integer value.</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Pitanje '{QUESTION}' ({QUESTION_NUMBER}): Odgovor '{ANSWER}' nije cijeli broj.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Malta</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Malta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>General Secretariat of the Council of the European Union</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Glavno tajništvo Vijeća Europske unije</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Croatia</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Hrvatska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Large town/city</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Velikom gradu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Committee of the Regions</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Odbor regija</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Poland</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Poljska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Czechia</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Češka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Other employee (salesman, nurse, …)</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Druga vrsta zaposlenika (prodavač, medicinska sestra...)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>More than 50 million euro</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Više od 380 milijuna kuna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Human health and social work activities</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>DJELATNOSTI ZDRAVSTVENE ZAŠTITE I SOCIJALNE SKRBI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Before 1 January {#CurrentYear_insert_6}</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Prije 1. siječnja {#CurrentYear_insert_6}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Refusal (SPONTANEOUS)</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Ne želi odgovoriti (SPONTANO)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>1-25%</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>1-25%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Refusal</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Odbija odgovoriti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Student (full-time)</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Student (redoviti)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;b&gt;Industry&lt;/b&gt;</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>&lt;b&gt;Industrijske aktivnosti&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>(READ OUT – ONE ANSWER PER LINE)</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>(PROČITAJ - JEDAN ODGOVOR U RETKU)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>I’m rather sceptical of the European Union, but could change my opinion if radical reform was brought about</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Donekle sam skeptičan/-na u pogledu Europske unije, ali bih mogao/-la promijeniti svoje mišljenje kada bi se uvela radikalna reforma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Agriculture, Forestry and Fishing</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>POLJOPRIVREDA, ŠUMARSTVO I RIBARSTVO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Please enter a value between {#D1_age_ins} and 105. If the respondent is less than {#D1_age_ins} years, select response “&lt;{#D1_age_ins} years”.</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Unesite broj između {#D1_age_ins} i 105. Ako ispitanik ima manje od {#D1_age_ins} godina, odaberite odgovor "&lt; {#D1_age_ins} godina".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Between 6 and 10 years</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Između 6 i 10 godina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Latvia</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Latvija</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Accommodation and food service activities</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>DJELATNOSTI PRUŽANJA SMJEŠTAJA TE PRIPREME I USLUŽIVANJA HRANE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>European Ombudsman</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Europskog pučkog pravobranitelja (ombudsmana)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Other {#D5a_ins}</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Drugo {#D5a_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Netherlands</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Nizozemska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Sweden</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Švedska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Other (DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Nešto drugo (NE ČITAJ)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>European Parliament</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Europski parlament</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Danish</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Danac/Dankinja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Electricity, gas, steam and air conditioning supply</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>OPSKRBA ELEKTRIČNOM ENERGIJOM, PLINOM, PAROM I KLIMATIZACIJA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Please enter a value between 1 and 30.</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Unesite broj između 1 i 30.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Romania</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Rumunjska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Yes</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Da</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>As far as your current occupation is concerned, would you say you are...?
+	{#D2_ins}</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>S obzirom na vaše trenutačno zaposlenje, biste li rekli da ste...?
+	{#D2_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Other nationality</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Druga nacionalnost</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Between 1 January {#CurrentYear_insert_6} and 1 January {#CurrentYear_insert_1}</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Između 1. siječnja {#CurrentYear_insert_6}. i 1. siječnja {#CurrentYear_insert_1}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When you get together with friends or relatives, would you say you discuss frequently, occasionally or never about...?
+    {#SD14a_ins}</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Kad ste u društvu svojih prijatelja ili rodbine, biste li rekli da često razgovarate, povremeno razgovarate ili nikad ne razgovarate o…?
+    {#SD14a_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>More than 50,000 to 100,000 euro</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Više od 380 000 do 757 000 kuna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>I would like to reassure you that your child's cooperation is completely voluntary. All answers are confidential and combined with other participants’ answers. This means your child will not be identifiable in any of the published results.
+	{#PARENT3_ins}
+	
+	If you would like to read the Data Protection Notice, you can access it at {#intro_link}. This explains the purpose for processing your personal data as well as your data protection rights.
+	
+	INTERVIEWER ADD IF ASKED:
+	HOW DID YOU GET MY NUMBER: Your telephone number has been randomly generated by a computer, like all numbers we dial for this research. Our aim is to interview a representative sample of this country’s population.
+	
+	CLIENT? Ipsos is conducting this survey for the {#Client}. Flash Eurobarometer surveys have as purpose to monitor public opinion in the European Union on a broad range of thematic issues.
+	
+	WHAT PERSONAL DATA WILL BE COLLECTED: We use your phone number to invite you to take part in this interview and for quality control purposes only. Gender and age information will be collected, as well as personal data from the replies to the interview questions (such as marital status). All of the information you provide will remain confidential, your answers will be combined with all other participants’ answers, and no identifiable data will be shared with Ipsos’ client.
+	
+	Do we have your permission to conduct this interview with your child?
+	{#Birthday_ins}</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Uvjeravam vas da je suradnja vašeg djeteta potpuno dobrovoljna. Svi su odgovori povjerljivi i spajaju se s odgovorima drugih sudionika. To znači da se vaše dijete neće moći prepoznatljivo u bilo kojem od objavljenih rezultata.
+	{#PARENT3_ins}
+	
+	Ako želite pročitati Obavijest o privatnosti možete je preuzeti na stranici {#intro_link}. U njoj se objašnjava svrha obrade vaših osobnih podataka, kao i vaša prava na zaštitu podataka.
+	
+	ANKETAR DODAJE AKO UPITAN:
+	KAKO STE DOBILI MOJ BROJ: Vaš telefonski broj nasumično je generiran računalom, kao i svi brojevi koje biramo za ovo istraživanje. Naš je cilj intervjuirati reprezentativni uzorak stanovništva ove zemlje.
+	
+	KLIJENT? Ipsos provodi ovu anketu za [{#Client}]. Ankete Flash Eurobarometer imaju kao cilj pratiti javno mišljenje u Europskoj uniji putem širokog raspona tematskih pitanja.
+	
+	KOJE ĆE SE OSOBNE PODATKE PRIKUPLJATI: Vaš telefonski broj koristimo samo da bismo vas pozvali da sudjelujete u ovom intervjuu i u svrhu kontrole kvalitete. Prikupljat će podaci o spolu i dobi, kao i osobni podaci iz odgovora na pitanja (kao što je bračni status). Svi podaci koje pružate ostat će povjerljivi, vaši će odgovori se spojiti s odgovorima svih ostalih sudionika, a nikakvi se podaci pomoću kojih bi se neka osoba mogla identificirati neće dijeliti s Ipsosovim klijentom.
+	
+	Imamo li vaše dopuštenje za obavljanje ovog razgovora s vašim djetetom?
+	{#Birthday_ins}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Italy</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Italija</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>There are too few answers, at least {MINANSWERS} are required.</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Pitanje '{QUESTION}' ({QUESTION_NUMBER}): Ima premalo odgovora, potrebno je najmanje {MINANSWERS}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Hello, My name is …, from (NAME OF NATIONAL INSTITUTE), and I'm conducting an interview for Ipsos Public Affairs, on behalf of one of their clients. We are looking for people aged 15 or over who are willing to share their opinions about the issues of today’s society. We are conducting this survey across Europe. The survey is not part of any market research, we are interested in measuring public opinion.
+
+	We would like to speak to your child about this subject (CLARIFY IF NEEDED: your child, aged 15, whose birthday it was most recently).
+	
+	Are you the parent/legal guardian of the child, aged 15, we would like to interview?</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Pozdrav, moje ime je ..., iz (NAZIV NACIONALNOG INSTITUTA) i provodim intervju za tvrtku Ipsos Public Affairs u ime jednog od njihovih klijenata. Tražimo osobe u dobi od 15 godina ili više koje su spremne podijeliti svoje mišljenje o pitanjima današnjeg društva. Ovaj upitnik provodimo diljem Europe. Ovo istraživanje nije dio nijednog istraživanja tržišta, mi smo zainteresirani samo za mjerenje javnog mnijenja.
+
+	Željeli bismo o ovoj temi razgovarati s vašim djetetom (POJASNI AKO JE POTREBNO: vaše dijete, u dobi od 15 godina, koje je posljednje imalo rođendan).
+	
+	Jeste li vi roditelj/zakonski skrbnik djeteta, u dobi od 15 godina, s kojim bismo željeli razgovarati?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Answer '{ANSWER}' is not valid.</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Pitanje '{QUESTION}' ({QUESTION_NUMBER}): Odgovor '{ANSWER}' nije valjan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Between 10-50% owned by persons from other countries outside (THIS COUNTRY)</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Između 10-50 % u vlasništvu osoba iz drugih država izvan Hrvatske</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>After 1 January {#CurrentYear_insert_1}</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Nakon 1. siječnja {#CurrentYear_insert_1}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Below 10% owned by persons from other countries outside (THIS COUNTRY)</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Ispod 10 % u vlasništvu osoba iz drugih država izvan Hrvatske</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Looking after the home</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Osoba koja vodi brigu o kućanstvu (kućanica)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>European Commission</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Europska komisija</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Manufacturing</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>PRERAĐIVAČKA INDUSTRIJA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>What was your company's total turnover in {#CurrentYear_insert_1}?
+	ADD, IF NEEDED: If you are not sure, please provide your best estimate.	
+	(READ OUT IF NECESSARY, ONE ANSWER ONLY)</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Koliko je iznosio ukupni promet vaše tvrtke u {#CurrentYear_insert_1}. godini?	
+	DODAJ AKO JE POTREBNO: Ukoliko niste sigurni, ponudite najbolju procjenu.	
+	(PROČITAJ AKO JE POTREBNO; SAMO JEDAN ODGOVOR)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Sold products and or services to other EU countries</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Prodala proizvode i/ili usluge drugim državama EU-a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>How many employees (in full-time equivalents) does your company currently have? 	
+	ADD, IF NEEDED: If you are not sure, please provide your best estimate.	
+	(READ OUT IF NECESSARY, ONE ANSWER ONLY)</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Koliko zaposlenika (s punim radnim vremenom) trenutačno zapošljava vaša tvrtka? 	
+	DODAJ AKO JE POTREBNO: Ukoliko niste sigurni, ponudite najbolju procjenu.	
+	(PROČITAJ AKO JE POTREBNO; SAMO JEDAN ODGOVOR)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Luxembourg</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Luksemburg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In the last two years, have you been involved in any dispute which has gone to court?</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Jeste li u protekle dvije godine bili uključeni u bilo koji spor koji je završio na sudu?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Answer '{ANSWER}' cannot be combined with other answers.</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Question '{QUESTION}' ({QUESTION_NUMBER}): Odgovor '{ANSWER}' ({CATEGORY}) se ne može kombinirati s ostalim odgovorima.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;{#D1_age_ins} years</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>&lt; {#D1_age_ins} godina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>None, sole trader (DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Nijedan, ovo je poduzeće s jednim zaposlenim (NE ČITAJ)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Lithuania</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Litva</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Finnish</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Finac/Finkinja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Got worse</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Pogoršala</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Is your company…?
+	(READ OUT, ONE ANSWER ONLY)</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Je li vaša tvrtka...? (PROČITAJ; SAMO JEDAN ODGOVOR)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Select all that apply.</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Odaberite sve primjenjive stavke.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>European Agency for Safety and Health at Work</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Europsku agenciju za sigurnost i zdravlje na radu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Small or medium-sized town</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Malom gradu ili gradu srednje veličine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Never</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Nikad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>I’m rather in favour of the European Union, but not the way it has been realised until now</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Donekle podržavam Europsku uniju, ali ne takvu kakva je ostvarena do sada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>76-100%</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>76-100%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>(DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>(NE ČITAJ)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>&lt;b&gt;Construction, transport, ICT&lt;/b&gt;</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>&lt;b&gt;Gradnja, transport, ICT&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Refusal</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Odbija odgovoriti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Civil servant</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Državni službenik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>0%</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>0%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>General management, director or top management</seg>
+      </tuv>
+      <tuv xml:lang="hr-HR">
+        <seg>Viši menadžer, direktor ili visoki menadžer</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

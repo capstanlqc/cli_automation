@@ -28,19 +28,23 @@ __status__ = "Testing / pre-production" # "Production"
 
 # ############# IMPORTS ###########################################
 
-import re
+import re, sys, os.path
 import argparse
 import xlrd
 from yattag import Doc, indent
-import pandas
+import pandas as pd
+from language_tags import tags
+import csv
+# https://language-tags.readthedocs.io/en/latest/introduction.html
 # from pprint import pprint
 # import xml.dom.minidom
 
 # ############# PROGRAM DESCRIPTION ###########################################
 
-text = "This is TM Workbook Converter: it takes a spreadsheet/workbook where each \
-column contains a language version and produces as many TMX files as target \
-languages the workbook has."
+text = "This is Workbook to Glossary Converter: it takes a spreadsheet/workbook \
+where each column contains a language version (e.g. COFOE_Headlines_and_hashtag.xlsx) \
+and produces as many glossaries as target languages the workbook has. At this \
+point, input file and output folder are hard-coded (ARG TO BE IMPLEMENTED)"
 
 # intialize arg parser with a description
 parser = argparse.ArgumentParser(description=text)
@@ -57,6 +61,13 @@ if args.version:
 if args.input:
     print("Processing %s" % args.input)
 
+# ############# PROGRAM DESCRIPTION ###########################################
+
+# temporary, should be provided as options
+
+path_to_wb="/media/data/data/company/IPSOS/EUROBAROMETER_FLASH_2.0/_tech/Ref/COFOE_Headlines_and_hashtag.xlsx" # input
+output_dir="/media/data/data/company/IPSOS/EUROBAROMETER_FLASH_2.0/09_ASSETS/01_Incoming/COFOE_glossary"
+
 
 # ############# FUNCTIONS #####################################################
 
@@ -64,19 +75,16 @@ def map_langtag_loc(df, tag, xfrom, xto):
     # print(langtags.loc[langtags.cApStAn == x, 'OmegaT'].values[0])
     return df.loc[df[xfrom] == tag, xto].values[0]
 
-
 def map_langtag(df, tag, xfrom, xto):
     # langtags_dict = dict(zip(langtags['cApStAn'], langtags['OmegaT']))
     langtags_dict = dict(zip(df[xfrom], df[xto]))
     return langtags_dict[tag]
-
 
 def get_config(wb, sheet_idx):
     sheet = wb.sheet_by_index(sheet_idx)
     parameters = sheet.col_values(0)
     values = sheet.col_values(1)
     return dict(zip(parameters, values))
-
 
 def get_data(wb, sheet_idx, source_col, target_col):
     # if sheet0 has name "config", if not use sheet0
@@ -89,11 +97,12 @@ def get_data(wb, sheet_idx, source_col, target_col):
     target_texts = sheet.col_values(target_col)
     return set(zip(source_texts, target_texts))
 
+def get_langpair(df, source_col, target_col):
+    pass
 
 def get_headers(wb, sheet_idx, row_idx):
     sheet = wb.sheet_by_index(sheet_idx)
     return sheet.row_values(row_idx)
-
 
 def build_tmx(langpair_set, xml_source_lang, xml_target_lang):
     # convert to tmx
@@ -133,11 +142,9 @@ def build_tmx(langpair_set, xml_source_lang, xml_target_lang):
     )
     return tmx_output  # .replace("o_tmf=", "o-tmf=")
 
-
 def get_langs(wb, config):
     return [x for x in get_headers(wb, 1, int(config['header_row']))
             if re.match(r'[a-z]{3}-[A-Z]{3}', x) and x != config['source_lang']]
-
 
 def write_tmx_file(config, tmx_output):
     # build filename
@@ -152,34 +159,45 @@ def write_tmx_file(config, tmx_output):
     with open("output/" + filename, "w") as f:
         print(tmx_output, file=f)
 
-
 # all source language variables should be global!: path_to_file, wb, langtags
-def convert_wb_to_tmx_files(path_to_file, langtags_csv):
+def convert_wb_to_glossary_files(path_to_file):
 
-    wb = xlrd.open_workbook(path_to_file)
-    config = get_config(wb, 0)
-    lang_list = get_langs(wb, config)
-    columns = get_headers(wb, 1, int(config['header_row']))
-    langtags = pandas.read_csv(langtags_csv)
-    xml_src_tag = map_langtag(langtags, config['source_lang'], 'cApStAn',
-                              'OmegaT').split('-')[0]
+    #wb = xlrd.open_workbook(path_to_file)
+    df = pd.read_excel(path_to_file, sheet_name='bcp47')
+    data = df.drop([0]) # remove row with country codes
+
+    #config = get_config(wb, 0)
+    #lang_list = get_langs(wb, config)
+    #columns = get_headers(pd, 1, int(config['header_row']))
+    headers = [*data]
+    print(headers)
+
+    container = "COFOE"
+    #langtags = pandas.read_csv(langtags_csv)
+    #xml_src_tag = map_langtag(langtags, config['source_lang'], 'cApStAn', 'OmegaT').split('-')[0]
     # xml_src_tag = xml_src_tag.split('-')[0]  # use only subtgg for compliance
-    source_col = columns.index(config['source_lang'])
+    # source_col = columns.index(config['source_lang'])
+    source_col = 'en'
 
-    # convert_colpair_to_tmx_file() for idx, col in cols if col in lang_list
-    for idx, col in enumerate(columns):
-        if col in lang_list:
-            lang_config = dict(config, target_lang=col)  # update dict without modify original dictionary
-            xml_tgt_tag = map_langtag(langtags, col, 'cApStAn', 'OmegaT')
-            langpair_set = get_data(wb, sheet_idx=1, source_col=source_col, target_col=idx)
-            tmx_output = build_tmx(langpair_set, xml_src_tag, xml_tgt_tag)
-            write_tmx_file(lang_config, tmx_output)
+    for col in data.columns:
+
+        if tags.check(col) and col != source_col:
+            lang_pair = dict(zip(data[source_col], data[col]))
+
+            path_to_target_file = os.path.join(output_dir, f'{container}_{col}_glossary.utf8')
+
+            with open(path_to_target_file, 'w') as csv_file:
+                writer = csv.writer(csv_file, delimiter='\t')
+                for key, value in lang_pair.items():
+                   writer.writerow([key, value])
+
 
 
 # ############# EXECUTION #####################################################
 
-path_to_wb = args.input
-convert_wb_to_tmx_files(path_to_wb, 'langtags_20181210.csv')
+if __name__ == "__main__":
+
+    convert_wb_to_glossary_files(path_to_wb)
 
 # ############# WIP ###########################################################
 
