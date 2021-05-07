@@ -5,3 +5,5 @@ api_key.txt
 flash_prepp_help
 _archive/*
 _log/*
+.vscode/*
+_ark/*
