@@ -7,3 +7,6 @@ _archive/*
 _log/*
 .vscode/*
 _ark/*
+**/_log/*
+**/_bak/*
+**/_temp/*

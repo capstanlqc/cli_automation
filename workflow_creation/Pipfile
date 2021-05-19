@@ -1,0 +1,18 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pandas-ods-reader = "*"
+pandas = "*"
+xlrd = "*"
+openpyxl = "*"
+fstr = "*"
+markdown = "*"
+wget = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"
