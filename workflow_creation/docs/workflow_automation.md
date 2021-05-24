@@ -9,6 +9,7 @@ The last version of this document can be read at [https://capps.capstan.be/doc/w
 | Date  | Person  | Summary |
 |---------|---------|-------|
 | 12.05.2021 | Manuel | Creation of first version of the document |
+| 25.05.2021 | Manuel | Replacing lll-CCC.txt with task sheets in the config file |
 
 ### Recommended tools:
 - [7-zip](https://www.7-zip.org/) for zipping, unzipping and opening packages (without unpacking).
@@ -18,7 +19,30 @@ The last version of this document can be read at [https://capps.capstan.be/doc/w
 
 ### Some requirements
 
-The root folder of the project (referred here as `{root}`) should include a folder called `02_AUTOMATION`. It is when the PM puts the initiation bundle in the `{root}/02_AUTOMATION/Initiation` folder that the process starts to create the folder structure and the translation packages.
+The root folder of the project (referred here as `{root}`) contains a folder called `02_AUTOMATION`, which in turn contains folders `Initiation` and `Config`, where the initiation bundle and the config file are expected, respectively.
+
+```
+/path/to/project/root
+├── 02_AUTOMATION
+│   ├── Config
+│   │   └── config.xlsx
+│   └── Initiation
+│       └── [init-bundle].zip
+...
+```
+
+The name and location of the `02_AUTOMATION` fodler are not customizable. 
+
+### Characteristics of the workflow
+
+The initiation bundle is a zipped template of the hierarchy of folders for the workflow, and inside each language task, it contains a zipped templated of each version folder.
+
+Packages for adaptation are created using source files exported from memoQ, not tweaking base packages for another version.
+
+The list of languages for each task is fetched from the config file, not from a `lll-CCC.txt` file.
+
+The list of languages and the source files can be updated at any point. New version folders and new packages will be created accordingly. 
+
 
 ### PM's responsibilities
 
@@ -30,31 +54,42 @@ The PM is responsible for taking the following steps:
 
 ### Configuration
 
-The configuration file (or config file for short) is available at `/02_AUTOMATION/Config/config.ods` and it contains certain more or less constant pieces of data that the automation needs to know about the project, to either find or generate certain files in a certain location with a certain name.
+The configuration file (or config file for short) is available at `/02_AUTOMATION/Config/config.xlsx` and it contains certain more or less constant pieces of data that the automation needs to know about the project, to either find or generate certain files in a certain location with a certain name.
 
 The PM (in consultation with TT) is responsible for keeping this config file up to date if there are any changes throughout the project, but it might be left as it is throughout the project if there are no such changes.
 
+The config file contains several worksheets:
+
+| Sheet     | Purpose   | 
+| :--------- | :--------- |
+| options | You can indicate whether an action must be carried out or not. |
+| params  | A number of parameters (like folder names, package name template, etc.) that might change across projects. |
+| 01_TRA  | The list of versions (cApStAn language codes) for task 01_TRA (the sheet name must match the folder for this task in the init bundle). |
+| 02_ADA  | The list of versions (cApStAn language codes) for task 02_ADA (the sheet name must match the folder for this task in the init bundle). |
+
+The PM can edit this file any time, e.g. to add new rows for new versions to the task sheets.
+
 ### Initiation bundle
 
-The initiation bundle must contain folders `00_source`, `10_deliverables` and then one folder for each language task (e.g. TRA, ADA, etc.).
+The initiation bundle must contain folders `00_source` for the source files and a folder for each language ask (e.g. TRA, ADA, etc.).
 
-If the process must create the OmegaT project packages too, the `00_source` folder must contain an OmegaT package template and a `files` folder that contains the files (e.g. memoQ XLIFF files).
+If the process must create the OmegaT project packages too, the `00_source` folder must contain an OmegaT package template and a `files` folder that contains the source files (e.g. memoQ XLIFF files).
 
-Each language task folder (e.g. `01_TRA`, `02_ADA`, etc.) must contain one file `lll-CCC.txt` containing the list of languages (one cApStAn language code per line) to which that language task applies and one file `lll-CCC.zip` containing the version folder structure to be replicated for each version.
+The PM can add new source files to `00_source/files` any time.
+
+Each language task folder (e.g. `01_TRA`, `02_ADA`, etc.) must contain one file `lll-CCC.zip` containing the version folder structure to be replicated for each version.
 
 ```
+workflow:
 ├── 00_source
 │   ├── omtpkg_template_paris.omt
 │   └── files
 │       ├── project_blabla.xlsm_ar.mqxliff
 │       └── project_blabla.xlsm_de-AT.mqxliff (etc.)
 ├── 01_TRA
-│   ├── lll-CCC.txt
 │   └── lll-CCC.zip
-├── 02_ADA
-│   ├── lll-CCC.txt
-│   └── lll-CCC.zip
-└── 10_deliverables
+└── 02_ADA
+    └── lll-CCC.zip
 ```
 
 ####  Examples
@@ -71,53 +106,33 @@ Name
 04_Verif_Review
 05_Machine_Translation
 -------
-5 files
-```
-
-An example of the contents of the `lll-CCC.txt` file would be:
-
-```
-bul-BGR
-ces-CZE
-deu-DEU
-ell-GRC
-esp-ESP
-est-EST
-fra-FRA
-hun-HUN
-ita-ITA
-pol-POL
-slo-SVK
-ron-ROU
-rus-EST
+5 folders
 ```
 
 #### Template
 
-A template can be found under `/02_AUTOMATION/Initiation/Templates/init_bundle-template.zip`. It may be used as the basis for the initiation bundle for a new survey translation workflow (after updating the various details to the characteristics of the new survey (e.g. the list of languages for each task, the source MRT file, the bundle's name, etc.), which must be put it in the folder `/02_AUTOMATION/Initiation/` of the project.
-
-**IMPORTANT**: The `lll-CCC.zip` file should include the contents of the version subfolder, not the version subfolder itself. The best way to create the `lll-CCC.zip` file is to simply go into the model `lll-CCC` folder, select all subfolders and zip them, and then rename the zip file created as `lll-CCC.zip` if necessary. Do not zip the `lll-CCC/` folder itself. The same applies to the initiation bundle itself.
+A template can be found under `/02_AUTOMATION/Initiation/Templates/init_bundle_template.zip`. It may be used as the basis for the actual initiation bundle for a new workflow, which must be put it in the folder `/02_AUTOMATION/Initiation/` of the project.
 
 #### @PM - Steps to initiate the automation
 
 In a nutshell:
 
-1. Export the XLIFF files from memoQ or Trados for translation and the initiation bundle template from `{root}/02_AUTOMATION/Initiation/Templates/init_bundle-template.zip` to a local folder in your machine.
+1. Update the list of languages and the other options and parameters in the config file.
+    - You may use the [**Locale checker**](https://capps.capstan.be/locale_checker.php) app in cApps to make sure the language codes are correct.
+  
+1. Export the XLIFF files from memoQ or Trados for translation to a local folder in your machine.
 
-3. Unzip the initiation bundle template (or simply open it in 7-zip, if you prefer)
+3. Copy the initiation bundle template (available at `{root}/02_AUTOMATION/Initiation/Templates/init_bundle_template.zip` ) to a local folder in your machine and unzip it (or simply open it in 7-zip, if you prefer).
 
 3. Put the new files for translation inside the `00_source/files` folder of the initiation bundle.
 
-4. Update the list of languages under each language task folder.
-  - Use a text editor to edit the `lll-CCC.txt`.
-  - You may use the [**Locale checker**](https://capps.capstan.be/locale_checker.php) app in cApps to make sure the language codes are correct.
+4. If necessary, update the list of subfolders in the `lll-CCC.zip` bundle under each language task.
 
 5. Zip the contents of the initiation bundle (or just close it if you had simply opened it in 7-zip in step 3).
-  - If you zip them, make sure you select the folders and pack them as a new zip file. DO NOT zip the main initiation bundle folder, zip its contents!
 
-6. Rename the initiation bundle as the new workflow/wave name (see above about character restrictions for this name).
+6. Rename the initiation bundle as what you want to call the new workflow/wave (use only letters, numbers and dash, avoid underscore).
 
-7. Copy the new initiation bundle you have created to the `/02_AUTOMATION/Initiation/` folder in the project in the server.
+7. Copy the new initiation bundle you have created to the `{root}/02_AUTOMATION/Initiation/` folder in the project in the server.
 
 That's it. The process will start, the workflow will be created and, after a couple of minutes, the packages should be ready for dispatch.
 
@@ -125,7 +140,7 @@ That's it. The process will start, the workflow will be created and, after a cou
 
 ### Actions triggered
 
-When the initiation bundle is put in the folder `/02_AUTOMATION/Initiation/`,  several things happen within a few minutes: all version folders are created and the OmegaT project packages are created inside them.
+When the initiation bundle is put in the folder `{root}/02_AUTOMATION/Initiation/`,  several things happen within a few minutes: all version folders are created for the specified versions and the OmegaT project packages are created inside them for the source files found.
 
 More in detail:
 
@@ -137,4 +152,5 @@ Firstly, the survey folder structure is generated:
   - The list of languages and the version folder template are archived (for further reference, if needed) under the `_tech` folder inside the task folder.
 
 Secondly, the OMT packages are generated for each version under the `/08_WORKFLOWS/{workflow}/{task}/{version}/01_To_Translator` folder, including the file(s) for that version and named according to the pattern specified in the configuration file. They should not be renamed.
+
 

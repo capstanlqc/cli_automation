@@ -36,19 +36,20 @@ import time
 import logging
 import pathlib
 from shutil import copyfile
-from pandas_ods_reader import read_ods
 import pandas as pd
 import argparse
-from pprint import pprint
-import fstr
 from zipfile import ZipFile
 from pathlib import Path
-from glob import glob
 from common import delete_folder
 import wget
 import collections
-import zipfile
 from common import remove_from_zip
+from common import add_files_to_zip
+import fstr
+# from pandas_ods_reader import read_ods
+# from pprint import pprint
+# import zipfile
+# from glob import glob
 
 # ############# PROGRAM DESCRIPTION ###########################################
 
@@ -56,12 +57,10 @@ text = "This application automates the creation of workflow folders and creates 
 
 # intialize arg parser with a description
 parser = argparse.ArgumentParser(description=text)
-parser.add_argument("-V", "--version", help="show program version",
-                action="store_true")
-parser.add_argument("-i", "--input", help="specify path to input file (init \
-                bundle)")
-parser.add_argument("-m", "--mapping", help="specify path to mapping file, \
-                to know correspondence between different language codes")
+parser.add_argument("-V", "--version", help="show program version", action="store_true")
+parser.add_argument("-i", "--input", help="specify path to input file (init bundle)")
+parser.add_argument("-m", "--mapping", help="specify path to mapping file, to know correspondence between different \
+                                            language codes")
 parser.add_argument("-c", "--config", help="specify path to config file")
 
 
@@ -86,76 +85,63 @@ else:
 
 ts = time.gmtime()
 # the directory of this script being run (e.g. /path/to/cli_automation/flash_prepp_help)
-parent_dir = pathlib.Path(__file__).parent.absolute()
+parent_dir_abspath = pathlib.Path(__file__).parent.absolute()
 # current working directory (from where the script is called )
-#y = pathlib.Path().absolute()
+# y = pathlib.Path().absolute()
 
-logdir_path = os.path.join(parent_dir, '_log')
+logdir_path = os.path.join(parent_dir_abspath, '_log')
 try:
     os.mkdir(logdir_path)
 except OSError:
     pass
-    #print("Directory %s was not created, presumably it already existed." % logdir_path)
+    # print("Directory %s was not created, presumably it already existed." % logdir_path)
 else:
     print("Successfully created the directory %s " % logdir_path)
 
 formatted_ts = time.strftime("%Y%m%d_%H%M%S", ts)
 logfile_path = os.path.join(logdir_path, formatted_ts + '.log')
-#open(log_fname, "a")
+# open(log_fname, "a")
 print(f"The log will be printed to '{logfile_path}'")
 
-logging.basicConfig(format='[%(asctime)s] %(name)s@%(module)s:%(lineno)d %(levelname)s: %(message)s', filename=logfile_path, level=logging.DEBUG) # encoding='utf-8' only for >= 3.9
+logging.basicConfig(format='[%(asctime)s] %(name)s@%(module)s:%(lineno)d %(levelname)s: %(message)s',
+                    filename=logfile_path, level=logging.DEBUG) # encoding='utf-8' only for >= 3.9
 logging.captureWarnings(True)
 
 # ############# FUNCTIONS ###########################################
 
 
 def update_docs():
-    # turn this around : upload the file to upload_doc.php
+    # todo: turn this around -> upload the file to upload_doc.php
     # https://stackabuse.com/how-to-upload-files-with-pythons-requests-library/
     fname = 'workflow_automation.md'
-    docs_dir_path = os.path.join(parent_dir, 'docs')
+    docs_dir_path = os.path.join(parent_dir_abspath, 'docs')
     doc_path = os.path.join(docs_dir_path, fname)
-    os.remove(doc_path)
+    if Path(doc_path).exists():
+        print(f"doc_path: {doc_path} exists")
+        os.remove(doc_path)
     url = 'https://capps.capstan.be/doc/workflow_automation.md'
     wget.download(url, docs_dir_path)
 
 
-# get current path
 def get_boolean_value(x):
+    """ Convert loose human booleans to proper booleans """
     return x if isinstance(x, bool) \
         else True if x.strip().lower() in ['true', '1', 'y', 'yes', 1] \
         else False
 
 
-def build_path(parent_dir_path_str, filename):
-    ''' Creates real path from the pieces to the file '''
-    file_path_str = os.path.join(parent_dir_path_str, filename) # arg
-    return Path(file_path_str).absolute()
-
-
-def get_df_from_sheet_in_ods(config_file_path, sheet_name):
-    ''' Reads spreadsheet and outputs df '''
+def get_col_from_ws(config_file_path, sheet_name, use_col):  # rewrite: input is sheet_df, not file
+    """ Gets list of values from specific worksheet """
     if config_file_path.exists():
-        df = read_ods(config_file_path, sheet_name)
-        return df
+        df = pd.read_excel(config_file_path, sheet_name=sheet_name, usecols=use_col)
+        return df['version'].values.tolist()
     else:
-        logging.warning("The .ods file does not exist)")
+        logging.error("The config file does not exist")
         return None
 
 
-def get_df_from_xlsx(config_file_path, sheet_name):
-    ''' Reads spreadsheet and outputs df '''
-    if config_file_path.exists():
-        df = pd.read_excel(config_file_path, sheet_name=sheet_name)
-        return df
-    else:
-        logging.warning("The .xlsx file does not exist)")
-        return None
-
-
-def get_colpair_from_ws(config_file_path, sheet_name, use_cols): # rewrite: input is sheet_df, not file
-    ''' Gets list of key-value pairs from specific worksheet '''
+def get_colpair_from_ws(config_file_path, sheet_name, use_cols):  # rewrite: input is sheet_df, not file
+    """ Gets list of key-value pairs from specific worksheet """
     if config_file_path.exists():
         x, y = use_cols[0], use_cols[1]
         df = pd.read_excel(config_file_path, sheet_name=sheet_name, usecols=use_cols)
@@ -165,19 +151,11 @@ def get_colpair_from_ws(config_file_path, sheet_name, use_cols): # rewrite: inpu
         return None
 
 
-def deploy_init_bundle(init_path):
-    ''' Fetches the initiation bundle and unpacks it in the 08_WORKFLOWS folder. '''
-    if init_path.exists():
-        pass
-    else:
-        logging.error("The file does not exist)")
-        return None
-
-
 def instantiate_fname_from_template(string, **kwargs):
+    """ Turns filename template into actual filename instance. """
     for key in kwargs:
         # to extract optional arguments
-        vars()[key] = kwargs[key] # equivalent to version = kwargs[key] when key = 'version'
+        vars()[key] = kwargs[key]  # equivalent to version = kwargs[key] when key = 'version'
     if '{' in string:
         template = fstr(string)
         return template.evaluate()
@@ -185,25 +163,19 @@ def instantiate_fname_from_template(string, **kwargs):
         return string
 
 
-def fstring(tmpl_str): # not used in this script (use instantiate_fname_from_template, which is clearer)
-    ''' Converts template names that come from the config file into actual strings,
-    replacing placeholders between curly brackets with values of previously instantiated values.'''
-    return eval(f"f'{tmpl_str}'")
-
-
-def strip_file_extension(filename): # or filepath
-    ''' Returns the name of the file without the extension.
-        The filename can have dots. '''
+def strip_file_extension(filename):  # or filepath
+    """ Returns the name of the file without the extension.
+        The filename can have dots. """
     return os.path.splitext(filename)[0]
 
 
 def unpack_bundle(bundle, location):
-    ''' Deploys initiation bundle to create workflow folder '''
+    """ Deploys initiation bundle to create workflow folder """
     # Create a ZipFile Object and load sample.zip in it
     unpacked_bundle_path = os.path.join(location, os.path.basename(bundle))
     # if Path(unpacked_bundle_path).exists....
     if overwrite_folders:
-        delete_folder(unpacked_bundle_path) #@test // add new folders??
+        delete_folder(unpacked_bundle_path)  # @test // add new folders??
 
     with ZipFile(bundle, 'r') as zipObj:
         # ZipFile.extractall(path=None, members=None, pwd=None)
@@ -211,8 +183,18 @@ def unpack_bundle(bundle, location):
         zipObj.extractall(location)
 
 
-def get_versions_for_task(lang_list_path):
+def get_versions_for_task(task):
+    """ Gets list of cApStAn language codes for the language task """
+    try:
+        logging.debug("Let's try to open the language list file")
+        return get_col_from_ws(config_path, sheet_name=task, use_col=['version'])  # list
+    except Exception as e:
+        logging.error(f"I couldn't get list of versions from config file: {e}")
+        return None
 
+
+def x_get_versions_for_task(lang_list_path):
+    """ Gets list of cApStAn language codes for the language task """
     if not Path(lang_list_path).exists:
         logging.error("Language list file not found")
         return None
@@ -222,14 +204,13 @@ def get_versions_for_task(lang_list_path):
         with open(lang_list_path) as f:
             versions = [l.strip() for l in f.readlines() if l.strip() != '']
             return versions
-    except:
-        logging.error("I couldn't open the language list file")
+    except Exception as e:
+        logging.error(f"I couldn't open the language list file: {e}")
         return None
 
 
 def create_version_folders(versions, dir_templ_path, dirpath):
-    ''' For each version unpack dir_templ_path in dirpath,
-    outputs list of paths to folders created. '''
+    """ For each version unpack dir_templ_path in dirpath, returns list of paths to folders created. """
     paths = []
     try:
         if versions:
@@ -238,12 +219,13 @@ def create_version_folders(versions, dir_templ_path, dirpath):
                 paths.append(version_dir_path)
                 unpack_bundle(dir_templ_path, version_dir_path)
         return paths
-    except:
+    except Exception as e:
+        logging.error(f"Could not create version folders: {e}")
         return None
 
 
 def archive_tech_files(dirpath, files):
-    ''' Archives template and list '''
+    """ Archives template and list """
     tech_path = os.path.join(dirpath, '_tech')
 
     if not Path(tech_path).exists():
@@ -255,76 +237,63 @@ def archive_tech_files(dirpath, files):
             shutil.move(fpath, os.path.join(tech_path, f))
 
 
-def build_mq2caps_langtag_mapping_from_csv(mapping_path, use_cols):
-    ''' use_cols must be a two-item list, e.g. use_cols = ['cApStAn', 'BCP47'] '''
-    #mapping = get_df_from_xlsx(mapping_path, sheet_name=None)
+def build_2langtag_mapping_from_csv(mapping_path, use_cols):  # not used
+    """ Creates a dictionary with all the langtag pairs available.
+        use_cols must be a two-item list, e.g. use_cols = ['cApStAn', 'BCP47'] """
+    # mapping = get_df_from_xlsx(mapping_path, sheet_name=None)
     map_df = pd.read_csv(mapping_path, usecols=use_cols)
     x, y = use_cols
     mq2caps_langtag_mapping = dict(zip(map_df[x], map_df[y]))
     return mq2caps_langtag_mapping
 
 
-def build_mq2caps_langtag_mapping(mapping_path, use_cols, sheet_name=None):
-    ''' use_cols must be a two-item list, e.g. use_cols = ['cApStAn', 'BCP47'] '''
-    if sheet_name: # and mapping_path ends with xslx
-        #mapping = get_df_from_xlsx(mapping_path, sheet_name=None)
-        map_df = pd.read_excel(mapping_path, usecols=use_cols, sheet_name=sheet_name)
-    else: # elif mapping_path ends with csv
+def build_2langtag_mapping(path_to_mapping_file, use_cols, sheet_name=None):
+    """ Creates a dictionary with all the langtag pairs available.
+        use_cols must be a two-item list, e.g. use_cols = ['cApStAn', 'BCP47'] """
+    if sheet_name:  # and path_to_mapping_file ends with xslx
+        # mapping = get_df_from_xlsx(path_to_mapping_file, sheet_name=None)
+        map_df = pd.read_excel(path_to_mapping_file, usecols=use_cols, sheet_name=sheet_name)
+    else:  # elif path_to_mapping_file ends with csv
         # read_csv
-        map_df = pd.read_csv(mapping_path, usecols=use_cols)
+        map_df = pd.read_csv(path_to_mapping_file, usecols=use_cols)
 
     x, y = use_cols
-    mq2caps_langtag_mapping = dict(zip(map_df[x], map_df[y])) # todo: skip nan
-    return mq2caps_langtag_mapping
+    return dict(zip(map_df[x], map_df[y]))  # todo: skip nan
 
 
 def get_langtag_from_fname(src_file, langtags):
     if any(tag in src_file for tag in langtags):
         tags = [tag for tag in langtags if(tag in src_file)]
-        return max(tags, key=len) # returning the longest code found (dut-NL, not dut)
+        return max(tags, key=len)  # returning the longest code found (dut-NL, not dut)
     else:
         return None
 
 
-def get_version_dir_path(capstan_langcode):
-    if folders_created and any(str(path).endswith(capstan_langcode) for path in folders_created):
-        version_dir_path = [path for path in folders_created if(str(path).endswith(capstan_langcode))][0]
-        logging.info(f"Version folders created successfully, including folder for {capstan_langcode}")
-        return version_dir_path
-    else:
-        logging.warning(f"Version folders not created successfully or folder for {capstan_langcode} not included")
-        return None
+def get_omtpkg_template_path(wrkflw_dir_path):
 
-
-def get_omtpkg_template_path(workflow_dir_path):
-
-    for dirpath, dirnames, files in os.walk(workflow_dir_path):
+    for dirpath, dirnames, files in os.walk(wrkflw_dir_path):
         # under 00_source
-        if dirpath.endswith('00_source') and any(f.endswith(".omt") for f in files) \
-            and 'files' in dirnames:
+        if dirpath.endswith('00_source') and any(f.endswith(".omt") for f in files) and 'files' in dirnames:
 
             logging.info(f"OmegaT project package template found")
-            omtpkg_template_fname = [f for f in files if(f.endswith(".omt"))][0] # gets the first one, there should be only one
-            omtpkg_template_path = os.path.join(dirpath, omtpkg_template_fname)
-
-    return omtpkg_template_path
+            omtpkg_template_fname = [f for f in files if(f.endswith(".omt"))][0]  # gets the 1st one, only 1 is expected
+            return os.path.join(dirpath, omtpkg_template_fname)
 
 
-def get_files_per_version(workflow_dir_path):
-    #files_per_version = dict.fromkeys(versions, [])
-    files_per_version = collections.defaultdict(list) # values will be lists
+def get_files_per_version(wrkflw_dir_path):
+    # iles_per_version = dict.fromkeys(versions, [])
+    files_per_version = collections.defaultdict(list)  # values will be lists
 
-    for dirpath, dirnames, files in os.walk(workflow_dir_path):
+    for dirpath, dirnames, files in os.walk(wrkflw_dir_path):
         # under 00_source
-        if files and any(f.endswith(".omt") for f in files) \
-            and 'files' in dirnames and dirpath.endswith('00_source'):
+        if files and any(f.endswith(".omt") for f in files) and 'files' in dirnames and dirpath.endswith('00_source'):
 
             src_files_dir = os.path.join(dirpath, 'files')
             logging.info(f"Source files found: {os.listdir(src_files_dir)}")
 
             for src_file in os.listdir(src_files_dir):
 
-                #logging.info(f"Adding file {src_file} to the project package")
+                # logging.info(f"Adding file {src_file} to the project package")
                 logging.info(f"Getting language from file {src_file}")
                 tag = get_langtag_from_fname(src_file, mq_langtags)
 
@@ -333,19 +302,20 @@ def get_files_per_version(workflow_dir_path):
                     capstan_langcode = mq2caps_langtag_mapping[tag]
                     logging.info(f"Version has cApStAn code {capstan_langcode}")
 
-                    logging.info(f"Adding {src_file} to version {capstan_langcode}")
+                    logging.info(f"Assigning {src_file} to version {capstan_langcode}")
                     files_per_version[capstan_langcode].append(os.path.join(src_files_dir, src_file))
                 else:
                     logging.warning("No language tag found in the file name.")
 
             logging.info("---------------------") # 
 
-    #@ add_missing_versions_based_on_srcfiles(files_per_version.keys()) # to lll-CCC.txt in _tech and to the init bundle in _done
+    # todo: add_missing_versions_based_on_srcfiles(files_per_version.keys())
+    # to lll-CCC.txt in _tech and to the init bundle in _done
     return files_per_version
 
 
-def do_update_langtag_in_prj_settings(omtpkg_instance_pathto, capstan_langcode):
-    ''' Replaces xx-XX in the project settings with the actual OmegaT (4) language tag.'''
+def do_update_langtag_in_prj_settings(omtpkg_instance_path, capstan_langcode):
+    """ Replaces xx-XX in the project settings with the actual OmegaT (4) language tag."""
 
     logging.info(f"Let's instantiate the BCP47 language tag in the project settings.")
     omegat4_tag = caps2ot4_langtag_mapping[capstan_langcode]
@@ -353,14 +323,14 @@ def do_update_langtag_in_prj_settings(omtpkg_instance_pathto, capstan_langcode):
 
     logging.info("Extracting 'omegat.project'")
     version_temp_dir = f'_temp/{capstan_langcode}'
-    with ZipFile(omtpkg_instance_pathto, 'r') as omtpkg:
+    with ZipFile(omtpkg_instance_path, 'r') as omtpkg:
         omtpkg.extract('omegat.project', version_temp_dir) # file to extract, dir where to extract
 
     logging.info("Updating 'omegat.project' outside of the package")
     omtprj_settings_tempfile = os.path.join(version_temp_dir, 'omegat.project')
     with open(omtprj_settings_tempfile, 'r+') as f:
         text = f.read()
-        #text = re.sub('xx-XX', omegat4_tag, text)
+        # text = re.sub('xx-XX', omegat4_tag, text)
         text = text.replace('xx-XX', omegat4_tag)
         f.seek(0)
         f.write(text)
@@ -368,69 +338,79 @@ def do_update_langtag_in_prj_settings(omtpkg_instance_pathto, capstan_langcode):
 
     logging.info("Removing generic 'omegat.project' from package.")
     files_to_remove = "omegat.project", #tuple
-    remove_from_zip(omtpkg_instance_pathto, *files_to_remove) # tuple
+    remove_from_zip(omtpkg_instance_path, *files_to_remove) # tuple
 
     logging.info("Adding updated 'omegat.project' to package")
-    with ZipFile(omtpkg_instance_pathto, "a" ) as omtpkg:
+    with ZipFile(omtpkg_instance_path, "a" ) as omtpkg:
         omtpkg.write(omtprj_settings_tempfile, f'omegat.project')
 
     delete_folder(version_temp_dir)
 
 
-def do_add_srcfiles_to_prjpkg(omtpkg_instance_pathto, src_files):
-    ''' Adds source files to the package.'''
-    logging.info(f"Files in {src_files} will be added to the source folder of the project.")
-    with ZipFile(omtpkg_instance_pathto, "a" ) as omtpkg:
-        for file_path in src_files:
-            #file_path = os.path.join(workflow_dir_path, '00_source', 'files', file)
-            fname = os.path.basename(file_path)
-            omtpkg.write(file_path, f'source/{fname}')
-
-
-def do_create_omtpkg_instances(workflow_dir_path, files_per_version, omtpkg_template_path):
-    #@ change internal language codes in the packages!!!!
+def do_create_omtpkg_instances(wrkflw_dir_path, files_per_version, omtpkg_templ_path):
+    """ Tries to create the OMT packages inside the folders to translators and add the source files to each pacakge. """
 
     logging.info(f'Double translation: {double_xlat}')
     try:
         logging.info(f"Let's try to create the OMT project packages")
-        for dirpath, children_dirs, children_files in os.walk(workflow_dir_path):
-            #print(f'dirpath: {dirpath} \children_dirs: {children_dirs} \children_files: {children_files}\n------------\n')
+        for dirpath, children_dirs, children_files in os.walk(wrkflw_dir_path):
+            # print(f'dirpath: {dirpath} \child_dirs: {children_dirs} \child_files: {children_files}\n------------\n')
 
-            for capstan_langcode, src_files in files_per_version.items(): # xxx-XXX => paths
+            for capstan_langcode, src_files in files_per_version.items():  # xxx-XXX => paths
 
                 if dirpath.endswith(capstan_langcode) and toXl8rs_dirs[0] in children_dirs:
 
                     for (i, toXl8r_dir) in enumerate(toXl8rs_dirs, start=1):
-                        toXl8r_dir_path = os.path.join(dirpath, toXl8r_dir)
-                        omtpkg_instance_name = instantiate_fname_from_template(params['omtpkg_instance_name'], version=capstan_langcode)
+                        toxl8r_dir_path = os.path.join(dirpath, toXl8r_dir)
+                        omtpkg_instance_name = instantiate_fname_from_template(params['omtpkg_name_template'],
+                                                                               version=capstan_langcode)
                         if double_xlat:
                             omtpkg_instance_name = omtpkg_instance_name.replace('_OMT.omt', f'_T{i}_OMT.omt')
 
-                        logging.info(f"Creating package {omtpkg_instance_name} in {toXl8r_dir_path}")
+                        logging.info(f"Creating package {omtpkg_instance_name} in {toxl8r_dir_path}")
                         logging.info(f"The new project package will be called {omtpkg_instance_name}")
-                        omtpkg_instance_pathto = os.path.join(toXl8r_dir_path, omtpkg_instance_name)
-                        logging.info(f"The new project package will have path {omtpkg_instance_pathto}")
+                        omtpkg_instance_path = os.path.join(toxl8r_dir_path, omtpkg_instance_name)
+                        logging.info(f"The new project package will have path {omtpkg_instance_path}")
 
-                        if overwrite_packages or not Path(omtpkg_instance_pathto).exists():
-                            logging.info(f"Creating {omtpkg_instance_pathto}.")
-                            copyfile(omtpkg_template_path, omtpkg_instance_pathto) # only accepts strings, use os.path.copy
+                        if overwrite_packages or not Path(omtpkg_instance_path).exists():
+                            logging.info(f"Creating {omtpkg_instance_path}.")
+                            copyfile(omtpkg_templ_path, omtpkg_instance_path)  # only accepts strs, use os.path.copy
                             # edit project's language tag
 
-                            do_update_langtag_in_prj_settings(omtpkg_instance_pathto, capstan_langcode)
-                            do_add_srcfiles_to_prjpkg(omtpkg_instance_pathto, src_files)
+                            do_update_langtag_in_prj_settings(omtpkg_instance_path, capstan_langcode)
+                            # do_add_srcfiles_to_prjpkg(omtpkg_instance_path, src_files)  # rm fn
+                            add_files_to_zip(omtpkg_instance_path, src_files, 'source')
 
                         else:
-                            logging.info(f"Package {omtpkg_instance_name} will not be created (either it already exists or option 'overwrite_folders' is not set).")
-    except:
-        logging.error("Unable to create (some of the) OMT package instances.")
+                            logging.info(f"Package {omtpkg_instance_name} will not be created (either it already exists\
+                                    or option 'overwrite_folders' is not set).")
+    except Exception as e:
+        logging.error(f"Unable to create (some of the) OMT package instances: \n {e}.")
 
 
-def do_create_version_folders(workflow_dir_path):
-    ''' Unpack the initiation bundle '''
-    for dirpath, children_dirs, children_files in os.walk(workflow_dir_path):
-        #logging.debug(f'dirpath: {dirpath} \nchildren_dirs: {children_dirs} \nchildren_files: {children_files}\n------------\n')
+def do_deploy_workflow(wrkflw_dir_path):
+    """ Unpack the initiation bundle """
+    for dirpath, children_dirs, children_files in os.walk(wrkflw_dir_path):
         # under the language task folders
-        if children_files and 'lll-CCC.zip' in children_files and 'lll-CCC.txt' in children_files and not dirpath.endswith('_tech'):
+        if children_files and 'lll-CCC.zip' in children_files and not dirpath.endswith('_tech'):
+            task = os.path.basename(dirpath)
+            dir_templ_path = os.path.join(dirpath, 'lll-CCC.zip')
+            logging.debug(f"dir_templ_path: {dir_templ_path}")
+            versions = get_versions_for_task(task)
+            # todo: add versions to _tech/lll-CCC.txt
+            logging.debug(f"versions: {versions}")
+            folders_created = create_version_folders(versions, dir_templ_path, dirpath)
+            logging.debug(f"folders_created: {folders_created}")
+            if folders_created:
+                archive_tech_files(dirpath, ['lll-CCC.zip', 'lll-CCC.txt', 'ada_lang_mapping.ods'])
+
+
+def x_do_deploy_workflow(wrkflw_dir_path):
+    """ Unpack the initiation bundle """
+    for dirpath, children_dirs, children_files in os.walk(wrkflw_dir_path):
+        # under the language task folders
+        if children_files and 'lll-CCC.zip' in children_files and 'lll-CCC.txt' in children_files \
+                and not dirpath.endswith('_tech'):
             dir_templ_path = os.path.join(dirpath, 'lll-CCC.zip')
             lang_list_path = os.path.join(dirpath, 'lll-CCC.txt')
             logging.debug(f"dir_templ_path: {dir_templ_path}")
@@ -443,32 +423,90 @@ def do_create_version_folders(workflow_dir_path):
                 archive_tech_files(dirpath, ['lll-CCC.zip', 'lll-CCC.txt', 'ada_lang_mapping.ods'])
 
 
-def do_create_rec_omtpkg(workflow_dir_path, rec_files):
-    ''' Creates the reconciliation project packing including the TMs from the two translation packages. '''
-    logging.info("Let's create the project package for reconciliation")
-    for dirpath, children_dirs, children_files in os.walk(workflow_dir_path):
-        # for any(condition for pkg in rec_files.)
-        fromXlat_dirs = next(iter(rec_files.values()))
+def get_path_of_1st_omt_in_dir(path_to, parent_dir):
+    parent_dir_path = os.path.join(path_to, parent_dir)
+    try:
+        from_xlat_omt = [f for f in os.listdir(parent_dir_path) if str(f).endswith('.omt')][0]
+        return os.path.join(parent_dir_path, from_xlat_omt)
+    except Exception as e:
+        print(f"Unable to get path of first OMT file in directory {parent_dir_path}, exception: {e}")
+        return None
 
-        if any(str(dirpath).endswith(fXdir) for fXdir in fromXlat_dirs):
-            #print(f'dirpath: {dirpath} \nchildren_dirs: {children_dirs} \nchildren_files: {children_files}\n------------\n')
-            #print(type(dirpath))
-            #print(f'{dirpath} contains {fXdir}')
+
+def extract_internal_tm(dirpath, from_xlat_dir):
+    """ Extract the internal TM (project_save) from package and returns path to the tmx file. """
+
+    from_xlat_omt_path = get_path_of_1st_omt_in_dir(dirpath, from_xlat_dir)
+    from_xlat_omt = os.path.basename(from_xlat_omt_path)
+
+    if from_xlat_omt_path:
+        temp_dir = '_temp'
+        with ZipFile(from_xlat_omt_path, 'r') as omtpkg:
+            omtpkg.extract('omegat/project_save.tmx', temp_dir)  # file to extract, dir where to extract
+
+        tmx_path = os.path.join(temp_dir, 'omegat', 'project_save.tmx')
+        tmx_newname = str(from_xlat_omt).replace('.omt', '')
+        new_tmx_path = str(tmx_path).replace('project_save', tmx_newname)
+        os.rename(tmx_path, new_tmx_path)
+        return new_tmx_path
+    else:
+        logging.error(f"Package {from_xlat_omt_path} not found")
+        return None
+
+
+def list_has_one_omt(dirpath, from_xlat_dir):
+    """ Checks that the files inside dir contain only one OMT file """
+    return len([f for f in os.listdir(os.path.join(dirpath, from_xlat_dir)) if str(f).endswith('.omt')]) == 1
+
+
+def do_create_rec_omtpkg(wrkflw_dir_path, rec_files):
+    """ Creates the reconciliation project packages including the TMs from the two translation packages. """
+
+    for dirpath, children_dirs, children_files in os.walk(wrkflw_dir_path):
+
+        from_xlat_dirs = next(iter(rec_files.values()))
+        omtpkg_torec_dir = list(rec_files.keys())[0]
+
+        # we are in the version folder
+        if from_xlat_dirs[0] in children_dirs \
+                and from_xlat_dirs[1] in children_dirs \
+                and omtpkg_torec_dir in children_dirs:  # all 3 dirs (t1, t2, rec) are here, we're in the right place
+
+            # t1 and t2 pkgs exist and rec pkg has not been created
+            if list_has_one_omt(dirpath, from_xlat_dirs[0]) \
+                    and list_has_one_omt(dirpath, from_xlat_dirs[1]) \
+                    and not list_has_one_omt(dirpath, omtpkg_torec_dir):
+
+                logging.info("Let's create the project package for reconciliation")
+
+                t1_tmx_relpath = extract_internal_tm(dirpath, from_xlat_dirs[0])
+                t2_tmx_relpath = extract_internal_tm(dirpath, from_xlat_dirs[1])
+
+                if t1_tmx_relpath and t2_tmx_relpath:
+                    print("Internal TMs extracted")
+                    # copy t1_omtpkg to rec dir
+                    t1_omtpkg_path = get_path_of_1st_omt_in_dir(dirpath, from_xlat_dirs[0])
+                    version_dname = os.path.basename(dirpath)  # lll-CCC (version and folder name)
+                    omtpkg_instance_name = instantiate_fname_from_template(params['omtpkg_name_template'],
+                                                                           version=version_dname)
+                    omtpkg_instance_path = os.path.join(dirpath, omtpkg_torec_dir, omtpkg_instance_name)
+                    # only accepts strings, for paths use os.path.copy
+                    copyfile(t1_omtpkg_path, omtpkg_instance_path)  # two strings
+                    # remove internal tm
+                    filenames = 'omegat/project_save.tmx*', 'omegat/last_entry.properties',  # tuple
+                    remove_from_zip(omtpkg_instance_path, *filenames)
+                    # add T1 and T2 tmx's
+                    add_files_to_zip(omtpkg_instance_path, [t1_tmx_relpath, t2_tmx_relpath], 'tm')
+        else:
+            # Either the T1 and/or T2 packages are not there, or the Rec package already exists.
             pass
-
-        # check that the translated packages exist, if not pass
-        # if they exist-> unzip them
-        # either run java on the projects to general , or get project_save -> rename it with T1 and T2
-        # copy one of the two packages, remove everything
-        # put the tmx files in /tm
-
 
 
 # ############# CONSTANTS ###########################################
 
-#config_df = get_df_from_xlsx(config_path, sheet_name = None)
-params = get_colpair_from_ws(config_path, sheet_name = 'params', use_cols=['key', 'value']) # dict
-options = get_colpair_from_ws(config_path, sheet_name = 'options', use_cols=['key', 'value']) # dict
+# config_df = get_df_from_xlsx(config_path, sheet_name = None)
+params = get_colpair_from_ws(config_path, sheet_name='params', use_cols=['key', 'value'])  # dict
+options = get_colpair_from_ws(config_path, sheet_name='options', use_cols=['key', 'value'])  # dict
 
 # params
 root = params['root'].rstrip('/')
@@ -490,71 +528,56 @@ if double_xlat:
     toXl8rs_dirs.append(params['omtpkg_toXlat2_dir'].rstrip('/'))
 
 if double_xlat_merge:
-    rec_files = {
+    reconciliation_files = {
         params['omtpkg_toRec_dir'].rstrip('/'): [
             params['omtpkg_fromXlat1_dir'].rstrip('/'),
             params['omtpkg_fromXlat2_dir'].rstrip('/')
-            ]
-        }
+        ]
+    }
 
 init_bundle_fname = os.path.basename(init_path)
-workflow_name = strip_file_extension(init_bundle_fname) # = wave
+workflow_name = strip_file_extension(init_bundle_fname)  # = wave
 
-#print(f'workflow_name (wave): {workflow_name}')
-workflow_dir_path = os.path.join(workflow_parent_dir, workflow_name) # abs path
+# print(f'workflow_name (wave): {workflow_name}')
+workflow_dir_path = os.path.join(workflow_parent_dir, workflow_name)  # abs path
 
 # /cli_automation/conv_multilingual_wb_to_tmxs/langtags_20181210.csv
-#mq2caps_langtag_mapping = build_mq2caps_langtag_mapping_from_csv(mapping_path, use_cols = ['BCP47', 'cApStAn']) # dict
-mq2caps_langtag_mapping = build_mq2caps_langtag_mapping(mapping_path, use_cols = ['memoq3', 'cApStAn'], sheet_name='mq2caps') # dict
-caps2ot4_langtag_mapping = build_mq2caps_langtag_mapping(mapping_path, use_cols = ['cApStAn', 'OmegaT4'], sheet_name='mq2caps') # dict
+# mq2caps_langtag_mapping = build_2langtag_mapping_from_csv(mapping_path, use_cols = ['BCP47', 'cApStAn'])  # dict
+mq2caps_langtag_mapping = build_2langtag_mapping(mapping_path, use_cols=['memoq3', 'cApStAn'], sheet_name='mq2caps')
+caps2ot4_langtag_mapping = build_2langtag_mapping(mapping_path, use_cols=['cApStAn', 'OmegaT4'], sheet_name='mq2caps')
 
 
-mq_langtags = [tag for tag in mq2caps_langtag_mapping.keys() if isinstance(tag, str)] # list # todo: skip nan
+mq_langtags = [tag for tag in mq2caps_langtag_mapping.keys() if isinstance(tag, str)]  # list # todo: skip nan
 # 'fas / prs',
 
 # ############# BUSINESS LOGIC ###########################################
 
-#@ if name main
+if __name__ == '__main__':
 
-if deploy_init_bundle:
-    logging.info(f'workflows parent dir: {workflow_parent_dir}') ##
-    logging.info(f"I will deploy init bundle {init_bundle_fname} as {workflow_dir_path}")
-    unpack_bundle(init_path, workflow_dir_path) # deploy_init
-    # todo: archive init_bundle
-    # todo: check that workflow_dir_path exists and list its contents
-    do_create_version_folders(workflow_dir_path)
-    logging.info("-----------------------")
+    if deploy_init_bundle:
+        logging.info(f'workflows parent dir: {workflow_parent_dir}')  ##
+        logging.info(f"I will deploy init bundle {init_bundle_fname} as {workflow_dir_path}")
+        unpack_bundle(init_path, workflow_dir_path)  # deploy_init
+        # todo: archive init_bundle
+        # todo: check that workflow_dir_path exists and list its contents
+        do_deploy_workflow(workflow_dir_path)
+        #x_do_deploy_workflow(workflow_dir_path)
+        logging.info("-----------------------")
 
-if create_omtpkg_instances:
-    logging.info(f'workflow_dir_path: {workflow_dir_path}')
-    omtpkg_template_path = get_omtpkg_template_path(workflow_dir_path)
-    files_per_version = get_files_per_version(workflow_dir_path)
-    do_create_omtpkg_instances(workflow_dir_path, files_per_version, omtpkg_template_path)
-    logging.info("-----------------------")
+    if create_omtpkg_instances:
+        logging.info(f'workflow_dir_path: {workflow_dir_path}')
+        omtpkg_template_path = get_omtpkg_template_path(workflow_dir_path)
+        version_files = get_files_per_version(workflow_dir_path)
+        do_create_omtpkg_instances(workflow_dir_path, version_files, omtpkg_template_path)
+        logging.info("-----------------------")
 
-if double_xlat_merge:
-    logging.info(f"Let's create the project for reconciliation")
-    do_create_rec_omtpkg(workflow_dir_path, rec_files)
-    logging.info("-----------------------")
+    if double_xlat_merge:
+        logging.info(f"Let's see whether any T1 and T2 packages are ready for merging...")
+        omtpkg_template_path = get_omtpkg_template_path(workflow_dir_path)
+        do_create_rec_omtpkg(workflow_dir_path, reconciliation_files)
+        logging.info("-----------------------")
+
+    update_docs()
 
 
-
-#update_docs()
-print()
-'''
-- read config DONE
-- unpack init in workflows folder (e.g. 08_WORKFLOWS/init) DONE
-- creates the version folders (xxx-XXX) under the language tasks (TRA, ADA)
-- looks at files under 00_source/files, creates project packages with them and puts
-the packages in their version folder
-- cases:
-    - A) lll-CCC.zip and lll-CCC.txt =>
-        for dir in  lll-CCC.txt:
-            unzip -d dir lll-CCC.zip
-            if create_omtpkg_instances and {init}/00_source/XLF.exists():
-                instantiate path_to_omtpkg_template in dir/omtpkg_instance_location &
-                add files in {init}/00_source/XLF/* &
-                rename as omtpkg_instance (s/xxx/ver/)
-
-    - 00_source & 01_ & 02_ & 10_deliv: go into 01_ and 02_ and do (A)
-'''
+# todo: move init_path to the parent_dir of init_path

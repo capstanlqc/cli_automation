@@ -1,12 +1,13 @@
 log_*.txt
-logs/**
-.DS_Store
+logs/*
+**/.DS_Store
 api_key.txt
 flash_prepp_help
 _archive/*
 _log/*
-.vscode/*
+**/.vscode/*
 _ark/*
 **/_log/*
 **/_bak/*
 **/_temp/*
+**/.idea/*
