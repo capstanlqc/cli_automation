@@ -117,7 +117,7 @@ def update_docs():
     docs_dir_path = os.path.join(parent_dir_abspath, 'docs')
     doc_path = os.path.join(docs_dir_path, fname)
     if Path(doc_path).exists():
-        print(f"doc_path: {doc_path} exists")
+        logging.info(f"doc_path: {doc_path} exists")
         os.remove(doc_path)
     url = 'https://capps.capstan.be/doc/workflow_automation.md'
     wget.download(url, docs_dir_path)
@@ -190,22 +190,6 @@ def get_versions_for_task(task):
         return get_col_from_ws(config_path, sheet_name=task, use_col=['version'])  # list
     except Exception as e:
         logging.error(f"I couldn't get list of versions from config file: {e}")
-        return None
-
-
-def x_get_versions_for_task(lang_list_path):
-    """ Gets list of cApStAn language codes for the language task """
-    if not Path(lang_list_path).exists:
-        logging.error("Language list file not found")
-        return None
-
-    try:
-        logging.debug("Let's try to open the language list file")
-        with open(lang_list_path) as f:
-            versions = [l.strip() for l in f.readlines() if l.strip() != '']
-            return versions
-    except Exception as e:
-        logging.error(f"I couldn't open the language list file: {e}")
         return None
 
 
@@ -405,24 +389,6 @@ def do_deploy_workflow(wrkflw_dir_path):
                 archive_tech_files(dirpath, ['lll-CCC.zip', 'lll-CCC.txt', 'ada_lang_mapping.ods'])
 
 
-def x_do_deploy_workflow(wrkflw_dir_path):
-    """ Unpack the initiation bundle """
-    for dirpath, children_dirs, children_files in os.walk(wrkflw_dir_path):
-        # under the language task folders
-        if children_files and 'lll-CCC.zip' in children_files and 'lll-CCC.txt' in children_files \
-                and not dirpath.endswith('_tech'):
-            dir_templ_path = os.path.join(dirpath, 'lll-CCC.zip')
-            lang_list_path = os.path.join(dirpath, 'lll-CCC.txt')
-            logging.debug(f"dir_templ_path: {dir_templ_path}")
-            logging.debug(f"lang_list_path: {lang_list_path}")
-            versions = get_versions_for_task(lang_list_path)
-            logging.debug(f"versions: {versions}")
-            folders_created = create_version_folders(versions, dir_templ_path, dirpath)
-            logging.debug(f"folders_created: {folders_created}")
-            if folders_created:
-                archive_tech_files(dirpath, ['lll-CCC.zip', 'lll-CCC.txt', 'ada_lang_mapping.ods'])
-
-
 def get_path_of_1st_omt_in_dir(path_to, parent_dir):
     parent_dir_path = os.path.join(path_to, parent_dir)
     try:
@@ -554,16 +520,18 @@ mq_langtags = [tag for tag in mq2caps_langtag_mapping.keys() if isinstance(tag, 
 
 if __name__ == '__main__':
 
-    if deploy_init_bundle:
+    # trigger/input is the init bundle
+    if deploy_init_bundle and Path(init_path).exists() and not Path(workflow_dir_path).exists():
         logging.info(f'workflows parent dir: {workflow_parent_dir}')  ##
         logging.info(f"I will deploy init bundle {init_bundle_fname} as {workflow_dir_path}")
         unpack_bundle(init_path, workflow_dir_path)  # deploy_init
-        # todo: archive init_bundle
+        # todo: archive init_bundle if not found in do_not_archive_bundle list
         # todo: check that workflow_dir_path exists and list its contents
         do_deploy_workflow(workflow_dir_path)
         #x_do_deploy_workflow(workflow_dir_path)
         logging.info("-----------------------")
 
+    # trigger/input is the source files + omt template
     if create_omtpkg_instances:
         logging.info(f'workflow_dir_path: {workflow_dir_path}')
         omtpkg_template_path = get_omtpkg_template_path(workflow_dir_path)
@@ -571,6 +539,7 @@ if __name__ == '__main__':
         do_create_omtpkg_instances(workflow_dir_path, version_files, omtpkg_template_path)
         logging.info("-----------------------")
 
+    # trigger/input is the 2 xlat pkgs
     if double_xlat_merge:
         logging.info(f"Let's see whether any T1 and T2 packages are ready for merging...")
         omtpkg_template_path = get_omtpkg_template_path(workflow_dir_path)

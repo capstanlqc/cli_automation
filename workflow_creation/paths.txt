@@ -1,0 +1,4 @@
+script=/media/data/data/company/cApStAn_Tech/20_Automation/Scripts/cli_automation/workflow_creation/mk_workflows.py
+config=/media/data/data/company/IPSOS/OECD_PaRIS/01_PRE-TEST/02_AUTOMATION/Config/config.xlsx
+mapping=/media/data/data/company/cApStAn_Tech/20_Automation/Languages/memoq_capstan_mapping_20210512.xlsx
+init_dir=/media/data/data/company/IPSOS/OECD_PaRIS/01_PRE-TEST/02_AUTOMATION/Initiation

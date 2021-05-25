@@ -168,3 +168,38 @@ def x_get_version_dir_path(capstan_langcode):   # not used
     else:
         logging.warning(f"Version folders not created successfully or folder for {capstan_langcode} not included")
         return None
+
+
+def x_get_versions_for_task(lang_list_path):
+    """ Gets list of cApStAn language codes for the language task """
+    if not Path(lang_list_path).exists:
+        logging.error("Language list file not found")
+        return None
+
+    try:
+        logging.debug("Let's try to open the language list file")
+        with open(lang_list_path) as f:
+            versions = [l.strip() for l in f.readlines() if l.strip() != '']
+            return versions
+    except Exception as e:
+        logging.error(f"I couldn't open the language list file: {e}")
+        return None
+
+
+def x_do_deploy_workflow(wrkflw_dir_path):
+    """ Unpack the initiation bundle """
+    for dirpath, children_dirs, children_files in os.walk(wrkflw_dir_path):
+        # under the language task folders
+        if children_files and 'lll-CCC.zip' in children_files and 'lll-CCC.txt' in children_files \
+                and not dirpath.endswith('_tech'):
+            dir_templ_path = os.path.join(dirpath, 'lll-CCC.zip')
+            lang_list_path = os.path.join(dirpath, 'lll-CCC.txt')
+            logging.debug(f"dir_templ_path: {dir_templ_path}")
+            logging.debug(f"lang_list_path: {lang_list_path}")
+            versions = get_versions_for_task(lang_list_path)
+            logging.debug(f"versions: {versions}")
+            folders_created = create_version_folders(versions, dir_templ_path, dirpath)
+            logging.debug(f"folders_created: {folders_created}")
+            if folders_created:
+                archive_tech_files(dirpath, ['lll-CCC.zip', 'lll-CCC.txt', 'ada_lang_mapping.ods'])
+        
