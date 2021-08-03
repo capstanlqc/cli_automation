@@ -12,4 +12,4 @@ _ark/*
 **/_temp/*
 **/.idea/*
 workflow_creation/paths.txt
-
+**/_debug/*
