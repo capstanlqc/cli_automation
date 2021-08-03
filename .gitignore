@@ -13,3 +13,5 @@ _ark/*
 **/.idea/*
 workflow_creation/paths.txt
 **/_debug/*
+**/__pycache__
+**/__pycache__/*

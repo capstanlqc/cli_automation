@@ -31,7 +31,7 @@ __status__ = "Testing / pre-production" # "Production"
 
 # ############# IMPORTS ###########################################
 
-import sys, os, shutil
+import sys, os, shutil, pwd, grp
 import time
 import logging
 import pathlib
@@ -46,6 +46,7 @@ import collections
 from common import remove_from_zip
 from common import add_files_to_zip
 import fstr
+import subprocess
 # from pandas_ods_reader import read_ods
 # from pprint import pprint
 # import zipfile
@@ -83,7 +84,7 @@ else:
 
 # ############# LOGGING ###########################################
 
-ts = time.gmtime()
+ts = time.localtime()
 # the directory of this script being run (e.g. /path/to/cli_automation/flash_prepp_help)
 parent_dir_abspath = pathlib.Path(__file__).parent.absolute()
 # current working directory (from where the script is called )
@@ -177,10 +178,18 @@ def unpack_bundle(bundle, location):
     if overwrite_folders:
         delete_folder(unpacked_bundle_path)  # @test // add new folders??
 
-    with ZipFile(bundle, 'r') as zipObj:
-        # ZipFile.extractall(path=None, members=None, pwd=None)
-        # Extract all the contents of zip file in directory 'location'
-        zipObj.extractall(location)
+    if not os.path.exists(unpacked_bundle_path):
+        #os.makedirs(file_path) # creates with default perms 0777
+        #os.umask(0)
+        #os.makedirs(unpacked_bundle_path, mode=0o777)
+        os.system(f"chgrp -R users {location}")
+        with ZipFile(bundle, 'r') as zipObj:
+            # ZipFile.extractall(path=None, members=None, pwd=None)
+            # Extract all the contents of zip file in directory 'location'
+            zipObj.extractall(location)
+
+        
+        #subprocess.call(['chown', '-R', 'manuel:"BOSVOORDE\Domain Users"', 'dir'])
 
 
 def get_versions_for_task(task):
@@ -200,7 +209,7 @@ def create_version_folders(versions, dir_templ_path, dirpath):
         if versions:
             for ver in versions:
                 version_dir_path = os.path.join(dirpath, ver)
-                paths.append(version_dir_path)
+                paths.append(version_dir_path) # for log
                 unpack_bundle(dir_templ_path, version_dir_path)
         return paths
     except Exception as e:
@@ -277,9 +286,11 @@ def get_files_per_version(wrkflw_dir_path):
 
             for src_file in os.listdir(src_files_dir):
 
+                logging.info(f"------------------")
                 # logging.info(f"Adding file {src_file} to the project package")
                 logging.info(f"Getting language from file {src_file}")
                 tag = get_langtag_from_fname(src_file, mq_langtags)
+                
 
                 if tag:
                     logging.info(f"File has BCP47 tag {tag}")
@@ -334,8 +345,10 @@ def do_update_langtag_in_prj_settings(omtpkg_instance_path, capstan_langcode):
 def do_create_omtpkg_instances(wrkflw_dir_path, files_per_version, omtpkg_templ_path):
     """ Tries to create the OMT packages inside the folders to translators and add the source files to each pacakge. """
 
+    logging.info(f'---------------------')
     logging.info(f'Double translation: {double_xlat}')
     try:
+        logging.info(f'---------------------')
         logging.info(f"Let's try to create the OMT project packages")
         for dirpath, children_dirs, children_files in os.walk(wrkflw_dir_path):
             # print(f'dirpath: {dirpath} \child_dirs: {children_dirs} \child_files: {children_files}\n------------\n')
@@ -351,6 +364,7 @@ def do_create_omtpkg_instances(wrkflw_dir_path, files_per_version, omtpkg_templ_
                         if double_xlat:
                             omtpkg_instance_name = omtpkg_instance_name.replace('_OMT.omt', f'_T{i}_OMT.omt')
 
+                        logging.info(f'---------------------')
                         logging.info(f"Creating package {omtpkg_instance_name} in {toxl8r_dir_path}")
                         logging.info(f"The new project package will be called {omtpkg_instance_name}")
                         omtpkg_instance_path = os.path.join(toxl8r_dir_path, omtpkg_instance_name)
@@ -366,27 +380,46 @@ def do_create_omtpkg_instances(wrkflw_dir_path, files_per_version, omtpkg_templ_
                             add_files_to_zip(omtpkg_instance_path, src_files, 'source')
 
                         else:
-                            logging.info(f"Package {omtpkg_instance_name} will not be created (either it already exists\
-                                    or option 'overwrite_folders' is not set).")
+                            logging.warning(f"Package {omtpkg_instance_name} will NOT be created (either it already exists or option 'overwrite_folders' is not set).")
+
+
     except Exception as e:
         logging.error(f"Unable to create (some of the) OMT package instances: \n {e}.")
 
 
 def do_deploy_workflow(wrkflw_dir_path):
-    """ Unpack the initiation bundle """
+    """ Deploy the contents (folders and files) inside the main workflow folder """
+    logging.debug("Logging from function do_deploy_workflow()")
     for dirpath, children_dirs, children_files in os.walk(wrkflw_dir_path):
+        # logging.debug(f'{dirpath=}')
+        # logging.debug(f'{children_dirs=}')
+        # logging.debug(f'{children_files=}')
         # under the language task folders
         if children_files and 'lll-CCC.zip' in children_files and not dirpath.endswith('_tech'):
             task = os.path.basename(dirpath)
+            logging.debug(f"{task=}")
             dir_templ_path = os.path.join(dirpath, 'lll-CCC.zip')
-            logging.debug(f"dir_templ_path: {dir_templ_path}")
+            logging.debug(f"{dir_templ_path=}")
             versions = get_versions_for_task(task)
             # todo: add versions to _tech/lll-CCC.txt
-            logging.debug(f"versions: {versions}")
+            logging.debug(f"{versions=}")
             folders_created = create_version_folders(versions, dir_templ_path, dirpath)
-            logging.debug(f"folders_created: {folders_created}")
+            logging.debug(f"{folders_created=}")
             if folders_created:
                 archive_tech_files(dirpath, ['lll-CCC.zip', 'lll-CCC.txt', 'ada_lang_mapping.ods'])
+        # under the _tech folder after the workflow has been initialized but new folders have been added
+        elif children_files and 'lll-CCC.zip' in children_files and dirpath.endswith('_tech'):
+            task = os.path.basename(os.path.dirname(dirpath))
+            logging.debug(f"{task=}")
+            logging.debug(f"{dirpath=}")
+            logging.debug(f"Let's see whether new versions have been added after initializing the workflow...")
+            dir_templ_path = os.path.join(dirpath, 'lll-CCC.zip')
+            logging.debug(f"{dir_templ_path=}")
+            versions = get_versions_for_task(task)
+            logging.debug(f"{versions=}")
+            folders_created = create_version_folders(versions, dir_templ_path, os.path.dirname(dirpath))
+            logging.debug(f"{folders_created=}")
+            logging.debug(f"..............................")
 
 
 def get_path_of_1st_omt_in_dir(path_to, parent_dir):
@@ -478,6 +511,7 @@ options = get_colpair_from_ws(config_path, sheet_name='options', use_cols=['key'
 root = params['root'].rstrip('/')
 project = params['project'].strip()
 workflow_parent_dir = instantiate_fname_from_template(params['workflow_parent_dir']) # abs path
+# do_not_archive_bundle = ','.params['project'].strip()
 
 # options
 delete_empty_version_folders = get_boolean_value(options['delete_empty_version_folders'])
@@ -522,6 +556,7 @@ if __name__ == '__main__':
 
     # trigger/input is the init bundle
     if deploy_init_bundle and Path(init_path).exists() and not Path(workflow_dir_path).exists():
+        logging.debug(f'Deploying...')
         logging.info(f'workflows parent dir: {workflow_parent_dir}')  ##
         logging.info(f"I will deploy init bundle {init_bundle_fname} as {workflow_dir_path}")
         unpack_bundle(init_path, workflow_dir_path)  # deploy_init
@@ -530,6 +565,13 @@ if __name__ == '__main__':
         do_deploy_workflow(workflow_dir_path)
         #x_do_deploy_workflow(workflow_dir_path)
         logging.info("-----------------------")
+    # update version folders (using templates already archived in _tech)
+    elif Path(workflow_dir_path).exists():
+        logging.warning(f'Already deployed...')
+        logging.debug(f'Update version folders')
+        do_deploy_workflow(workflow_dir_path)
+        logging.info("-----------------------")
+
 
     # trigger/input is the source files + omt template
     if create_omtpkg_instances:
