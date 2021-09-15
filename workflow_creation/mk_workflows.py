@@ -51,6 +51,8 @@ import subprocess
 # from pprint import pprint
 # import zipfile
 # from glob import glob
+import requests
+import json
 
 # ############# PROGRAM DESCRIPTION ###########################################
 
@@ -112,16 +114,25 @@ logging.captureWarnings(True)
 
 
 def update_docs():
-    # todo: turn this around -> upload the file to upload_doc.php
-    # https://stackabuse.com/how-to-upload-files-with-pythons-requests-library/
-    fname = 'workflow_automation.md'
-    docs_dir_path = os.path.join(parent_dir_abspath, 'docs')
-    doc_path = os.path.join(docs_dir_path, fname)
-    if Path(doc_path).exists():
-        logging.info(f"doc_path: {doc_path} exists")
-        os.remove(doc_path)
-    url = 'https://capps.capstan.be/doc/workflow_automation.md'
-    wget.download(url, docs_dir_path)
+    # # todo: turn this around -> upload the file to upload_doc.php
+    # # https://stackabuse.com/how-to-upload-files-with-pythons-requests-library/
+    # fname = 'workflow_automation.md'
+    # docs_dir_path = os.path.join(parent_dir_abspath, 'docs')
+    # doc_path = os.path.join(docs_dir_path, fname)
+    # if Path(doc_path).exists():
+    #     logging.info(f"doc_path: {doc_path} exists")
+    #     os.remove(doc_path)
+    # url = 'https://capps.capstan.be/doc/md/workflow_automation.md'
+    # wget.download(url, docs_dir_path)
+
+    filename = "workflow_automation.md"
+    file = os.path.join(parent_dir_abspath, "docs", filename)
+    with open(file, 'rb') as f:
+        r = requests.post('https://capps.capstan.be/doc/upload_md.php', data = {"submit": "submit"}, files={'test2.md': f})
+
+        r = json.loads(r.text)
+    if r['status'] != "ok":
+        logging.error(f"Could not publish document '{filename}'.")
 
 
 def get_boolean_value(x):
@@ -567,7 +578,7 @@ if __name__ == '__main__':
         logging.info("-----------------------")
     # update version folders (using templates already archived in _tech)
     elif Path(workflow_dir_path).exists():
-        logging.warning(f'Already deployed...')
+        logging.warning(f"Workflow '{os.path.basename(workflow_dir_path)}' already deployed...")
         logging.debug(f'Update version folders')
         do_deploy_workflow(workflow_dir_path)
         logging.info("-----------------------")
