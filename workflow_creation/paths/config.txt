@@ -1,0 +1,2 @@
+script=/media/data/data/company/cApStAn_Tech/20_Automation/Scripts/cli_automation/workflow_creation/mk_workflows.py
+mapping=/media/data/data/company/cApStAn_Tech/20_Automation/Languages/memoq_capstan_mapping_20210512.xlsx
