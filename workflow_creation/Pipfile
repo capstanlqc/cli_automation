@@ -11,8 +11,11 @@ openpyxl = "*"
 fstr = "*"
 markdown = "*"
 wget = "*"
+argparse = "*"
+pathlib = "*"
+requests = "*"
 
 [dev-packages]
 
 [requires]
-python_version = "3.8.5"
+python_version = "3.8.10"
