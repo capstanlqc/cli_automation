@@ -26,21 +26,21 @@ You are expected to understand the following concepts: workflow, workflow folder
 
 In this document, curly braces are used for `{placeholders}`. 
 
-### 04. Preconditions
+#### 04. Preconditions
 
-This document presumes that the root folder of the project already exists. If the root folder of the project doesn't exist yet, it must be created before you can follow the steps below to automate the workflow creation and updates, and it must contain a `02_AUTOMATION` folder (which can be copied from  `u:\IPSOS\_tech\02_AUTOMATION`).
+This document presumes that the root folder of the project already exists. If the root folder of the project doesn't exist yet, it must be created before you can follow the steps below, and it must contain a `02_AUTOMATION` folder. Ask TT to add it or copy it from  `u:\IPSOS\_tech\02_AUTOMATION`.
 
 > The FLASH project (see `u:\IPSOS\EUROBAROMETER_FLASH_2.0`) is a good source of inspiration to create a root folder for your project with a neat structure. 
 
 ## 1. How to use the automation: quick steps ##
 
-It is the PM's task to prepare both the initiation bundle and maintain the configuration file. 
+The PM must prepare the initiation bundle and maintain the configuration file. 
 
-This document presumes that the root folder of the project already exists. If that's not the case, please see **0.4 Preconditions** above. 
+This document presumes that the root folder of the project already exists. If that's not the case (e.g. because it's a new project), please see **0.4 Preconditions** above. 
 
 ### 1.1. Configuration
 
-Unless there are changes throughout the project, this configuration should be a once-off step. In the config file (location at 2.1 below), do:
+Unless there are changes throughout the project, this configuration should be a once-off step. In the config file (located at `{root}/02_AUTOMATION/Config/config.xlsx`), do:
 
 1. Review and update the list of languages per task.
     - You may use the [**Locale checker**](https://capps.capstan.be/locale_checker.php) app in cApps to make sure the language codes are correct.
@@ -48,15 +48,15 @@ Unless there are changes throughout the project, this configuration should be a 
 
 ### 1.2 Adding new root folders to the automation
 
-Please send the path to the root folder of the project to [manuel.souto@capstan.be](manuel.souto@capstan.be) to request scheduling the automation (which by default will run every minute). This path is the value of the "root" parameter in the config file.
+Please send the path to the root folder of the project to [manuel.souto@capstan.be](manuel.souto@capstan.be) to request scheduling the automation (which by default will run every minute unless you have a different preference). This path is the value of the "root" parameter in the config file.
 
-> Handover tip for TT: root paths must be added to the file `/media/data/data/company/cApStAn_Tech/20_Automation/Scripts/cli_automation/workflow_creation/paths/roots.txt`.
+> Handover tip for TT: root paths (absolute paths, unix form) must be added to the file `/media/data/data/company/cApStAn_Tech/20_Automation/Scripts/cli_automation/workflow_creation/paths/roots.txt`.
 
 ### 1.3. Workflow initiation
 
 To initiate the workflow (i.e. to create a new workflow folder containing all the necessary subfolders and files), create a new initiation bundle:
 
-1. Copy the initiation bundle template (location at 2.2 below) or the initiation bundle used for a previous workflow, to a local folder in your machine, and unzip it there (or simply open it in 7-zip, if you prefer).
+1. Copy the initiation bundle template (i.e. `{root}/02_AUTOMATION/Initiation/Templates/init_bundle_template.zip`) or the initiation bundle used for a previous workflow, to a local folder in your machine, and unzip it there (or simply open it in 7-zip, if you prefer).
 2. If necessary, update the list of subfolders in the version folder template (i.e. `lll-CCC.zip`) under each language task. 
 3. Zip again the contents of the initiation bundle (or just close it if you are using 7-zip).
 4. Rename the initiation bundle as what you want to call the new workflow (use only letters, numbers and dash, avoid underscore). The name of workflow folder is taken from the init bundle.
@@ -67,7 +67,7 @@ To initiate the workflow (i.e. to create a new workflow folder containing all th
 To create the OMT packages for dispatch:
 
 1. Export the XLIFF files from memoQ or Trados
-2. Move them to folder `{root}/05_WORKFLOWS/{workflow}/00_source`
+2. Copy them to folder `{root}/05_WORKFLOWS/{workflow}/00_source/files`
 
 It's also possible to add the XLIFF files to the `00_source` folder of the initiation bundle (steps above) before initiating the workflow to have the packages created at the same time as the workflow folders.
 
@@ -101,10 +101,10 @@ The config file contains several worksheets:
 | :------ | :----------------------------------------------------------- |
 | options | You can indicate whether an action must be carried out or not. Please do not rename. |
 | params  | A number of parameters (like folder names, package name template, etc.) that might change across projects. Please do not rename. |
-| 01_TRA  | The list of versions (cApStAn language codes) for language task `01_TRA` (the sheet name must match the folder for this task in the init bundle). |
-| 02_ADA  | The list of versions (cApStAn language codes) for language task `02_ADA` (the sheet name must match the folder for this task in the init bundle). |
+| 01_TRA  | The list of versions (cApStAn language codes) for language task `01_TRA` (the sheet name must match the folder name for this task in the init bundle). |
+| 02_ADA  | The list of versions (cApStAn language codes) for language task `02_ADA` (the sheet name must match the folder name for this task in the init bundle). |
 
-There must be one worksheet for each language task. 
+There must be one worksheet for each language task. Each task folder (and the corresponding worksheet in the config file) must match pattern `\d\d_[A-Z]{3}`(i.e. two digits - underscore - three upper-case letters), e.g. `01_TRA`, `02_ADA`.
 
 The PM can edit this file any time, e.g. to add new rows for new versions to the language task sheets or to change the values of options or parameters.
 
@@ -121,7 +121,7 @@ Each language task folder (e.g. `01_TRA`, `02_ADA`, etc.) in the init bundle mus
 ```
 workflow:
 ├── 00_source
-│   ├── omtpkg_template_paris.omt
+│   ├── omtpkg_template_ipsos.omt
 │   └── files
 │       ├── project_blabla.xlsm_ar.mqxliff
 │       └── project_blabla.xlsm_de-AT.mqxliff (etc.)
