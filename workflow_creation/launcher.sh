@@ -34,7 +34,7 @@ for root in $roots; do
 		#pipenv run python $script -i $init -c $config -m $mapping >> $log_dir/$log_file
 		pipenv run python mk_workflows.py -i $init -c $config -m $mapping >> $log_dir/$log_file
 	done
-	sleep 30 # seconds
+	sleep 10 # seconds
 done
 
 echo "${now} @launcher.sh - ------------------------------------------------------"
