@@ -35,8 +35,13 @@ for root in $roots; do
 		pipenv run python mk_workflows.py -i $init -c $config -m $mapping >> $log_dir/$log_file
 	done
 	sleep 10 # seconds
+	echo "${now} ----" >> $log_dir/$log_file
 done
 
 echo "${now} @launcher.sh - ------------------------------------------------------"
 
-
+echo "${now} @launcher.sh - some log cleanup - --------------------------------------------------" >> $log_dir/$log_file
+echo "${now} @launcher.sh - changing directory to $APP_ROOT" >> $log_dir/$log_file
+cd $APP_ROOT
+# check that this script is not running
+bash log_cleanup.sh >> $log_dir/$log_file
