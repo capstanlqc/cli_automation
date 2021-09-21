@@ -17,3 +17,4 @@ workflow_creation/paths.txt
 **/__pycache__/*
 **/_admin/**
 **/_old/**
+**/paths/roots.txt
