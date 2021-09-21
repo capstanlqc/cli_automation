@@ -53,6 +53,9 @@ import subprocess
 # from glob import glob
 import requests
 import json
+import posixpath
+import ntpath
+import re
 
 # ############# PROGRAM DESCRIPTION ###########################################
 
@@ -353,7 +356,7 @@ def do_update_langtag_in_prj_settings(omtpkg_instance_path, capstan_langcode):
     delete_folder(version_temp_dir)
 
 
-def do_create_omtpkg_instances(wrkflw_dir_path, files_per_version, omtpkg_templ_path):
+def do_create_omtpkg_instances(wrkflw_dir_path, files_per_version, omtpkg_templ_path, task_dirs):
     """ Tries to create the OMT packages inside the folders to translators and add the source files to each pacakge. """
 
     logging.info(f'---------------------')
@@ -366,19 +369,21 @@ def do_create_omtpkg_instances(wrkflw_dir_path, files_per_version, omtpkg_templ_
 
             for capstan_langcode, src_files in files_per_version.items():  # xxx-XXX => paths
 
-                if dirpath.endswith(capstan_langcode) and toXl8rs_dirs[0] in children_dirs:
+               #logging.debug(f'{task_dirs=}')
+                if dirpath.endswith(capstan_langcode) and task_dirs[0] in children_dirs:
 
-                    for (i, toXl8r_dir) in enumerate(toXl8rs_dirs, start=1):
-                        toxl8r_dir_path = os.path.join(dirpath, toXl8r_dir)
+                    for (i, toVendor_dir) in enumerate(task_dirs, start=1):
+                        logging.debug(f'{toVendor_dir=}')
+                        toVendor_dir_path = os.path.join(dirpath, toVendor_dir)
                         omtpkg_instance_name = instantiate_fname_from_template(params['omtpkg_name_template'],
                                                                                version=capstan_langcode)
-                        if double_xlat:
+                        if double_xlat and len(task_dirs) == 2: # if length 2 means it's creating the two packages for the translators
                             omtpkg_instance_name = omtpkg_instance_name.replace('_OMT.omt', f'_T{i}_OMT.omt')
 
                         logging.info(f'---------------------')
-                        logging.info(f"Creating package {omtpkg_instance_name} in {toxl8r_dir_path}")
+                        logging.info(f"Creating package {omtpkg_instance_name} in {toVendor_dir_path}")
                         logging.info(f"The new project package will be called {omtpkg_instance_name}")
-                        omtpkg_instance_path = os.path.join(toxl8r_dir_path, omtpkg_instance_name)
+                        omtpkg_instance_path = os.path.join(toVendor_dir_path, omtpkg_instance_name)
                         logging.info(f"The new project package will have path {omtpkg_instance_path}")
 
                         if overwrite_packages or not Path(omtpkg_instance_path).exists():
@@ -392,8 +397,7 @@ def do_create_omtpkg_instances(wrkflw_dir_path, files_per_version, omtpkg_templ_
 
                         else:
                             logging.warning(f"Package {omtpkg_instance_name} will NOT be created (either it already exists or option 'overwrite_folders' is not set).")
-
-
+                    
     except Exception as e:
         logging.error(f"Unable to create (some of the) OMT package instances: \n {e}.")
 
@@ -402,9 +406,9 @@ def do_deploy_workflow(wrkflw_dir_path):
     """ Deploy the contents (folders and files) inside the main workflow folder """
     logging.debug("Logging from function do_deploy_workflow()")
     for dirpath, children_dirs, children_files in os.walk(wrkflw_dir_path):
-        # logging.debug(f'{dirpath=}')
-        # logging.debug(f'{children_dirs=}')
-        # logging.debug(f'{children_files=}')
+        #logging.debug(f'{dirpath=}')
+        #logging.debug(f'{children_dirs=}')
+        #logging.debug(f'{children_files=}')
         # under the language task folders
         if children_files and 'lll-CCC.zip' in children_files and not dirpath.endswith('_tech'):
             task = os.path.basename(dirpath)
@@ -512,39 +516,80 @@ def do_create_rec_omtpkg(wrkflw_dir_path, rec_files):
             pass
 
 
+def normalize_path(path):
+    ''' Turns Windows path mounted at company into an absolute unix path.
+    >>> normalize_path("u:\IPSOS\TEST_DAN")
+    /media/data/data/company/IPSOS/TEST_DAN
+    '''
+    if re.match("^/media/data/data/company/", path):
+        # it is already a unix path
+        return path
+    elif re.match("\w:\\\\", path[0:3]) and not re.match("/", path):
+        ## path is windows path
+        logging.debug(f"{path=} is a windows path")
+        path_unix = path.replace(ntpath.sep, posixpath.sep)
+        logging.debug(f"{path_unix=}")
+        normalized_path = re.sub(r"\w:", "/media/data/data/company", path_unix)
+        logging.debug(f"{normalized_path=}")
+        return normalized_path
+
 # ############# CONSTANTS ###########################################
 
 # config_df = get_df_from_xlsx(config_path, sheet_name = None)
 params = get_colpair_from_ws(config_path, sheet_name='params', use_cols=['key', 'value'])  # dict
 options = get_colpair_from_ws(config_path, sheet_name='options', use_cols=['key', 'value'])  # dict
+tasks = [sheet for sheet in pd.ExcelFile(config_path).sheet_names if re.match(r"\d\d_[A-Z]{3}", sheet)] # e.g. 01_TRA, 02_ADA, etc.
+logging.debug(f"{tasks=}")
 
 # params
 root = params['root'].rstrip('/')
+logging.debug(f'{root=}')
+root = normalize_path(root)
+logging.debug(f'{root=}')
+
 project = params['project'].strip()
 workflow_parent_dir = instantiate_fname_from_template(params['workflow_parent_dir']) # abs path
 # do_not_archive_bundle = ','.params['project'].strip()
 
 # options
-delete_empty_version_folders = get_boolean_value(options['delete_empty_version_folders'])
-create_omtpkg_instances = get_boolean_value(options['create_omtpkg_instances'])
-deploy_init_bundle = get_boolean_value(options['deploy_init_bundle'])
-overwrite_folders = get_boolean_value(options['overwrite_folders'])
-overwrite_packages = get_boolean_value(options['overwrite_packages'])
-double_xlat = get_boolean_value(options['double_xlat'])
-double_xlat_merge = get_boolean_value(options['double_xlat_merge'])
+try:
+    delete_empty_version_folders = get_boolean_value(options['delete_empty_version_folders'])
+    create_omtpkg_instances = get_boolean_value(options['create_omtpkg_instances'])
+    deploy_init_bundle = get_boolean_value(options['deploy_init_bundle'])
+    overwrite_folders = get_boolean_value(options['overwrite_folders'])
+    overwrite_packages = get_boolean_value(options['overwrite_packages'])
+    double_xlat = get_boolean_value(options['double_xlat'])
+    double_xlat_merge = get_boolean_value(options['double_xlat_merge'])
+    adaptation = get_boolean_value(options['adaptation'])
+except Exception as e:
+    logging.error(f"Unable to get some option(s): \n {e}.")
 
 # lists of paths
-toXl8rs_dirs = [params['omtpkg_toXlat1_dir'].rstrip('/')]
-if double_xlat:
-    toXl8rs_dirs.append(params['omtpkg_toXlat2_dir'].rstrip('/'))
+try:
+    toXl8rs_dirs = [params['omtpkg_toXlat1_dir'].rstrip('/')]
 
-if double_xlat_merge:
-    reconciliation_files = {
-        params['omtpkg_toRec_dir'].rstrip('/'): [
-            params['omtpkg_fromXlat1_dir'].rstrip('/'),
-            params['omtpkg_fromXlat2_dir'].rstrip('/')
-        ]
-    }
+    if double_xlat:
+        toXl8rs_dirs.append(params['omtpkg_toXlat2_dir'].rstrip('/'))
+
+    if double_xlat_merge:
+        reconciliation_files = {
+            params['omtpkg_toRec_dir'].rstrip('/'): [
+                params['omtpkg_fromXlat1_dir'].rstrip('/'),
+                params['omtpkg_fromXlat2_dir'].rstrip('/')
+            ]
+        }
+
+    if adaptation and params.has_key('omtpkg_toAdap_dir'):
+            toAdaps_dirs = [params['omtpkg_toAdap_dir'].rstrip('/')]
+    else:
+        toAdaps_dirs = []
+
+except Exception as e:
+    logging.error(f"Unable to get parameter: \n {e}.")
+
+tasks_dirs = [toXl8rs_dirs, toAdaps_dirs]
+logging.debug(f"{tasks_dirs=}")
+#tasks_dirs = {'TRA': toXl8rs_dirs, 'ADA': toAdaps_dirs}
 
 init_bundle_fname = os.path.basename(init_path)
 workflow_name = strip_file_extension(init_bundle_fname)  # = wave
@@ -589,7 +634,8 @@ if __name__ == '__main__':
         logging.info(f'workflow_dir_path: {workflow_dir_path}')
         omtpkg_template_path = get_omtpkg_template_path(workflow_dir_path)
         version_files = get_files_per_version(workflow_dir_path)
-        do_create_omtpkg_instances(workflow_dir_path, version_files, omtpkg_template_path)
+        for task_dirs in tasks_dirs:
+            do_create_omtpkg_instances(workflow_dir_path, version_files, omtpkg_template_path, task_dirs)
         logging.info("-----------------------")
 
     # trigger/input is the 2 xlat pkgs
