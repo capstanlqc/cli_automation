@@ -11,10 +11,8 @@ _ark/*
 **/_bak/*
 **/_temp/*
 **/.idea/*
-workflow_creation/paths.txt
 **/_debug/*
 **/__pycache__
 **/__pycache__/*
 **/_admin/**
 **/_old/**
-**/paths/roots.txt
