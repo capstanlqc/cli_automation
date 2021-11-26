@@ -7,8 +7,8 @@ prevmonth=$((`date "+%Y%m"`-3)) # to delete
 cd _log
 echo "$(pwd)"
 if compgen -G "${lastmonth}*.log" > /dev/null; then
-	echo "zip -r _bak/logs_${thismonth}.zip ${thismonth}*.log && rm ${thismonth}*.log"
-	zip -r "_bak/logs_${thismonth}.zip" ${thismonth}*.log && rm ${thismonth}*.log	
+	echo "zip -r _bak/logs_${lastmonth}.zip ${lastmonth}*.log && rm ${lastmonth}*.log"
+	zip -r "_bak/logs_${lastmonth}.zip" ${lastmonth}*.log && rm ${lastmonth}*.log	
 fi
 
 cd _bak
