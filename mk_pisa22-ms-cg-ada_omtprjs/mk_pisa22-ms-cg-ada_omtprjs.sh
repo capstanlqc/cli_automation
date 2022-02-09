@@ -30,20 +30,16 @@ die() { echo "$*" 1>&2 ; exit 1; }
 
 function write_to_file() {
 	#touch $2
-	if ! grep -q "$1" $2; then 
-		echo $1 >> $2
-	fi
+	echo $1 >> $2
 }
 
 # error output
 output=()
-now=$(date +"%Y-%m-%d")
+now=$(date +"%Y-%m-%d %T")
 
 # use only linebreak as file separator
 OIFS="$IFS"
 IFS=$'\n'
-
-output+=("$now: 👉This is a test")
 
 # conventions:
 # path to file = file_path
@@ -73,6 +69,11 @@ then
     die "Some expected folders are not found"
 fi
 
+if test -e $work_folder/stopped.status
+then
+    die "The process is not running. Delete file stopped.status to let it run."
+fi
+
 #### For each base package and FT national package: 
 #### 1.	Unzip it.
 #### 2.	Console-translate the project to generate the master TMs.
@@ -93,13 +94,15 @@ do
         if test ! -e $prjs_path/$prj
         then
             unzip -d $prjs_path/$prj $pkg_path/$pkg
+            output+=("$now: 👉 Unpacked $pkg")
             java -jar /opt/omegat/OmegaT_4.3.2_Linux_64/OmegaT.jar $prjs_path/$prj --mode=console-translate
+            # echo "Running OmegaT on $prj went fine" #debug
+            output+=("$now: 👉 Ran OmegaT on $prj")
         fi
     done
 done
 
-# echo "Running OmegaT on $prj went fine" #debug
-output+=("$now: 👉Running OmegaT on $prj went fine")
+output+=("$now: I ❤️ OmegaT")
 
 #### For each version in the list of versions: 
 #### 1.	Query the langtags API to get the national OmegaT language tag, e.g. es-CO.
@@ -115,12 +118,13 @@ output+=("$now: 👉Running OmegaT on $prj went fine")
 cd $work_folder
 if test -e versions.txt
 # echo "versions.txt exist" #debug
-output+=("$now: 👉File versions.txt exist")
+output+=("$now: 👉 File versions.txt exist")
 then
 	for pisa_code in $(cat versions.txt)
     do
-        #echo "$now: 👉Handling $pisa_code" #debug
-        output+=("$now: 👉Handling $pisa_code")
+        #echo "$now: 👉 Handling $pisa_code" #debug
+        output+=("-----------------------------")
+        output+=("$now: 👉 Handling $pisa_code")
         # get omegat code
         convention="PISA"
         langtags=$(curl --silent -X GET https://capps.capstan.be/langtags_json.php)
@@ -129,34 +133,30 @@ then
         # get language subtag
         pisa_lang=$(cut -d "-" -f1 <<< "$pisa_code")
         omt_lang=$(cut -d "-" -f1 <<< "$omegat_code")
-        output+=("$now: 👉pisa_code: $pisa_code")
-        output+=("$now: 👉omegat_code: $omegat_code")
         # region=$(cut -d "-" -f2 <<< "$pisa_code") # not neeeded 
 
         # copy base project and tweak it to create the new project
         if test -e $ms_base_zzz_prjs/*$pisa_lang* # glob
         then
-            # echo "At least one base project has been found for $pisa_lang" #debug
-            output+=("$now: 👉At least one base project has been found for $pisa_lang")
             if test "$(find $ms_base_zzz_pkgs -name *$pisa_lang* | wc -l)" == "1"
             then
                 pkg_path=$(find $ms_base_zzz_pkgs -name *$pisa_lang*)
                 zzz_pkg=$(basename "$pkg_path")
 
                 # echo "Only one base project has been found for $pisa_lang, we can proceed" #debug
-                output+=("$now: 👉Only one base project has been found for $pisa_lang, we can proceed: $zzz_pkg")
+                output+=("$now: 👉 One (only) base project has been found for ${pisa_lang}-ZZZ, we can proceed: $zzz_pkg")
                 
                 # rename the MS national project, replacing ZZZ with the region subtag (e.g. COL) in the folder name: esp-ZZZ -> esp-COL
                 ms_national_pkg="${zzz_pkg/${pisa_lang}-ZZZ/"$pisa_code"}"
                 ms_national_prj="${ms_national_pkg%.omt}"
                 
-                if test ! -e $ms_national_prjs/$ms_national_prj
+                # if test ! -e $ms_national_prjs/$ms_national_prj
+                if test ! -e $ms_national_pkgs/$ms_national_pkg
                 then
                     # echo "unzip -d $ms_national_prjs/$ms_national_prj $pkg_path > /dev/null 2>&1" #debug
-                    output+=("$now: 👉Unzip -d $ms_national_prjs/$ms_national_prj $pkg_path")
+                    # output+=("$now: 👉 Unzipped -d $ms_national_prjs/$ms_national_prj $pkg_path")
                     unzip -d $ms_national_prjs/$ms_national_prj $pkg_path > /dev/null 2>&1
                     # echo "Unzipped $pkg_path" #debug
-                    output+=("$now: 👉Unzipped $pkg_path and created $ms_national_prj")
 
                     # update the target_lang value in the project settings of the MS national project, 
                     # replacing es-ZZ or zh-ZZ in the project settings with the omegat tag in the ms_national_prj, e.g. es-ZZ -> es-CO
@@ -172,14 +172,21 @@ then
 
                     ### ONLY CONTINUE IF THE FT NATIONAL PROJECT IS AVAILABLE
                     counter="$(find $ft_national_prjs -name *$pisa_code* -type d | wc -l)"
-                    if test "$counter" == "0"; then rm -r $ms_national_prjs/$ms_national_prj; continue; fi
+                    if test "$counter" == "0"; then 
+                        output+=("$now: ❌ FT national project for $pisa_code not available, nothing to do!")
+                        rm -r $ms_national_prjs/$ms_national_prj
+                        continue
+                    fi
 
+                    output+=("$now: 👉 pisa_code: $pisa_code")
+                    output+=("$now: 👉 omegat_code: $omegat_code")
+                    
                     # copy the -omegat.tmx master TM from the FT national project folder to /tm/auto/ in the MS national project 
                     # and rename it as PISA2021FT_CG_xxx-XXX.tmx
                     for prj_path in $(find $ft_national_prjs -name *$pisa_code* -type d)
                     do
                         p=$(basename "$prj_path")
-                        output+=("$now: 👉Add FT national TM from $p")
+                        output+=("$now: 👉 Added FT national TM from $p")
                         # PISA2022MS_CodingGuide_MAT-New_esp-ZZZ_en_OMT-omegat.tmx
                         short_name="${p/CodingGuide/CG}"
                         short_name="${short_name/_en_OMT/}"
@@ -194,7 +201,7 @@ then
                     for prj_path in $(find $ms_base_zzz_prjs -name *$pisa_lang* -type d)
                     do
                         p=$(basename "$prj_path")
-                        output+=("$now: 👉Add base TMs from $p and second source")
+                        output+=("$now: 👉 Added base TMs from $p and second source")
                         # PISA2022MS_CodingGuide_MAT-New_esp-ZZZ_en_OMT-omegat.tmx
                         short_name="${p/CodingGuide/CG}"
                         short_name="${short_name/_en_OMT/}"
@@ -207,7 +214,7 @@ then
                     for prj_path in $(find $cog_national_prjs -name *$pisa_code* -type d)
                     do
                         p=$(basename "$prj_path")
-                        output+=("$now: 👉Add COG national TM from $p")
+                        output+=("$now: 👉 Added COG national TM from $p")
                         # PISA2022MS_CodingGuide_MAT-New_esp-ZZZ_en_OMT-omegat.tmx
                         short_name="${p/_OMT_/_COG_}"
                         short_name="${short_name/MATNew/MAT-New}"
@@ -219,22 +226,25 @@ then
                     # /tm/auto  National FT TM # priority 1     03_${pisa_code}_CG-FT   PISA2021FT_CG_*_xxx-XXX.tmx
 
                     cd $ms_national_prjs/$ms_national_prj
-                    zip -r -qq $ms_national_pkgs/$ms_national_prj.omt *
+                    zip -r -qq $ms_national_pkgs/${ms_national_prj}.omt *
                     cd ..
                     rm -r $ms_national_prjs/$ms_national_prj
+                    output+=("$now: ✔️ Done, package ${ms_national_prj}.omt created ☆☆☆")
 
                 else
-                    output+=("$now: 👉Project $ms_national_prj already exists")
+                    output+=("$now: ⚠️ Project package $ms_national_prj already exists, nothing to do")
                 fi
 
             else
-                output+=("$now: ❌There are several base projects for $pisa_lang, only one is expected")
+                output+=("$now: ❌ There are several base projects for $pisa_lang, only one is expected")
             fi
+        else
+            output+=("$now: ❌ No base project found for ${pisa_lang}-ZZZ, nothing to do for this version.")
         fi
     done
-    output+=(":------:")
 fi
 
+output+=("==========================================================")
 
 # write log
 this_month=$(date +"%Y-%m") # %m-%d
@@ -246,17 +256,6 @@ for i in ${output[@]}; do
 	#echo $i >> log_file
     write_to_file "$i" "$log_file"
 done
-
-
-# filename=$(basename -- "$fullfile")
-# extension="${filename##*.}"
-
-
-## caveats:
-
-# requested: COG TM - “lll-CCC_COG-MS”
-# actual: COG TM - “lll-CCC_COG”
-# because: it might either be MS or FT
 
 
 # restore IFS

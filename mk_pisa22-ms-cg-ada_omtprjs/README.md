@@ -35,6 +35,8 @@ Whenever all packages are ready for a specific version, please do:
 	├── (...)
 	└── OUT_MS_NATIONAL
 	    └── PISA2022MS_CodingGuide_MAT-New_esp-COL_en_OMT.omt
+	```
+5. Delete the `stopped.status` file to let the process run.
 
 ## TM configuration
 
