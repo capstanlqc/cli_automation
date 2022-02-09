@@ -4,10 +4,13 @@ This automatino creates the MS CG project packages including TMs from the MS ZZZ
 
 ## Instructions
 
+Whenever all packages are ready for a specific version, please do:
+
 1. Go to folder `03_ZZZ_to_national` with path `U:/PISA_2021/MAIN_SURVEY/02_MS_Coding_Guides/02_New_Math/02_Prepp/03_ZZZ_to_national`.
-2. Put packages for a certain version in the `IN_*` folders, e.g.
-	<!-- ```
-	manuel@Ur:03_ZZZ_to_national$ tree -L 2
+
+2. Put packages for the version in the corresponding `IN_*` folders, e.g.
+	```
+	@Ur:03_ZZZ_to_national: 
 	.
 	├── IN_COG_NATIONAL
 	│   └── PISA2022MS_OMT_MATNew_esp-COL.omt
@@ -17,17 +20,22 @@ This automatino creates the MS CG project packages including TMs from the MS ZZZ
 	├── IN_MS_BASE_ZZZ
 	│   └── PISA2022MS_CodingGuide_MAT-New_esp-ZZZ_en_OMT.omt
 	├── OUT_MS_NATIONAL
-	├── _tech
 	└── versions.txt
-	``` -->
+	```
 
-    > `IN_COG_NATIONAL`: PISA2022MS_OMT_MATNew_esp-COL.omt\
+    <!-- > `IN_COG_NATIONAL`: PISA2022MS_OMT_MATNew_esp-COL.omt\
 	> `IN_FT_NATIONAL`: PISA2021FT_CodingGuide_MAT-New-6A_esp-COL_OMT.omt and PISA2022FT_CodingGuide_MAT-New-Update_esp-COL_OMT.omt\
-	> `IN_MS_BASE_ZZZ`: PISA2022MS_CodingGuide_MAT-New_esp-ZZZ_en_OMT.omt
+	> `IN_MS_BASE_ZZZ`: PISA2022MS_CodingGuide_MAT-New_esp-ZZZ_en_OMT.omt -->
 
 3. Add the version's PISA language code to the `versions.txt` file (in a new line), e.g. `esp-COL`.
-4. Retrieve the new MS CG package for the version in question from `OUT_MS_NATIONAL`.
-    > `OUT_MS_NATIONAL`: PISA2022MS_CodingGuide_MAT-New_esp-COL_en_OMT.omt
+4. Retrieve the newly created MS CG packages from `OUT_MS_NATIONAL`:
+    <!-- > `OUT_MS_NATIONAL`: PISA2022MS_CodingGuide_MAT-New_esp-COL_en_OMT.omt -->
+	```
+	@Ur:03_ZZZ_to_national: 
+	.
+	├── (...)
+	└── OUT_MS_NATIONAL
+	    └── PISA2022MS_CodingGuide_MAT-New_esp-COL_en_OMT.omt
 
 ## TM configuration
 
@@ -46,7 +54,7 @@ OUT_MS_NATIONAL/PISA2022MS_CodingGuide_MAT-New_esp-COL_en_OMT.omt/tm
     └── ES-MS.tmx
 ```
 
-The priority for matches with equal score will be as follows, in descending order:
+The priority for matches with equal score will be as follows, in descending order (more to less priority):
 
 1. `PISA2021FT_CG` (auto-populated if 100% match)
 2. `PISA2022MS_COG` (not auto-populated)
