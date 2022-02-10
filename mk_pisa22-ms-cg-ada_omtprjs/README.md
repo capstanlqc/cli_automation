@@ -38,7 +38,7 @@ Whenever all packages are ready for a specific version, please do:
 	    └── PISA2022MS_CodingGuide_MAT-New_esp-COL_en_OMT.omt
 	```
 
-If you want to create a package again, delete it from `OUT_MS_NATIONAL` and delete the `stopped.status` file again.
+TIP: If you want to create a package again, delete it from `OUT_MS_NATIONAL` and delete the `stopped.status` file again.
 
 ## TM configuration
 
