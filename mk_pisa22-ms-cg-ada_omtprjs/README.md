@@ -28,7 +28,8 @@ Whenever all packages are ready for a specific version, please do:
 	> `IN_MS_BASE_ZZZ`: PISA2022MS_CodingGuide_MAT-New_esp-ZZZ_en_OMT.omt -->
 
 3. Add the version's PISA language code to the `versions.txt` file (in a new line), e.g. `esp-COL`.
-4. Retrieve the newly created MS CG packages from `OUT_MS_NATIONAL`:
+4. Delete the `stopped.status` file to let the process run.
+5. Retrieve the newly created MS CG packages from `OUT_MS_NATIONAL`:
 	```
 	@Ur:03_ZZZ_to_national: 
 	.
@@ -36,7 +37,8 @@ Whenever all packages are ready for a specific version, please do:
 	└── OUT_MS_NATIONAL
 	    └── PISA2022MS_CodingGuide_MAT-New_esp-COL_en_OMT.omt
 	```
-5. Delete the `stopped.status` file to let the process run.
+
+If you want to create a package again, delete it from `OUT_MS_NATIONAL` and delete the `stopped.status` file again.
 
 ## TM configuration
 
