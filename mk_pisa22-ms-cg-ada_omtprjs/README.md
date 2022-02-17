@@ -6,7 +6,10 @@ This automatino creates the MS CG project packages including TMs from the MS ZZZ
 
 Whenever all packages are ready for a specific version, please do:
 
-1. Go to folder `03_ZZZ_to_national` with path `U:/PISA_2021/MAIN_SURVEY/02_MS_Coding_Guides/02_New_Math/02_Prepp/03_ZZZ_to_national`.
+1. Go to the folder `03_ZZZ_to_national`:
+
+	- For New Math: `U:/PISA_2021/MAIN_SURVEY/02_MS_Coding_Guides/02_New_Math/02_Prepp/03_ZZZ_to_national`
+	- For Creative Thiking: `U:/PISA_2021/MAIN_SURVEY/02_MS_Coding_Guides/01_Creative_Thinking/02_Prepp/03_ZZZ_to_national`
 
 2. Put packages for the version in the corresponding `IN_*` folders, e.g.
 	```

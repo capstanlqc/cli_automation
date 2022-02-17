@@ -116,18 +116,6 @@ done
 
 output+=("$now: I ❤️ OmegaT")
 
-
-#### For each version in the list of versions: 
-#### 1.	Query the langtags API to get the national OmegaT language tag, e.g. es-CO.
-#### 2.	Based on the version’s language subtag (e.g. tag: esp-COL -> subtag: esp), select the corresponding base version project (e.g. esp-ZZZ) from the “base” folder and make a copy (hereafter, the MS national project).
-#### 3.	Delete all TMX files from /tm and /tm/auto in the MS national project.
-#### 4.	Copy the -omegat.tmx master TM from the base project folder to the /tm folder of the MS national project.
-#### 5.	Copy the -omegat.tmx master TM from the base project folder to /tm/tmx2source/ES-MS.tmx in the MS national project.
-#### 6.	Rename the MS national project, replacing ZZZ with the region subtag (e.g. COL) in the folder name: esp-ZZZ -> esp-COL
-#### 7.	Update the target_lang value in the project settings of the MS national project, replacing ZZ with the OmegaT region subtag (e.g. CO): es-ZZ -> es-CO.
-#### 9.	Copy the -omegat.tmx master TMs from the FT national project to the /tm/auto folder of the MS national project.
-
-
 cd $work_folder
 if test -e $work_folder/versions.txt
 # echo "versions.txt exist" #debug
