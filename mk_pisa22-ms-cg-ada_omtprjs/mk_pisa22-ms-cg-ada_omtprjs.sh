@@ -50,7 +50,7 @@ IFS=$'\n'
 
 # paths
 #work_folder="/media/data/data/company/PISA_2021/MAIN_SURVEY/02_MS_Coding_Guides/02_New_Math/02_Prepp/03_ZZZ_to_national"
-work_folder=$( readlink -f "$1" ) # only argument
+work_folder=$( readlink -f "$1" ) # only argument, without trailing slash: /path ok, /path/ not ok
 
 # test argument
 if test $# -eq 0 || test -z "$1" || test ! -d $work_folder
@@ -92,29 +92,39 @@ fi
 langtags=$(curl --silent -X GET https://capps.capstan.be/langtags_json.php)
 
 # unpack input projects
-pkgs_paths=( $ft_national_pkgs $ms_base_zzz_pkgs $cog_national_pkgs )
-for pkg_path in "${pkgs_paths[@]}"
+pkgs_dpaths=( $ft_national_pkgs $ms_base_zzz_pkgs $cog_national_pkgs )
+for pkgs_dpath in "${pkgs_dpaths[@]}"
 do
     # create the folder where projects will be unpacked
-    prjs_path="$(dirname "$pkg_path")/_tech/$(basename "$pkg_path")" && mkdir -p $prjs_path
+    #prjs_dpath="$(dirname "$pkgs_dpath")/_tech/$(basename "$pkgs_dpath")" && mkdir -p $prjs_dpath
+    prjs_dpath="$work_folder/_tech/$(basename "$pkgs_dpath")" && mkdir -p $prjs_dpath
 
-    cd $pkg_path
+    cd $pkgs_dpath
+    touch SHA1SUM
+
     for pkg in $(ls *.omt)
     do
         # unpack and console-translate every project if it has not been done
         prj="${pkg%.omt}"
-        if test ! -e $prjs_path/$prj
+        #if test ! -e $prjs_dpath/$prj
+        # checks whether the package has changed since last time the project was unpakced and console-translated
+        if test ! "$(grep $pkg SHA1SUM)" || test "$(grep $pkg <<<$(sha1sum -c --quiet SHA1SUM) | wc -l)" == "1"
         then
-            unzip -d $prjs_path/$prj $pkg_path/$pkg
+            rm -rf -- $prjs_dpath/$prj
+            unzip -qqo -d $prjs_dpath/$prj $pkgs_dpath/$pkg
             output+=("$now: ☆ Unpacked $pkg")
-            java -jar /opt/omegat/OmegaT_4.3.2_Linux_64/OmegaT.jar $prjs_path/$prj --mode=console-translate
-            # echo "Running OmegaT on $prj went fine" #debug
+            java -jar /opt/omegat/OmegaT_4.3.2_Linux_64/OmegaT.jar $prjs_dpath/$prj --mode=console-translate > /dev/null 2>&1
             output+=("$now: ☆ Ran OmegaT on $prj")
+            # update hash
+            grep -v $pkg SHA1SUM > tmpfile && mv tmpfile SHA1SUM
+            sha1sum $pkg >> SHA1SUM           
         fi
     done
 done
 
 output+=("$now: I ❤️ OmegaT")
+
+#/media/data/data/company/PISA_2021/MAIN_SURVEY/02_MS_Coding_Guides/01_Creative_Thinking/02_Prepp/03_ZZZ_to_national/_tech/IN_FT_NATIONAL/PISA2021FT_CodingGuide_CRT_esp-MEX_OMT/PISA2021FT_CodingGuide_CRT_esp-MEX_OMT/PISA2021FT_CodingGuide_CRT_esp-MEX_OMT-omegat.tmx
 
 cd $work_folder
 if test -e $work_folder/versions.txt
@@ -193,7 +203,7 @@ then
                         short_name="${short_name/_en_OMT.tmx/.tmx}"
                         short_name="${short_name/_OMT.tmx/.tmx}"
                         cp $prj_path/$p-omegat.tmx $ms_national_prjs/$ms_national_prj/tm/auto/$short_name.tmx
-                    done      
+                    done
 
                     # copy the -omegat.tmx master TM from the base/ZZZ project folder 
                     # to /tm folder of the MS national project and rename as esp-ZZZ_CG-MS.tmx or zho-ZZZ_CG-MS.tmx
@@ -222,7 +232,7 @@ then
                         short_name="${p/_OMT_/_COG_}"
                         short_name="${short_name/_en_OMT.tmx/.tmx}"
                         short_name="${short_name/_OMT.tmx/.tmx}"
-                        short_name="${short_name/MATNew/MAT-New}"
+                        #short_name="${short_name/MATNew/MAT-New}"
                         cp $prj_path/$p-omegat.tmx $ms_national_prjs/$ms_national_prj/tm/$short_name.tmx
                     done                          
 
@@ -264,12 +274,14 @@ done
 
 # create log copy for PMs
 if test ! -f $work_folder/log.txt; then rm $work_folder/log.txt; fi
-ln -s $log_file $work_folder/log.txt
-
-
+if test -L $work_folder/log.txt; then unlink $work_folder/log.txt && ln -s $log_file $work_folder/log.txt; fi
 
 # restore IFS
 IFS="$OIFS"
+
+# clean up the mess (temporary project folders)
+# rm -rf -- $work_folder/_tech/IN_*/*
+# rm -rf -- $work_folder/_tech/OUT_*/*
 
 # stop process
 echo "Delete this file to run the process" > $work_folder/stopped.status
