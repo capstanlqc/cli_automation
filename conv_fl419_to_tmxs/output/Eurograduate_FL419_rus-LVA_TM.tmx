@@ -1,0 +1,1190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx version="1.4">
+  <header creationtool="cApps" creationtoolversion="2021.02" segtype="paragraph" adminlang="en" datatype="HTML" srclang="en-GB" o-tmf="omt"></header>
+  <body>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Other\ Refusal (DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>Прочее\Отказ (НЕ ЗАЧИТЫВАТЬ)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Walking</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>Пешие прогулки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>DK/NA (DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>НЕ ЗНАЮ/НЕ ПРИМЕНИМО (НЕ ЗАЧИТЫВАТЬ)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>(DO NOT READ OUT</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>(NELASĪT)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Large town/city</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>В большом городе</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Have you got a mobile phone?</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>Имеете ли Вы мобильный телефон?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>In which city/borough/commune do you live?</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>В каком городе Вы живете?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Single person household</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>Живете один (одна)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 1</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>Рига</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Noise</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>Шум</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Car</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>Автомобиль</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Public transport</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>Общественный транспорт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>PROG: ROTATE ITEMS 1 TO 4</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>ПРОГ: РОТИРУЙТЕ ПУНКТЫ 1 - 4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>During the last twelve months, would you say you had difficulties to pay your bills at the end of the month…?</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>Вы бы сказали, что за последние двенадцать месяцев Вы испытывали трудности с оплатой счетов в конце месяца…?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Other city</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>Другой город</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Generally speaking, the public administration of [CITY NAME] can be trusted</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>Говоря в целом,  самоуправлению [CITY NAME] можно доверять</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>ASK ALL</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>СПРОСИТЬ ВСЕХ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>It is easy to find a job in [CITY NAME]</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>В [CITY NAME] легко найти работу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Not at all satisfied</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>совсем недовольны</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>I will read you a few statements. Please tell me whether you strongly agree, somewhat agree, somewhat disagree or strongly disagree with each of these statements?</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>Я зачитаю Вам несколько высказываний. Скажите, пожалуйста, Вы полностью согласны, скорее согласны, скорее не согласны или совсем не согласны с каждым из этих высказываний?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Somewhat disagree</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>Скорее не согласны</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Housing</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>Жилищный вопрос</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>(READ OUT – ONE ANSWER ONLY)</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>(ЗАЧИТАЙТЕ - ТОЛЬКО ОДИН ОТВЕТ)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>From time to time</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>иногда</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>D21: CODE 9 AND 10 - SINGLE CODES</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>D21: КОДЫ 9 И 10 ИСКЛЮЧАЮТ ДРУГИЕ ОТВЕТЫ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Married or cohabiting couple, no children or no children living at home</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>Женатая или проживающая вместе пара, детей нет или дети живут отдельно</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Rural area or village</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>В сельской местности, в деревне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Train</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>Поезд</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Very satisfied</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>Полностью удовлетворены</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Generally speaking, please tell me if you are very satisfied, rather satisfied, rather unsatisfied or not at all satisfied with each of the following issues in [CITY NAME]?</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>Говоря в общем, скажите, пожалуйста, Вы полностью удовлетворены, скорее удовлетворены, скорее неудовлетворены или совсем неудовлетворены каждой из следующих услуг в [CITY NAME]?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Safety</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>Безопасность</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Your personal job situation</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>Ситуацией Вашего трудоустройства</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Small or medium-sized town</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>В маленьком городе или в городе средней величины</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Professional (employed doctor, lawyer, accountant, architect, …)</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>Специалист (работающий по найму врач, юрист, бухгалтер, архитектор …)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>It is easy to find good housing at a reasonable price in [CITY NAME]</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>В [CITY NAME] легко найти хорошее жилье за приемлемую цену</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Generally speaking, most people in my neighborhood can be trusted</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>Говоря в целом, большинству людей моего микрорайона можно доверять</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Most of the time</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>в большинстве случаев</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Have you got a landline phone?</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>Вы имеете дома фиксированную (обыкновенную) телефонную линию?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Could you tell me how many people aged 15 years or more live in your household, yourself included?</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>Скажите, пожалуйста, сколько людей, включая Вас, в возрасте от 15 лет и старше, живут в Вашем доме вместе с Вами?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Other (DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>Другое (НЕ ЗАЧИТЫВАЙТЕ)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Q4: CODE 11 - SINGLE CODE</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>Q4: КОД 11 ИСКЛЮЧАЕТ ДРУГИЕ ОТВЕТЫ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Strongly disagree</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>Совсем не согласны</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>I live here since less than 1 year</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>Я живу здесь менее 1 года</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Cleanliness</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>Чистота</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>The financial situation of your household</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>Финансовым положением Вашей семьи</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Other employee (salesman, nurse, …)</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>Другой работник, работающий по найму (продавец, медицинская сестра,...)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>No</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>Нет</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Owner of shop, craftsman</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>Владелец магазина, ремесленник</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>(READ OUT - ONE ANSWER ONLY)</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>(ЗАЧИТАЙТЕ - ТОЛЬКО ОДИН ОТВЕТ)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Would you say you are…?</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>Вы бы сказали, что Вы…?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Seeking a job</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>Ищете работу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Manual worker</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>Рабочий (физическая работа)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>The noise level</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>Уровень шума</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>The administrative services of [CITY NAME] help people efficiently</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>Административные службы [CITY NAME] эффективно помогают людям</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Urban public transport (bus, metro, tram, ferry, etc.)</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>Городской общественный транспорт (автобус, трамвай, троллейбус, паром и т.д.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Gender.</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>ATZĪMĒJIET RESPONDENTA DZIMUMU</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>[CITY NAME] is committed to fight against climate change (e.g.: energy efficiency, green transport)</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>[CITY NAME] борется с изменением климата (например, рациональное использование энергии, экологичный транспорт)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Female</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>Женщина</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>In your opinion, among the following issues, which are the three most important for [CITY NAME]?</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>По Вашему мнению, какие три вопроса наиболее важны для [CITY NAME]?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>What county do you live in?</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>В каком городе Латвии / крае Вы живете?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>I live here since between 5 to 10 years</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>Я живу здесь от 5 до 10 лет</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>I am satisfied to live in [CITY NAME]</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>Я доволен(-на) жизнью в [CITY NAME]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Male</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>Мужчина</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Social services</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>Социальные услуги</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Unemployment</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>Безработица</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>(READ OUT IF NECESSARY - ONE ANSWER ONLY)</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>(ЗАЧИТАЙТЕ ЕСЛИ НЕОБХОДИМО -ТОЛЬКО ОДИН ОТВЕТ)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Farmer, forester, fisherman</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>Фермер, лесничий, рыбак</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Civil servant</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>Государственный служащий</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Without a professional activity</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>Не занимается профессиональной деятельностью</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>ASK D5c IF EMPLOYEE, CODE 2 IN D5a</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>D5c JAUTĀT, JA Работает по найму, D5a=KODS 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>PROG: ROTATE ITEMS 1 TO 7</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>ПРОГ: РОТИРУЙТЕ ПУНКТЫ 1-7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Education and training</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>Образование и обучение</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>As far as your current occupation is concerned, would you say you are self-employed, an employee, a manual worker or would you say that you are without a professional activity?</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>Что касается того, чем Вы занимаетесь в настоящее время, Вы бы сказали, что Вы занимаетесь индивидуальной деятельностью (самозанятый/ -ая), работаете по найму, занимаетесь ручным трудом или Вы бы сказали, что не занимаетесь профессиональной деятельностью?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Refusal (DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>Отказ (НЕ ЗАЧИТЫВАТЬ)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>(ONE ANSWER ONLY)</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>ТОЛЬКО ОДИН ОТВЕТ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Air pollution</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>Загрязнение воздуха</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>I feel safe in [CITY NAME]</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>Я чувствую себя в безопасности в  [НАЗВАНИЕ ГОРОДА]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Unskilled manual worker</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>Неквалифицированный рабочий</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Sports facilities such as sport fields and indoor sport halls</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>Спортивные сооружения, как например, спортивные площадки и крытые спортивные залы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>The life you lead</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>Своей жизнью</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Rather unsatisfied</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>Скорее не удовлетворены</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Rather satisfied</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>Скорее удовлетворены</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Professional (lawyer, medical practitioner, accountant, architect,…)</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>Специалист (юрист, медицинский работник, бухгалтер, архитектор …)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Health services</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>Услуги здравоохранения</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Office clerk</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>Офисный работник</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Retired</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>Пенсионер</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>(READ OUT – MAX. 3 ANSWERS)</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>(ЗАЧИТАЙТЕ - МАКСИМУМ ТРИ ОТВЕТА)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>On the whole, are you very satisfied, fairly satisfied, not very satisfied or not at all satisfied with ...?</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>В целом, Вы очень довольны, вполне довольны, не очень довольны или совсем недовольны…?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>PROG: ROTATE ITEMS 1 to 12</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>ПРОГ: РОТИРУЙТЕ ПУНКТЫ 1-12</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>None (DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>НИЧТО ИЗ ПЕРЕЧИСЛЕННОГО (НЕ ЗАЧИТЫВАЙТЕ)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Almost never\ never</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>почти никогда/никогда</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Number of people aged 15 or more in the household</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>количество людей в возрасте 15 лет и старше в Вашей семье</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Public transport, for example the bus, tram or metro</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>Общественный транспорт, например, автобус, трамвай или троллейбус</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>ASK D5b IF SELF-EMPLOYED, CODE 1 IN D5a</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>D5b JAUTĀT, JA Занимаетесь индивидуальной деятельностью, D5a=KODS 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Student (full time)</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>Учащийся / студент (на дневном отделении)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>I feel safe in my neighbourhood</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>Я чувствую себя в безопасности в своём микрорайоне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Availability of retail shops</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>Доступность магазинов розничной торговли</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>General management, director or top management</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>Руководящий работник, директор или руководитель высшего звена</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Strongly agree</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>Полностью согласны</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>How old were you when you stopped full-time education?</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>В каком возрасте Вы закончили дневное обучение? (ДНЕВНОЕ ОБУЧЕНИЕ – основное занятие - учёба (имеется диплом об окончании основной школы или средней школы, степень бакалавра, магистра и др.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Ship or boat</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>Корабль или лодка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Bicycle</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>Велосипед</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>How old are you?</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>Сколько Вам лет?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Motorbike</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>Мотоцикл</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>(READ OUT - MAX. 2 ANSWERS)</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>(ЗАЧИТАЙТЕ - МАКСИМУМ 2 ОТВЕТА)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Single parent, one or more children living at home</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>Один родитель с одним или несколькими детьми, проживающие вместе</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Self-employed</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>Занимаетесь индивидуальной деятельностью (самозанятый/ -ая)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>The state of the streets and buildings in your neighbourhood</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>Состояние улиц и зданий в Вашем районе</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Fairly satisfied</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>вполне довольны</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Generally speaking, most people in [CITY NAME] can be trusted</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>Говоря в целом, большинству людей в [CITY NAME] можно доверять</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>(READ OUT - SINGLE CODE)</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>(TIKAI VIENA ATBILDE)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>On a typical day, which mode or modes of transport do you use most often?</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>Kаким способом (способами) передвижения Вы чаще всего пользуетесь в будний день?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Schools and other educational facilities</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>Школы и другие учебные заведения</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>The quality of the air</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>Качество воздуха</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Married or cohabiting couple, with one or more children living at home</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>Женатая или проживающая вместе пара с одним или несколькими детьми, с которыми живёте вместе</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Middle management</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>Руководитель среднего звена, другие управленческие должности (руководитель отдела, младший менеджер, учитель, технический специалист)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Foreigners who live in [CITY NAME] are well integrated</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>Иностранцы, живущие в [CITY NAME], хорошо интегрированы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Health care services, doctors and hospitals</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>Услуги здравоохранения,  врачи и больницы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Employee</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>Работает по найму</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>ASK D5d IF MANUAL WORKER, CODE 3 IN D5a</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>D5d JAUTĀT, JA ЕСЛИ РАБОТНИК ФИЗИЧЕСКОГО ТРУДА, D5a=KODS 3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Public spaces such as markets, squares, pedestrian areas</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>Общественные места, такие как рынки, площади, пешеходные зоны</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Would you say you live in a…?</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>Вы живёте…?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Which of the following best describes your household composition?</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>Что из следующего лучше всего описывает Ваше домохозяйство?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Manager of a company</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>Руководитель фирмы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>I live here since 1 to 5 years</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>Я живу здесь от 1 до 5 лет</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Not very satisfied</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>не очень довольны</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Road infrastructure</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>Инфраструктура дорог</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>PROG: ROTATE ITEMS 1 TO 10</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>ПРОГ: РОТИРУЙТЕ ПУНКТЫ 1 - 10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>The presence of foreigners is good for [CITY NAME]</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>Присутствие иностранцев хорошо для  [CITY NAME]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>(WRITE DOWN - IF "DK" CODE '98' - IF "REFUSAL" CODE '99')</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>(ЗАПИШИТЕ — ЕСЛИ «DK», КОД '98' -ЕСЛИ “ОТКАЗ”, КОД '99')</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>DK (DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>НЕ ЗНАЮ (НЕ ЗАЧИТЫВАЙТЕ)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Yes</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>Да</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Green spaces such as parks and gardens</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>Зелёные зоны, такие, как общественные парки и сады</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>ASK D5e IF WITHOUT A PROFESSIONAL ACTIVITY, CODE 4 IN D5a</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>D5e JAUTĀT, JA RESPONDENTS (-E) НЕ ЗАНИМАЕТСЯ ПРОФЕССИОНАЛЬНОЙ ДЕЯТЕЛЬНОСТЬЮ, D5a=KODS 4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>(INT.: IF "STILL STUDYING", CODE ‘00’ - IF "NO EDUCATION" CODE '01' - IF "REFUSAL" CODE '98' - IF "DK" CODE '99')</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>(INT.: Ja JOPROJĀM MĀCĀS / STUDĒ, KODS ‘00’' - Ja NAV IZGLĪTĪBAS, KODS "01" - Ja ATTEIKUMS, KODS "98" - Ja NA, KODS "99")</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Other</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>Другой</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>(WRITE DOWN - IF "REFUSAL" CODE '99')</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>(ЗАЧИТАЙТЕ — ЕСЛИ «ОТКАЗ», КОД '99')</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>DK/NA  (DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>НЕ ЗНАЮ/НЕТ ОТВЕТА (НЕ ЗАЧИТЫВАЙТЕ)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>FL419 - Quality of life in European Cities UK</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>FL419 - Quality of life in European CitiesLVR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Somewhat agree</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>Скорее согласны</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Cultural facilities such as concert halls, theatres, museums and libraries</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>Культурные учреждения, такие как концертные залы, театры, музеи и библиотеки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>The place where you live</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>Местом, где Вы живете</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Was born here/ I’ve been living here for all my life</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>Родился (-ась) здесь/ живу здесь всю жизнь</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>IF OTHER or DON'T KNOW IN D12, CODES 198 or 199 in D12, STOP THE INTERVIEW</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>ЕСЛИ ДРУГОЕ или НЕ ЗНАЮ В D12, КОД 198 или 199 в D12, ПРЕКРАТИТЕ ИНТЕРВЬЮ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Supervisor\ foreman (team manager, …)</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>Супервайзер\мастер (бригадир,…)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>I live here since more than 10 years</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>Я живу здесь более 10 лет</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>For how long have you been living in [CITY NAME]?</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>Как долго Вы живете в [CITY NAME]?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Looking after the home</seg>
+      </tuv>
+      <tuv xml:lang="ru-LV">
+        <seg>Занимаетесь домашним хозяйством</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

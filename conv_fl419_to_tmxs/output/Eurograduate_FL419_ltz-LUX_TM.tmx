@@ -1,0 +1,1190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx version="1.4">
+  <header creationtool="cApps" creationtoolversion="2021.02" segtype="paragraph" adminlang="en" datatype="HTML" srclang="en-GB" o-tmf="omt"></header>
+  <body>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Other\ Refusal (DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>Aner\Refuséiert (NET VIRLIESEN)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Walking</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>Ze Fouss goen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>DK/NA (DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>WEESS NET/KENG ÄNTWERT (NET VIRLIESEN)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>(DO NOT READ OUT</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>NET VIRLIESEN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Large town/city</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>enger grousser Stad wunnt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Have you got a mobile phone?</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>Hut dir en Handy ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>In which city/borough/commune do you live?</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>A wéi enger Stad/Uertschaft/Gemeng wunnt Dir?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Single person household</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>Ee-Persounen-Haushalt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 1</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>Stad Lëtzebuerg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Noise</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>De Kaméidi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Car</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>Auto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Public transport</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>Den ëffentlechen Transport</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>PROG: ROTATE ITEMS 1 TO 4</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>PROG: ELEMENTER 1 BIS 4 ROTÉIEREN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>During the last twelve months, would you say you had difficulties to pay your bills at the end of the month…?</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>Am Laf vun deene leschten 12 Méint, géift Dir soen, dass Dir Schwieregkeeten hat all Är Rechnungen ze bezuelen um Enn vum Mount?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Other city</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>Aner Stad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Generally speaking, the public administration of [CITY NAME] can be trusted</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>Am Allgemenge kann een der ëffentlecher Administratioun vun [CITY NAME] trauen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>ASK ALL</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>UN ALLEGUER</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>It is easy to find a job in [CITY NAME]</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>Zu [CITY NAME] ass et einfach eng Aarbechtsplaz ze fannen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Not at all satisfied</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>Guer net zefridden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>I will read you a few statements. Please tell me whether you strongly agree, somewhat agree, somewhat disagree or strongly disagree with each of these statements?</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>Ech liesen Iech elo e puer Aussoen vir. Sot mir w.e.g. ob Dir mat jidder vun de folgenden Aussoen ganz averstanen, zimlech averstanen, net ganz averstanen oder guer net averstanen sidd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Somewhat disagree</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>Net ganz averstanen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Housing</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>De Logement</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>(READ OUT – ONE ANSWER ONLY)</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>(VIRLIESEN - NËMMEN ENG ÄNTWERT)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>From time to time</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>Heiansdo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>D21: CODE 9 AND 10 - SINGLE CODES</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>D21: CODE 9 AN 10 - EENZEL CODEN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Married or cohabiting couple, no children or no children living at home</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>Bestuet oder Koppel, déi zesummelieft, ouni Kanner oder keng Kanner, déi doheem wunnen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Rural area or village</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>engem Duerf wunnt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Train</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>Zuch</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Very satisfied</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>Ganz zefridden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Generally speaking, please tell me if you are very satisfied, rather satisfied, rather unsatisfied or not at all satisfied with each of the following issues in [CITY NAME]?</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>Am Allgemengen, sot mir w.e.g. ob Dir mat jidderengem vun de folgenden Themen an [CITY NAME] ganz zefridden, zimlech zefridden, zimlech onzefridden oder guer net zefridden sidd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Safety</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>D´Sécherheet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Your personal job situation</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>Ärer berufflecher Situatioun</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Small or medium-sized town</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>enger klenger oder mëttelgrousser Stad wunnt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Professional (employed doctor, lawyer, accountant, architect, …)</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>Ugestallten (ugestallten Dokter, Affekot, Comptabel, Architekt...)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>It is easy to find good housing at a reasonable price in [CITY NAME]</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>Zu [CITY NAME] ass et einfach, eng gutt Wunneng zu vernünftege Präisser ze fannen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Generally speaking, most people in my neighborhood can be trusted</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>Am Allgemenge kann een dene meeschte Leit a menger Noperschaft trauen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Most of the time</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>De gréissten Deel vun der Zäit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Have you got a landline phone?</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>Hut dir en Telefon ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Could you tell me how many people aged 15 years or more live in your household, yourself included?</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>Kënnt Dir mir soen wéivill Persounen vu 15 Joer a méi bei Iech am Stot liewen, Iech selwer mat abegraff?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Other (DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>Aner (NET VIRLIESEN)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Q4: CODE 11 - SINGLE CODE</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>Q4: CODE 11 - EENZELNE CODE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Strongly disagree</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>Guer net averstanen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>I live here since less than 1 year</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>Ech liewen do zanter manner wéi 1 Joer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Cleanliness</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>D'Propretéit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>The financial situation of your household</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>Der finanzieller Situatioun vun Ärem Stot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Other employee (salesman, nurse, …)</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>Aneren Employé (Verkeeferin, Krankeschwëster, ...)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>No</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>Nee</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Owner of shop, craftsman</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>Geschäftsmann, Handwierker</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>(READ OUT - ONE ANSWER ONLY)</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>(VIRLIESEN - NËMMEN ENG ÄNTWERT)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Would you say you are…?</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>Géift Dir soen, Dir wiert...?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Seeking a job</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>Op der Sich no enger Aarbecht</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Manual worker</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>Aarbechter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>The noise level</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>De Geräischsniveau</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>The administrative services of [CITY NAME] help people efficiently</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>D’administrativ Servicer vun [CITY NAME] sinn efficace fir d'Leit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Urban public transport (bus, metro, tram, ferry, etc.)</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>Städteschen ëffentlechen Transport (Bus, Metro, Tram, Fär etc.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Gender.</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>Geschlecht vum P.I.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>[CITY NAME] is committed to fight against climate change (e.g.: energy efficiency, green transport)</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>[CITY NAME] engagéiert sech fir de Kampf géint de Klimawiessel (z.B.:Energieeffizienz, gréngen Transport)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Female</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>Fra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>In your opinion, among the following issues, which are the three most important for [CITY NAME]?</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>Ärer Meenung no, wéi eng vu folgenden Aussoë sinn déi dräi wichtegst fir [CITY NAME]?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>What county do you live in?</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>A wéi enger Regioun wunnt Dir am Moment?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>I live here since between 5 to 10 years</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>Ech liewen do zanter 5 bis 10 Joer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>I am satisfied to live in [CITY NAME]</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>Ech sinn zefridden, zu [CITY NAME] ze wunnen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Male</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>Mann</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Social services</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>d´Sozial Servicer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Unemployment</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>D´Aarbechtslosegkeet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>(READ OUT IF NECESSARY - ONE ANSWER ONLY)</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>(VIRLIESE WANN NÉIDEG - JUST ENG ÄNTWERT)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Farmer, forester, fisherman</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>Bauer, Bëschaarbechter/Fierschter, Fëscher</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Civil servant</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>Staatsbeamten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Without a professional activity</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>Ouni professionell Aktivitéit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>ASK D5c IF EMPLOYEE, CODE 2 IN D5a</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>D5c FROE WANN EMPLOYÉE, CODE 2 AN D5a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>PROG: ROTATE ITEMS 1 TO 7</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>PROG: ELEMENTER 1 BIS 7 ROTÉIEREN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Education and training</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>D'Edukatioun an d'Formatioun</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>As far as your current occupation is concerned, would you say you are self-employed, an employee, a manual worker or would you say that you are without a professional activity?</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>Wat Är aktuell Beschäftegung ugeet, géift Dir soen, datt Dir selbstänneg, Employé, Aarbechter oder ouni professionell Aktivitéit sidd?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Refusal (DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>Refus (NET VIRLIESEN)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>(ONE ANSWER ONLY)</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>(NËMMEN ENG ÄNTWERT)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Air pollution</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>D'Loftverschmotzung</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>I feel safe in [CITY NAME]</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>Zu [CITY NAME] fillen ech mech sécher</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Unskilled manual worker</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>Onqualifizéierten Aarbechter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Sports facilities such as sport fields and indoor sport halls</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>Sportsariichtungen sou wéi Sportsfelder an Halensportszentren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>The life you lead</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>Dem Liewen, dat Dir féiert</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Rather unsatisfied</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>Zimlech onzefridden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Rather satisfied</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>Zimlech zefridden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Professional (lawyer, medical practitioner, accountant, architect,…)</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>Fräiberufler (Affekot, Dokter, Comptabel, Architekt...)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Health services</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>D'Gesondheetsservicer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Office clerk</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>Bürosemployé</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Retired</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>Pensionéiert</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>(READ OUT – MAX. 3 ANSWERS)</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>VIRLIESEN - MAX.  3  ÄNTWERTEN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>On the whole, are you very satisfied, fairly satisfied, not very satisfied or not at all satisfied with ...?</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>Am Allgemengen, sidd Dir zefridden, éischter zefridden, éischter net zefridden oder guer net zefridden mat…?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>PROG: ROTATE ITEMS 1 to 12</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>PROG: ELEMENTER 1 BIS 12 ROTÉIEREN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>None (DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>Näischt dovun (NET VIRLIESEN)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Almost never\ never</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>bal ni/ni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Number of people aged 15 or more in the household</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>Zuel vu Leit vu 15 Joer oder méi am Stot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Public transport, for example the bus, tram or metro</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>Ëffentlechen Transport, zum Beispill de Bus, den Tram oder de Metro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>ASK D5b IF SELF-EMPLOYED, CODE 1 IN D5a</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>D5b FROE WANN EMPLOYÉ, CODE 1 AN D5a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Student (full time)</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>Student (Vollzäit)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>I feel safe in my neighbourhood</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>A menger Noperschaft fillen ech mech sécher</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Availability of retail shops</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>Disponibilitéit vun Eenzelhandelsgeschäfter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>General management, director or top management</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>Direktioun, Direktor oder Top Kader/Cadre supérieur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Strongly agree</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>Ganz averstanen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>How old were you when you stopped full-time education?</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>Wéi al waart Dir, wou Dir mat Äre ganzdeegleche Studien opgehalen hutt?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Ship or boat</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>Schëff oder Boot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Bicycle</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>Vëlo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>How old are you?</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>Wéi aal sidd Dir?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Motorbike</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>Motorrad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>(READ OUT - MAX. 2 ANSWERS)</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>(VIRLIESEN - MAX. 2 ÄNTWERTEN)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Single parent, one or more children living at home</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>Allengerzéiend, mat engem Kand oder méi Kanner doheem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Self-employed</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>Selbstänneg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>The state of the streets and buildings in your neighbourhood</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>Den Zoustand vun de Stroossen an de Gebaier an Ärer Noperschaft</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Fairly satisfied</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>éischter zefridden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Generally speaking, most people in [CITY NAME] can be trusted</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>Am Allgemenge kann een dene meeschte Leit zu [CITY NAME] trauen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>(READ OUT - SINGLE CODE)</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>VIRLIESEN - NËMMEN ENG ÄNTWERT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>On a typical day, which mode or modes of transport do you use most often?</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>Wéi eng Transportaarte benotzt Dir am meeschten op engem typeschen Dag?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Schools and other educational facilities</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>Schoulen an aner Bildungsariichtungen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>The quality of the air</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>D'Loftqualitéit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Married or cohabiting couple, with one or more children living at home</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>Bestuet oder Koppel, déi zesummelieft, mat engem oder méi Kanner, déi doheem wunnen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Middle management</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>Mëttlere Kader</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Foreigners who live in [CITY NAME] are well integrated</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>Auslänner, déi zu [CITY NAME] wunnen, si gutt integréiert</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Health care services, doctors and hospitals</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>Gesondheetsservicer, Dokteren a Kliniken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Employee</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>Employé</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>ASK D5d IF MANUAL WORKER, CODE 3 IN D5a</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>D5d FROE WANN AARBECHTER, CODE 3 AN D5a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Public spaces such as markets, squares, pedestrian areas</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>Ëffentlech Beräicher wéi Mäert, Plazen, Foussgängerzonen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Would you say you live in a…?</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>Géif Dir soen, dass Dir an … ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Which of the following best describes your household composition?</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>Wat vu folgendem beschreift am beschten d’Zesummesetzung vun Ärem Stot?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Manager of a company</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>Chef d’entreprise</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>I live here since 1 to 5 years</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>Ech liewen do zanter 1 bis 5 Joer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Not very satisfied</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>Éischter net zefridden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Road infrastructure</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>D´Stroosseninfrastruktur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>PROG: ROTATE ITEMS 1 TO 10</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>PROG: ELEMENTER 1 BIS 10 ROTÉIEREN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>The presence of foreigners is good for [CITY NAME]</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>D’Präsenz vun Auslänner ass gutt fir [CITY NAME]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>(WRITE DOWN - IF "DK" CODE '98' - IF "REFUSAL" CODE '99')</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>(OPSCHREIWEN - WANN "WEESS NET" CODE '98' - WANN "REFUS" CODE '99')</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>DK (DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>Weess net (NET VIRLIESEN)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Yes</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>Jo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Green spaces such as parks and gardens</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>Gréngflächen wéi Parken an Gäert</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>ASK D5e IF WITHOUT A PROFESSIONAL ACTIVITY, CODE 4 IN D5a</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>D5e FROE WANN OUNI PROFESSIONELL AKTIVITÉIT, CODE 4 AN D5a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>(INT.: IF "STILL STUDYING", CODE ‘00’ - IF "NO EDUCATION" CODE '01' - IF "REFUSAL" CODE '98' - IF "DK" CODE '99')</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>(INT.: WANN "NACH AM GAANGEN ZE STUDÉIEREN", CODE '00' - WANN "KENG STUDIË GEMAACH", CODE '01' - WANN "REFUS", CODE '98' - WANN "WEESS NET", CODE '99')</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Other</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>Aner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>(WRITE DOWN - IF "REFUSAL" CODE '99')</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>(OPSCHREIWEN - WANN "REFUS" CODE '99')</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>DK/NA  (DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>WN/KÄ (NET VIRLIESEN)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>FL419 - Quality of life in European Cities UK</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>FL419 - Quality of life in European CitiesLUL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Somewhat agree</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>Zimlech averstanen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Cultural facilities such as concert halls, theatres, museums and libraries</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>Kulturell Ariichtungen, wéi Concertssäll, Theater, Muséeën a Bibliothéiken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>The place where you live</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>Der Géigend, wou Dir lieft</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Was born here/ I’ve been living here for all my life</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>Ech sinn do gebuer/Ech hunn ëmmer do gelieft</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>IF OTHER or DON'T KNOW IN D12, CODES 198 or 199 in D12, STOP THE INTERVIEW</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>WANN ANER oder WEESS NET AN D12, CODEN 198 oder 199 an D12, HAALT DEN INTERVIEW OP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Supervisor\ foreman (team manager, …)</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>Inspekter\Viraarbechter (Teammanager, ...)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>I live here since more than 10 years</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>Ech liewen do zanter méi wéi 10 Joer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>For how long have you been living in [CITY NAME]?</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>Wéi laang lieft Dir schonn zu [CITY NAME]?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Looking after the home</seg>
+      </tuv>
+      <tuv xml:lang="lb-LU">
+        <seg>Hausfra / Hausmann</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

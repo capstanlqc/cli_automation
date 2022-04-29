@@ -1,0 +1,1206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx version="1.4">
+  <header creationtool="cApps" creationtoolversion="2021.02" segtype="paragraph" adminlang="en" datatype="HTML" srclang="en-GB" o-tmf="omt"></header>
+  <body>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Other\ Refusal (DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Altceva / Refuz (NU CITIŢI)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Walking</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Mersul pe jos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>DK/NA (DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>NŞ/NR (NU CITIŢI)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>(DO NOT READ OUT</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>(NU CITIŢI)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Large town/city</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Într-un oraş mare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Have you got a mobile phone?</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Aveti telefon mobil?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>In which city/borough/commune do you live?</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>În ce oraş/comună locuiţi?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Single person household</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Gospodărie cu o singură persoană</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 1</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Bucureşti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Noise</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Zgomotul</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Car</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Maşină</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Public transport</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Transportul public</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>PROG: ROTATE ITEMS 1 TO 4</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>PROG: ROTIŢI de la 1 la 4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>During the last twelve months, would you say you had difficulties to pay your bills at the end of the month…?</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>În ultimele douăsprezece luni, ați spune că ați avut dificultăți în a vă plăti facturile la sfârșitul lunii ...?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Other city</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Alt oraş</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Generally speaking, the public administration of [CITY NAME] can be trusted</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>În general, te poți baza pe administraţia publică din [CITY NAME]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>ASK ALL</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>ADRESAŢI TUTUROR PERSOANELOR INTERVIEVATE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>It is easy to find a job in [CITY NAME]</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>În [CITY NAME]  este uşor să găseşti un loc de muncă</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Not at all satisfied</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Deloc mulţumit(ă)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>I will read you a few statements. Please tell me whether you strongly agree, somewhat agree, somewhat disagree or strongly disagree with each of these statements?</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Vă voi citi câteva afirmaţii. Vă rog să îmi spuneţi dacă sunteţi total de acord, oarecum de acord, oarecum în dezacord sau în total dezacord cu fiecare dintre aceste afirmaţii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Somewhat disagree</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Oarecum în dezacord</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Housing</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Locuinţele</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>(READ OUT – ONE ANSWER ONLY)</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>(CITIŢI VARIANTELE DE RĂSPUNS - UN SINGUR RĂSPUNS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>From time to time</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Ocazional</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>D21: CODE 9 AND 10 - SINGLE CODES</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>D21: CODURILE 9 ȘI 10 - CODURI UNICE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Married or cohabiting couple, no children or no children living at home</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Cuplu căsătorit sau care locuieşte împreună, fără copii sau fără copii care locuiesc acasă</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Rural area or village</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>La sat sau comună</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Train</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Tren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Very satisfied</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Foarte  mulțumit(ă)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Generally speaking, please tell me if you are very satisfied, rather satisfied, rather unsatisfied or not at all satisfied with each of the following issues in [CITY NAME]?</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>În general vorbind, vă rog să îmi spuneţi dacă sunteţi foarte mulțumit(ă), mai degrabă  mulțumit(ă), mai degrabă nemulțumit(ă) sau deloc mulțumit(ă) de fiecare dintre următoarele aspecte  în [CITY NAME] ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Safety</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Siguranţa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Your personal job situation</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Situaţia locului dumneavoastră de muncă</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Small or medium-sized town</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Într-un oraş mic sau mediu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Professional (employed doctor, lawyer, accountant, architect, …)</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Specialist cu studii superioare angajat (medic, avocat, contabil, arhitect angajat)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>It is easy to find good housing at a reasonable price in [CITY NAME]</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>În [CITY NAME] este uşor să găseşti o locuinţă bună la un preţ rezonabil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Generally speaking, most people in my neighborhood can be trusted</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>În general, te poți baza pe majoritatea oamenilor din cartierul meu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Most of the time</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>În cea mai mare parte a timpului</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Have you got a landline phone?</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Aveti telefon fix?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Could you tell me how many people aged 15 years or more live in your household, yourself included?</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Vă rog să-mi spuneţi câte persoane în vârstă de 15 ani şi peste, locuiesc în această gospodărie, incluzându-vă şi pe dvs. aici?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Other (DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Altceva (NU CITIŢI)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Q4: CODE 11 - SINGLE CODE</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Q4: COD 11 - COD UNIC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Strongly disagree</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>În total dezacord</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>I live here since less than 1 year</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Locuiesc aici de mai puţin de 1 an</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Cleanliness</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Curăţenia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>The financial situation of your household</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Situaţia financiară a gospodăriei dvs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Other employee (salesman, nurse, …)</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Altă ocupaţie (vânzător/oare, asistent/ă medical/ă, ...)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>No</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Nu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Owner of shop, craftsman</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Proprietarul unui magazin, meşteşugar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>(READ OUT - ONE ANSWER ONLY)</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>(CITIŢI VARIANTELE DE RĂSPUNS - UN SINGUR RĂSPUNS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Would you say you are…?</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Aţi spune că sunteţi...?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Seeking a job</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>În căutarea unui loc de muncă</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Manual worker</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Muncitor calificat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>The noise level</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Nivelul zgomotului</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>The administrative services of [CITY NAME] help people efficiently</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Serviciile administrative ale oraşului [CITY NAME], ajută în mod eficient oamenii</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Urban public transport (bus, metro, tram, ferry, etc.)</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Transport public urban (autobuz, metrou, tramvai, feribot etc.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Gender.</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Sexul respondentului</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>[CITY NAME] is committed to fight against climate change (e.g.: energy efficiency, green transport)</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>[CITY NAME] este dedicat luptei împotriva schimbării climatice (ex. eficiență energetică, transport ecologic)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Female</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Feminin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>In your opinion, among the following issues, which are the three most important for [CITY NAME]?</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>După părerea dvs., dintre următoarele probleme, care trei sunt cele mai importante pentru [CITY NAME]?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>What county do you live in?</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>În care judeţ locuiţi ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>I live here since between 5 to 10 years</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Locuiesc aici de 5 - 10 ani</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>I am satisfied to live in [CITY NAME]</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Sunt mulţumit(ă) să locuiesc în [CITY NAME]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Male</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Masculin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Social services</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Serviciile sociale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Unemployment</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Șomajul</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>(READ OUT IF NECESSARY - ONE ANSWER ONLY)</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>(CITIŢI VARIANTELE DE RĂSPUNS - UN SINGUR RĂSPUNS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Farmer, forester, fisherman</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Agricultor, silvicultor, pescar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Civil servant</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Funcţionar public</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Without a professional activity</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Fără activitate profesională</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>ASK D5c IF EMPLOYEE, CODE 2 IN D5a</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>ADRESAŢI D5c DACĂ ESTE SALARIAT, COD 2 ÎN D5a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>PROG: ROTATE ITEMS 1 TO 7</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>PROG.: ROTIȚI ORDINEA ITEMILOR DE LA 1 LA 7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Education and training</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Educaţia şi instruirea</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 2</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Cluj-Napoca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>As far as your current occupation is concerned, would you say you are self-employed, an employee, a manual worker or would you say that you are without a professional activity?</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>În ceea ce priveşte ocupaţia dvs. actuală, aţi spune că sunteţi un angajat pe cont propriu, un salariat, un muncitor calificat sau ați spune că sunteţi fără o activitate profesională?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Refusal (DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Refuz (NU CITIŢI)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>(ONE ANSWER ONLY)</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>(UN SINGUR RĂSPUNS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Air pollution</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Poluarea aerului</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>I feel safe in [CITY NAME]</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Mă simt în siguranţă în [CITY NAME]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Unskilled manual worker</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Muncitor necalificat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Sports facilities such as sport fields and indoor sport halls</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Facilităţile sportive precum terenurile sportive şi sălile de sport acoperite</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>The life you lead</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Viaţa pe care o duceţi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Rather unsatisfied</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Mai degrabă  nemulțumit(ă)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Rather satisfied</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Mai degrabă  mulțumit(ă)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Professional (lawyer, medical practitioner, accountant, architect,…)</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Specialist cu studii superioare (avocat, medic, contabil, arhitect, etc...)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Health services</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Serviciile de sănătate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Office clerk</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Funcţionar, lucrător la birou</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Retired</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Pensionar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>(READ OUT – MAX. 3 ANSWERS)</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>SE CITEŞTE LISTA - MAXIM 3 RĂSPUNSURI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>On the whole, are you very satisfied, fairly satisfied, not very satisfied or not at all satisfied with ...?</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>În general, sunteţi foarte mulţumit(ă), destul de mulţumit(ă), nu prea mulţumit(ă) sau deloc mulţumit(ă) de… ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>PROG: ROTATE ITEMS 1 to 12</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>PROG: ROTIŢI de la 1 la 12</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>None (DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Niciuna (NU CITIŢI)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Almost never\ never</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Aproape niciodată/ Niciodată</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Number of people aged 15 or more in the household</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Numărul de persoane de 15 ani sau mai în vârstă din gospodărie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Public transport, for example the bus, tram or metro</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Transportul public, de exemplu autobuzele, tramvaiele sau metroul</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>ASK D5b IF SELF-EMPLOYED, CODE 1 IN D5a</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>ADRESAŢI D5b DACĂ ESTE ANGAJAT PE CONT PROPRIU, COD 1 ÎN D5a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Student (full time)</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Elev\ Student (la zi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>I feel safe in my neighbourhood</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Mă simt în siguranţă în cartierul meu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Availability of retail shops</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Disponibilitatea magazinelor de vânzare cu amănuntul</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>General management, director or top management</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Manager general, director sau poziţie managerială de top</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Strongly agree</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Total de acord</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>How old were you when you stopped full-time education?</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>La ce vârstă aţi încheiat pregătirea şcolară (cursuri de zi)?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Ship or boat</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Vapor sau barcă</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Bicycle</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Bicicletă</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>How old are you?</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Câţi ani aveţi?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Motorbike</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Motocicletă</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>(READ OUT - MAX. 2 ANSWERS)</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>(CITIȚI - MAX. 2 RĂSPUNSURI)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Single parent, one or more children living at home</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Părinte singur, cu unul sau mai mulţi copii care locuiesc acasă</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Self-employed</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Angajat pe cont propriu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>The state of the streets and buildings in your neighbourhood</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Starea străzilor şi a clădirilor din cartierul dvs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Fairly satisfied</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Destul de mulţumit(ă)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Generally speaking, most people in [CITY NAME] can be trusted</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>În general, te poți baza  pe majoritatea oamenilor din [CITY NAME]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>(READ OUT - SINGLE CODE)</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>(CITIŢI VARIANTELE DE RĂSPUNS -UN SINGUR RĂSPUNS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>On a typical day, which mode or modes of transport do you use most often?</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Într-o zi obișnuită, ce mod(uri) de transport utilizați cel mai des?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Schools and other educational facilities</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Şcolile şi facilitaţile educaţionale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>The quality of the air</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Calitatea aerului</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Married or cohabiting couple, with one or more children living at home</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Cuplu căsătorit sau concubini, cu unul sau mai mulţi copii care locuiesc acasă</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Middle management</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Poziţie managerială de mijloc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Foreigners who live in [CITY NAME] are well integrated</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Străinii care locuiesc în [CITY NAME] sunt bine integraţi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 3</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Piatra Neamţ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Health care services, doctors and hospitals</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Serviciile de sănătate, doctori şi spitale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Employee</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Salariat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>ASK D5d IF MANUAL WORKER, CODE 3 IN D5a</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>ADRESAŢI D5d DACĂ ESTE MUNCITOR CALIFICAT, COD 3 ÎN D5a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Public spaces such as markets, squares, pedestrian areas</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Spaţiile publice, precum pieţele, pieţele publice, zonele pietonale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Would you say you live in a…?</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Aţi spune că locuiţi ...?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Which of the following best describes your household composition?</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Care dintre următoarele descrie cel mai bine componenţa gospodăriei dumneavoastră?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Manager of a company</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Managerul unei companii</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>I live here since 1 to 5 years</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Locuiesc aici de 1 - 5 ani</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Not very satisfied</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Nu prea mulţumit(ă)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Road infrastructure</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Infrastructura rutieră</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>PROG: ROTATE ITEMS 1 TO 10</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>PROG: ROTIŢI de la 1 la 10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>The presence of foreigners is good for [CITY NAME]</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Prezenţa străinilor este benefică pentru [CITY NAME]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>(WRITE DOWN - IF "DK" CODE '98' - IF "REFUSAL" CODE '99')</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>(NOTAŢI - DACĂ ”NU ŞTIU” COD '98' - DACĂ ”REFUZ” COD  '99')</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>DK (DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>NU ŞTIU (NU CITIŢI)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Yes</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Da</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Green spaces such as parks and gardens</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Spaţiile verzi, precum parcurile şi grădinile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>ASK D5e IF WITHOUT A PROFESSIONAL ACTIVITY, CODE 4 IN D5a</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>ADRESAŢI D5e DACĂ ESTE FĂRĂ O ACTIVITATE PROFESIONALĂ, COD 4 ÎN D5a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>(INT.: IF "STILL STUDYING", CODE ‘00’ - IF "NO EDUCATION" CODE '01' - IF "REFUSAL" CODE '98' - IF "DK" CODE '99')</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>(OPERATOR: DACĂ "ÎNCĂ STUDIAZĂ" COD '00' - DACĂ "FĂRĂ STUDII" COD '01' - DACĂ "REFUZ" COD '98' - DACĂ "NU ŞTIU" COD '99')</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Other</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Alta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>(WRITE DOWN - IF "REFUSAL" CODE '99')</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>(NOTAŢI - DACĂ "REFUZ" COD '99')</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>DK/NA  (DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>NŞ/NR (NU CITIȚI)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>FL419 - Quality of life in European Cities UK</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>FL419 - Quality of life in European Cities RO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Somewhat agree</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Oarecum de acord</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Cultural facilities such as concert halls, theatres, museums and libraries</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Facilităţile culturale precum sălile de concerte, teatrele, muzeele şi bibliotecile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>The place where you live</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Locul în care trăiţi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Was born here/ I’ve been living here for all my life</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>M-am născut aici/ Am locuit aici toată viaţa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>IF OTHER or DON'T KNOW IN D12, CODES 198 or 199 in D12, STOP THE INTERVIEW</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>DACĂ ALT ORAŞ sau NU ŞTIU în D12, CODURI 198 SAU 199 în D12, OPRIŢI INTERVIUL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Supervisor\ foreman (team manager, …)</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Maistru / supervizor (şef de echipă, etc...)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>I live here since more than 10 years</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Locuiesc aici de peste 10 ani</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>For how long have you been living in [CITY NAME]?</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>De cât timp locuiţi în [CITY NAME]?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Looking after the home</seg>
+      </tuv>
+      <tuv xml:lang="ro-RO">
+        <seg>Are grijă de gospodărie</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

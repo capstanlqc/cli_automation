@@ -1,0 +1,1198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx version="1.4">
+  <header creationtool="cApps" creationtoolversion="2021.02" segtype="paragraph" adminlang="en" datatype="HTML" srclang="en-GB" o-tmf="omt"></header>
+  <body>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Other\ Refusal (DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Andet/Ønsker ikke at svare (LÆS IKKE OP)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Walking</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Går til fods</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>DK/NA (DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Ved ikke/Intet svar (LÆS IKKE OP)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>(DO NOT READ OUT</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>(LÆS IKKE OP)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Large town/city</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Storby</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Have you got a mobile phone?</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Har du en mobiltelefon?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>In which city/borough/commune do you live?</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Hvilken kommune bor du i?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Single person household</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Enpersonshusstand</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 1</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>København</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Noise</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Støj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Car</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Bil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Public transport</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Offentlig transport</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>PROG: ROTATE ITEMS 1 TO 4</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>PROG: ROTER SVAR 1 TIL 4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>During the last twelve months, would you say you had difficulties to pay your bills at the end of the month…?</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Har du i løbet af de seneste 12 måneder haft problemer med at betale de månedlige regninger?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Other city</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>En anden by</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Generally speaking, the public administration of [CITY NAME] can be trusted</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Generelt set kan man stole på de offentlige myndigheder i [CITY NAME]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>ASK ALL</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>STILLES TIL ALLE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>It is easy to find a job in [CITY NAME]</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Det er let at finde arbejde i [CITY NAME]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Not at all satisfied</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Overhovedet ikke tilfreds</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>I will read you a few statements. Please tell me whether you strongly agree, somewhat agree, somewhat disagree or strongly disagree with each of these statements?</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Jeg vil nu læse nogle udsagn op for dig. Kan du fortælle mig om du er meget enig, forholdsvis enig, forholdsvis uenig eller meget uenig i hvert af disse udsagn?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Somewhat disagree</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Forholdsvis uenig</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Housing</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Boliger</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>(READ OUT – ONE ANSWER ONLY)</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>(LÆS OP - KUN ÉT SVAR)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>From time to time</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Enkelte gange</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>D21: CODE 9 AND 10 - SINGLE CODES</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>D21: KODE 9 OG 10 ER SINGLE KODE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Married or cohabiting couple, no children or no children living at home</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Gift eller samlevende par, ingen børn eller ingen hjemmeboende børn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Rural area or village</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Landdistrikt eller landsby</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Train</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Tog</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Very satisfied</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Meget tilfreds</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Generally speaking, please tell me if you are very satisfied, rather satisfied, rather unsatisfied or not at all satisfied with each of the following issues in [CITY NAME]?</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Er du generelt set meget tilfreds, forholdsvis tilfreds, forholdsvis utilfreds eller slet ikke tilfreds med følgende i [CITY NAME]?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Safety</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Tryghed</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Your personal job situation</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Din personlige jobsituation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Small or medium-sized town</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Lille eller middelstor by</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Professional (employed doctor, lawyer, accountant, architect, …)</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Udøver af et liberalt erhverv (advokat, læge, revisor, arkitekt, etc.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>It is easy to find good housing at a reasonable price in [CITY NAME]</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Det er let at finde en god bolig til en rimelig pris i [CITY NAME]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Generally speaking, most people in my neighborhood can be trusted</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Generelt set kan man stole på de fleste mennesker i det kvarter, hvor jeg bor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Most of the time</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>De fleste måneder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Have you got a landline phone?</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Har du en fastnettelefon?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Could you tell me how many people aged 15 years or more live in your household, yourself included?</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Hvor mange personer på 15 år og derover bor der i din husstand, inklusiv dig selv?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Other (DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Andet (LÆS IKKE OP)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Q4: CODE 11 - SINGLE CODE</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Q4: KODE 11 ER SINGLE KODE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Strongly disagree</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Meget uenig</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>I live here since less than 1 year</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Har boet her i mindre end 1 år</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Cleanliness</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Hvor rent der er</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>The financial situation of your household</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Din husstands økonomiske situation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Other employee (salesman, nurse, …)</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Anden type funktionær (sælger, sygeplejerske, etc.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>No</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Nej</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Owner of shop, craftsman</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Butiksejer, håndværker</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>(READ OUT - ONE ANSWER ONLY)</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>(LÆS OP - KUN ÉT SVAR)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Would you say you are…?</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Er du…?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Seeking a job</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Jobsøgende</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Manual worker</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Arbejder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>The noise level</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Støjniveauet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>The administrative services of [CITY NAME] help people efficiently</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>De offentlige myndigheder i [CITY NAME] er gode til at hjælpe borgerne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Urban public transport (bus, metro, tram, ferry, etc.)</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Offentlig bytransport (bus, metro, havnebus osv.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Gender.</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Respondentens køn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>[CITY NAME] is committed to fight against climate change (e.g.: energy efficiency, green transport)</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>[CITY NAME] gør en stor indsats for at bekæmpe klimaforandringerne (f.eks. energieffektivitet, grøn transport)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Female</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Kvinde</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>In your opinion, among the following issues, which are the three most important for [CITY NAME]?</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Hvilke tre af følgende emner er efter din mening de vigtigste for [CITY NAME]?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>What county do you live in?</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Hvilken kommune bor du i?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>I live here since between 5 to 10 years</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Har boet her i 5-10 år</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>I am satisfied to live in [CITY NAME]</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Jeg er tilfreds med at bo i [CITY NAME]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Male</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Mand</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Social services</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Sociale services</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Unemployment</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Arbejdsløshed</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>(READ OUT IF NECESSARY - ONE ANSWER ONLY)</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>(LÆS OP OM NØDVENDIGT - KUN ÉT SVAR MULIGT)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Farmer, forester, fisherman</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Landmand, forstmand, fisker</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Civil servant</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Embedsmand</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Without a professional activity</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Uden beskæftigelse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>ASK D5c IF EMPLOYEE, CODE 2 IN D5a</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>D5c STILLES, HVIS FUNKTIONÆRANSAT, KODE 2 I D5a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>PROG: ROTATE ITEMS 1 TO 7</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>PROG: ROTER SVAR 1 TIL 7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Education and training</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Uddannelse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 2</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Aalborg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>As far as your current occupation is concerned, would you say you are self-employed, an employee, a manual worker or would you say that you are without a professional activity?</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Er du i din nuværende beskæftigelse selvstændig, funktionæransat, faglært/ufaglært arbejder eller uden beskæftigelse?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Refusal (DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Ønsker ikke at svare (LÆS IKKE OP)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>(ONE ANSWER ONLY)</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>(KUN ET SVAR)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Air pollution</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Luftforurening</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>I feel safe in [CITY NAME]</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Jeg føler mig tryg i [CITY NAME]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Unskilled manual worker</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Ufaglært arbejder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Sports facilities such as sport fields and indoor sport halls</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Sportsfaciliteterne såsom sportsbaner og indendørs idrætshaller</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>The life you lead</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Din tilværelse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Rather unsatisfied</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Forholdsvis utilfreds</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Rather satisfied</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Forholdsvis tilfreds</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Professional (lawyer, medical practitioner, accountant, architect,…)</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Udøver af et liberalt erhverv (advokat, læge, revisor, arkitekt, etc.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Health services</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Sundhedsydelser</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Office clerk</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Kontormedarbejder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Retired</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Pensioneret</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>(READ OUT – MAX. 3 ANSWERS)</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>( LÆS OP - MAX. 3 SVAR)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>On the whole, are you very satisfied, fairly satisfied, not very satisfied or not at all satisfied with ...?</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Er du overordnet set meget tilfreds, nogenlunde tilfreds, ikke særligt tilfreds eller overhovedet ikke tilfreds med…?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>PROG: ROTATE ITEMS 1 to 12</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>PROG: ROTER SVAR 1 til 12</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>None (DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Ingen (LÆS IKKE OP)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Almost never\ never</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Stort set aldrig/aldrig</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Number of people aged 15 or more in the household</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Antal personer på 15 år eller ældre i husstanden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Public transport, for example the bus, tram or metro</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Den offentlige transport f.eks. bus, tog eller metro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>ASK D5b IF SELF-EMPLOYED, CODE 1 IN D5a</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>D5b STILLES, HVIS SELVSTÆNDIG, KODE 1 I D5a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Student (full time)</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Studerende (fuld tid)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>I feel safe in my neighbourhood</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Jeg føler mig tryg i det kvarter, hvor jeg bor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Availability of retail shops</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Udvalget af detailbutikker</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>General management, director or top management</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Daglig leder, direktør eller topleder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Strongly agree</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Meget enig</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>How old were you when you stopped full-time education?</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Hvor gammel var du, da du afsluttede din fuldtidsuddannelse?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Ship or boat</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Skib eller færge</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Bicycle</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Cykel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>How old are you?</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Hvad er din alder?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Motorbike</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Motorcykel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>(READ OUT - MAX. 2 ANSWERS)</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>(LÆS OP - HØJST 2 SVAR)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Single parent, one or more children living at home</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Enlig forsøger med et eller flere hjemmeboende børn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Self-employed</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Selvstændig</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>The state of the streets and buildings in your neighbourhood</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Den stand, som vejene og bygningerne er i, dér hvor du bor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Fairly satisfied</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Nogenlunde tilfreds</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Generally speaking, most people in [CITY NAME] can be trusted</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Generelt set kan man stole på de fleste mennesker i [CITY NAME]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>(READ OUT - SINGLE CODE)</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>(LÆS OP - KUN ÉT SVAR)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>On a typical day, which mode or modes of transport do you use most often?</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Hvilke transportmidler bruger du oftest på en typisk dag?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Schools and other educational facilities</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Skoler og andre uddannelsesfaciliteter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>The quality of the air</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Luftkvaliteten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Married or cohabiting couple, with one or more children living at home</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Gift eller samlevende par, med et eller flere hjemmeboende børn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Middle management</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Mellemleder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Foreigners who live in [CITY NAME] are well integrated</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>De udlændinge, der bor i [CITY NAME], er velintegrerede</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Health care services, doctors and hospitals</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>De sundhedsydelser som tilbydes af læger og sygehuse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Employee</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Funktionæransat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>ASK D5d IF MANUAL WORKER, CODE 3 IN D5a</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>D5d STILLES, HVIS ARBEJDER, KODE 3 I D5a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Public spaces such as markets, squares, pedestrian areas</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>De offentlige pladser såsom markedspladser, torve, gågader</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Would you say you live in a…?</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Bor du i…?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Which of the following best describes your household composition?</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Hvilket af følgende beskriver bedst din husstands sammensætning?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Manager of a company</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Leder af et firma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>I live here since 1 to 5 years</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Har boet her i 1-5 år</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Not very satisfied</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Ikke særligt tilfreds</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Road infrastructure</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Vejinfrastruktur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>PROG: ROTATE ITEMS 1 TO 10</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>PROG: ROTER SVAR 1 TIL 10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>The presence of foreigners is good for [CITY NAME]</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Det er godt for [CITY NAME], at der bor udlændinge i byen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>(WRITE DOWN - IF "DK" CODE '98' - IF "REFUSAL" CODE '99')</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>(SKRIV NED - HVIS "VED IKKE" KODE '98' - HVIS "ØNSKER IKKE AT SVARE" KODE '99')</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>DK (DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Ved ikke (LÆS IKKE OP)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Yes</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Ja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Green spaces such as parks and gardens</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>De grønne områder som f.eks. parker og haver</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>ASK D5e IF WITHOUT A PROFESSIONAL ACTIVITY, CODE 4 IN D5a</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>D5e STILLES, HVIS UDEN BESKÆFTIGELSE, KODE 4 I D5a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>(INT.: IF "STILL STUDYING", CODE ‘00’ - IF "NO EDUCATION" CODE '01' - IF "REFUSAL" CODE '98' - IF "DK" CODE '99')</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>(INT. KODE "00", HVIS "STADIG STUDERENDE"  - HVIS "INGEN UDDANNELSE" KODE '01' - HVIS "ØNSKER IKKE AT SVARE" KODE '98' - HVIS "VED IKKE" KODE '99')</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Other</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Andet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>(WRITE DOWN - IF "REFUSAL" CODE '99')</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>(SKRIV NED - HVIS "ØNSKER IKKE AT SVARE" KODE '99')</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>DK/NA  (DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Ved ikke/Intet svar (LÆS IKKE OP)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>FL419 - Quality of life in European Cities UK</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>FL419 - Quality of life in European Cities DK</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Somewhat agree</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Forholdsvis enig</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Cultural facilities such as concert halls, theatres, museums and libraries</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>De kulturelle tilbud såsom koncertsale, teatre, museer og biblioteker</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>The place where you live</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Det sted, du bor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Was born here/ I’ve been living here for all my life</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Er født her/har boet her hele mit liv</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>IF OTHER or DON'T KNOW IN D12, CODES 198 or 199 in D12, STOP THE INTERVIEW</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>HVIS ANDET eller VED IKKE I D12, KODE 198 eller 199 i D12, AFBRYD INTERVIEW</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Supervisor\ foreman (team manager, …)</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Værkfører, leder (sjakformand, etc.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>I live here since more than 10 years</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Har boet her i over 10 år</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>For how long have you been living in [CITY NAME]?</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Hvor længe har du boet i [CITY NAME]?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Looking after the home</seg>
+      </tuv>
+      <tuv xml:lang="da-DK">
+        <seg>Hjemmegående</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

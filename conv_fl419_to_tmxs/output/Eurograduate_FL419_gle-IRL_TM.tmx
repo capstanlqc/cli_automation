@@ -1,0 +1,1566 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx version="1.4">
+  <header creationtool="cApps" creationtoolversion="2021.02" segtype="paragraph" adminlang="en" datatype="HTML" srclang="en-GB" o-tmf="omt"></header>
+  <body>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 36</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Bhaile Hearman</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 45</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Bhaile Bhoicht</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Other\ Refusal (DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Eile\ Diúltú (NÁ LÉIGH AMACH OS ARD)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Walking</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Siúl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>DK/NA (DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Ní fhios/Níl bainteach (NÁ LÉIGH AMACH OS ARD)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>(DO NOT READ OUT</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>(NÁ LÉIGH AMACH OS ARD)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Large town/city</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>mBaile mór</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Have you got a mobile phone?</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>An bhfuil fón póca  agat?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 37</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Gharraithe na Lus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 7</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Thír an Iúir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>In which city/borough/commune do you live?</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Cé acu cathair/buirg/común ina bhfuil tú i do chónaí?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Single person household</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Teaghlach duine aonair</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 1</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Ghort na Silíní</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 4</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Inse Chór</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Noise</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Torann</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Car</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Gluaisteán</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Public transport</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Iompar poiblí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>PROG: ROTATE ITEMS 1 TO 4</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>CLÁR: ROTHLAIGH IDIR MÍREANNA 1 GO DTÍ 4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>During the last twelve months, would you say you had difficulties to pay your bills at the end of the month…?</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Le dhá mhí déag anuas, an ndéarfá go raibh sé deacair íoc as do bhillí ag deireadh na míosa…?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Other city</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Cathair eile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Generally speaking, the public administration of [CITY NAME] can be trusted</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Ar an iomlán, is féidir muinín a bheith agam as an riarachán poiblí i mBaile Átha Cliath</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>ASK ALL</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>CUIR I nGACH CÁS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>It is easy to find a job in [CITY NAME]</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Is féidir post a fháil go héasca i mBaile Átha Cliath</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Not at all satisfied</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Níl tú sásta ar chor ar bith</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 20</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Chamaí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>I will read you a few statements. Please tell me whether you strongly agree, somewhat agree, somewhat disagree or strongly disagree with each of these statements?</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Léifidh mé amach roinnt ráiteas difriúil. An mhiste leat a rá liom an aontaíonn tú go láidir, an bhfuil claonadh ort aontú, an bhfuil claonadh ort easaontú nó nach n-aontaíonn tú in aon chor le gach ceann de na ráitis seo?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Somewhat disagree</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Claonadh orm easaontú leis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Housing</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Tithíocht</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>(READ OUT – ONE ANSWER ONLY)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>(LÉIGH AMACH OS ARD - FREAGRA AMHÁIN AG TEASTÁIL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>From time to time</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Ó am go ham</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 18</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Fhionnghlaise</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>D21: CODE 9 AND 10 - SINGLE CODES</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>D21: CÓD 9 AGUS 10 - CÓID SHINGILE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 43</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Bhán an Aeir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 10</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Coille Móire</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Married or cohabiting couple, no children or no children living at home</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Lánúin phósta nó lánúin neamhphósta, gan leanaí nó gan leanaí ina gcónaí sa bhaile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Rural area or village</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>gCeantar tuaithe nó sráidbháile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 19</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Beaumont</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Train</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Traein</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Very satisfied</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>An-sásta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 25</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>An Ché Adhmaid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Generally speaking, please tell me if you are very satisfied, rather satisfied, rather unsatisfied or not at all satisfied with each of the following issues in [CITY NAME]?</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Ar an iomlán, ar mhiste leat a rá liom an bhfuil tú an-sásta, an bhfuil tú sásta go leor, nach bhfuil tú ró-shásta nó nach bhfuil tú sásta ar chor ar bith le gach ceann de na saincheisteanna seo a leanas i mBaile Átha Cliath?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 31</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Bhaile an Ásaigh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 24</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Chill Mhaighneann</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 23</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Uiséir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Safety</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Sábháilteacht</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Your personal job situation</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Do staid phoist féin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Small or medium-sized town</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>mBaile beag nó meánmhéide</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Professional (employed doctor, lawyer, accountant, architect, …)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Duine gairme (dlíodóir, liachleachtóir, cuntasóir, ailtire fostaithe...)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>It is easy to find good housing at a reasonable price in [CITY NAME]</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Is féidir tithíocht mhaith ar phraghas réasúnta a fháil go héasca i mBaile Átha Cliath</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Generally speaking, most people in my neighborhood can be trusted</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Ar an iomlán, is féidir muinín a bheith agam as an gcuid is mó de dhaoine i mo chomharsanacht</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Most of the time</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>An chuid is mó den am</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Have you got a landline phone?</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>An bhfuil guthan líne talún?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 5</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Dhroim Fionn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Could you tell me how many people aged 15 years or more live in your household, yourself included?</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Ar mhiste leat a insint dom cé mhéad duine atá cúig bliana déag d'aois nó níos mó a bhfuil cónaí orthu i do theachsa, tú féin san áireamh?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Other (DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Eile (NÁ LÉIGH AMACH OS ARD)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Q4: CODE 11 - SINGLE CODE</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Q4: CÓD 11 - CÓD SINGIL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Strongly disagree</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Ní aontaím in aon chor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 29</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Éadan Mór</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>I live here since less than 1 year</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Níos lú ná bliain amháin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Cleanliness</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Glaineacht</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>The financial situation of your household</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Staid airgeadais do theaghlaigh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Other employee (salesman, nurse, …)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Fostaí eile (díoltóir, altra...)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>No</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Níl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Owner of shop, craftsman</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Úinéir siopa, ceardaí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>(READ OUT - ONE ANSWER ONLY)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>(LÉIGH AMACH OS ARD - FREAGRA AMHÁIN AG TEASTÁIL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Would you say you are…?</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>As na cineálacha gairmeacha seo a leanas, cé acu an cur síos is fearr ort féin...?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Seeking a job</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Ag lorg poist</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Manual worker</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Oibrí láimhe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>The noise level</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Leibhéal an torainn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>The administrative services of [CITY NAME] help people efficiently</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Faigheann daoine cabhair éifeachtach ó na seirbhísí riaracháin i mBaile Átha Cliath</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Urban public transport (bus, metro, tram, ferry, etc.)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Iompar poiblí uirbeach (bus, meitreo, tram, caladh, etc.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Gender.</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Inscne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>[CITY NAME] is committed to fight against climate change (e.g.: energy efficiency, green transport)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Táthar tiomanta don athrú aeráide a laghdú i mBaile Átha Cliath (m.sh. éifeachtúlacht fuinnimh, iompar glas)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 40</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Pháirc na nGrás</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 21</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Bhaile Munna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Female</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Baineannach</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 15</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Coill an Phrióra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>In your opinion, among the following issues, which are the three most important for [CITY NAME]?</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Cad iad na trí shaincheist is tábhachtaí do Baile Átha Cliath, dar leatsa, as na saincheisteanna seo a leanas?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>What county do you live in?</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Cén contae ina bhfuil cónaí ort?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 22</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Pheambróg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>I live here since between 5 to 10 years</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Idir cúig bliana agus deich mbliana</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>I am satisfied to live in [CITY NAME]</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Táim sásta bheith i mó chónaí i mBaile Átha Cliath</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Male</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Fireannach</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 28</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Thuaidh na Cathrach</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 13</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Ráth Maonais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Social services</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Seirbhísí sóisialta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Unemployment</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Dífhostaíocht</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>(READ OUT IF NECESSARY - ONE ANSWER ONLY)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>(LÉIGH AMACH OS ARD MÁS GÁ - FREAGRA AMHÁIN AG TEASTÁIL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Farmer, forester, fisherman</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Feirmeoir, foraoiseoir, iascaire</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 9</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Thuaidh Duga</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Civil servant</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Státseirbhíseach</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 44</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Mhuinseo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Without a professional activity</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Gan gníomhaíocht ghairmiúil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 12</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>nDéise</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>ASK D5c IF EMPLOYEE, CODE 2 IN D5a</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>CUIR D5c MÁS FOSTAÍ É AN FREAGRÓIR, CÓD 2 IN D5a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>PROG: ROTATE ITEMS 1 TO 7</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>LEAN: ROTHLAIGH MÍREANNA 1 GO 7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Education and training</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Oideachas agus oiliúint</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 26</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Cé na nÓstaí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 2</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Chromghlinne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 30</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Bhaile Bhailcín</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>As far as your current occupation is concerned, would you say you are self-employed, an employee, a manual worker or would you say that you are without a professional activity?</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Maidir leis an ról atá agat faoi láthair, an ndéarfá go bhfuil tú féinfhostaithe, gur fostaí tú, gur oibrí láimhe tú nó a ndéarfá go bhfuil tú gan gníomhaíocht ghairmiúil?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Refusal (DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Diúltú (NÁ LÉIGH AMACH OS ARD)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>(ONE ANSWER ONLY)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>(FREAGRA AMHÁIN AG TEASTÁIL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Air pollution</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Aerthruailliú</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>I feel safe in [CITY NAME]</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Mothaím sábháilte i mBaile Átha Cliath</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Unskilled manual worker</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Oibrí láimhe neamhoilte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Sports facilities such as sport fields and indoor sport halls</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Áiseanna spóirt, mar shampla páirceanna imeartha agus hallaí spóirt faoi dhíon</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>The life you lead</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Do shaol laethúil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 34</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Shéipéal Iosóid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Rather unsatisfied</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Níl tú ró-shásta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Rather satisfied</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Sásta go leor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Professional (lawyer, medical practitioner, accountant, architect,…)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Duine gairmiúil (dlíodóir, liachleachtóir, cuntasóir, ailtire...)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Health services</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Seirbhísí sláinte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 41</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Iostáin Chaoimhín</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Office clerk</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Cléireach oifige</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 38</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Teach an Ard-Mhéara</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Retired</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Duine ar scor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>(READ OUT – MAX. 3 ANSWERS)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>(LÉIGH AMACH - 3 FHREAGRA AR A MHÉID)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>On the whole, are you very satisfied, fairly satisfied, not very satisfied or not at all satisfied with ...?</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Ar an iomlán, an bhfuil tú an-sásta, an bhfuil tú sásta go leor, nach bhfuil tú ró-shásta nó nach bhfuil tú sásta ar chor ar bith le…?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>PROG: ROTATE ITEMS 1 to 12</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>CLÁR: ROTHLAIGH IDIR MÍREANNA 1 go dtí 12</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>None (DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Dada (NÁ LÉIGH AMACH OS ARD)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 48</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Duga Theas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Almost never\ never</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Beagnach riamh/Riamh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Number of people aged 15 or more in the household</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Líon na ndaoine atá cúig bliana déag d'aois nó níos mó sa teaghlach</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Public transport, for example the bus, tram or metro</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>An t-iompar poiblí, mar shampla na busanna, na tramanna nó an méarchóras iarnród cathrach</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 8</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Ráth Eanaigh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>ASK D5b IF SELF-EMPLOYED, CODE 1 IN D5a</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>CUIR D5b MÁS DUINE FÉINFHOSTAITHE É AN FREAGRÓIR, CÓD 1 IN D5a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Student (full time)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Mac léinn (lánaimseartha)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 11</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Cabraí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 42</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Bhaile Gall</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>I feel safe in my neighbourhood</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Mothaím sábháilte i mo chomharsanacht</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Availability of retail shops</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Fáil ar shiopaí miondíola</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>General management, director or top management</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Bainsitíocht ghinearálta, stiúrthóir, ardbhainistíocht</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Strongly agree</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Aontaím go láidir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 14</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Fionnbhrú</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>How old were you when you stopped full-time education?</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Cén aois a bhí tú nuair a d'fhág tú oideachas lánaimseartha?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Ship or boat</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Long nó bád</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Bicycle</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Rothar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 33</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Cé na gCeannaithe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 35</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Gráinsí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 6</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Chluain Tarbh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>How old are you?</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Cén aois thú?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Motorbike</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Gluaisrothar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>(READ OUT - MAX. 2 ANSWERS)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>(LÉIGH AMACH OS ARD - 2 FHREAGRA AR A MHÉID)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Single parent, one or more children living at home</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Tuismitheoir aonair, le leanbh amháin nó níos mó ina gcónaí sa bhaile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Self-employed</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Féinfhostaithe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>The state of the streets and buildings in your neighbourhood</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Staid na sráideanna agus na bhfoirgneamh i do chomharsanacht</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Fairly satisfied</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Sásta go leor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Generally speaking, most people in [CITY NAME] can be trusted</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Ar an iomlán, is féidir muinín a bheith agam as an gcuid is mó de dhaoine i mBaile Átha Cliath</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>(READ OUT - SINGLE CODE)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>(LÉIGH AMACH OS ARD - FREAGRA AMHÁIN AG TEASTÁIL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>On a typical day, which mode or modes of transport do you use most often?</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Ar lá tipiciúil, cén modh/modhanna iompar a úsáideann tú is minice?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 32</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Charna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Schools and other educational facilities</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Scoileanna agus áiseanna oideachasúla eile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>The quality of the air</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Caighdeán an aeir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Married or cohabiting couple, with one or more children living at home</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Lánúin phósta nó lánúin neamhphósta, le leanbh amháin nó níos mó ina gcónaí sa bhaile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Middle management</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Meánbhainistíocht</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Foreigners who live in [CITY NAME] are well integrated</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Tá na heachtrannaigh atá ina gcónaí i mBaile Átha Cliath imeasctha go maith</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 47</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Páirc an Fhionnuisce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 3</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Cé Árann</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Health care services, doctors and hospitals</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Seirbhísí cúram sláinte, dochtúirí agus ospidéil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Employee</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Fostaí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>ASK D5d IF MANUAL WORKER, CODE 3 IN D5a</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>CUIR D5d MÁS OIBRÍ LÁIMHE É AN FREAGRÓIR, CÓD 3 IN D5a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Public spaces such as markets, squares, pedestrian areas</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Spásanna poiblí, mar shampla margaí, cearnóga, ceantair choisithe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Would you say you live in a…?</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>An déarfá go bhfuil cónaí ort i...?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Which of the following best describes your household composition?</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Cé acu ceann de na ráitis seo a leanas a dhéanann an cur síos is fearr ar chomhdhéanamh do theaghlaigh?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Manager of a company</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Bainisteoir comhlachta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>I live here since 1 to 5 years</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Idir bliain amháin agus cúig bliana</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Not very satisfied</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Níl tú ró-shásta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Road infrastructure</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Bonneagar bóithre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>PROG: ROTATE ITEMS 1 TO 10</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>CLÁR: ROTHLAIGH IDIR MÍREANNA 1 GO DTÍ 10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>The presence of foreigners is good for [CITY NAME]</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Tá se go maith do Baile Átha Cliath] go bhfuil eachtrannaigh ann</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>(WRITE DOWN - IF "DK" CODE '98' - IF "REFUSAL" CODE '99')</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>SCRÍOBH SÍOS - I gCÁS "NÍ FHIOS" CÓD '98' - I gCÁS DIÚLTÚ CÓD '99')</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 46</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Coille Móire</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 39</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Rotunda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>DK (DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Ní fhios (NÁ LÉIGH AMACH OS ARD)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 27</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Dhroim Conrach</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Yes</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Tá</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Green spaces such as parks and gardens</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Spásanna glasa, mar shampla páirceanna agus gairdíní</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>ASK D5e IF WITHOUT A PROFESSIONAL ACTIVITY, CODE 4 IN D5a</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>CUIR D5e MÁS DUINE GAN GNÍOMHAÍOCHT GHAIRMIÚIL É AN FREAGRÓIR, CÓD 4 IN D5a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>(INT.: IF "STILL STUDYING", CODE ‘00’ - IF "NO EDUCATION" CODE '01' - IF "REFUSAL" CODE '98' - IF "DK" CODE '99')</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>(INT.: I gCÁS "FÓS AG STAIDÉAR", CÓD '00' - I gCÁS "NÍ BHFUAIR MÉ AON OIDEACHAS" CÓD '01' - I gCÁS "DIÚLTÚ" CÓD '98' - I gCÁS "NÍ FHIOS" CÓD '99')</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Other</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Eile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>(WRITE DOWN - IF "REFUSAL" CODE '99')</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>(SCRÍOBH SÍOS - I gCÁS "DIÚLTÚ" CÓD '99')</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>DK/NA  (DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Ní fhios/Níl bainteach (NÁ LÉIGH AMACH OS ARD)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 16</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Malartán Ríoga</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>FL419 - Quality of life in European Cities UK</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>FL419 - Quality of life in European CitiesIEI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 17</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Ráth Fearnáin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Somewhat agree</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Claonadh orm aontú leis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Cultural facilities such as concert halls, theatres, museums and libraries</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Áiseanna cultúrtha, mar shampla ceolárais, amharclanna, músaeim agus leabharlanna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>The place where you live</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>An áit ina bhfuil tú i do chónaí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Was born here/ I’ve been living here for all my life</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Rugadh anseo mé/Mo shaol ar fad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>IF OTHER or DON'T KNOW IN D12, CODES 198 or 199 in D12, STOP THE INTERVIEW</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>MÁS EILE nó NÍ FHIOS nó CÓID 198 nó 199 AN FREAGRA ATÁ I gCEIST in D12, CUIR STOP LEIS AN AGALLAMH</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Supervisor\ foreman (team manager, …)</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Maoirseoir\ saoiste (bainisteoir foirne,..)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>I live here since more than 10 years</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Níos mó ná deich mbliana</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>For how long have you been living in [CITY NAME]?</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Cá fhad atá tú i do chónaí i mBaile Átha Cliath ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Looking after the home</seg>
+      </tuv>
+      <tuv xml:lang="ga-IE">
+        <seg>Ag obair sa bhaile</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

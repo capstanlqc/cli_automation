@@ -1,0 +1,1494 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx version="1.4">
+  <header creationtool="cApps" creationtoolversion="2021.02" segtype="paragraph" adminlang="en" datatype="HTML" srclang="en-GB" o-tmf="omt"></header>
+  <body>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 36</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Košice - Dargovských hrdinov</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Other\ Refusal (DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Iné/odmietnutie (NEČÍTAJTE)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Walking</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Chôdzu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>DK/NA (DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Nevie/bez odpovede (NEPONÚKAJTE)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>(DO NOT READ OUT</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>(NEČÍTAJTE)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Large town/city</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>vo veľkom meste</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Have you got a mobile phone?</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Máte mobilný telefón?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 37</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Košice - Poľov</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 7</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Bratislava - Staré Mesto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>In which city/borough/commune do you live?</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>V ktorej mestskej časti bývate?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Single person household</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Domácnosť jednotlivca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 1</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Bratislava - Vajnory</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 4</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Bratislava - Rača</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Noise</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Hluk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Car</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Auto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Public transport</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Verejná doprava</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>PROG: ROTATE ITEMS 1 TO 4</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>PROG. MEŇTE PORADIE POLOŽIEK 1 AŽ 4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>During the last twelve months, would you say you had difficulties to pay your bills at the end of the month…?</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Stalo sa Vám za posledných dvanásť mesiacov, že ste mali problém na konci mesiaca zaplatiť účty...?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Other city</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Iné mesto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Generally speaking, the public administration of [CITY NAME] can be trusted</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Všeobecne vzaté, verejnej správe v [CITY NAME] sa dá dôverovať</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>ASK ALL</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>PÝTAJTE SA VŠETKÝCH</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>It is easy to find a job in [CITY NAME]</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>V [CITY NAME] je ľahké nájsť si prácu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Not at all satisfied</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>vôbec nie spokojný(á)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 20</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Košice - Krásna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>I will read you a few statements. Please tell me whether you strongly agree, somewhat agree, somewhat disagree or strongly disagree with each of these statements?</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Prečítam Vám niekoľko tvrdení. Prosím, povedzte mi, či veľmi súhlasíte, skôr súhlasíte, skôr nesúhlasíte alebo veľmi nesúhlasíte s týmito tvrdeniami?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Somewhat disagree</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Skôr nesúhlasíte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Housing</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Bývanie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>(READ OUT – ONE ANSWER ONLY)</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>(PREČÍTAJTE - LEN JEDNA ODPOVEĎ)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>From time to time</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Občasne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 18</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Košice - Pereš</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>D21: CODE 9 AND 10 - SINGLE CODES</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>D21: KÓD 9 a 10 - JEDINÉ KÓDY</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 10</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Bratislava - Devínska Nová Ves</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Married or cohabiting couple, no children or no children living at home</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Manželský pár alebo partneri, bez detí alebo bez detí žijúcimi s nimi doma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Rural area or village</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>na vidieku alebo na dedine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 19</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Košice - Lorinčík</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Train</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Vlak</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Very satisfied</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>veľmi spokojný/-á</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 25</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Košice - Sever</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Generally speaking, please tell me if you are very satisfied, rather satisfied, rather unsatisfied or not at all satisfied with each of the following issues in [CITY NAME]?</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Všeobecne vzaté, povedzte mi, prosím, či ste veľmi spokojný/-á, skôr spokojný/-á, skôr nespokojný/-á alebo vôbec nie ste spokojný/-á s nasledujúcimi oblasťami v [CITY NAME]?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 31</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Košice - Sídlisko KVP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 24</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Košice - Šebastovce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 23</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Košice - Juh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Safety</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Bezpečnosť</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Your personal job situation</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Vašou osobnou situáciou v zamestnaní</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Small or medium-sized town</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>v malom alebo v stredne veľkom meste</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Professional (employed doctor, lawyer, accountant, architect, …)</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Odborník (zamestnaný lekár, právnik, účtovník, architekt)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>It is easy to find good housing at a reasonable price in [CITY NAME]</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>V [CITY NAME] je ľahké nájsť si dobré bývanie za rozumnú cenu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Generally speaking, most people in my neighborhood can be trusted</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Všeobecne vzaté, väčšine ľudí v mojej štvrti sa dá dôverovať</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Most of the time</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Väčšinou</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Have you got a landline phone?</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Máte pevnú telefónnu linku?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 5</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Bratislava - Rusovce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Could you tell me how many people aged 15 years or more live in your household, yourself included?</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Mohli by ste mi povedať, koľko osôb vo veku 15 rokov alebo starších žije vo vašej domácnosti vrátane Vás?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Other (DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Iné (NEPONÚKAJTE)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Q4: CODE 11 - SINGLE CODE</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Q4: KÓD 11 - JEDINÝ KÓD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Strongly disagree</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Rozhodne nesúhlasíte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 29</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Košice - Košická Nová Ves</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>I live here since less than 1 year</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Bývam tu kratšie ako 1 rok</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Cleanliness</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Čistota</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>The financial situation of your household</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Finančnou situáciou vašej domácnosti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Other employee (salesman, nurse, …)</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Iný zamestnanec (predavač, zdravotná sestra...)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>No</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Nie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Owner of shop, craftsman</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Majiteľ obchodu, remeselník</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>(READ OUT - ONE ANSWER ONLY)</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>(PREČÍTAJTE – LEN JEDNA ODPOVEĎ)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Would you say you are…?</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Povedali by ste, že ste...?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Seeking a job</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Hľadá prácu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Manual worker</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Manuálne pracujúci</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>The noise level</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Hlučnosť</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>The administrative services of [CITY NAME] help people efficiently</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Správne orgány mesta [CITY NAME] ľuďom účinne pomáhajú</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Urban public transport (bus, metro, tram, ferry, etc.)</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Mestskú hromadnú dopravu (autobus, električku, trajekt atď.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Gender.</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Pohlavie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>[CITY NAME] is committed to fight against climate change (e.g.: energy efficiency, green transport)</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>[CITY NAME] sa zapája do boja proti klimatickým zmenám (napr. energetickou efektívnosťou, ekologickou dopravou)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 21</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Košice - Vyšné Opátske</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Female</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Žena</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 15</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Bratislava - Devín</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>In your opinion, among the following issues, which are the three most important for [CITY NAME]?</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Spomedzi nasledujúcich vecí, ktoré sú podľa Vás tri najdôležitejšie pre [CITY NAME]?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>What county do you live in?</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Povedzte mi prosím, v ktorom kraji trvalo žijete?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 22</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Košice - Barca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>I live here since between 5 to 10 years</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Bývam tu 5 až 10 rokov</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>I am satisfied to live in [CITY NAME]</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Som spokojný/-á, že žijem v [CITY NAME]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Male</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Muž</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 28</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Košice - Staré Mesto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 13</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Bratislava - Ružinov</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Social services</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Sociálne služby</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Unemployment</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Nezamestnanosť</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>(READ OUT IF NECESSARY - ONE ANSWER ONLY)</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>(V PRÍPADE POTREBY PREČÍTAJTE – LEN JEDNA ODPOVEĎ)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Farmer, forester, fisherman</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Poľnohospodár, lesník, rybár</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 9</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Bratislava - Karlova Ves</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Civil servant</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Zamestnanec v štátnej správe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Without a professional activity</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Nevykonáva pracovnú činnosť</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 12</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Bratislava - Lamač</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>ASK D5c IF EMPLOYEE, CODE 2 IN D5a</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>OTÁZKU D5c SA PÝTAJTE, AK IDE O ZAMESTNANCA, OZNAČENÉ 2 v D5a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>PROG: ROTATE ITEMS 1 TO 7</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>PROG. MEŇTE PORADIE POLOŽIEK 1 AŽ 7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Education and training</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Vzdelávanie a odborná príprava</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 26</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Košice - Západ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 2</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Bratislava - Vrakuňa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 30</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Košice - Šaca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>As far as your current occupation is concerned, would you say you are self-employed, an employee, a manual worker or would you say that you are without a professional activity?</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Pokiaľ ide o vaše súčasné zamestnanie, povedali by ste, že ste samostatne zárobkovo činná osoba, zamestnanec, robotník, alebo by ste povedali, že nevykonávate pracovnú činnosť?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Refusal (DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Odmietnutie (NEČÍTAJTE)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>(ONE ANSWER ONLY)</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>(LEN JEDNA ODPOVEĎ)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Air pollution</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Znečistenie vzduchu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>I feel safe in [CITY NAME]</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>V [CITY NAME] sa cítim bezpečne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Unskilled manual worker</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Nekvalifikovaný manuálny pracovník</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Sports facilities such as sport fields and indoor sport halls</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Športové zariadenia, napr. športové ihriská a kryté športové haly</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>The life you lead</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Životom, ktorý vediete</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 34</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Košice - Džungľa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Rather unsatisfied</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>skôr nespokojný/-á</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Rather satisfied</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>skôr spokojný/-á</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Professional (lawyer, medical practitioner, accountant, architect,…)</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Odborník (právnik, lekár, účtovník, architekt...)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Health services</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Zdravotné služby</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Office clerk</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Úradník</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 38</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Košice - Nad jazerom</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Retired</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Na dôchodku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>(READ OUT – MAX. 3 ANSWERS)</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>PREČÍTAJTE - MAX 3 MOŽNÉ ODPOVEDE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>On the whole, are you very satisfied, fairly satisfied, not very satisfied or not at all satisfied with ...?</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Celkovo ste veľmi spokojný(á), skôr spokojný(á), nie veľmi spokojný(á) alebo vôbec nie spokojný(á) s...?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>PROG: ROTATE ITEMS 1 to 12</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>PROG. MEŇTE PORADIE POLOŽIEK 1 AŽ 12</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>None (DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Žiadne (NEPONÚKAJTE)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Almost never\ never</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Takmer nikdy/nikdy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Number of people aged 15 or more in the household</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Počet osôb vo veku 15 rokov alebo viac v domácnosti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Public transport, for example the bus, tram or metro</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Verejná doprava, napríklad autobusy, električky alebo metro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 8</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Bratislava - Čunovo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>ASK D5b IF SELF-EMPLOYED, CODE 1 IN D5a</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>OTÁZKU D5b SA PÝTAJTE, AK IDE O SAMOSTATNE ZÁROBKOVO ČINNÚ OSOBU, OZNAČENÉ 1 v D5a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Student (full time)</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Študent (denné štúdium)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 11</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Bratislava - Nové Mesto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>I feel safe in my neighbourhood</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>V mojej štvrti sa cítim bezpečne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Availability of retail shops</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Dostupnosť maloobchodných predajní</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>General management, director or top management</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Vyšší manažment, riaditeľ, alebo top manažment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Strongly agree</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Rozhodne súhlasíte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 14</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Bratislava - Záhorská Bystrica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>How old were you when you stopped full-time education?</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Koľko ste mali rokov, keď ste ukončili Vaše vzdelanie? Máme na mysli riadne, denné štúdium.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Ship or boat</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Loď alebo čln</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Bicycle</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Bicykel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 33</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Košice - Myslava</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 35</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Košice - Ťahanovce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 6</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Bratislava - Podunajské Biskupice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>How old are you?</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Koľko máte rokov?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Motorbike</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Motocykel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>(READ OUT - MAX. 2 ANSWERS)</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>(PREČÍTAJTE - MAX 2 ODPOVEDE)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Single parent, one or more children living at home</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Jeden rodič s jedným alebo viacerými deťmi, žijúcimi doma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Self-employed</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Samostatne zárobkovo činná osoba</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>The state of the streets and buildings in your neighbourhood</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Stav ulíc a budov vo vašom okolí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Fairly satisfied</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>skôr spokojný(á)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Generally speaking, most people in [CITY NAME] can be trusted</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Všeobecne vzaté, väčšine ľudí v [CITY NAME] sa dá dôverovať</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>(READ OUT - SINGLE CODE)</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>(PREČÍTAJTE – LEN JEDNA ODPOVEĎ)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>On a typical day, which mode or modes of transport do you use most often?</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Ktorý spôsob alebo spôsoby dopravy využívate najčastejšie v bežnom dni?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 32</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Košice - Luník IX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Schools and other educational facilities</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Školy a iné vzdelávacie zariadenia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>The quality of the air</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Kvalita vzduchu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Married or cohabiting couple, with one or more children living at home</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Manželský pár alebo partneri s jedným alebo viacerými deťmi, žijúcimi doma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Middle management</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Stredný manažment  (vedúci oddelenia, učiteľ, technik)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Foreigners who live in [CITY NAME] are well integrated</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Cudzinci, ktorí žijú v [CITY NAME], sú dobre začlenení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 3</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Bratislava - Petržalka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Health care services, doctors and hospitals</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Zdravotnícke služby, lekári a nemocnice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Employee</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Zamestnanec</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>ASK D5d IF MANUAL WORKER, CODE 3 IN D5a</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>OTÁZKU D5d SA PÝTAJTE, AK IDE O ROBOTNÍKA, OZNAČENÉ 3 v D5a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Public spaces such as markets, squares, pedestrian areas</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Verejné miesta, ako sú napríklad trhy, námestia, pešie zóny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Would you say you live in a…?</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Povedali by ste, že žijete...?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Which of the following best describes your household composition?</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Ktorá z nasledujúcich možností najlepšie vystihuje zloženie vašej domácnosti?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Manager of a company</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Manažér firmy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>I live here since 1 to 5 years</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Bývam tu 1 až 5 rokov</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Not very satisfied</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>nie veľmi spokojný(á)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Road infrastructure</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Cestná infraštruktúra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>PROG: ROTATE ITEMS 1 TO 10</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>PROG. MEŇTE PORADIE POLOŽIEK 1 AŽ 10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>The presence of foreigners is good for [CITY NAME]</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Prítomnosť cudzincov je pre [CITY NAME] dobrá</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>(WRITE DOWN - IF "DK" CODE '98' - IF "REFUSAL" CODE '99')</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>(ZAPÍŠTE – AK „NEVIE“, OZNAČTE 98 – AK „ODMIETNUTIE“, OZNAČTE 99)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 39</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Košice - Sídlisko Ťahanovce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>DK (DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>NEVIE (NEČÍTAJTE)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 27</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Košice - Kavečany</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Yes</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Áno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Green spaces such as parks and gardens</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Zelené priestranstvá, ako napr. parky a záhrady</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>ASK D5e IF WITHOUT A PROFESSIONAL ACTIVITY, CODE 4 IN D5a</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>OTÁZKU D5e SA PÝTAJTE, AK NEVYKONÁVA PRACOVNÚ ČINNOSŤ, OZNAČENÉ 4 v D5a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>(INT.: IF "STILL STUDYING", CODE ‘00’ - IF "NO EDUCATION" CODE '01' - IF "REFUSAL" CODE '98' - IF "DK" CODE '99')</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>(ANK.: AK „STÁLE ŠTUDUJE", OZNAČTE „00" - AK "ŽIADNE  VZDELANIE" OZNAČTE "01" - AK "ODMIETNUTIE", OZNAČTE "98" - AK "NEVIE", OZNAČTE "99")</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Other</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Iné</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>(WRITE DOWN - IF "REFUSAL" CODE '99')</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>(ZAPÍŠTE – AK „ODMIETNUTIE“, OZNAČTE 99)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>DK/NA  (DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Nevie/neodpovedal (NEPONÚKAJTE)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 16</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Bratislava - Dúbravka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>FL419 - Quality of life in European Cities UK</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>FL419 - Quality of life in European Cities SK</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 17</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Bratislava - Jarovce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Somewhat agree</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Skôr súhlasíte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Cultural facilities such as concert halls, theatres, museums and libraries</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Kultúrne zariadenia, napr. koncertné sály, divadlá, múzeá a knižnice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>The place where you live</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Miestom, kde žijete</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Was born here/ I’ve been living here for all my life</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Narodil som sa tu/bývam tu celý život</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>IF OTHER or DON'T KNOW IN D12, CODES 198 or 199 in D12, STOP THE INTERVIEW</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>AK JE V OTÁZKE D12 VYZNAČENÉ "INÉ" alebo "NEVIE", KÓDY 198 alebo 199, ROZHOVOR PRERUŠTE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Supervisor\ foreman (team manager, …)</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Vedúci/majster (vedúci tímu...)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>I live here since more than 10 years</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Bývam tu viac ako 10 rokov</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>For how long have you been living in [CITY NAME]?</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>Ako dlho bývate v [CITY NAME]?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Looking after the home</seg>
+      </tuv>
+      <tuv xml:lang="sk-SK">
+        <seg>V domácnosti</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

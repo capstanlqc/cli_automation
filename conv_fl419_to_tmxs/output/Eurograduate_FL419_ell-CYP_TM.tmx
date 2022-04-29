@@ -1,0 +1,1254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx version="1.4">
+  <header creationtool="cApps" creationtoolversion="2021.02" segtype="paragraph" adminlang="en" datatype="HTML" srclang="en-GB" o-tmf="omt"></header>
+  <body>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Other\ Refusal (DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Άλλο/ Άρνηση (ΜΗ ΔΙΑΒΑΣΕΤΕ)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Walking</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Περπάτημα</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>DK/NA (DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>ΔΓ/ΔΑ (ΜΗ ΔΙΑΒΑΣΕΤΕ)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>(DO NOT READ OUT</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>(ΜΗΝ ΔΙΑΒΑΣΕΤΕ)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Large town/city</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Μεγάλη πόλη</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Have you got a mobile phone?</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Έχετε κινητό τηλέφωνο;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 7</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Συνοικισμός Ανθούπολης</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>In which city/borough/commune do you live?</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Σε ποιο δήμο/κοινότητα κατοικείτε;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Single person household</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Νοικοκυριό ενός ατόμου</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 1</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Στρόβολος</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 4</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Αγλαντζιά</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Noise</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Θόρυβος</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Car</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Αυτοκίνητο</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Public transport</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Μέσα μαζικής μεταφοράς</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>PROG: ROTATE ITEMS 1 TO 4</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>ΠΡΟΓΡ.: ΚΑΝΤΕ ΕΝΑΛΛΑΓΗ ΣΤΑ ΣΤΟΙΧΕΙΑ 1 ΕΩΣ 4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>During the last twelve months, would you say you had difficulties to pay your bills at the end of the month…?</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Στη διάρκεια των τελευταίων δώδεκα μηνών, θα λέγατε ότι είχατε δυσκολίες να πληρώσετε τους λογαριασμούς σας στο τέλος του μήνα...;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Other city</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Άλλη πόλη</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Generally speaking, the public administration of [CITY NAME] can be trusted</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Γενικά μιλώντας, μπορείς να εμπιστευτείς τις διοικητικές υπηρεσίες στο/στη [CITY NAME]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>ASK ALL</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>ΡΩΤΗΣΤΕ ΟΛΟΥΣ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>It is easy to find a job in [CITY NAME]</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Στο/ στη [ΟΝΟΜΑ ΠΟΛΗΣ] είναι εύκολο να βρεις δουλειά</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Not at all satisfied</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Καθόλου ικανοποιημένος/η</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>I will read you a few statements. Please tell me whether you strongly agree, somewhat agree, somewhat disagree or strongly disagree with each of these statements?</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Θα σας διαβάσω μερικές δηλώσεις. Παρακαλώ πείτε μου εάν συμφωνείτε έντονα, συμφωνείτε κάπως, διαφωνείτε κάπως, ή διαφωνείτε έντονα με την κάθε μία από αυτές τις δηλώσεις;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Somewhat disagree</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Διαφωνώ κάπως</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Housing</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Στέγαση</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>(READ OUT – ONE ANSWER ONLY)</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>(ΔΙΑΒΑΣΤΕ -ΜΟΝΟ ΜΙΑ ΑΠΑΝΤΗΣΗ)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>From time to time</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Κατά καιρούς</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>D21: CODE 9 AND 10 - SINGLE CODES</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>D21: ΚΩΔΙΚΟΙ 9 ΚΑΙ 10 - ΜΟΝΑΔΙΚΟΙ ΚΩΔΙΚΟΙ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Married or cohabiting couple, no children or no children living at home</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Παντρεμένο ζευγάρι ή ζευγάρι που συγκατοικεί, χωρίς παιδιά ή χωρίς παιδιά που να ζουν στο σπίτι</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Rural area or village</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Αγροτική περιοχή ή χωριό</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Train</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Τρένο</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Very satisfied</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Πολύ ικανοποιημένος/η</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Generally speaking, please tell me if you are very satisfied, rather satisfied, rather unsatisfied or not at all satisfied with each of the following issues in [CITY NAME]?</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Γενικά μιλώντας, παρακαλώ πείτε μου αν είσαστε πολύ ικανοποιημένος/η, μάλλον ικανοποιημένος/η, μάλλον μη ικανοποιημένος/η ή καθόλου ικανοποιημένος/η με το κάθε ένα από τα ακόλουθα θέματα στο/ στη [CITY NAME] :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Safety</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Ασφάλεια</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Your personal job situation</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Την προσωπική σας επαγγελματική κατάσταση</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Small or medium-sized town</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Μικρή ή μεσαίου μεγέθους πόλη</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Professional (employed doctor, lawyer, accountant, architect, …)</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Επαγγελματίας (υπάλληλος ιατρός, δικηγόρος, λογιστής, αρχιτέκτονας…)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>It is easy to find good housing at a reasonable price in [CITY NAME]</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Στο /στη [CITY NAME]  είναι εύκολο να βρεις καλή στέγαση σε λογική τιμή</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Generally speaking, most people in my neighborhood can be trusted</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Γενικά μιλώντας, μπορείς να εμπιστευτείς τον περισσότερο κόσμο στη γειτονιά μου</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Most of the time</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Τις περισσότερες φορές</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Have you got a landline phone?</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Έχετε σταθερό τηλέφωνο;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 5</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Λακατάμεια</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Could you tell me how many people aged 15 years or more live in your household, yourself included?</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Μπορείτε να μου πείτε πόσα άτομα 15 χρονών και πάνω κατοικούν στο νοικοκυριό σας, συμπεριλαμβανομένου του εαυτού σας;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Other (DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Άλλο (ΜΗ ΔΙΑΒΑΣΕΤΕ)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Q4: CODE 11 - SINGLE CODE</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Q4: ΚΩΔΙΚΟΣ 11 - ΜΟΝΑΔΙΚΟΣ ΚΩΔΙΚΟΣ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Strongly disagree</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Διαφωνώ έντονα</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>I live here since less than 1 year</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Ζω εδώ λιγότερο από 1 χρόνο</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Cleanliness</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Καθαριότητα</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>The financial situation of your household</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Την οικονομική κατάσταση της οικογένειας σας</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Other employee (salesman, nurse, …)</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Άλλος υπάλληλος/μισθωτός (πωλητής, νοσοκόμα, ...)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>No</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Όχι</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Owner of shop, craftsman</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Ιδιοκτήτης καταστήματος, χειροτέχνης</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>(READ OUT - ONE ANSWER ONLY)</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>(ΔΙΑΒΑΣΤΕ -ΜΟΝΟ ΜΙΑ ΑΠΑΝΤΗΣΗ)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Would you say you are…?</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Θα λέγατε ότι είστε...;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Seeking a job</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Γυρεύει δουλεία</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Manual worker</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Εργάτης</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>The noise level</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Επίπεδο θορύβου</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>The administrative services of [CITY NAME] help people efficiently</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Οι διοικητικές υπηρεσίες στο/ στη [CITY NAME] βοηθούν τον κόσμο αποτελεσματικά</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Urban public transport (bus, metro, tram, ferry, etc.)</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Αστικά μέσα μαζικής μεταφοράς (λεωφορείο, μετρό, τραμ, φέρι μποτ, κ.λπ.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Gender.</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>ΦΥΛΟ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>[CITY NAME] is committed to fight against climate change (e.g.: energy efficiency, green transport)</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Ο/η [CITY NAME]  δεσμεύεται στη μάχη εναντίον της κλιματολογικής αλλαγής (π.χ. ενεργειακή απόδοση, πράσινες μεταφορές)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Female</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Γυναίκα</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>In your opinion, among the following issues, which are the three most important for [CITY NAME]?</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Κατά τη γνώμη σας, μεταξύ των ακόλουθων θεμάτων, ποια είναι τα τρία πιο σημαντικά για το/τη [CITY NAME];</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>What county do you live in?</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Σε ποια επαρχία κατοικείτε;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>I live here since between 5 to 10 years</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Ζω εδώ τα τελευταία 5 έως 10 χρόνια</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>I am satisfied to live in [CITY NAME]</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Είμαι ικανοποιημένος/η που ζω στο/ στη [CITY NAME]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Male</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Άντρας</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Social services</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Κοινωνικές υπηρεσίες</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Unemployment</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Ανεργία</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>(READ OUT IF NECESSARY - ONE ANSWER ONLY)</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>(ΔΙΑΒΑΣΤΕ ΕΑΝ ΑΠΑΙΤΕΙΤΑΙ - ΜΟΝΟ ΜΙΑ ΑΠΑΝΤΗΣΗ)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Farmer, forester, fisherman</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Γεωργοκτηνοτρόφος, δασικός υπάλληλος, ψαράς</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 9</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Λευκωσία</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Civil servant</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Δημόσιος υπάλληλος</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Without a professional activity</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Χωρίς επαγγελματική δραστηριότητα</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>ASK D5c IF EMPLOYEE, CODE 2 IN D5a</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>ΡΩΤΗΣΤΕ ΤΗΝ D5c ΑΝ ΥΠΑΛΛΗΛΟΣ/ΜΙΣΘΩΤΟΣ, ΚΩΔΙΚΟΣ 2 ΣΤΗΝ D5a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>PROG: ROTATE ITEMS 1 TO 7</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>ΠΡΟΓΡ: ΚΑΝΤΕ ΕΝΑΛΛΑΓΗ ΣΤΗ ΣΕΙΡΑ ΤΩΝ ΣΤΟΙΧΕΙΩΝ 1 ΕΩΣ 7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Education and training</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Εκπαίδευση και κατάρτιση</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 2</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Λατσιά</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>As far as your current occupation is concerned, would you say you are self-employed, an employee, a manual worker or would you say that you are without a professional activity?</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Σε ό,τι αφορά την τρέχουσα απασχόλησή σας, θα λέγατε ότι είστε αυτοαπασχολούμενος, υπάλληλος/μισθωτός, εργάτης ή θα λέγατε ότι είστε χωρίς επαγγελματική δραστηριότητα;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Refusal (DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Άρνηση (ΜΗ ΔΙΑΒΑΖΕΤΕ)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>(ONE ANSWER ONLY)</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>(ΜΟΝΟ ΜΙΑ ΑΠΑΝΤΗΣΗ)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Air pollution</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Ατμοσφαιρική ρύπανση</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>I feel safe in [CITY NAME]</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Νιώθω ασφαλής στο/στη [CITY NAME]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Unskilled manual worker</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Ανειδίκευτος εργάτης</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Sports facilities such as sport fields and indoor sport halls</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Αθλητικές διευκολύνσεις, όπως αθλητικά γήπεδα και κλειστές αθλητικές αίθουσες</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>The life you lead</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Τη ζωή που κάνετε</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Rather unsatisfied</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Μάλλον μη ικανοποιημένος/η</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Rather satisfied</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Μάλλον ικανοποιημένος/η</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Professional (lawyer, medical practitioner, accountant, architect,…)</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Επαγγελματίας (δικηγόρος, ιατρός, λογιστής, αρχιτέκτονας...)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Health services</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Υπηρεσίες υγείας</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Office clerk</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Υπάλληλος γραφείου</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Retired</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Συνταξιούχος</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>(READ OUT – MAX. 3 ANSWERS)</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>(ΔΙΑΒΑΣΤΕ - ΕΩΣ 3 ΑΠΑΝΤΗΣΕΙΣ)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>On the whole, are you very satisfied, fairly satisfied, not very satisfied or not at all satisfied with ...?</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Συνολικά, είστε πολύ ικανοποιημένος/η, αρκετά ικανοποιημένος/η, όχι πολύ ικανοποιημένος/η ή καθόλου ικανοποιημένος με…;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>PROG: ROTATE ITEMS 1 to 12</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>ΠΡΟΓΡ.: ΚΑΝΤΕ ΕΝΑΛΛΑΓΗ ΣΤΑ ΣΤΟΙΧΕΙΑ 1 έως 12</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>None (DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Καμία (ΜΗ ΔΙΑΒΑΣΕΤΕ)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Almost never\ never</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Σχεδόν ποτέ/ Ποτέ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Number of people aged 15 or more in the household</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Αριθμός ατόμων ηλικίας 15 ετών ή μεγαλύτερα στο νοικοκυριό</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Public transport, for example the bus, tram or metro</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Δημόσιες συγκοινωνίες, για παράδειγμα το λεωφορείο, τραμ ή μετρό</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 8</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Άγιος Δομέτιος</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>ASK D5b IF SELF-EMPLOYED, CODE 1 IN D5a</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>ΡΩΤΗΣΤΕ ΤΗΝ D5b ΑΝ ΑΥΤΟΑΠΑΣΧΟΛΟΥΜΕΝΟΣ, ΚΩΔΙΚΟΣ 1 ΣΤΗΝ D5a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Student (full time)</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Μαθητής (πλήρη εκπαίδευση)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>I feel safe in my neighbourhood</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Νιώθω ασφαλής στη γειτονιά μου</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Availability of retail shops</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Διαθεσιμότητα καταστημάτων λιανικής πώλησης</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>General management, director or top management</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Γενική διεύθυνση, διευθυντής ή ανώτατη διεύθυνση</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Strongly agree</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Συμφωνώ έντονα</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>How old were you when you stopped full-time education?</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Πόσο χρονών ήσασταν όταν σταματήσατε την πλήρη φοίτησή σας σε εκπαιδευτικό ίδρυμα;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Ship or boat</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Καράβι ή πλοίο</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Bicycle</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Ποδήλατο</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 6</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Έγκωμη</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>How old are you?</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Πόσων χρονών είστε;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Motorbike</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Μοτοσικλέτα</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>(READ OUT - MAX. 2 ANSWERS)</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>(ΔΙΑΒΑΣΤΕ - ΕΩΣ 2 ΑΠΑΝΤΗΣΕΙΣ)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Single parent, one or more children living at home</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Μονογονική οικογένεια (ένας γονιός), ένα ή περισσότερα παιδιά ζουν στο σπίτι</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Self-employed</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Αυτοαπασχολούμενος</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>The state of the streets and buildings in your neighbourhood</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Την κατάσταση των δρόμων και κτιρίων στη γειτονιά σας</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Fairly satisfied</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Αρκετά ικανοποιημένος/η</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Generally speaking, most people in [CITY NAME] can be trusted</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Γενικά μιλώντας, μπορείς να εμπιστευτείς τον περισσότερο κόσμο στο/στη [CITY NAME]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>(READ OUT - SINGLE CODE)</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>(ΔΙΑΒΑΣΤΕ - ΜΟΝΟ ΜΙΑ ΑΠΑΝΤΗΣΗ)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>On a typical day, which mode or modes of transport do you use most often?</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Σε μια συνηθισμένη ημέρα, ποιον τρόπο (ποιους τρόπους) μετακίνησης χρησιμοποιείτε πιο συχνά;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Schools and other educational facilities</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Σχολεία και άλλες εκπαιδευτικές διευκολύνσεις</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>The quality of the air</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Ποιότητα του αέρα</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Married or cohabiting couple, with one or more children living at home</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Παντρεμένο ζευγάρι ή ζευγάρι που συγκατοικεί, με ένα ή περισσότερα παιδιά που να ζουν στο σπίτι</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Middle management</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Μέση διεύθυνση, άλλες διευθύνσεις (τμηματάρχες, νεαρά διευθυντικά στελέχη, δάσκαλοι/ καθηγητές, τεχνικοί)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Foreigners who live in [CITY NAME] are well integrated</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Οι ξένοι που ζουν στο/στη [CITY NAME] είναι καλά ενταγμένοι</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 3</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Γέρι</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Health care services, doctors and hospitals</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Υπηρεσίες ιατρικής περίθαλψης, γιατρούς και νοσοκομεία</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Employee</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Υπάλληλος/μισθωτός</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>ASK D5d IF MANUAL WORKER, CODE 3 IN D5a</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>ΡΩΤΗΣΤΕ ΤΗΝ D5d ΑΝ ΕΡΓΑΤΗΣ, ΚΩΔΙΚΟΣ 3 ΣΤΗΝ D5a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Public spaces such as markets, squares, pedestrian areas</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Δημόσιους χώρους, όπως αγορές, πλατείες, πεζόδρομους</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Would you say you live in a…?</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Θα λέγατε ότι ζείτε σε…;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Which of the following best describes your household composition?</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Ποιο από τα παρακάτω περιγράφει καλύτερα τη σύνθεση του νοικοκυριού σας;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Manager of a company</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Διευθυντής εταιρίας</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>I live here since 1 to 5 years</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Ζω εδώ τα τελευταία 1 έως 5 χρόνια</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Not very satisfied</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Όχι πολύ ικανοποιημένος/η</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Road infrastructure</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Υποδομή δρόμων</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>PROG: ROTATE ITEMS 1 TO 10</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>ΠΡΟΓΡ.: ΚΑΝΤΕ ΕΝΑΛΛΑΓΗ ΣΤΑ ΣΤΟΙΧΕΙΑ 1 ΕΩΣ 10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>The presence of foreigners is good for [CITY NAME]</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Η παρουσία ξένων είναι καλή για το/τη [CITY NAME]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>(WRITE DOWN - IF "DK" CODE '98' - IF "REFUSAL" CODE '99')</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>(ΚΑΤΑΓΡΑΨΤΕ - ΕΑΝ "ΔΓ" ΚΩΔΙΚΟΣ '98' - ΑΝ "ΑΡΝΗΣΗ" ΚΩΔΙΚΟΣ '99')</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>DK (DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>ΔΚ (ΜΗ ΔΙΑΒΑΣΕΤΕ)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Yes</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Ναι</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Green spaces such as parks and gardens</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Χώρους πρασίνου όπως πάρκα και κήπους</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>ASK D5e IF WITHOUT A PROFESSIONAL ACTIVITY, CODE 4 IN D5a</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>ΡΩΤΗΣΤΕ ΤΗΝ D5e ΑΝ ΧΩΡΙΣ ΕΠΑΓΓΕΛΜΑΤΙΚΗ ΔΡΑΣΤΗΡΙΟΤΗΤΑ, ΚΩΔΙΚΟΣ 4 ΣΤΗΝ D5a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>(INT.: IF "STILL STUDYING", CODE ‘00’ - IF "NO EDUCATION" CODE '01' - IF "REFUSAL" CODE '98' - IF "DK" CODE '99')</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>(ΕΡ: ΑΝ "ΑΚΟΜΗ ΦΟΙΤΑ", ΚΩΔΙΚΟΠΟΙΗΣΤΕ '00' - ΑΝ "ΚΑΘΟΛΟΥ ΜΟΡΦΩΣΗ" ΚΩΔΙΚΟΠΟΙΗΣΤΕ '01' - ΑΝ "ΑΡΝΗΣΗ" ΚΩΔΙΚΟΠΟΙΗΣΤΕ '98' - ΑΝ "ΔΓ"  ΚΩΔΙΚΟΠΟΙΗΣΤΕ '99')</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Other</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Άλλo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>(WRITE DOWN - IF "REFUSAL" CODE '99')</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>(ΚΑΤΑΓΡΑΨΤΕ - ΑΝ "ΑΡΝΗΣΗ" ΚΩΔΙΚΟΣ '99')</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>DK/NA  (DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>ΔΓ/ΔΑ (ΜΗ ΔΙΑΒΑΣΕΤΕ)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>FL419 - Quality of life in European Cities UK</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>FL419 - Quality of life in European Cities CY</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Somewhat agree</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Συμφωνώ κάπως</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Cultural facilities such as concert halls, theatres, museums and libraries</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Πολιτιστικές διευκολύνσεις, όπως αίθουσες συναυλιών, θέατρα, μουσεία και βιβλιοθήκες</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>The place where you live</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Το μέρος όπου ζείτε</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Was born here/ I’ve been living here for all my life</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Γεννήθηκα εδώ / Κατοικώ εδώ όλη μου τη ζωή</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>IF OTHER or DON'T KNOW IN D12, CODES 198 or 199 in D12, STOP THE INTERVIEW</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>ΑΝ ΑΛΛΗ ή ΔΕΝ ΓΝΩΡΙΖΩ ΣΤΗΝ D12, ΚΩΔΙΚΟΙ 198 ή 199 στην D12, ΣΤΑΜΑΤΗΣΤΕ ΤΗ ΣΥΝΕΝΤΕΥΞΗ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Supervisor\ foreman (team manager, …)</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Επόπτης/ εργοδηγός (επικεφαλής ομάδας, ...)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>I live here since more than 10 years</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Ζω εδώ πάνω από 10 χρόνια</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>For how long have you been living in [CITY NAME]?</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Πόσο καιρό κατοικείτε στο/στη [CITY NAME];</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Looking after the home</seg>
+      </tuv>
+      <tuv xml:lang="el-CY">
+        <seg>Φροντίζει το σπίτι</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

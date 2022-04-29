@@ -1,0 +1,14 @@
+2/23/21 11:48 AM
+Project Statistics
+
+                 	Segments	Words	Characters (without spaces)	Characters (including spaces)	#Files	
+Total:           	    4011	14961	                     107436	                       111796	     1	
+Remaining:       	    4011	14961	                     107436	                       111796	     1	
+Unique:          	    3504	14446	                     104247	                       108220	     1	
+Unique Remaining:	    3504	14446	                     104247	                       108220	     1	
+
+
+Individual File Statistics:
+
+File Name                     	Total Segments	Remaining Segments	Unique Segments	Unique Remaining Segments	Total Words	Remaining Words	Unique Words	Unique Remaining Words	Total Characters (without spaces)	Remaining Characters (without spaces)	Unique Characters (without spaces)	Unique Remaining Characters (without spaces)	Total Characters (including spaces)	Remaining Characters (including spaces)	Unique Characters (including spaces)	Unique Remaining Characters (including spaces)	
+MRT_source_col_sample.xlsm.xlf	          4011	              4011	           3504	                     3504	      14961	          14961	       14446	                 14446	                           107436	                               107436	                            104247	                                      104247	                             111796	                                 111796	                              108220	                                        108220	

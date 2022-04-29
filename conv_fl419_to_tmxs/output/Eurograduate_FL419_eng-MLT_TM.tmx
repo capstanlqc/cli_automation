@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx version="1.4">
+  <header creationtool="cApps" creationtoolversion="2021.02" segtype="paragraph" adminlang="en" datatype="HTML" srclang="en-GB" o-tmf="omt"></header>
+  <body>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>(DO NOT READ OUT</seg>
+      </tuv>
+      <tuv xml:lang="en-MT">
+        <seg>(DO NOT READ OUT)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Large town/city</seg>
+      </tuv>
+      <tuv xml:lang="en-MT">
+        <seg>Large town</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 7</seg>
+      </tuv>
+      <tuv xml:lang="en-MT">
+        <seg>Ħamrun</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>In which city/borough/commune do you live?</seg>
+      </tuv>
+      <tuv xml:lang="en-MT">
+        <seg>In which locality do you live?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 1</seg>
+      </tuv>
+      <tuv xml:lang="en-MT">
+        <seg>Birgu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 4</seg>
+      </tuv>
+      <tuv xml:lang="en-MT">
+        <seg>Fgura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 20</seg>
+      </tuv>
+      <tuv xml:lang="en-MT">
+        <seg>Santa Venera</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 18</seg>
+      </tuv>
+      <tuv xml:lang="en-MT">
+        <seg>San Ġwann</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 10</seg>
+      </tuv>
+      <tuv xml:lang="en-MT">
+        <seg>Luqa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 19</seg>
+      </tuv>
+      <tuv xml:lang="en-MT">
+        <seg>Santa Luċija</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 25</seg>
+      </tuv>
+      <tuv xml:lang="en-MT">
+        <seg>Valletta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 24</seg>
+      </tuv>
+      <tuv xml:lang="en-MT">
+        <seg>Tarxien</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 23</seg>
+      </tuv>
+      <tuv xml:lang="en-MT">
+        <seg>Ta' Xbiex</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Small or medium-sized town</seg>
+      </tuv>
+      <tuv xml:lang="en-MT">
+        <seg>Small or middle sized town</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 5</seg>
+      </tuv>
+      <tuv xml:lang="en-MT">
+        <seg>Floriana</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Q4: CODE 11 - SINGLE CODE</seg>
+      </tuv>
+      <tuv xml:lang="en-MT">
+        <seg>Q4: CODE 11 - SINGLE CODE (N)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 21</seg>
+      </tuv>
+      <tuv xml:lang="en-MT">
+        <seg>Sliema</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 15</seg>
+      </tuv>
+      <tuv xml:lang="en-MT">
+        <seg>Pietà</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>What county do you live in?</seg>
+      </tuv>
+      <tuv xml:lang="en-MT">
+        <seg>Which locality do you live in?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 22</seg>
+      </tuv>
+      <tuv xml:lang="en-MT">
+        <seg>Swieqi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 13</seg>
+      </tuv>
+      <tuv xml:lang="en-MT">
+        <seg>Paola</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 9</seg>
+      </tuv>
+      <tuv xml:lang="en-MT">
+        <seg>Kalkara</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 12</seg>
+      </tuv>
+      <tuv xml:lang="en-MT">
+        <seg>Msida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 26</seg>
+      </tuv>
+      <tuv xml:lang="en-MT">
+        <seg>Xgħajra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 2</seg>
+      </tuv>
+      <tuv xml:lang="en-MT">
+        <seg>Birkirkara</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Public transport, for example the bus, tram or metro</seg>
+      </tuv>
+      <tuv xml:lang="en-MT">
+        <seg>Public transport, for example the bus {tram or metro}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 8</seg>
+      </tuv>
+      <tuv xml:lang="en-MT">
+        <seg>Isla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 11</seg>
+      </tuv>
+      <tuv xml:lang="en-MT">
+        <seg>Marsa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>I feel safe in my neighbourhood</seg>
+      </tuv>
+      <tuv xml:lang="en-MT">
+        <seg>I feel safe in my neighborhood</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 14</seg>
+      </tuv>
+      <tuv xml:lang="en-MT">
+        <seg>Pembroke</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 6</seg>
+      </tuv>
+      <tuv xml:lang="en-MT">
+        <seg>Gzira</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>The state of the streets and buildings in your neighbourhood</seg>
+      </tuv>
+      <tuv xml:lang="en-MT">
+        <seg>The state of the streets and buildings in your neighborhood</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>(READ OUT - SINGLE CODE)</seg>
+      </tuv>
+      <tuv xml:lang="en-MT">
+        <seg>(READ OUT – ONE ANSWER ONLY)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>On a typical day, which mode or modes of transport do you use most often?</seg>
+      </tuv>
+      <tuv xml:lang="en-MT">
+        <seg>On a typical day, which mode(s) of transport do you use most often?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 3</seg>
+      </tuv>
+      <tuv xml:lang="en-MT">
+        <seg>Bormla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Would you say you live in a…?</seg>
+      </tuv>
+      <tuv xml:lang="en-MT">
+        <seg>Would you say you live in a...?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 27</seg>
+      </tuv>
+      <tuv xml:lang="en-MT">
+        <seg>Żabbar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 16</seg>
+      </tuv>
+      <tuv xml:lang="en-MT">
+        <seg>Qormi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>FL419 - Quality of life in European Cities UK</seg>
+      </tuv>
+      <tuv xml:lang="en-MT">
+        <seg>FL419 - Quality of life in European CitiesMTE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 17</seg>
+      </tuv>
+      <tuv xml:lang="en-MT">
+        <seg>San Ġiljan</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

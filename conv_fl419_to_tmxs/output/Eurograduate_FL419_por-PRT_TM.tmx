@@ -1,0 +1,2718 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx version="1.4">
+  <header creationtool="cApps" creationtoolversion="2021.02" segtype="paragraph" adminlang="en" datatype="HTML" srclang="en-GB" o-tmf="omt"></header>
+  <body>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 36</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Oliveira (São Pedro)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 149</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Ramada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 45</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Gondizalves</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Other\ Refusal (DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Outro/Recusa (NÃO LER)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Walking</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>A pé</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>DK/NA (DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>NS/NR (NÃO LER)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 84</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Carnide</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 156</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Lavradio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>(DO NOT READ OUT</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>(NÃO LER)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Large town/city</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Cidade grande</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Have you got a mobile phone?</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Tem telemóvel?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 37</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Palmeira</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 7</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Merelim (São Paio)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 182</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Cascais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>In which city/borough/commune do you live?</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Em que cidade/localidade vive?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 83</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Beato</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Single person household</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Agregado familiar de uma só pessoa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 1</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Merelim (São Pedro)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 4</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Parada de Tibães</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 118</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Arrentela</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 74</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>São Vicente de Fora</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Noise</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Ruído</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 51</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Celeirós</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 126</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Alfragide</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Car</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Carro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Public transport</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Transportes públicos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>PROG: ROTATE ITEMS 1 TO 4</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>PROG: ROTACIONAR ITENS 1 A 4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 67</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>São Sebastião da Pedreira</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 136</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Cacilhas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>During the last twelve months, would you say you had difficulties to pay your bills at the end of the month…?</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Nos últimos doze meses, diria que teve dificuldades em pagar as suas contas no final do mês...?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 153</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Santo António da Charneca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 121</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Seixal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Other city</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Outra cidade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 103</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Santa Engrácia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 104</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Santa Catarina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Generally speaking, the public administration of [CITY NAME] can be trusted</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>De uma maneira geral, a administração pública de [CITY NAME] é de confiança</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>ASK ALL</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>PERGUNTAR A TODOS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 90</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Benfica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>It is easy to find a job in [CITY NAME]</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>É fácil encontrar um  emprego em [CITY NAME]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 109</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>São João</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Not at all satisfied</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Nada satisfeito(a)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 20</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Braga (Maximinos)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>I will read you a few statements. Please tell me whether you strongly agree, somewhat agree, somewhat disagree or strongly disagree with each of these statements?</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Vou ler-lhe algumas afirmações. Por  favor,  diga-me  se  concorda totalmente, concorda, discorda ou discorda totalmente com cada uma destas afirmações?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Somewhat disagree</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Discorda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Housing</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Habitação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 120</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Fernão Ferro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 184</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Paço de Arcos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>(READ OUT – ONE ANSWER ONLY)</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>(LER - APENAS UMA RESPOSTA)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 87</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>São Nicolau</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>From time to time</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>De vez em quando</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 95</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Graça</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 18</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Espinho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 165</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Loures</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 64</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Campolide</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>D21: CODE 9 AND 10 - SINGLE CODES</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>D21: CÓDIGO 9 E 10 - CÓDIGOS ÚNICOS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 187</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Santa Iria de Azoia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 43</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Penso (São Vicente)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 112</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Lumiar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 10</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Penso (Santo Estêvão)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Married or cohabiting couple, no children or no children living at home</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Casado(a) ou em união de facto, sem filhos ou sem filhos a viver em casa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 170</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Porto Salvo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 116</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Amora</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Rural area or village</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Zona rural ou aldeia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 19</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Braga (São José de São Lázaro)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 66</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>São Mamede</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 73</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Alvalade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Train</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Comboio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Very satisfied</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Muito satisfeito(a)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 134</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Pragal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 190</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Caxias</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 179</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Parede</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 25</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Adaúfe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Generally speaking, please tell me if you are very satisfied, rather satisfied, rather unsatisfied or not at all satisfied with each of the following issues in [CITY NAME]?</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>De um modo geral, por favor diga-me se está muito satisfeito(a), satisfeito(a), pouco satisfeito(a) ou nada satisfeito(a) com cada um dos seguintes assuntos em [CITY NAME]?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 31</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Tebosa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 24</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Panoias</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 23</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Sequeira</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Safety</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Segurança</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Your personal job situation</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>A sua situação profissional</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 111</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>São Miguel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Small or medium-sized town</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Cidade pequena ou média</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Professional (employed doctor, lawyer, accountant, architect, …)</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Profissional (médico, advogado, contabilista, arquitecto, etc.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>It is easy to find good housing at a reasonable price in [CITY NAME]</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>É fácil encontrar casas boas a preços razoáveis em [CITY NAME]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Generally speaking, most people in my neighborhood can be trusted</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>De uma maneira geral, a maior parte das pessoas no meu bairro são de confiança</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 62</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Nogueiró</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Most of the time</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>A maioria das vezes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 53</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Pousada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Have you got a landline phone?</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Tem telefone fixo?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 5</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Vilaça</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 114</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Lapa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Could you tell me how many people aged 15 years or more live in your household, yourself included?</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Pode dizer-me quantas pessoas com 15 ou mais anos de idade vivem em sua casa, incluindo o Sr(a)?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 142</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Charneca de Caparica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 68</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Santo Estêvão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 69</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Alto do Pina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Other (DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Outro (NÃO LER)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Q4: CODE 11 - SINGLE CODE</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Q4: CÓDIGO 11 - CÓDIGO ÚNICO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 150</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Famões</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Strongly disagree</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Discorda totalmente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 29</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Guisande</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>I live here since less than 1 year</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Vivo aqui há menos de 1 ano</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 61</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Braga (São Vítor)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 72</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>São Jorge de Arroios</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Cleanliness</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>A limpeza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>The financial situation of your household</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>A situação financeira do seu agregado familiar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 166</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Fanhões</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 129</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Venda Nova</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 161</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Oeiras e São Julião da Barra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 75</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Charneca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Other employee (salesman, nurse, …)</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Outro empregado (vendedor, enfermeiro, etc.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>No</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Não</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 105</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Castelo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 186</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>São João da Talha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Owner of shop, craftsman</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Proprietário de loja, artífice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 81</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Ajuda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>(READ OUT - ONE ANSWER ONLY)</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>(LER - APENAS UMA RESPOSTA)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 181</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Portela</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 192</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Moscavide</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Would you say you are…?</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Diria que é…?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 147</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Caneças</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 97</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Santos-o-Velho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 70</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Nossa Senhora de Fátima</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Seeking a job</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>À procura de trabalho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Manual worker</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Trabalhador manual especializado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 63</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Prazeres</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 154</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Coina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>The noise level</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>O nível de ruído</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>The administrative services of [CITY NAME] help people efficiently</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Os serviços administrativos de [CITY NAME] ajudam as pessoas de forma eficaz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 140</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Costa da Caparica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 167</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Unhos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Urban public transport (bus, metro, tram, ferry, etc.)</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Transportes públicos urbanos (autocarro, metro, elétrico, ferry, etc.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 160</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Lousa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Gender.</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Sexo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>[CITY NAME] is committed to fight against climate change (e.g.: energy efficiency, green transport)</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>[CITY NAME] está empenhada na luta contra as alterações climáticas (p.e. eficiência energética, transportes verdes)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 40</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Trandeiras</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 138</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Caparica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 21</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Fradelos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Female</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Feminino</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 77</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>São Cristóvão e São Lourenço</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 15</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Esporões</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 157</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Palhais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>In your opinion, among the following issues, which are the three most important for [CITY NAME]?</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Na sua opinião, entre os seguintes assuntos, quais são os três mais importantes para [CITY NAME] ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 164</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Prior Velho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 122</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Buraca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 100</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Alcântara</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 106</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Ameixoeira</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>What county do you live in?</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Qual o DISTRITO da sua residência ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 22</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Arentim</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 178</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Barcarena</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 158</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Barreiro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 98</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Sé</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 79</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Santa Maria de Belém</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>I live here since between 5 to 10 years</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Vivo aqui entre 5 a 10 anos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>I am satisfied to live in [CITY NAME]</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Estou satisfeito por viver em [CITY NAME]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Male</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Masculino</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 141</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Feijó</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 159</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>São Julião do Tojal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 28</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Braga (São Vicente)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 13</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Sobreposta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 163</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Estoril</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Social services</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Serviços sociais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Unemployment</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Desemprego</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>(READ OUT IF NECESSARY - ONE ANSWER ONLY)</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>(LER SE NECESSÁRIO - APENAS UMA RESPOSTA)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 176</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Queijas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 155</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Alto do Seixalinho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 189</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Santo António dos Cavaleiros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 117</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Aldeia de Paio Pires</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Farmer, forester, fisherman</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Agricultor, guarda-florestal, pescador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 119</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Corroios</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 9</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Figueiredo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 110</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Pena</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 50</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Braga (São João do Souto)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Civil servant</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Funcionário público</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 44</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Ruilhe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Without a professional activity</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Sem actividade profissional</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 12</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Lomar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 91</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>São Francisco Xavier</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>ASK D5c IF EMPLOYEE, CODE 2 IN D5a</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>PERGUNTAR D5c SE TRABALHADOR POR CONTA DE OUTRÉM, CÓDIGO 2 NA D5a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>PROG: ROTATE ITEMS 1 TO 7</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>PROG: ALTERNAR ITENS 1 A 7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Education and training</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Educação e formação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 65</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>São José</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 26</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Aveleda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 86</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Santa Isabel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 2</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Braga (Cividade)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 30</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Braga (Sé)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>As far as your current occupation is concerned, would you say you are self-employed, an employee, a manual worker or would you say that you are without a professional activity?</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Tendo em conta a sua ocupação actual, diria que é trabalhador por conta própria,  trabalhador por conta de outrém, trabalhador manual, ou diria que está sem uma actividade profissional?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 169</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Carnaxide</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 162</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Carcavelos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 52</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Fraião</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 180</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Linda-a-Velha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 123</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Alfornelos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Refusal (DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Recusa (NÃO LER)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 152</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Verderena</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>(ONE ANSWER ONLY)</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>(APENAS UMA RESPOSTA)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Air pollution</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Poluição do ar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>I feel safe in [CITY NAME]</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Sinto-me seguro em [CITY NAME]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Unskilled manual worker</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Trabalhador manual/operário não especializado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Sports facilities such as sport fields and indoor sport halls</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Infra-estruturas desportivas, tais como campos desportivos e pavilhões cobertos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>The life you lead</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>A vida que tem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 34</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Nogueira</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 93</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>São João de Brito</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Rather unsatisfied</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Pouco satisfeito(a)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Rather satisfied</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Satisfeito(a)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 171</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Bucelas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Professional (lawyer, medical practitioner, accountant, architect,…)</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Profissional (advogado, médico, contabilista, arquitecto, etc.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Health services</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Serviços de saúde</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 41</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Morreira</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Office clerk</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Empregado de escritório (atendimento ao balcão)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 76</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Santo Condestável</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 38</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Santa Lucrécia de Algeriz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 139</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Cova da Piedade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 125</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Venteira</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 128</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Mina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Retired</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Reformado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 177</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Cruz Quebrada-Dafundo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>(READ OUT – MAX. 3 ANSWERS)</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>(LER – MÁX. 3 RESPOSTAS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>On the whole, are you very satisfied, fairly satisfied, not very satisfied or not at all satisfied with ...?</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>No geral, está muito satisfeito(a), satisfeito(a), pouco satisfeito(a) ou nada satisfeito(a) com…?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>PROG: ROTATE ITEMS 1 to 12</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>PROG: ROTACIONAR ITENS 1 A 12</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 175</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Camarate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>None (DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Nenhuma (NÃO LER)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 146</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Odivelas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 48</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Vimieiro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Almost never\ never</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Quase nunca/nunca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Number of people aged 15 or more in the household</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Número de pessoas com 15 ou mais anos que vivem em casa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Public transport, for example the bus, tram or metro</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Transportes públicos, por exemplo autocarros, eléctricos, metro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 60</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Frossos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 8</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Passos (São Julião)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 133</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Trafaria</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>ASK D5b IF SELF-EMPLOYED, CODE 1 IN D5a</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>PERGUNTAR D5b SE TRABALHADOR POR CONTA PRÓPRIA, CÓDIGO 1 NA D5a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Student (full time)</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Estudante (a tempo inteiro)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 49</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Priscos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 11</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Mire de Tibães</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 42</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Gualtar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 85</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Santa Justa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>I feel safe in my neighbourhood</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Sinto-me seguro no meu bairro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 135</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Laranjeiro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 143</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Sobreda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Availability of retail shops</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Disponibilidade de lojas de retalho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>General management, director or top management</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Administrador, director-geral e outros directores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 101</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Penha de França</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Strongly agree</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Concorda totalmente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 14</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Pedralva</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 78</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Marvila</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>How old were you when you stopped full-time education?</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Que idade tinha quando terminou ou interrompeu os seus estudos a tempo inteiro?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Ship or boat</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Navio ou barco</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Bicycle</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Bicicleta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 102</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Madalena</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 89</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Campo Grande</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 33</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Arcos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 35</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Tenões</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 188</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Frielas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 6</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Este (São Pedro)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 54</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Este (São Mamede)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>How old are you?</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Poderia dizer-me a sua idade?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Motorbike</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Mota</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>(READ OUT - MAX. 2 ANSWERS)</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>(LER - MÁX. 2 RESPOSTAS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 145</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Olival de Basto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Single parent, one or more children living at home</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Pai/mãe solteiro(a), um ou mais filhos a viver em casa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 56</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Cabreiros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 99</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>São João de Deus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Self-employed</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Trabalhador por conta própria</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>The state of the streets and buildings in your neighbourhood</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>O estado das ruas e dos edifícios na sua vizinhança</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 71</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Socorro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 131</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Reboleira</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 59</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Padim da Graça</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Fairly satisfied</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Satisfeito(a)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 124</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>São Brás</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Generally speaking, most people in [CITY NAME] can be trusted</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>De uma maneira geral, a maior parte das pessoas em [CITY NAME] são de confiança</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>(READ OUT - SINGLE CODE)</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>(LER - APENAS UMA RESPOSTA)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 174</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Apelação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 57</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Tadim</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>On a typical day, which mode or modes of transport do you use most often?</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Num dia normal, que meio(s) de transporte utiliza com maior frequência?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 32</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Ferreiros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Schools and other educational facilities</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Escolas e outros estabelecimentos de ensino</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>The quality of the air</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>A qualidade do ar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Married or cohabiting couple, with one or more children living at home</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Casado(a) ou em união de facto, com um ou mais filhos a viver em casa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Middle management</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Quadro Médio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Foreigners who live in [CITY NAME] are well integrated</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Os estrangeiros que vivem em [CITY NAME] estão bem integrados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 183</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>São Domingos de Rana</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 47</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Lamaçães</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 3</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Real</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Health care services, doctors and hospitals</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Serviços de saúde, médicos e hospitais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 80</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Santiago</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 58</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Cunha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Employee</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Trabalhador por conta de outrém</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>ASK D5d IF MANUAL WORKER, CODE 3 IN D5a</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>PERGUNTAR D5d SE TRABALHADOR MANUAL, CÓDIGO 3 NA D5a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Public spaces such as markets, squares, pedestrian areas</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Espaços públicos tais como mercados, praças/largos, zonas pedonais (pedestres)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Would you say you live in a…?</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>O (A) Sr. (a) diria que vive numa ...?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Which of the following best describes your household composition?</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Qual das seguintes hipóteses melhor descreve a composição do seu agregado familiar?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Manager of a company</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Director/Gestor de uma empresa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 130</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Falagueira</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>I live here since 1 to 5 years</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Vivo aqui entre 1 a 5 anos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 107</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Coração de Jesus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Not very satisfied</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Pouco satisfeito(a)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Road infrastructure</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Infra-estruturas rodoviárias</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>PROG: ROTATE ITEMS 1 TO 10</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>PROG: ROTACIONAR ITENS 1 A 10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>The presence of foreigners is good for [CITY NAME]</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>A presença de estrangeiros é boa para [CITY NAME]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>(WRITE DOWN - IF "DK" CODE '98' - IF "REFUSAL" CODE '99')</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>(ESCREVER - SE "NS" CÓDIGO '98' - SE "RECUSA" CÓDIGO '99')</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 46</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Navarra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 137</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Almada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 127</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Damaia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 39</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Lamas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>DK (DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>NS (NÃO LER)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 27</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Dume</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 92</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Mártires</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 185</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Bobadela</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 144</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Póvoa de Santo Adrião</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Yes</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Sim</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 94</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>São Paulo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Green spaces such as parks and gardens</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Espaços verdes, tais como parques públicos e jardins</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 172</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Alcabideche</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 96</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Encarnação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>ASK D5e IF WITHOUT A PROFESSIONAL ACTIVITY, CODE 4 IN D5a</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>PERGUNTAR D5e SE SEM ACTIVIDADE PROFISSIONAL, CÓDIGO 4 NA D5a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>(INT.: IF "STILL STUDYING", CODE ‘00’ - IF "NO EDUCATION" CODE '01' - IF "REFUSAL" CODE '98' - IF "DK" CODE '99')</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>(ENT.: SE "AINDA ESTÁ A ESTUDAR" CÓDIGO - '00' - SE "NUNCA ESTUDOU" CÓDIGO '01' - SE "RECUSA" CÓDIGO '98' - SE "NS/NR" CÓDIGO '99')</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Other</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Outra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>(WRITE DOWN - IF "REFUSAL" CODE '99')</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>(ESCREVER - SE "RECUSA" CÓDIGO '99')</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 168</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Algés</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>DK/NA  (DO NOT READ OUT)</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Não sabe/ Não responde (NÃO LER)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 16</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Semelhe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>FL419 - Quality of life in European Cities UK</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>FL419 - Quality of life in European Cities PT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 17</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Escudeiros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Somewhat agree</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Concorda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 148</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Pontinha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 88</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Anjos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 173</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Sacavém</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Cultural facilities such as concert halls, theatres, museums and libraries</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Infra-estruturas culturais, tais como salas de concertos, teatros, museus e bibliotecas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 191</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Santo Antão do Tojal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 55</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Crespos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 115</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Mercês</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 151</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Santo André</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>The place where you live</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>O lugar onde vive</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 132</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Brandoa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Was born here/ I’ve been living here for all my life</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Nasci aqui/vivi aqui toda a minha vida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 108</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Sacramento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>IF OTHER or DON'T KNOW IN D12, CODES 198 or 199 in D12, STOP THE INTERVIEW</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>SE OUTRA ou NÃO SABE EM D12, CÓDIGOS 198 ou 199 em D12, TERMINAR A ENTREVISTA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Supervisor\ foreman (team manager, …)</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Supervisor/chefe de secção (gestor de equipa, etc.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>I live here since more than 10 years</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Vivo aqui há mais de 10 anos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>For how long have you been living in [CITY NAME]?</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Há quanto tempo vive em [CITY NAME]?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>Looking after the home</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Doméstica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 113</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>São Domingos de Benfica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-GB">
+        <seg>City 82</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Santa Maria dos Olivais</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

@@ -1,0 +1,9 @@
+# source: 
+https://unix.stackexchange.com/questions/106480/how-to-copy-files-from-one-machine-to-another-using-ssh/106482#106482
+
+# download files from Ur:
+scp manuel@192.168.67.50:eb_flash2/04_sample_existing_FLASH_survey_from_Kantar/EUROBAROMETER_FLASH_419_from_Kantar/FL419*.xls .
+
+# upload files to Ur:
+cd ../output
+scp *.tmx manuel@192.168.67.50:eb_flash2/04_sample_existing_FLASH_survey_from_Kantar/_assets
