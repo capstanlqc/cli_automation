@@ -15,6 +15,7 @@ bla
 unoconv
 java
 omegat
+csvtool
 
 ## How to run it
 
