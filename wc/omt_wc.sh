@@ -1,5 +1,16 @@
 #!/usr/bin/env bash
 
+# @date:        2022-08-03
+# @authorship:  @msoutopico
+
+# This script is meant to run every minute in the server as a crontab with line:
+# */1 * * * * bash /media/data/data/company/cApStAn_Tech/11_WC/_tech/omt_wc.sh
+ 
+# @dependencies:
+# - java 11
+# - /opt/omegat/OmegaT_5.4.3/
+# - ssconvert
+
 path_to_app="/media/data/data/company/cApStAn_Tech/11_WC"
 path_to_files="$path_to_app/01_ToAnalyze"
 
