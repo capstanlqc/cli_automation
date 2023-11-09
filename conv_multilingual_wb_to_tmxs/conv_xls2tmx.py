@@ -28,6 +28,7 @@ __status__ = "Testing / pre-production" # "Production"
 
 # ############# IMPORTS ###########################################
 
+import os
 import re, sys
 import argparse
 import xlrd
@@ -158,6 +159,18 @@ def write_tmx_file(config, tmx_output):
                 else x.strip()
                 for x in config['tmx_file_names'].split(',')]
 
+    #check if output folder exists, create it if it does not
+
+    output_folder_name = "output"
+
+    if os.path.exists(output_folder_name):
+
+      print(f"Folder {output_folder_name} already exist, not creating.")
+    else:
+      # Creates the folder
+      os.mkdir(output_folder_name)
+      print(f"{output_folder_name} folder created.")
+  
     # writing output
     filename = "_".join(fn_parts) + ".tmx"
     print("Writing TMX output to file " + filename)
