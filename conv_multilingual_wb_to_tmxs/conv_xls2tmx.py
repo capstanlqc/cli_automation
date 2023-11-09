@@ -17,7 +17,7 @@
 
 # ############# AUTHORSHIP INFO ###########################################
 
-__author__ = "Manuel Souto Pico"
+__author__ = "Manuel Souto Pico, Adrien Mathot"
 __copyright__ = "Copyright 2021, cApps/cApStAn"
 __credits__ = ["Manuel Souto Pico"]
 __license__ = "GPL"
@@ -28,6 +28,7 @@ __status__ = "Testing / pre-production" # "Production"
 
 # ############# IMPORTS ###########################################
 
+import os
 import re, sys
 import argparse
 import xlrd
@@ -157,6 +158,18 @@ def write_tmx_file(config, tmx_output):
     fn_parts = [config[x.strip()] if x.strip() in config.keys()
                 else x.strip()
                 for x in config['tmx_file_names'].split(',')]
+
+    #check if output folder exists, create it if it does not
+
+    output_folder_name = "output"
+
+    if os.path.exists(output_folder_name):
+
+      print(f"Folder {output_folder_name} already exist, not creating.")
+    else:
+      # Creates the folder
+      os.mkdir(output_folder_name)
+      print(f"{output_folder_name} folder created.")
 
     # writing output
     filename = "_".join(fn_parts) + ".tmx"
